@@ -1,0 +1,3786 @@
+{
+  "key": 2,
+  "label": "Health & Wellness",
+  "sites": {
+    "1.1.1": [
+      {
+        "d": "google.com",
+        "n": "Beginner Plans",
+        "u": "https://www.google.com/search?q=Start+a+Program+Beginner+Plans+health"
+      }
+    ],
+    "1.1.2": [
+      {
+        "d": "google.com",
+        "n": "Intermediate",
+        "u": "https://www.google.com/search?q=Start+a+Program+Intermediate+health"
+      }
+    ],
+    "1.1.3": [
+      {
+        "d": "google.com",
+        "n": "Advanced",
+        "u": "https://www.google.com/search?q=Start+a+Program+Advanced+health"
+      }
+    ],
+    "1.1.4": [
+      {
+        "d": "google.com",
+        "n": "30-Day Challenge",
+        "u": "https://www.google.com/search?q=Start+a+Program+30-Day+Challenge+health"
+      }
+    ],
+    "1.1.6": [
+      {
+        "d": "google.com",
+        "n": "Sport-Specific",
+        "u": "https://www.google.com/search?q=Start+a+Program+Sport-Specific+health"
+      }
+    ],
+    "1.1.7": [
+      {
+        "d": "google.com",
+        "n": "Home Programs",
+        "u": "https://www.google.com/search?q=Start+a+Program+Home+Programs+health"
+      }
+    ],
+    "1.1.8": [
+      {
+        "d": "google.com",
+        "n": "Gym Programs",
+        "u": "https://www.google.com/search?q=Start+a+Program+Gym+Programs+health"
+      }
+    ],
+    "1.1.9": [
+      {
+        "d": "google.com",
+        "n": "Custom Builder",
+        "u": "https://www.google.com/search?q=Start+a+Program+Custom+Builder+health"
+      }
+    ],
+    "1.2.1": [
+      {
+        "d": "google.com",
+        "n": "Running",
+        "u": "https://www.google.com/search?q=Cardio+Running+health"
+      }
+    ],
+    "1.2.2": [
+      {
+        "d": "google.com",
+        "n": "Cycling",
+        "u": "https://www.google.com/search?q=Cardio+Cycling+health"
+      }
+    ],
+    "1.2.3": [
+      {
+        "d": "google.com",
+        "n": "Swimming",
+        "u": "https://www.google.com/search?q=Cardio+Swimming+health"
+      }
+    ],
+    "1.2.4": [
+      {
+        "d": "google.com",
+        "n": "HIIT",
+        "u": "https://www.google.com/search?q=Cardio+HIIT+health"
+      }
+    ],
+    "1.2.6": [
+      {
+        "d": "google.com",
+        "n": "Walking & Hiking",
+        "u": "https://www.google.com/search?q=Cardio+Walking+%26+Hiking+health"
+      }
+    ],
+    "1.2.7": [
+      {
+        "d": "google.com",
+        "n": "Rowing",
+        "u": "https://www.google.com/search?q=Cardio+Rowing+health"
+      }
+    ],
+    "1.2.8": [
+      {
+        "d": "google.com",
+        "n": "Dance Fitness",
+        "u": "https://www.google.com/search?q=Cardio+Dance+Fitness+health"
+      }
+    ],
+    "1.2.9": [
+      {
+        "d": "google.com",
+        "n": "Jump Rope",
+        "u": "https://www.google.com/search?q=Cardio+Jump+Rope+health"
+      }
+    ],
+    "1.3.1": [
+      {
+        "d": "google.com",
+        "n": "Barbell Programs",
+        "u": "https://www.google.com/search?q=Strength+Barbell+Programs+health"
+      }
+    ],
+    "1.3.2": [
+      {
+        "d": "google.com",
+        "n": "Dumbbell Routines",
+        "u": "https://www.google.com/search?q=Strength+Dumbbell+Routines+health"
+      }
+    ],
+    "1.3.3": [
+      {
+        "d": "google.com",
+        "n": "Bodyweight",
+        "u": "https://www.google.com/search?q=Strength+Bodyweight+health"
+      }
+    ],
+    "1.3.4": [
+      {
+        "d": "google.com",
+        "n": "Kettlebell",
+        "u": "https://www.google.com/search?q=Strength+Kettlebell+health"
+      }
+    ],
+    "1.3.6": [
+      {
+        "d": "google.com",
+        "n": "Powerlifting",
+        "u": "https://www.google.com/search?q=Strength+Powerlifting+health"
+      }
+    ],
+    "1.3.7": [
+      {
+        "d": "google.com",
+        "n": "Calisthenics",
+        "u": "https://www.google.com/search?q=Strength+Calisthenics+health"
+      }
+    ],
+    "1.3.8": [
+      {
+        "d": "google.com",
+        "n": "Resistance Bands",
+        "u": "https://www.google.com/search?q=Strength+Resistance+Bands+health"
+      }
+    ],
+    "1.3.9": [
+      {
+        "d": "google.com",
+        "n": "Machine Circuits",
+        "u": "https://www.google.com/search?q=Strength+Machine+Circuits+health"
+      }
+    ],
+    "1.4.1": [
+      {
+        "d": "google.com",
+        "n": "Yoga Classes",
+        "u": "https://www.google.com/search?q=Flexibility+%26+Yoga+Yoga+Classes+health"
+      }
+    ],
+    "1.4.2": [
+      {
+        "d": "google.com",
+        "n": "Pilates",
+        "u": "https://www.google.com/search?q=Flexibility+%26+Yoga+Pilates+health"
+      }
+    ],
+    "1.4.3": [
+      {
+        "d": "google.com",
+        "n": "Stretching Routines",
+        "u": "https://www.google.com/search?q=Flexibility+%26+Yoga+Stretching+Routines+health"
+      }
+    ],
+    "1.4.4": [
+      {
+        "d": "google.com",
+        "n": "Mobility Drills",
+        "u": "https://www.google.com/search?q=Flexibility+%26+Yoga+Mobility+Drills+health"
+      }
+    ],
+    "1.4.6": [
+      {
+        "d": "google.com",
+        "n": "Foam Rolling",
+        "u": "https://www.google.com/search?q=Flexibility+%26+Yoga+Foam+Rolling+health"
+      }
+    ],
+    "1.4.7": [
+      {
+        "d": "google.com",
+        "n": "Recovery Yoga",
+        "u": "https://www.google.com/search?q=Flexibility+%26+Yoga+Recovery+Yoga+health"
+      }
+    ],
+    "1.4.8": [
+      {
+        "d": "google.com",
+        "n": "Warm-Up Flows",
+        "u": "https://www.google.com/search?q=Flexibility+%26+Yoga+Warm-Up+Flows+health"
+      }
+    ],
+    "1.4.9": [
+      {
+        "d": "google.com",
+        "n": "Injury Prevention",
+        "u": "https://www.google.com/search?q=Flexibility+%26+Yoga+Injury+Prevention+health"
+      }
+    ],
+    "1.6.1.1": [
+      {
+        "d": "strava.com",
+        "n": "Strava (Running)",
+        "u": "https://www.strava.com"
+      }
+    ],
+    "1.6.1.2": [
+      {
+        "d": "google.com",
+        "n": "Strong (Lifting)",
+        "u": "https://www.google.com/search?q=Fitness+Apps+Strong+%28Lifting%29+health"
+      }
+    ],
+    "1.6.1.3": [
+      {
+        "d": "nike.com",
+        "n": "Nike Training",
+        "u": "https://www.nike.com/ntc-app"
+      }
+    ],
+    "1.6.1.4": [
+      {
+        "d": "onepeloton.com",
+        "n": "Peloton App",
+        "u": "https://www.onepeloton.com/app"
+      }
+    ],
+    "1.6.1.6": [
+      {
+        "d": "apple.com",
+        "n": "Apple Fitness+",
+        "u": "https://www.apple.com/apple-fitness-plus"
+      }
+    ],
+    "1.6.1.7": [
+      {
+        "d": "myfitnesspal.com",
+        "n": "MyFitnessPal",
+        "u": "https://www.myfitnesspal.com"
+      }
+    ],
+    "1.6.1.8": [
+      {
+        "d": "google.com",
+        "n": "JEFIT",
+        "u": "https://www.google.com/search?q=Fitness+Apps+JEFIT+health"
+      }
+    ],
+    "1.6.1.9": [
+      {
+        "d": "google.com",
+        "n": "Compare Apps",
+        "u": "https://www.google.com/search?q=Fitness+Apps+Compare+Apps+health"
+      }
+    ],
+    "1.6.2": [
+      {
+        "d": "google.com",
+        "n": "Wearable Devices",
+        "u": "https://www.google.com/search?q=Track+Progress+Wearable+Devices+health"
+      }
+    ],
+    "1.6.3": [
+      {
+        "d": "google.com",
+        "n": "Body Metrics",
+        "u": "https://www.google.com/search?q=Track+Progress+Body+Metrics+health"
+      }
+    ],
+    "1.6.4": [
+      {
+        "d": "google.com",
+        "n": "PR Logging",
+        "u": "https://www.google.com/search?q=Track+Progress+PR+Logging+health"
+      }
+    ],
+    "1.6.6": [
+      {
+        "d": "google.com",
+        "n": "Workout Journal",
+        "u": "https://www.google.com/search?q=Track+Progress+Workout+Journal+health"
+      }
+    ],
+    "1.6.7": [
+      {
+        "d": "google.com",
+        "n": "Progress Photos",
+        "u": "https://www.google.com/search?q=Track+Progress+Progress+Photos+health"
+      }
+    ],
+    "1.6.8": [
+      {
+        "d": "google.com",
+        "n": "Challenges & Streaks",
+        "u": "https://www.google.com/search?q=Track+Progress+Challenges+%26+Streaks+health"
+      }
+    ],
+    "1.6.9": [
+      {
+        "d": "google.com",
+        "n": "Goal Setting",
+        "u": "https://www.google.com/search?q=Track+Progress+Goal+Setting+health"
+      }
+    ],
+    "1.7.1": [
+      {
+        "d": "google.com",
+        "n": "No Equipment",
+        "u": "https://www.google.com/search?q=Home+Workouts+No+Equipment+health"
+      }
+    ],
+    "1.7.2": [
+      {
+        "d": "google.com",
+        "n": "Small Space",
+        "u": "https://www.google.com/search?q=Home+Workouts+Small+Space+health"
+      }
+    ],
+    "1.7.3": [
+      {
+        "d": "google.com",
+        "n": "Apartment-Friendly",
+        "u": "https://www.google.com/search?q=Home+Workouts+Apartment-Friendly+health"
+      }
+    ],
+    "1.7.4": [
+      {
+        "d": "google.com",
+        "n": "Garage Gym",
+        "u": "https://www.google.com/search?q=Home+Workouts+Garage+Gym+health"
+      }
+    ],
+    "1.7.6": [
+      {
+        "d": "google.com",
+        "n": "Budget Gear",
+        "u": "https://www.google.com/search?q=Home+Workouts+Budget+Gear+health"
+      }
+    ],
+    "1.7.7": [
+      {
+        "d": "google.com",
+        "n": "Resistance Bands",
+        "u": "https://www.google.com/search?q=Home+Workouts+Resistance+Bands+health"
+      }
+    ],
+    "1.7.8": [
+      {
+        "d": "google.com",
+        "n": "Pull-Up Bar",
+        "u": "https://www.google.com/search?q=Home+Workouts+Pull-Up+Bar+health"
+      }
+    ],
+    "1.7.9": [
+      {
+        "d": "google.com",
+        "n": "Yoga Mat Only",
+        "u": "https://www.google.com/search?q=Home+Workouts+Yoga+Mat+Only+health"
+      }
+    ],
+    "1.8.1": [
+      {
+        "d": "google.com",
+        "n": "Running Clubs",
+        "u": "https://www.google.com/search?q=Find+Community+Running+Clubs+health"
+      }
+    ],
+    "1.8.2": [
+      {
+        "d": "google.com",
+        "n": "Group Classes",
+        "u": "https://www.google.com/search?q=Find+Community+Group+Classes+health"
+      }
+    ],
+    "1.8.3": [
+      {
+        "d": "google.com",
+        "n": "Training Partners",
+        "u": "https://www.google.com/search?q=Find+Community+Training+Partners+health"
+      }
+    ],
+    "1.8.4": [
+      {
+        "d": "google.com",
+        "n": "Race Calendar",
+        "u": "https://www.google.com/search?q=Find+Community+Race+Calendar+health"
+      }
+    ],
+    "1.8.6": [
+      {
+        "d": "google.com",
+        "n": "Fitness Challenges",
+        "u": "https://www.google.com/search?q=Find+Community+Fitness+Challenges+health"
+      }
+    ],
+    "1.8.7": [
+      {
+        "d": "google.com",
+        "n": "Local Gyms",
+        "u": "https://www.google.com/search?q=Find+Community+Local+Gyms+health"
+      }
+    ],
+    "1.8.8": [
+      {
+        "d": "google.com",
+        "n": "Virtual Races",
+        "u": "https://www.google.com/search?q=Find+Community+Virtual+Races+health"
+      }
+    ],
+    "1.8.9": [
+      {
+        "d": "google.com",
+        "n": "Reddit & Forums",
+        "u": "https://www.google.com/search?q=Find+Community+Reddit+%26+Forums+health"
+      }
+    ],
+    "1.9.1": [
+      {
+        "d": "google.com",
+        "n": "Rest Days",
+        "u": "https://www.google.com/search?q=Recovery+%26+Rest+Rest+Days+health"
+      }
+    ],
+    "1.9.2": [
+      {
+        "d": "google.com",
+        "n": "Active Recovery",
+        "u": "https://www.google.com/search?q=Recovery+%26+Rest+Active+Recovery+health"
+      }
+    ],
+    "1.9.3": [
+      {
+        "d": "google.com",
+        "n": "Soreness Relief",
+        "u": "https://www.google.com/search?q=Recovery+%26+Rest+Soreness+Relief+health"
+      }
+    ],
+    "1.9.4": [
+      {
+        "d": "google.com",
+        "n": "Ice & Heat",
+        "u": "https://www.google.com/search?q=Recovery+%26+Rest+Ice+%26+Heat+health"
+      }
+    ],
+    "1.9.6": [
+      {
+        "d": "google.com",
+        "n": "Massage & Foam Roll",
+        "u": "https://www.google.com/search?q=Recovery+%26+Rest+Massage+%26+Foam+Roll+health"
+      }
+    ],
+    "1.9.7": [
+      {
+        "d": "google.com",
+        "n": "Sleep for Recovery",
+        "u": "https://www.google.com/search?q=Recovery+%26+Rest+Sleep+for+Recovery+health"
+      }
+    ],
+    "1.9.8": [
+      {
+        "d": "google.com",
+        "n": "Overtraining Signs",
+        "u": "https://www.google.com/search?q=Recovery+%26+Rest+Overtraining+Signs+health"
+      }
+    ],
+    "1.9.9": [
+      {
+        "d": "google.com",
+        "n": "Deload Weeks",
+        "u": "https://www.google.com/search?q=Recovery+%26+Rest+Deload+Weeks+health"
+      }
+    ],
+    "2.1.1": [
+      {
+        "d": "google.com",
+        "n": "15-Min Recipes",
+        "u": "https://www.google.com/search?q=Quick+Healthy+Meals+15-Min+Recipes+health"
+      }
+    ],
+    "2.1.2": [
+      {
+        "d": "google.com",
+        "n": "Sheet Pan Dinners",
+        "u": "https://www.google.com/search?q=Quick+Healthy+Meals+Sheet+Pan+Dinners+health"
+      }
+    ],
+    "2.1.3": [
+      {
+        "d": "google.com",
+        "n": "One-Pot Meals",
+        "u": "https://www.google.com/search?q=Quick+Healthy+Meals+One-Pot+Meals+health"
+      }
+    ],
+    "2.1.4": [
+      {
+        "d": "google.com",
+        "n": "Slow Cooker",
+        "u": "https://www.google.com/search?q=Quick+Healthy+Meals+Slow+Cooker+health"
+      }
+    ],
+    "2.1.6": [
+      {
+        "d": "google.com",
+        "n": "Air Fryer",
+        "u": "https://www.google.com/search?q=Quick+Healthy+Meals+Air+Fryer+health"
+      }
+    ],
+    "2.1.7": [
+      {
+        "d": "google.com",
+        "n": "Instant Pot",
+        "u": "https://www.google.com/search?q=Quick+Healthy+Meals+Instant+Pot+health"
+      }
+    ],
+    "2.1.8": [
+      {
+        "d": "google.com",
+        "n": "Stir Fry",
+        "u": "https://www.google.com/search?q=Quick+Healthy+Meals+Stir+Fry+health"
+      }
+    ],
+    "2.1.9": [
+      {
+        "d": "google.com",
+        "n": "Salad Bowls",
+        "u": "https://www.google.com/search?q=Quick+Healthy+Meals+Salad+Bowls+health"
+      }
+    ],
+    "2.2.1": [
+      {
+        "d": "google.com",
+        "n": "Weekly Meal Prep",
+        "u": "https://www.google.com/search?q=Meal+Prep+%26+Plan+Weekly+Meal+Prep+health"
+      }
+    ],
+    "2.2.2": [
+      {
+        "d": "google.com",
+        "n": "Batch Cooking",
+        "u": "https://www.google.com/search?q=Meal+Prep+%26+Plan+Batch+Cooking+health"
+      }
+    ],
+    "2.2.3": [
+      {
+        "d": "google.com",
+        "n": "Freezer Meals",
+        "u": "https://www.google.com/search?q=Meal+Prep+%26+Plan+Freezer+Meals+health"
+      }
+    ],
+    "2.2.4": [
+      {
+        "d": "google.com",
+        "n": "Lunch Prep",
+        "u": "https://www.google.com/search?q=Meal+Prep+%26+Plan+Lunch+Prep+health"
+      }
+    ],
+    "2.2.6": [
+      {
+        "d": "google.com",
+        "n": "Snack Prep",
+        "u": "https://www.google.com/search?q=Meal+Prep+%26+Plan+Snack+Prep+health"
+      }
+    ],
+    "2.2.7": [
+      {
+        "d": "google.com",
+        "n": "Budget Meals",
+        "u": "https://www.google.com/search?q=Meal+Prep+%26+Plan+Budget+Meals+health"
+      }
+    ],
+    "2.2.8": [
+      {
+        "d": "google.com",
+        "n": "Family Meals",
+        "u": "https://www.google.com/search?q=Meal+Prep+%26+Plan+Family+Meals+health"
+      }
+    ],
+    "2.2.9": [
+      {
+        "d": "google.com",
+        "n": "Prep Containers",
+        "u": "https://www.google.com/search?q=Meal+Prep+%26+Plan+Prep+Containers+health"
+      }
+    ],
+    "2.3.1": [
+      {
+        "d": "google.com",
+        "n": "Mediterranean",
+        "u": "https://www.google.com/search?q=Diet+Styles+Mediterranean+health"
+      }
+    ],
+    "2.3.2": [
+      {
+        "d": "google.com",
+        "n": "Keto & Low Carb",
+        "u": "https://www.google.com/search?q=Diet+Styles+Keto+%26+Low+Carb+health"
+      }
+    ],
+    "2.3.3": [
+      {
+        "d": "google.com",
+        "n": "Paleo & Whole30",
+        "u": "https://www.google.com/search?q=Diet+Styles+Paleo+%26+Whole30+health"
+      }
+    ],
+    "2.3.4": [
+      {
+        "d": "google.com",
+        "n": "Vegetarian",
+        "u": "https://www.google.com/search?q=Diet+Styles+Vegetarian+health"
+      }
+    ],
+    "2.3.6": [
+      {
+        "d": "google.com",
+        "n": "Vegan",
+        "u": "https://www.google.com/search?q=Diet+Styles+Vegan+health"
+      }
+    ],
+    "2.3.7": [
+      {
+        "d": "google.com",
+        "n": "Intermittent Fasting",
+        "u": "https://www.google.com/search?q=Diet+Styles+Intermittent+Fasting+health"
+      }
+    ],
+    "2.3.8": [
+      {
+        "d": "google.com",
+        "n": "DASH Diet",
+        "u": "https://www.google.com/search?q=Diet+Styles+DASH+Diet+health"
+      }
+    ],
+    "2.3.9": [
+      {
+        "d": "google.com",
+        "n": "Anti-Inflammatory",
+        "u": "https://www.google.com/search?q=Diet+Styles+Anti-Inflammatory+health"
+      }
+    ],
+    "2.4.1": [
+      {
+        "d": "google.com",
+        "n": "Calorie Counting",
+        "u": "https://www.google.com/search?q=Macros+%26+Nutrition+Calorie+Counting+health"
+      }
+    ],
+    "2.4.2": [
+      {
+        "d": "google.com",
+        "n": "Macro Tracking",
+        "u": "https://www.google.com/search?q=Macros+%26+Nutrition+Macro+Tracking+health"
+      }
+    ],
+    "2.4.3": [
+      {
+        "d": "google.com",
+        "n": "Protein Needs",
+        "u": "https://www.google.com/search?q=Macros+%26+Nutrition+Protein+Needs+health"
+      }
+    ],
+    "2.4.4": [
+      {
+        "d": "google.com",
+        "n": "Vitamins & Minerals",
+        "u": "https://www.google.com/search?q=Macros+%26+Nutrition+Vitamins+%26+Minerals+health"
+      }
+    ],
+    "2.4.6": [
+      {
+        "d": "google.com",
+        "n": "Supplements",
+        "u": "https://www.google.com/search?q=Macros+%26+Nutrition+Supplements+health"
+      }
+    ],
+    "2.4.7": [
+      {
+        "d": "google.com",
+        "n": "Pre & Post Workout",
+        "u": "https://www.google.com/search?q=Macros+%26+Nutrition+Pre+%26+Post+Workout+health"
+      }
+    ],
+    "2.4.8": [
+      {
+        "d": "google.com",
+        "n": "Electrolytes",
+        "u": "https://www.google.com/search?q=Macros+%26+Nutrition+Electrolytes+health"
+      }
+    ],
+    "2.4.9": [
+      {
+        "d": "google.com",
+        "n": "Reading Labels",
+        "u": "https://www.google.com/search?q=Macros+%26+Nutrition+Reading+Labels+health"
+      }
+    ],
+    "2.6.1": [
+      {
+        "d": "google.com",
+        "n": "Gluten-Free",
+        "u": "https://www.google.com/search?q=Special+Dietary+Needs+Gluten-Free+health"
+      }
+    ],
+    "2.6.2": [
+      {
+        "d": "google.com",
+        "n": "Dairy-Free",
+        "u": "https://www.google.com/search?q=Special+Dietary+Needs+Dairy-Free+health"
+      }
+    ],
+    "2.6.3": [
+      {
+        "d": "google.com",
+        "n": "Food Allergies",
+        "u": "https://www.google.com/search?q=Special+Dietary+Needs+Food+Allergies+health"
+      }
+    ],
+    "2.6.4": [
+      {
+        "d": "google.com",
+        "n": "Low FODMAP",
+        "u": "https://www.google.com/search?q=Special+Dietary+Needs+Low+FODMAP+health"
+      }
+    ],
+    "2.6.6": [
+      {
+        "d": "google.com",
+        "n": "Diabetic-Friendly",
+        "u": "https://www.google.com/search?q=Special+Dietary+Needs+Diabetic-Friendly+health"
+      }
+    ],
+    "2.6.7": [
+      {
+        "d": "google.com",
+        "n": "Heart Healthy",
+        "u": "https://www.google.com/search?q=Special+Dietary+Needs+Heart+Healthy+health"
+      }
+    ],
+    "2.6.8": [
+      {
+        "d": "google.com",
+        "n": "Pregnancy Nutrition",
+        "u": "https://www.google.com/search?q=Special+Dietary+Needs+Pregnancy+Nutrition+health"
+      }
+    ],
+    "2.6.9": [
+      {
+        "d": "google.com",
+        "n": "Kids Nutrition",
+        "u": "https://www.google.com/search?q=Special+Dietary+Needs+Kids+Nutrition+health"
+      }
+    ],
+    "2.7.1": [
+      {
+        "d": "google.com",
+        "n": "Meal Kit Services",
+        "u": "https://www.google.com/search?q=Meal+Delivery+Meal+Kit+Services+health"
+      }
+    ],
+    "2.7.2": [
+      {
+        "d": "google.com",
+        "n": "Prepared Meals",
+        "u": "https://www.google.com/search?q=Meal+Delivery+Prepared+Meals+health"
+      }
+    ],
+    "2.7.3": [
+      {
+        "d": "google.com",
+        "n": "Grocery Delivery",
+        "u": "https://www.google.com/search?q=Meal+Delivery+Grocery+Delivery+health"
+      }
+    ],
+    "2.7.4": [
+      {
+        "d": "google.com",
+        "n": "Organic & Natural",
+        "u": "https://www.google.com/search?q=Meal+Delivery+Organic+%26+Natural+health"
+      }
+    ],
+    "2.7.6": [
+      {
+        "d": "google.com",
+        "n": "Budget Options",
+        "u": "https://www.google.com/search?q=Meal+Delivery+Budget+Options+health"
+      }
+    ],
+    "2.7.7": [
+      {
+        "d": "google.com",
+        "n": "Family Plans",
+        "u": "https://www.google.com/search?q=Meal+Delivery+Family+Plans+health"
+      }
+    ],
+    "2.7.8": [
+      {
+        "d": "google.com",
+        "n": "Special Diet Kits",
+        "u": "https://www.google.com/search?q=Meal+Delivery+Special+Diet+Kits+health"
+      }
+    ],
+    "2.7.9": [
+      {
+        "d": "google.com",
+        "n": "Comparison Reviews",
+        "u": "https://www.google.com/search?q=Meal+Delivery+Comparison+Reviews+health"
+      }
+    ],
+    "2.8.1": [
+      {
+        "d": "google.com",
+        "n": "Beginner Cooking",
+        "u": "https://www.google.com/search?q=Cooking+Skills+Beginner+Cooking+health"
+      }
+    ],
+    "2.8.2": [
+      {
+        "d": "google.com",
+        "n": "Knife Skills",
+        "u": "https://www.google.com/search?q=Cooking+Skills+Knife+Skills+health"
+      }
+    ],
+    "2.8.3": [
+      {
+        "d": "google.com",
+        "n": "Healthy Substitutions",
+        "u": "https://www.google.com/search?q=Cooking+Skills+Healthy+Substitutions+health"
+      }
+    ],
+    "2.8.4": [
+      {
+        "d": "google.com",
+        "n": "Spice & Flavor",
+        "u": "https://www.google.com/search?q=Cooking+Skills+Spice+%26+Flavor+health"
+      }
+    ],
+    "2.8.6": [
+      {
+        "d": "google.com",
+        "n": "Grocery Shopping",
+        "u": "https://www.google.com/search?q=Cooking+Skills+Grocery+Shopping+health"
+      }
+    ],
+    "2.8.7": [
+      {
+        "d": "google.com",
+        "n": "Food Storage",
+        "u": "https://www.google.com/search?q=Cooking+Skills+Food+Storage+health"
+      }
+    ],
+    "2.8.8": [
+      {
+        "d": "google.com",
+        "n": "Kitchen Equipment",
+        "u": "https://www.google.com/search?q=Cooking+Skills+Kitchen+Equipment+health"
+      }
+    ],
+    "2.8.9": [
+      {
+        "d": "google.com",
+        "n": "Batch Techniques",
+        "u": "https://www.google.com/search?q=Cooking+Skills+Batch+Techniques+health"
+      }
+    ],
+    "2.9.1": [
+      {
+        "d": "google.com",
+        "n": "Water Intake",
+        "u": "https://www.google.com/search?q=Hydration+%26+Drinks+Water+Intake+health"
+      }
+    ],
+    "2.9.2": [
+      {
+        "d": "google.com",
+        "n": "Smoothies",
+        "u": "https://www.google.com/search?q=Hydration+%26+Drinks+Smoothies+health"
+      }
+    ],
+    "2.9.3": [
+      {
+        "d": "google.com",
+        "n": "Protein Shakes",
+        "u": "https://www.google.com/search?q=Hydration+%26+Drinks+Protein+Shakes+health"
+      }
+    ],
+    "2.9.4": [
+      {
+        "d": "google.com",
+        "n": "Coffee & Tea",
+        "u": "https://www.google.com/search?q=Hydration+%26+Drinks+Coffee+%26+Tea+health"
+      }
+    ],
+    "2.9.6": [
+      {
+        "d": "google.com",
+        "n": "Electrolyte Drinks",
+        "u": "https://www.google.com/search?q=Hydration+%26+Drinks+Electrolyte+Drinks+health"
+      }
+    ],
+    "2.9.7": [
+      {
+        "d": "google.com",
+        "n": "Infused Water",
+        "u": "https://www.google.com/search?q=Hydration+%26+Drinks+Infused+Water+health"
+      }
+    ],
+    "2.9.8": [
+      {
+        "d": "google.com",
+        "n": "Alcohol & Health",
+        "u": "https://www.google.com/search?q=Hydration+%26+Drinks+Alcohol+%26+Health+health"
+      }
+    ],
+    "2.9.9": [
+      {
+        "d": "google.com",
+        "n": "Hydration Tracking",
+        "u": "https://www.google.com/search?q=Hydration+%26+Drinks+Hydration+Tracking+health"
+      }
+    ],
+    "3.1.1": [
+      {
+        "d": "google.com",
+        "n": "Calorie Deficit Basics",
+        "u": "https://www.google.com/search?q=Getting+Started+Calorie+Deficit+Basics+health"
+      }
+    ],
+    "3.1.2": [
+      {
+        "d": "google.com",
+        "n": "TDEE Calculator",
+        "u": "https://www.google.com/search?q=Getting+Started+TDEE+Calculator+health"
+      }
+    ],
+    "3.1.3": [
+      {
+        "d": "google.com",
+        "n": "Setting Realistic Goals",
+        "u": "https://www.google.com/search?q=Getting+Started+Setting+Realistic+Goals+health"
+      }
+    ],
+    "3.1.4": [
+      {
+        "d": "google.com",
+        "n": "Before & After Inspiration",
+        "u": "https://www.google.com/search?q=Getting+Started+Before+%26+After+Inspiration+health"
+      }
+    ],
+    "3.1.6": [
+      {
+        "d": "google.com",
+        "n": "Beginner Mistakes",
+        "u": "https://www.google.com/search?q=Getting+Started+Beginner+Mistakes+health"
+      }
+    ],
+    "3.1.7": [
+      {
+        "d": "google.com",
+        "n": "Metabolism Basics",
+        "u": "https://www.google.com/search?q=Getting+Started+Metabolism+Basics+health"
+      }
+    ],
+    "3.1.8": [
+      {
+        "d": "google.com",
+        "n": "Body Composition",
+        "u": "https://www.google.com/search?q=Getting+Started+Body+Composition+health"
+      }
+    ],
+    "3.1.9": [
+      {
+        "d": "google.com",
+        "n": "First 30 Days",
+        "u": "https://www.google.com/search?q=Getting+Started+First+30+Days+health"
+      }
+    ],
+    "3.2.1": [
+      {
+        "d": "google.com",
+        "n": "Low-Calorie Meals",
+        "u": "https://www.google.com/search?q=Eating+for+Loss+Low-Calorie+Meals+health"
+      }
+    ],
+    "3.2.2": [
+      {
+        "d": "google.com",
+        "n": "High-Protein Recipes",
+        "u": "https://www.google.com/search?q=Eating+for+Loss+High-Protein+Recipes+health"
+      }
+    ],
+    "3.2.3": [
+      {
+        "d": "google.com",
+        "n": "Volume Eating",
+        "u": "https://www.google.com/search?q=Eating+for+Loss+Volume+Eating+health"
+      }
+    ],
+    "3.2.4": [
+      {
+        "d": "google.com",
+        "n": "Portion Control",
+        "u": "https://www.google.com/search?q=Eating+for+Loss+Portion+Control+health"
+      }
+    ],
+    "3.2.6": [
+      {
+        "d": "google.com",
+        "n": "Meal Timing",
+        "u": "https://www.google.com/search?q=Eating+for+Loss+Meal+Timing+health"
+      }
+    ],
+    "3.2.7": [
+      {
+        "d": "google.com",
+        "n": "Snack Swaps",
+        "u": "https://www.google.com/search?q=Eating+for+Loss+Snack+Swaps+health"
+      }
+    ],
+    "3.2.8": [
+      {
+        "d": "google.com",
+        "n": "Eating Out Guide",
+        "u": "https://www.google.com/search?q=Eating+for+Loss+Eating+Out+Guide+health"
+      }
+    ],
+    "3.2.9": [
+      {
+        "d": "google.com",
+        "n": "Emotional Eating",
+        "u": "https://www.google.com/search?q=Eating+for+Loss+Emotional+Eating+health"
+      }
+    ],
+    "3.3.1": [
+      {
+        "d": "google.com",
+        "n": "Cardio for Fat Loss",
+        "u": "https://www.google.com/search?q=Exercise+for+Loss+Cardio+for+Fat+Loss+health"
+      }
+    ],
+    "3.3.2": [
+      {
+        "d": "google.com",
+        "n": "Strength for Fat Loss",
+        "u": "https://www.google.com/search?q=Exercise+for+Loss+Strength+for+Fat+Loss+health"
+      }
+    ],
+    "3.3.3": [
+      {
+        "d": "google.com",
+        "n": "HIIT Workouts",
+        "u": "https://www.google.com/search?q=Exercise+for+Loss+HIIT+Workouts+health"
+      }
+    ],
+    "3.3.4": [
+      {
+        "d": "google.com",
+        "n": "Walking for Weight Loss",
+        "u": "https://www.google.com/search?q=Exercise+for+Loss+Walking+for+Weight+Loss+health"
+      }
+    ],
+    "3.3.6": [
+      {
+        "d": "google.com",
+        "n": "Home Workouts",
+        "u": "https://www.google.com/search?q=Exercise+for+Loss+Home+Workouts+health"
+      }
+    ],
+    "3.3.7": [
+      {
+        "d": "google.com",
+        "n": "Gym Routines",
+        "u": "https://www.google.com/search?q=Exercise+for+Loss+Gym+Routines+health"
+      }
+    ],
+    "3.3.8": [
+      {
+        "d": "google.com",
+        "n": "Active Lifestyle",
+        "u": "https://www.google.com/search?q=Exercise+for+Loss+Active+Lifestyle+health"
+      }
+    ],
+    "3.3.9": [
+      {
+        "d": "google.com",
+        "n": "NEAT & Movement",
+        "u": "https://www.google.com/search?q=Exercise+for+Loss+NEAT+%26+Movement+health"
+      }
+    ],
+    "3.4.1": [
+      {
+        "d": "google.com",
+        "n": "Calorie Trackers",
+        "u": "https://www.google.com/search?q=Tracking+%26+Tools+Calorie+Trackers+health"
+      }
+    ],
+    "3.4.2": [
+      {
+        "d": "google.com",
+        "n": "Food Scale",
+        "u": "https://www.google.com/search?q=Tracking+%26+Tools+Food+Scale+health"
+      }
+    ],
+    "3.4.3": [
+      {
+        "d": "google.com",
+        "n": "Progress Apps",
+        "u": "https://www.google.com/search?q=Tracking+%26+Tools+Progress+Apps+health"
+      }
+    ],
+    "3.4.4": [
+      {
+        "d": "google.com",
+        "n": "Weigh-In Strategy",
+        "u": "https://www.google.com/search?q=Tracking+%26+Tools+Weigh-In+Strategy+health"
+      }
+    ],
+    "3.4.6": [
+      {
+        "d": "google.com",
+        "n": "Body Measurements",
+        "u": "https://www.google.com/search?q=Tracking+%26+Tools+Body+Measurements+health"
+      }
+    ],
+    "3.4.7": [
+      {
+        "d": "google.com",
+        "n": "Photo Tracking",
+        "u": "https://www.google.com/search?q=Tracking+%26+Tools+Photo+Tracking+health"
+      }
+    ],
+    "3.4.8": [
+      {
+        "d": "google.com",
+        "n": "Habit Trackers",
+        "u": "https://www.google.com/search?q=Tracking+%26+Tools+Habit+Trackers+health"
+      }
+    ],
+    "3.4.9": [
+      {
+        "d": "google.com",
+        "n": "Accountability Tools",
+        "u": "https://www.google.com/search?q=Tracking+%26+Tools+Accountability+Tools+health"
+      }
+    ],
+    "3.6.1": [
+      {
+        "d": "google.com",
+        "n": "Noom",
+        "u": "https://www.google.com/search?q=Programs+%26+Plans+Noom+health"
+      }
+    ],
+    "3.6.2": [
+      {
+        "d": "google.com",
+        "n": "WeightWatchers",
+        "u": "https://www.google.com/search?q=Programs+%26+Plans+WeightWatchers+health"
+      }
+    ],
+    "3.6.3": [
+      {
+        "d": "google.com",
+        "n": "Macro Counting",
+        "u": "https://www.google.com/search?q=Programs+%26+Plans+Macro+Counting+health"
+      }
+    ],
+    "3.6.4": [
+      {
+        "d": "google.com",
+        "n": "Optavia",
+        "u": "https://www.google.com/search?q=Programs+%26+Plans+Optavia+health"
+      }
+    ],
+    "3.6.6": [
+      {
+        "d": "google.com",
+        "n": "Medical Programs",
+        "u": "https://www.google.com/search?q=Programs+%26+Plans+Medical+Programs+health"
+      }
+    ],
+    "3.6.7": [
+      {
+        "d": "google.com",
+        "n": "12-Week Plans",
+        "u": "https://www.google.com/search?q=Programs+%26+Plans+12-Week+Plans+health"
+      }
+    ],
+    "3.6.8": [
+      {
+        "d": "google.com",
+        "n": "Custom Plans",
+        "u": "https://www.google.com/search?q=Programs+%26+Plans+Custom+Plans+health"
+      }
+    ],
+    "3.6.9": [
+      {
+        "d": "google.com",
+        "n": "Group Programs",
+        "u": "https://www.google.com/search?q=Programs+%26+Plans+Group+Programs+health"
+      }
+    ],
+    "3.7.1": [
+      {
+        "d": "google.com",
+        "n": "Breaking Plateaus",
+        "u": "https://www.google.com/search?q=Plateaus+%26+Setbacks+Breaking+Plateaus+health"
+      }
+    ],
+    "3.7.2": [
+      {
+        "d": "google.com",
+        "n": "Diet Breaks",
+        "u": "https://www.google.com/search?q=Plateaus+%26+Setbacks+Diet+Breaks+health"
+      }
+    ],
+    "3.7.3": [
+      {
+        "d": "google.com",
+        "n": "Reverse Dieting",
+        "u": "https://www.google.com/search?q=Plateaus+%26+Setbacks+Reverse+Dieting+health"
+      }
+    ],
+    "3.7.4": [
+      {
+        "d": "google.com",
+        "n": "Binge Recovery",
+        "u": "https://www.google.com/search?q=Plateaus+%26+Setbacks+Binge+Recovery+health"
+      }
+    ],
+    "3.7.6": [
+      {
+        "d": "google.com",
+        "n": "Motivation Dips",
+        "u": "https://www.google.com/search?q=Plateaus+%26+Setbacks+Motivation+Dips+health"
+      }
+    ],
+    "3.7.7": [
+      {
+        "d": "google.com",
+        "n": "Holiday Strategy",
+        "u": "https://www.google.com/search?q=Plateaus+%26+Setbacks+Holiday+Strategy+health"
+      }
+    ],
+    "3.7.8": [
+      {
+        "d": "google.com",
+        "n": "Travel Eating",
+        "u": "https://www.google.com/search?q=Plateaus+%26+Setbacks+Travel+Eating+health"
+      }
+    ],
+    "3.7.9": [
+      {
+        "d": "google.com",
+        "n": "Stress Eating",
+        "u": "https://www.google.com/search?q=Plateaus+%26+Setbacks+Stress+Eating+health"
+      }
+    ],
+    "3.8.1": [
+      {
+        "d": "google.com",
+        "n": "r/loseit",
+        "u": "https://www.google.com/search?q=Community+%26+Support+r%2Floseit+health"
+      }
+    ],
+    "3.8.2": [
+      {
+        "d": "google.com",
+        "n": "Weight Loss Groups",
+        "u": "https://www.google.com/search?q=Community+%26+Support+Weight+Loss+Groups+health"
+      }
+    ],
+    "3.8.3": [
+      {
+        "d": "google.com",
+        "n": "Accountability Partners",
+        "u": "https://www.google.com/search?q=Community+%26+Support+Accountability+Partners+health"
+      }
+    ],
+    "3.8.4": [
+      {
+        "d": "google.com",
+        "n": "Before & After Stories",
+        "u": "https://www.google.com/search?q=Community+%26+Support+Before+%26+After+Stories+health"
+      }
+    ],
+    "3.8.6": [
+      {
+        "d": "google.com",
+        "n": "Challenges",
+        "u": "https://www.google.com/search?q=Community+%26+Support+Challenges+health"
+      }
+    ],
+    "3.8.7": [
+      {
+        "d": "google.com",
+        "n": "Coaching",
+        "u": "https://www.google.com/search?q=Community+%26+Support+Coaching+health"
+      }
+    ],
+    "3.8.8": [
+      {
+        "d": "google.com",
+        "n": "Support Forums",
+        "u": "https://www.google.com/search?q=Community+%26+Support+Support+Forums+health"
+      }
+    ],
+    "3.8.9": [
+      {
+        "d": "google.com",
+        "n": "Local Groups",
+        "u": "https://www.google.com/search?q=Community+%26+Support+Local+Groups+health"
+      }
+    ],
+    "3.9.1": [
+      {
+        "d": "google.com",
+        "n": "Maintenance Phase",
+        "u": "https://www.google.com/search?q=Long-Term+Success+Maintenance+Phase+health"
+      }
+    ],
+    "3.9.2": [
+      {
+        "d": "google.com",
+        "n": "Sustainable Habits",
+        "u": "https://www.google.com/search?q=Long-Term+Success+Sustainable+Habits+health"
+      }
+    ],
+    "3.9.3": [
+      {
+        "d": "google.com",
+        "n": "Mindful Eating",
+        "u": "https://www.google.com/search?q=Long-Term+Success+Mindful+Eating+health"
+      }
+    ],
+    "3.9.4": [
+      {
+        "d": "google.com",
+        "n": "Body Image",
+        "u": "https://www.google.com/search?q=Long-Term+Success+Body+Image+health"
+      }
+    ],
+    "3.9.6": [
+      {
+        "d": "google.com",
+        "n": "Preventing Regain",
+        "u": "https://www.google.com/search?q=Long-Term+Success+Preventing+Regain+health"
+      }
+    ],
+    "3.9.7": [
+      {
+        "d": "google.com",
+        "n": "Lifestyle vs Diet",
+        "u": "https://www.google.com/search?q=Long-Term+Success+Lifestyle+vs+Diet+health"
+      }
+    ],
+    "3.9.8": [
+      {
+        "d": "google.com",
+        "n": "Intuitive Eating",
+        "u": "https://www.google.com/search?q=Long-Term+Success+Intuitive+Eating+health"
+      }
+    ],
+    "3.9.9": [
+      {
+        "d": "google.com",
+        "n": "Celebrating Wins",
+        "u": "https://www.google.com/search?q=Long-Term+Success+Celebrating+Wins+health"
+      }
+    ],
+    "4.1.1": [
+      {
+        "d": "google.com",
+        "n": "Coping Strategies",
+        "u": "https://www.google.com/search?q=Anxiety+%26+Stress+Coping+Strategies+health"
+      }
+    ],
+    "4.1.2": [
+      {
+        "d": "google.com",
+        "n": "Breathing Exercises",
+        "u": "https://www.google.com/search?q=Anxiety+%26+Stress+Breathing+Exercises+health"
+      }
+    ],
+    "4.1.3": [
+      {
+        "d": "google.com",
+        "n": "Grounding Techniques",
+        "u": "https://www.google.com/search?q=Anxiety+%26+Stress+Grounding+Techniques+health"
+      }
+    ],
+    "4.1.4": [
+      {
+        "d": "google.com",
+        "n": "Panic Attacks",
+        "u": "https://www.google.com/search?q=Anxiety+%26+Stress+Panic+Attacks+health"
+      }
+    ],
+    "4.1.6": [
+      {
+        "d": "google.com",
+        "n": "Social Anxiety",
+        "u": "https://www.google.com/search?q=Anxiety+%26+Stress+Social+Anxiety+health"
+      }
+    ],
+    "4.1.7": [
+      {
+        "d": "google.com",
+        "n": "Work Stress",
+        "u": "https://www.google.com/search?q=Anxiety+%26+Stress+Work+Stress+health"
+      }
+    ],
+    "4.1.8": [
+      {
+        "d": "google.com",
+        "n": "Generalized Anxiety",
+        "u": "https://www.google.com/search?q=Anxiety+%26+Stress+Generalized+Anxiety+health"
+      }
+    ],
+    "4.1.9": [
+      {
+        "d": "google.com",
+        "n": "CBT Tools",
+        "u": "https://www.google.com/search?q=Anxiety+%26+Stress+CBT+Tools+health"
+      }
+    ],
+    "4.2.1": [
+      {
+        "d": "google.com",
+        "n": "Recognizing Signs",
+        "u": "https://www.google.com/search?q=Depression+Support+Recognizing+Signs+health"
+      }
+    ],
+    "4.2.2": [
+      {
+        "d": "google.com",
+        "n": "Finding Help",
+        "u": "https://www.google.com/search?q=Depression+Support+Finding+Help+health"
+      }
+    ],
+    "4.2.3": [
+      {
+        "d": "google.com",
+        "n": "Treatment Options",
+        "u": "https://www.google.com/search?q=Depression+Support+Treatment+Options+health"
+      }
+    ],
+    "4.2.4": [
+      {
+        "d": "google.com",
+        "n": "Medication Info",
+        "u": "https://www.google.com/search?q=Depression+Support+Medication+Info+health"
+      }
+    ],
+    "4.2.6": [
+      {
+        "d": "google.com",
+        "n": "Lifestyle Changes",
+        "u": "https://www.google.com/search?q=Depression+Support+Lifestyle+Changes+health"
+      }
+    ],
+    "4.2.7": [
+      {
+        "d": "google.com",
+        "n": "Daily Strategies",
+        "u": "https://www.google.com/search?q=Depression+Support+Daily+Strategies+health"
+      }
+    ],
+    "4.2.8": [
+      {
+        "d": "google.com",
+        "n": "Support Networks",
+        "u": "https://www.google.com/search?q=Depression+Support+Support+Networks+health"
+      }
+    ],
+    "4.2.9": [
+      {
+        "d": "google.com",
+        "n": "Crisis Resources",
+        "u": "https://www.google.com/search?q=Depression+Support+Crisis+Resources+health"
+      }
+    ],
+    "4.3.1.1": [
+      {
+        "d": "betterhelp.com",
+        "n": "BetterHelp",
+        "u": "https://www.betterhelp.com"
+      }
+    ],
+    "4.3.1.2": [
+      {
+        "d": "talkspace.com",
+        "n": "Talkspace",
+        "u": "https://www.talkspace.com"
+      }
+    ],
+    "4.3.1.3": [
+      {
+        "d": "cerebral.com",
+        "n": "Cerebral",
+        "u": "https://cerebral.com"
+      }
+    ],
+    "4.3.1.4": [
+      {
+        "d": "7cups.com",
+        "n": "7 Cups",
+        "u": "https://www.7cups.com"
+      }
+    ],
+    "4.3.1.6": [
+      {
+        "d": "google.com",
+        "n": "Brightside",
+        "u": "https://www.google.com/search?q=Online+Therapy+Brightside+health"
+      }
+    ],
+    "4.3.1.7": [
+      {
+        "d": "google.com",
+        "n": "Amwell",
+        "u": "https://www.google.com/search?q=Online+Therapy+Amwell+health"
+      }
+    ],
+    "4.3.1.8": [
+      {
+        "d": "google.com",
+        "n": "Compare Platforms",
+        "u": "https://www.google.com/search?q=Online+Therapy+Compare+Platforms+health"
+      }
+    ],
+    "4.3.1.9": [
+      {
+        "d": "google.com",
+        "n": "Insurance Coverage",
+        "u": "https://www.google.com/search?q=Online+Therapy+Insurance+Coverage+health"
+      }
+    ],
+    "4.3.2": [
+      {
+        "d": "google.com",
+        "n": "In-Person Search",
+        "u": "https://www.google.com/search?q=Find+a+Therapist+In-Person+Search+health"
+      }
+    ],
+    "4.3.3": [
+      {
+        "d": "google.com",
+        "n": "Types of Therapy",
+        "u": "https://www.google.com/search?q=Find+a+Therapist+Types+of+Therapy+health"
+      }
+    ],
+    "4.3.4": [
+      {
+        "d": "google.com",
+        "n": "Insurance & Costs",
+        "u": "https://www.google.com/search?q=Find+a+Therapist+Insurance+%26+Costs+health"
+      }
+    ],
+    "4.3.6": [
+      {
+        "d": "google.com",
+        "n": "First Appointment",
+        "u": "https://www.google.com/search?q=Find+a+Therapist+First+Appointment+health"
+      }
+    ],
+    "4.3.7": [
+      {
+        "d": "google.com",
+        "n": "CBT Therapists",
+        "u": "https://www.google.com/search?q=Find+a+Therapist+CBT+Therapists+health"
+      }
+    ],
+    "4.3.8": [
+      {
+        "d": "google.com",
+        "n": "Couples Therapy",
+        "u": "https://www.google.com/search?q=Find+a+Therapist+Couples+Therapy+health"
+      }
+    ],
+    "4.3.9": [
+      {
+        "d": "google.com",
+        "n": "Sliding Scale",
+        "u": "https://www.google.com/search?q=Find+a+Therapist+Sliding+Scale+health"
+      }
+    ],
+    "4.4.1": [
+      {
+        "d": "google.com",
+        "n": "Guided Meditation",
+        "u": "https://www.google.com/search?q=Meditation+%26+Calm+Guided+Meditation+health"
+      }
+    ],
+    "4.4.2": [
+      {
+        "d": "google.com",
+        "n": "Breathing Techniques",
+        "u": "https://www.google.com/search?q=Meditation+%26+Calm+Breathing+Techniques+health"
+      }
+    ],
+    "4.4.3": [
+      {
+        "d": "google.com",
+        "n": "Body Scan",
+        "u": "https://www.google.com/search?q=Meditation+%26+Calm+Body+Scan+health"
+      }
+    ],
+    "4.4.4": [
+      {
+        "d": "google.com",
+        "n": "Walking Meditation",
+        "u": "https://www.google.com/search?q=Meditation+%26+Calm+Walking+Meditation+health"
+      }
+    ],
+    "4.4.6": [
+      {
+        "d": "google.com",
+        "n": "Meditation Apps",
+        "u": "https://www.google.com/search?q=Meditation+%26+Calm+Meditation+Apps+health"
+      }
+    ],
+    "4.4.7": [
+      {
+        "d": "google.com",
+        "n": "Mindful Eating",
+        "u": "https://www.google.com/search?q=Meditation+%26+Calm+Mindful+Eating+health"
+      }
+    ],
+    "4.4.8": [
+      {
+        "d": "google.com",
+        "n": "Daily Practice",
+        "u": "https://www.google.com/search?q=Meditation+%26+Calm+Daily+Practice+health"
+      }
+    ],
+    "4.4.9": [
+      {
+        "d": "google.com",
+        "n": "Sleep Meditation",
+        "u": "https://www.google.com/search?q=Meditation+%26+Calm+Sleep+Meditation+health"
+      }
+    ],
+    "4.6.1": [
+      {
+        "d": "google.com",
+        "n": "Recognizing Burnout",
+        "u": "https://www.google.com/search?q=Burnout+Recovery+Recognizing+Burnout+health"
+      }
+    ],
+    "4.6.2": [
+      {
+        "d": "google.com",
+        "n": "Setting Boundaries",
+        "u": "https://www.google.com/search?q=Burnout+Recovery+Setting+Boundaries+health"
+      }
+    ],
+    "4.6.3": [
+      {
+        "d": "google.com",
+        "n": "Work-Life Balance",
+        "u": "https://www.google.com/search?q=Burnout+Recovery+Work-Life+Balance+health"
+      }
+    ],
+    "4.6.4": [
+      {
+        "d": "google.com",
+        "n": "Recovery Plan",
+        "u": "https://www.google.com/search?q=Burnout+Recovery+Recovery+Plan+health"
+      }
+    ],
+    "4.6.6": [
+      {
+        "d": "google.com",
+        "n": "Energy Management",
+        "u": "https://www.google.com/search?q=Burnout+Recovery+Energy+Management+health"
+      }
+    ],
+    "4.6.7": [
+      {
+        "d": "google.com",
+        "n": "Saying No",
+        "u": "https://www.google.com/search?q=Burnout+Recovery+Saying+No+health"
+      }
+    ],
+    "4.6.8": [
+      {
+        "d": "google.com",
+        "n": "Sabbatical Planning",
+        "u": "https://www.google.com/search?q=Burnout+Recovery+Sabbatical+Planning+health"
+      }
+    ],
+    "4.6.9": [
+      {
+        "d": "google.com",
+        "n": "Career Burnout",
+        "u": "https://www.google.com/search?q=Burnout+Recovery+Career+Burnout+health"
+      }
+    ],
+    "4.7.1": [
+      {
+        "d": "google.com",
+        "n": "Stages of Grief",
+        "u": "https://www.google.com/search?q=Grief+%26+Loss+Stages+of+Grief+health"
+      }
+    ],
+    "4.7.2": [
+      {
+        "d": "google.com",
+        "n": "Coping Strategies",
+        "u": "https://www.google.com/search?q=Grief+%26+Loss+Coping+Strategies+health"
+      }
+    ],
+    "4.7.3": [
+      {
+        "d": "google.com",
+        "n": "Support Groups",
+        "u": "https://www.google.com/search?q=Grief+%26+Loss+Support+Groups+health"
+      }
+    ],
+    "4.7.4": [
+      {
+        "d": "google.com",
+        "n": "Grief Counseling",
+        "u": "https://www.google.com/search?q=Grief+%26+Loss+Grief+Counseling+health"
+      }
+    ],
+    "4.7.6": [
+      {
+        "d": "google.com",
+        "n": "Pet Loss",
+        "u": "https://www.google.com/search?q=Grief+%26+Loss+Pet+Loss+health"
+      }
+    ],
+    "4.7.7": [
+      {
+        "d": "google.com",
+        "n": "Anticipatory Grief",
+        "u": "https://www.google.com/search?q=Grief+%26+Loss+Anticipatory+Grief+health"
+      }
+    ],
+    "4.7.8": [
+      {
+        "d": "google.com",
+        "n": "Children & Grief",
+        "u": "https://www.google.com/search?q=Grief+%26+Loss+Children+%26+Grief+health"
+      }
+    ],
+    "4.7.9": [
+      {
+        "d": "google.com",
+        "n": "Memorials",
+        "u": "https://www.google.com/search?q=Grief+%26+Loss+Memorials+health"
+      }
+    ],
+    "4.8.1": [
+      {
+        "d": "google.com",
+        "n": "12-Step Programs",
+        "u": "https://www.google.com/search?q=Addiction+%26+Recovery+12-Step+Programs+health"
+      }
+    ],
+    "4.8.2": [
+      {
+        "d": "google.com",
+        "n": "SMART Recovery",
+        "u": "https://www.google.com/search?q=Addiction+%26+Recovery+SMART+Recovery+health"
+      }
+    ],
+    "4.8.3": [
+      {
+        "d": "google.com",
+        "n": "Substance Support",
+        "u": "https://www.google.com/search?q=Addiction+%26+Recovery+Substance+Support+health"
+      }
+    ],
+    "4.8.4": [
+      {
+        "d": "google.com",
+        "n": "Behavioral Addiction",
+        "u": "https://www.google.com/search?q=Addiction+%26+Recovery+Behavioral+Addiction+health"
+      }
+    ],
+    "4.8.6": [
+      {
+        "d": "google.com",
+        "n": "Sobriety Tools",
+        "u": "https://www.google.com/search?q=Addiction+%26+Recovery+Sobriety+Tools+health"
+      }
+    ],
+    "4.8.7": [
+      {
+        "d": "google.com",
+        "n": "Relapse Prevention",
+        "u": "https://www.google.com/search?q=Addiction+%26+Recovery+Relapse+Prevention+health"
+      }
+    ],
+    "4.8.8": [
+      {
+        "d": "google.com",
+        "n": "Family Impact",
+        "u": "https://www.google.com/search?q=Addiction+%26+Recovery+Family+Impact+health"
+      }
+    ],
+    "4.8.9": [
+      {
+        "d": "google.com",
+        "n": "Community",
+        "u": "https://www.google.com/search?q=Addiction+%26+Recovery+Community+health"
+      }
+    ],
+    "4.9.1": [
+      {
+        "d": "google.com",
+        "n": "Emotional Regulation",
+        "u": "https://www.google.com/search?q=Build+Resilience+Emotional+Regulation+health"
+      }
+    ],
+    "4.9.2": [
+      {
+        "d": "google.com",
+        "n": "Self-Compassion",
+        "u": "https://www.google.com/search?q=Build+Resilience+Self-Compassion+health"
+      }
+    ],
+    "4.9.3": [
+      {
+        "d": "google.com",
+        "n": "Journaling",
+        "u": "https://www.google.com/search?q=Build+Resilience+Journaling+health"
+      }
+    ],
+    "4.9.4": [
+      {
+        "d": "google.com",
+        "n": "Gratitude Practice",
+        "u": "https://www.google.com/search?q=Build+Resilience+Gratitude+Practice+health"
+      }
+    ],
+    "4.9.6": [
+      {
+        "d": "google.com",
+        "n": "Positive Psychology",
+        "u": "https://www.google.com/search?q=Build+Resilience+Positive+Psychology+health"
+      }
+    ],
+    "4.9.7": [
+      {
+        "d": "google.com",
+        "n": "Self-Esteem",
+        "u": "https://www.google.com/search?q=Build+Resilience+Self-Esteem+health"
+      }
+    ],
+    "4.9.8": [
+      {
+        "d": "google.com",
+        "n": "Healthy Boundaries",
+        "u": "https://www.google.com/search?q=Build+Resilience+Healthy+Boundaries+health"
+      }
+    ],
+    "4.9.9": [
+      {
+        "d": "google.com",
+        "n": "Resilience Skills",
+        "u": "https://www.google.com/search?q=Build+Resilience+Resilience+Skills+health"
+      }
+    ],
+    "6.1.1": [
+      {
+        "d": "google.com",
+        "n": "Symptom Checker",
+        "u": "https://www.google.com/search?q=Check+Symptoms+Symptom+Checker+health"
+      }
+    ],
+    "6.1.2": [
+      {
+        "d": "google.com",
+        "n": "When to See a Doctor",
+        "u": "https://www.google.com/search?q=Check+Symptoms+When+to+See+a+Doctor+health"
+      }
+    ],
+    "6.1.3": [
+      {
+        "d": "google.com",
+        "n": "Urgent vs ER",
+        "u": "https://www.google.com/search?q=Check+Symptoms+Urgent+vs+ER+health"
+      }
+    ],
+    "6.1.4": [
+      {
+        "d": "google.com",
+        "n": "Telehealth Now",
+        "u": "https://www.google.com/search?q=Check+Symptoms+Telehealth+Now+health"
+      }
+    ],
+    "6.1.6": [
+      {
+        "d": "google.com",
+        "n": "Common Illnesses",
+        "u": "https://www.google.com/search?q=Check+Symptoms+Common+Illnesses+health"
+      }
+    ],
+    "6.1.7": [
+      {
+        "d": "google.com",
+        "n": "Allergy Symptoms",
+        "u": "https://www.google.com/search?q=Check+Symptoms+Allergy+Symptoms+health"
+      }
+    ],
+    "6.1.8": [
+      {
+        "d": "google.com",
+        "n": "Pain Guide",
+        "u": "https://www.google.com/search?q=Check+Symptoms+Pain+Guide+health"
+      }
+    ],
+    "6.1.9": [
+      {
+        "d": "google.com",
+        "n": "Fever & Flu",
+        "u": "https://www.google.com/search?q=Check+Symptoms+Fever+%26+Flu+health"
+      }
+    ],
+    "6.2.1": [
+      {
+        "d": "google.com",
+        "n": "Primary Care",
+        "u": "https://www.google.com/search?q=Find+a+Doctor+Primary+Care+health"
+      }
+    ],
+    "6.2.2": [
+      {
+        "d": "google.com",
+        "n": "Specialists",
+        "u": "https://www.google.com/search?q=Find+a+Doctor+Specialists+health"
+      }
+    ],
+    "6.2.3": [
+      {
+        "d": "google.com",
+        "n": "Urgent Care Map",
+        "u": "https://www.google.com/search?q=Find+a+Doctor+Urgent+Care+Map+health"
+      }
+    ],
+    "6.2.4": [
+      {
+        "d": "google.com",
+        "n": "ER Locator",
+        "u": "https://www.google.com/search?q=Find+a+Doctor+ER+Locator+health"
+      }
+    ],
+    "6.2.6": [
+      {
+        "d": "google.com",
+        "n": "Telehealth Providers",
+        "u": "https://www.google.com/search?q=Find+a+Doctor+Telehealth+Providers+health"
+      }
+    ],
+    "6.2.7": [
+      {
+        "d": "google.com",
+        "n": "Dentists",
+        "u": "https://www.google.com/search?q=Find+a+Doctor+Dentists+health"
+      }
+    ],
+    "6.2.8": [
+      {
+        "d": "google.com",
+        "n": "Eye Doctors",
+        "u": "https://www.google.com/search?q=Find+a+Doctor+Eye+Doctors+health"
+      }
+    ],
+    "6.2.9": [
+      {
+        "d": "google.com",
+        "n": "Ratings & Reviews",
+        "u": "https://www.google.com/search?q=Find+a+Doctor+Ratings+%26+Reviews+health"
+      }
+    ],
+    "6.3.1": [
+      {
+        "d": "google.com",
+        "n": "Drug Lookup",
+        "u": "https://www.google.com/search?q=Medications+Drug+Lookup+health"
+      }
+    ],
+    "6.3.2": [
+      {
+        "d": "google.com",
+        "n": "Side Effects",
+        "u": "https://www.google.com/search?q=Medications+Side+Effects+health"
+      }
+    ],
+    "6.3.3": [
+      {
+        "d": "google.com",
+        "n": "Interactions",
+        "u": "https://www.google.com/search?q=Medications+Interactions+health"
+      }
+    ],
+    "6.3.4": [
+      {
+        "d": "google.com",
+        "n": "Generic vs Brand",
+        "u": "https://www.google.com/search?q=Medications+Generic+vs+Brand+health"
+      }
+    ],
+    "6.3.6": [
+      {
+        "d": "google.com",
+        "n": "Price Comparison",
+        "u": "https://www.google.com/search?q=Medications+Price+Comparison+health"
+      }
+    ],
+    "6.3.7": [
+      {
+        "d": "google.com",
+        "n": "Pharmacy Finder",
+        "u": "https://www.google.com/search?q=Medications+Pharmacy+Finder+health"
+      }
+    ],
+    "6.3.8": [
+      {
+        "d": "google.com",
+        "n": "Dosage Guide",
+        "u": "https://www.google.com/search?q=Medications+Dosage+Guide+health"
+      }
+    ],
+    "6.3.9": [
+      {
+        "d": "google.com",
+        "n": "Recall Alerts",
+        "u": "https://www.google.com/search?q=Medications+Recall+Alerts+health"
+      }
+    ],
+    "6.4.1": [
+      {
+        "d": "google.com",
+        "n": "Plan Comparison",
+        "u": "https://www.google.com/search?q=Insurance+%26+Costs+Plan+Comparison+health"
+      }
+    ],
+    "6.4.2": [
+      {
+        "d": "google.com",
+        "n": "Open Enrollment",
+        "u": "https://www.google.com/search?q=Insurance+%26+Costs+Open+Enrollment+health"
+      }
+    ],
+    "6.4.3": [
+      {
+        "d": "google.com",
+        "n": "Marketplace",
+        "u": "https://www.google.com/search?q=Insurance+%26+Costs+Marketplace+health"
+      }
+    ],
+    "6.4.4": [
+      {
+        "d": "google.com",
+        "n": "Medicare",
+        "u": "https://www.google.com/search?q=Insurance+%26+Costs+Medicare+health"
+      }
+    ],
+    "6.4.6": [
+      {
+        "d": "google.com",
+        "n": "Medicaid",
+        "u": "https://www.google.com/search?q=Insurance+%26+Costs+Medicaid+health"
+      }
+    ],
+    "6.4.7": [
+      {
+        "d": "google.com",
+        "n": "HSA & FSA",
+        "u": "https://www.google.com/search?q=Insurance+%26+Costs+HSA+%26+FSA+health"
+      }
+    ],
+    "6.4.8": [
+      {
+        "d": "google.com",
+        "n": "COBRA",
+        "u": "https://www.google.com/search?q=Insurance+%26+Costs+COBRA+health"
+      }
+    ],
+    "6.4.9": [
+      {
+        "d": "google.com",
+        "n": "Estimate Costs",
+        "u": "https://www.google.com/search?q=Insurance+%26+Costs+Estimate+Costs+health"
+      }
+    ],
+    "6.6.1.1": [
+      {
+        "d": "google.com",
+        "n": "Type 1 Guide",
+        "u": "https://www.google.com/search?q=Diabetes+Type+1+Guide+health"
+      }
+    ],
+    "6.6.1.2": [
+      {
+        "d": "google.com",
+        "n": "Type 2 Guide",
+        "u": "https://www.google.com/search?q=Diabetes+Type+2+Guide+health"
+      }
+    ],
+    "6.6.1.3": [
+      {
+        "d": "google.com",
+        "n": "Glucose Monitors",
+        "u": "https://www.google.com/search?q=Diabetes+Glucose+Monitors+health"
+      }
+    ],
+    "6.6.1.4": [
+      {
+        "d": "google.com",
+        "n": "Diabetes Diet",
+        "u": "https://www.google.com/search?q=Diabetes+Diabetes+Diet+health"
+      }
+    ],
+    "6.6.1.6": [
+      {
+        "d": "google.com",
+        "n": "Medications",
+        "u": "https://www.google.com/search?q=Diabetes+Medications+health"
+      }
+    ],
+    "6.6.1.7": [
+      {
+        "d": "google.com",
+        "n": "A1C Tracking",
+        "u": "https://www.google.com/search?q=Diabetes+A1C+Tracking+health"
+      }
+    ],
+    "6.6.1.8": [
+      {
+        "d": "google.com",
+        "n": "Community & Support",
+        "u": "https://www.google.com/search?q=Diabetes+Community+%26+Support+health"
+      }
+    ],
+    "6.6.1.9": [
+      {
+        "d": "google.com",
+        "n": "Research & Clinical Trials",
+        "u": "https://www.google.com/search?q=Diabetes+Research+%26+Clinical+Trials+health"
+      }
+    ],
+    "6.6.2": [
+      {
+        "d": "google.com",
+        "n": "Heart Disease",
+        "u": "https://www.google.com/search?q=Chronic+Conditions+Heart+Disease+health"
+      }
+    ],
+    "6.6.3": [
+      {
+        "d": "google.com",
+        "n": "Asthma & COPD",
+        "u": "https://www.google.com/search?q=Chronic+Conditions+Asthma+%26+COPD+health"
+      }
+    ],
+    "6.6.4": [
+      {
+        "d": "google.com",
+        "n": "Arthritis",
+        "u": "https://www.google.com/search?q=Chronic+Conditions+Arthritis+health"
+      }
+    ],
+    "6.6.6": [
+      {
+        "d": "google.com",
+        "n": "Autoimmune",
+        "u": "https://www.google.com/search?q=Chronic+Conditions+Autoimmune+health"
+      }
+    ],
+    "6.6.7": [
+      {
+        "d": "google.com",
+        "n": "Chronic Pain",
+        "u": "https://www.google.com/search?q=Chronic+Conditions+Chronic+Pain+health"
+      }
+    ],
+    "6.6.8": [
+      {
+        "d": "google.com",
+        "n": "Thyroid",
+        "u": "https://www.google.com/search?q=Chronic+Conditions+Thyroid+health"
+      }
+    ],
+    "6.6.9": [
+      {
+        "d": "google.com",
+        "n": "Digestive Issues",
+        "u": "https://www.google.com/search?q=Chronic+Conditions+Digestive+Issues+health"
+      }
+    ],
+    "6.7.1": [
+      {
+        "d": "google.com",
+        "n": "Annual Physical",
+        "u": "https://www.google.com/search?q=Preventive+Care+Annual+Physical+health"
+      }
+    ],
+    "6.7.2": [
+      {
+        "d": "google.com",
+        "n": "Vaccinations",
+        "u": "https://www.google.com/search?q=Preventive+Care+Vaccinations+health"
+      }
+    ],
+    "6.7.3": [
+      {
+        "d": "google.com",
+        "n": "Cancer Screening",
+        "u": "https://www.google.com/search?q=Preventive+Care+Cancer+Screening+health"
+      }
+    ],
+    "6.7.4": [
+      {
+        "d": "google.com",
+        "n": "Blood Work",
+        "u": "https://www.google.com/search?q=Preventive+Care+Blood+Work+health"
+      }
+    ],
+    "6.7.6": [
+      {
+        "d": "google.com",
+        "n": "Dental Checkups",
+        "u": "https://www.google.com/search?q=Preventive+Care+Dental+Checkups+health"
+      }
+    ],
+    "6.7.7": [
+      {
+        "d": "google.com",
+        "n": "Eye Exams",
+        "u": "https://www.google.com/search?q=Preventive+Care+Eye+Exams+health"
+      }
+    ],
+    "6.7.8": [
+      {
+        "d": "google.com",
+        "n": "Skin Checks",
+        "u": "https://www.google.com/search?q=Preventive+Care+Skin+Checks+health"
+      }
+    ],
+    "6.7.9": [
+      {
+        "d": "google.com",
+        "n": "Screenings by Age",
+        "u": "https://www.google.com/search?q=Preventive+Care+Screenings+by+Age+health"
+      }
+    ],
+    "6.8.1": [
+      {
+        "d": "google.com",
+        "n": "Reproductive Health",
+        "u": "https://www.google.com/search?q=Women%27s+Health+Reproductive+Health+health"
+      }
+    ],
+    "6.8.2": [
+      {
+        "d": "google.com",
+        "n": "Pregnancy",
+        "u": "https://www.google.com/search?q=Women%27s+Health+Pregnancy+health"
+      }
+    ],
+    "6.8.3": [
+      {
+        "d": "google.com",
+        "n": "Menopause",
+        "u": "https://www.google.com/search?q=Women%27s+Health+Menopause+health"
+      }
+    ],
+    "6.8.4": [
+      {
+        "d": "google.com",
+        "n": "PCOS",
+        "u": "https://www.google.com/search?q=Women%27s+Health+PCOS+health"
+      }
+    ],
+    "6.8.6": [
+      {
+        "d": "google.com",
+        "n": "Endometriosis",
+        "u": "https://www.google.com/search?q=Women%27s+Health+Endometriosis+health"
+      }
+    ],
+    "6.8.7": [
+      {
+        "d": "google.com",
+        "n": "Breast Health",
+        "u": "https://www.google.com/search?q=Women%27s+Health+Breast+Health+health"
+      }
+    ],
+    "6.8.8": [
+      {
+        "d": "google.com",
+        "n": "Pelvic Floor",
+        "u": "https://www.google.com/search?q=Women%27s+Health+Pelvic+Floor+health"
+      }
+    ],
+    "6.8.9": [
+      {
+        "d": "google.com",
+        "n": "Hormonal Balance",
+        "u": "https://www.google.com/search?q=Women%27s+Health+Hormonal+Balance+health"
+      }
+    ],
+    "6.9.1": [
+      {
+        "d": "google.com",
+        "n": "Prostate Health",
+        "u": "https://www.google.com/search?q=Men%27s+Health+Prostate+Health+health"
+      }
+    ],
+    "6.9.2": [
+      {
+        "d": "google.com",
+        "n": "Testosterone",
+        "u": "https://www.google.com/search?q=Men%27s+Health+Testosterone+health"
+      }
+    ],
+    "6.9.3": [
+      {
+        "d": "google.com",
+        "n": "Heart Health",
+        "u": "https://www.google.com/search?q=Men%27s+Health+Heart+Health+health"
+      }
+    ],
+    "6.9.4": [
+      {
+        "d": "google.com",
+        "n": "Hair Loss",
+        "u": "https://www.google.com/search?q=Men%27s+Health+Hair+Loss+health"
+      }
+    ],
+    "6.9.6": [
+      {
+        "d": "google.com",
+        "n": "ED Treatment",
+        "u": "https://www.google.com/search?q=Men%27s+Health+ED+Treatment+health"
+      }
+    ],
+    "6.9.7": [
+      {
+        "d": "google.com",
+        "n": "Fertility",
+        "u": "https://www.google.com/search?q=Men%27s+Health+Fertility+health"
+      }
+    ],
+    "6.9.8": [
+      {
+        "d": "google.com",
+        "n": "Mental Health",
+        "u": "https://www.google.com/search?q=Men%27s+Health+Mental+Health+health"
+      }
+    ],
+    "6.9.9": [
+      {
+        "d": "google.com",
+        "n": "Preventive Screening",
+        "u": "https://www.google.com/search?q=Men%27s+Health+Preventive+Screening+health"
+      }
+    ],
+    "7.1.1": [
+      {
+        "d": "google.com",
+        "n": "Prenatal Care",
+        "u": "https://www.google.com/search?q=Pregnancy+%26+Newborn+Prenatal+Care+health"
+      }
+    ],
+    "7.1.2": [
+      {
+        "d": "google.com",
+        "n": "Trimesters Guide",
+        "u": "https://www.google.com/search?q=Pregnancy+%26+Newborn+Trimesters+Guide+health"
+      }
+    ],
+    "7.1.3": [
+      {
+        "d": "google.com",
+        "n": "Birth Plan",
+        "u": "https://www.google.com/search?q=Pregnancy+%26+Newborn+Birth+Plan+health"
+      }
+    ],
+    "7.1.4": [
+      {
+        "d": "google.com",
+        "n": "Hospital Bag",
+        "u": "https://www.google.com/search?q=Pregnancy+%26+Newborn+Hospital+Bag+health"
+      }
+    ],
+    "7.1.6": [
+      {
+        "d": "google.com",
+        "n": "Baby Registry",
+        "u": "https://www.google.com/search?q=Pregnancy+%26+Newborn+Baby+Registry+health"
+      }
+    ],
+    "7.1.7": [
+      {
+        "d": "google.com",
+        "n": "Postpartum",
+        "u": "https://www.google.com/search?q=Pregnancy+%26+Newborn+Postpartum+health"
+      }
+    ],
+    "7.1.8": [
+      {
+        "d": "google.com",
+        "n": "Newborn Care",
+        "u": "https://www.google.com/search?q=Pregnancy+%26+Newborn+Newborn+Care+health"
+      }
+    ],
+    "7.1.9": [
+      {
+        "d": "google.com",
+        "n": "Breastfeeding & Formula",
+        "u": "https://www.google.com/search?q=Pregnancy+%26+Newborn+Breastfeeding+%26+Formula+health"
+      }
+    ],
+    "7.2.1": [
+      {
+        "d": "google.com",
+        "n": "Sleep Training",
+        "u": "https://www.google.com/search?q=Baby+%26+Toddler+Sleep+Training+health"
+      }
+    ],
+    "7.2.2": [
+      {
+        "d": "google.com",
+        "n": "Feeding Milestones",
+        "u": "https://www.google.com/search?q=Baby+%26+Toddler+Feeding+Milestones+health"
+      }
+    ],
+    "7.2.3": [
+      {
+        "d": "google.com",
+        "n": "Developmental Stages",
+        "u": "https://www.google.com/search?q=Baby+%26+Toddler+Developmental+Stages+health"
+      }
+    ],
+    "7.2.4": [
+      {
+        "d": "google.com",
+        "n": "Baby Gear Reviews",
+        "u": "https://www.google.com/search?q=Baby+%26+Toddler+Baby+Gear+Reviews+health"
+      }
+    ],
+    "7.2.6": [
+      {
+        "d": "google.com",
+        "n": "Teething",
+        "u": "https://www.google.com/search?q=Baby+%26+Toddler+Teething+health"
+      }
+    ],
+    "7.2.7": [
+      {
+        "d": "google.com",
+        "n": "Potty Training",
+        "u": "https://www.google.com/search?q=Baby+%26+Toddler+Potty+Training+health"
+      }
+    ],
+    "7.2.8": [
+      {
+        "d": "google.com",
+        "n": "Toddler Activities",
+        "u": "https://www.google.com/search?q=Baby+%26+Toddler+Toddler+Activities+health"
+      }
+    ],
+    "7.2.9": [
+      {
+        "d": "google.com",
+        "n": "Safety Proofing",
+        "u": "https://www.google.com/search?q=Baby+%26+Toddler+Safety+Proofing+health"
+      }
+    ],
+    "7.3.1": [
+      {
+        "d": "google.com",
+        "n": "School Support",
+        "u": "https://www.google.com/search?q=Kids+5-12+School+Support+health"
+      }
+    ],
+    "7.3.2": [
+      {
+        "d": "google.com",
+        "n": "Homework Help",
+        "u": "https://www.google.com/search?q=Kids+5-12+Homework+Help+health"
+      }
+    ],
+    "7.3.3": [
+      {
+        "d": "google.com",
+        "n": "Extracurriculars",
+        "u": "https://www.google.com/search?q=Kids+5-12+Extracurriculars+health"
+      }
+    ],
+    "7.3.4": [
+      {
+        "d": "google.com",
+        "n": "Screen Time Rules",
+        "u": "https://www.google.com/search?q=Kids+5-12+Screen+Time+Rules+health"
+      }
+    ],
+    "7.3.6": [
+      {
+        "d": "google.com",
+        "n": "Bullying Prevention",
+        "u": "https://www.google.com/search?q=Kids+5-12+Bullying+Prevention+health"
+      }
+    ],
+    "7.3.7": [
+      {
+        "d": "google.com",
+        "n": "Social Skills",
+        "u": "https://www.google.com/search?q=Kids+5-12+Social+Skills+health"
+      }
+    ],
+    "7.3.8": [
+      {
+        "d": "google.com",
+        "n": "Chores & Allowance",
+        "u": "https://www.google.com/search?q=Kids+5-12+Chores+%26+Allowance+health"
+      }
+    ],
+    "7.3.9": [
+      {
+        "d": "google.com",
+        "n": "Summer Activities",
+        "u": "https://www.google.com/search?q=Kids+5-12+Summer+Activities+health"
+      }
+    ],
+    "7.4.1": [
+      {
+        "d": "google.com",
+        "n": "Communication",
+        "u": "https://www.google.com/search?q=Teenagers+Communication+health"
+      }
+    ],
+    "7.4.2": [
+      {
+        "d": "google.com",
+        "n": "Social Media Safety",
+        "u": "https://www.google.com/search?q=Teenagers+Social+Media+Safety+health"
+      }
+    ],
+    "7.4.3": [
+      {
+        "d": "google.com",
+        "n": "Driving & Independence",
+        "u": "https://www.google.com/search?q=Teenagers+Driving+%26+Independence+health"
+      }
+    ],
+    "7.4.4": [
+      {
+        "d": "google.com",
+        "n": "College Prep",
+        "u": "https://www.google.com/search?q=Teenagers+College+Prep+health"
+      }
+    ],
+    "7.4.6": [
+      {
+        "d": "google.com",
+        "n": "Teen Mental Health",
+        "u": "https://www.google.com/search?q=Teenagers+Teen+Mental+Health+health"
+      }
+    ],
+    "7.4.7": [
+      {
+        "d": "google.com",
+        "n": "Peer Pressure",
+        "u": "https://www.google.com/search?q=Teenagers+Peer+Pressure+health"
+      }
+    ],
+    "7.4.8": [
+      {
+        "d": "google.com",
+        "n": "Substance Talks",
+        "u": "https://www.google.com/search?q=Teenagers+Substance+Talks+health"
+      }
+    ],
+    "7.4.9": [
+      {
+        "d": "google.com",
+        "n": "Dating Talks",
+        "u": "https://www.google.com/search?q=Teenagers+Dating+Talks+health"
+      }
+    ],
+    "7.6.1": [
+      {
+        "d": "google.com",
+        "n": "Public vs Private",
+        "u": "https://www.google.com/search?q=Education+Choices+Public+vs+Private+health"
+      }
+    ],
+    "7.6.2": [
+      {
+        "d": "google.com",
+        "n": "Homeschool",
+        "u": "https://www.google.com/search?q=Education+Choices+Homeschool+health"
+      }
+    ],
+    "7.6.3": [
+      {
+        "d": "google.com",
+        "n": "Charter Schools",
+        "u": "https://www.google.com/search?q=Education+Choices+Charter+Schools+health"
+      }
+    ],
+    "7.6.4": [
+      {
+        "d": "google.com",
+        "n": "Montessori",
+        "u": "https://www.google.com/search?q=Education+Choices+Montessori+health"
+      }
+    ],
+    "7.6.6": [
+      {
+        "d": "google.com",
+        "n": "Tutoring",
+        "u": "https://www.google.com/search?q=Education+Choices+Tutoring+health"
+      }
+    ],
+    "7.6.7": [
+      {
+        "d": "google.com",
+        "n": "Special Education",
+        "u": "https://www.google.com/search?q=Education+Choices+Special+Education+health"
+      }
+    ],
+    "7.6.8": [
+      {
+        "d": "google.com",
+        "n": "Gifted Programs",
+        "u": "https://www.google.com/search?q=Education+Choices+Gifted+Programs+health"
+      }
+    ],
+    "7.6.9": [
+      {
+        "d": "google.com",
+        "n": "College Planning",
+        "u": "https://www.google.com/search?q=Education+Choices+College+Planning+health"
+      }
+    ],
+    "7.7.1": [
+      {
+        "d": "google.com",
+        "n": "Motor Skills",
+        "u": "https://www.google.com/search?q=Child+Development+Motor+Skills+health"
+      }
+    ],
+    "7.7.2": [
+      {
+        "d": "google.com",
+        "n": "Language & Speech",
+        "u": "https://www.google.com/search?q=Child+Development+Language+%26+Speech+health"
+      }
+    ],
+    "7.7.3": [
+      {
+        "d": "google.com",
+        "n": "Emotional Intelligence",
+        "u": "https://www.google.com/search?q=Child+Development+Emotional+Intelligence+health"
+      }
+    ],
+    "7.7.4": [
+      {
+        "d": "google.com",
+        "n": "Cognitive Growth",
+        "u": "https://www.google.com/search?q=Child+Development+Cognitive+Growth+health"
+      }
+    ],
+    "7.7.6": [
+      {
+        "d": "google.com",
+        "n": "Play & Learning",
+        "u": "https://www.google.com/search?q=Child+Development+Play+%26+Learning+health"
+      }
+    ],
+    "7.7.7": [
+      {
+        "d": "google.com",
+        "n": "Developmental Delays",
+        "u": "https://www.google.com/search?q=Child+Development+Developmental+Delays+health"
+      }
+    ],
+    "7.7.8": [
+      {
+        "d": "google.com",
+        "n": "Autism Awareness",
+        "u": "https://www.google.com/search?q=Child+Development+Autism+Awareness+health"
+      }
+    ],
+    "7.7.9": [
+      {
+        "d": "google.com",
+        "n": "Behavioral Support",
+        "u": "https://www.google.com/search?q=Child+Development+Behavioral+Support+health"
+      }
+    ],
+    "7.8.1": [
+      {
+        "d": "google.com",
+        "n": "Single Parenting",
+        "u": "https://www.google.com/search?q=Family+Structure+Single+Parenting+health"
+      }
+    ],
+    "7.8.2": [
+      {
+        "d": "google.com",
+        "n": "Blended Families",
+        "u": "https://www.google.com/search?q=Family+Structure+Blended+Families+health"
+      }
+    ],
+    "7.8.3": [
+      {
+        "d": "google.com",
+        "n": "Co-Parenting",
+        "u": "https://www.google.com/search?q=Family+Structure+Co-Parenting+health"
+      }
+    ],
+    "7.8.4": [
+      {
+        "d": "google.com",
+        "n": "Adoption & Foster",
+        "u": "https://www.google.com/search?q=Family+Structure+Adoption+%26+Foster+health"
+      }
+    ],
+    "7.8.6": [
+      {
+        "d": "google.com",
+        "n": "LGBTQ+ Families",
+        "u": "https://www.google.com/search?q=Family+Structure+LGBTQ%2B+Families+health"
+      }
+    ],
+    "7.8.7": [
+      {
+        "d": "google.com",
+        "n": "Grandparents Raising",
+        "u": "https://www.google.com/search?q=Family+Structure+Grandparents+Raising+health"
+      }
+    ],
+    "7.8.8": [
+      {
+        "d": "google.com",
+        "n": "Military Families",
+        "u": "https://www.google.com/search?q=Family+Structure+Military+Families+health"
+      }
+    ],
+    "7.8.9": [
+      {
+        "d": "google.com",
+        "n": "Divorce & Kids",
+        "u": "https://www.google.com/search?q=Family+Structure+Divorce+%26+Kids+health"
+      }
+    ],
+    "7.9.1": [
+      {
+        "d": "google.com",
+        "n": "Burnout Prevention",
+        "u": "https://www.google.com/search?q=Parent+Self-Care+Burnout+Prevention+health"
+      }
+    ],
+    "7.9.2": [
+      {
+        "d": "google.com",
+        "n": "Couple Time",
+        "u": "https://www.google.com/search?q=Parent+Self-Care+Couple+Time+health"
+      }
+    ],
+    "7.9.3": [
+      {
+        "d": "google.com",
+        "n": "Support Networks",
+        "u": "https://www.google.com/search?q=Parent+Self-Care+Support+Networks+health"
+      }
+    ],
+    "7.9.4": [
+      {
+        "d": "google.com",
+        "n": "Work-Life Balance",
+        "u": "https://www.google.com/search?q=Parent+Self-Care+Work-Life+Balance+health"
+      }
+    ],
+    "7.9.6": [
+      {
+        "d": "google.com",
+        "n": "Mom Communities",
+        "u": "https://www.google.com/search?q=Parent+Self-Care+Mom+Communities+health"
+      }
+    ],
+    "7.9.7": [
+      {
+        "d": "google.com",
+        "n": "Dad Communities",
+        "u": "https://www.google.com/search?q=Parent+Self-Care+Dad+Communities+health"
+      }
+    ],
+    "7.9.8": [
+      {
+        "d": "google.com",
+        "n": "Financial Planning",
+        "u": "https://www.google.com/search?q=Parent+Self-Care+Financial+Planning+health"
+      }
+    ],
+    "7.9.9": [
+      {
+        "d": "google.com",
+        "n": "Mental Health",
+        "u": "https://www.google.com/search?q=Parent+Self-Care+Mental+Health+health"
+      }
+    ],
+    "8.1.1.1": [
+      {
+        "d": "google.com",
+        "n": "Hinge",
+        "u": "https://www.google.com/search?q=Dating+Apps+Hinge+health"
+      }
+    ],
+    "8.1.1.2": [
+      {
+        "d": "google.com",
+        "n": "Bumble",
+        "u": "https://www.google.com/search?q=Dating+Apps+Bumble+health"
+      }
+    ],
+    "8.1.1.3": [
+      {
+        "d": "google.com",
+        "n": "Tinder",
+        "u": "https://www.google.com/search?q=Dating+Apps+Tinder+health"
+      }
+    ],
+    "8.1.1.4": [
+      {
+        "d": "google.com",
+        "n": "Match.com",
+        "u": "https://www.google.com/search?q=Dating+Apps+Match.com+health"
+      }
+    ],
+    "8.1.1.6": [
+      {
+        "d": "google.com",
+        "n": "Raya",
+        "u": "https://www.google.com/search?q=Dating+Apps+Raya+health"
+      }
+    ],
+    "8.1.1.7": [
+      {
+        "d": "google.com",
+        "n": "Coffee Meets Bagel",
+        "u": "https://www.google.com/search?q=Dating+Apps+Coffee+Meets+Bagel+health"
+      }
+    ],
+    "8.1.1.8": [
+      {
+        "d": "google.com",
+        "n": "Compare Apps",
+        "u": "https://www.google.com/search?q=Dating+Apps+Compare+Apps+health"
+      }
+    ],
+    "8.1.1.9": [
+      {
+        "d": "google.com",
+        "n": "Tips & Strategy",
+        "u": "https://www.google.com/search?q=Dating+Apps+Tips+%26+Strategy+health"
+      }
+    ],
+    "8.1.2": [
+      {
+        "d": "google.com",
+        "n": "First Date Tips",
+        "u": "https://www.google.com/search?q=Start+Dating+First+Date+Tips+health"
+      }
+    ],
+    "8.1.3": [
+      {
+        "d": "google.com",
+        "n": "Online Dating Profile",
+        "u": "https://www.google.com/search?q=Start+Dating+Online+Dating+Profile+health"
+      }
+    ],
+    "8.1.4": [
+      {
+        "d": "google.com",
+        "n": "Conversation Starters",
+        "u": "https://www.google.com/search?q=Start+Dating+Conversation+Starters+health"
+      }
+    ],
+    "8.1.6": [
+      {
+        "d": "google.com",
+        "n": "Red & Green Flags",
+        "u": "https://www.google.com/search?q=Start+Dating+Red+%26+Green+Flags+health"
+      }
+    ],
+    "8.1.7": [
+      {
+        "d": "google.com",
+        "n": "Dating After Divorce",
+        "u": "https://www.google.com/search?q=Start+Dating+Dating+After+Divorce+health"
+      }
+    ],
+    "8.1.8": [
+      {
+        "d": "google.com",
+        "n": "Dating in 40s+",
+        "u": "https://www.google.com/search?q=Start+Dating+Dating+in+40s%2B+health"
+      }
+    ],
+    "8.1.9": [
+      {
+        "d": "google.com",
+        "n": "Safety Tips",
+        "u": "https://www.google.com/search?q=Start+Dating+Safety+Tips+health"
+      }
+    ],
+    "8.2.1": [
+      {
+        "d": "google.com",
+        "n": "Communication Skills",
+        "u": "https://www.google.com/search?q=Strengthen+Partnership+Communication+Skills+health"
+      }
+    ],
+    "8.2.2": [
+      {
+        "d": "google.com",
+        "n": "Date Night Ideas",
+        "u": "https://www.google.com/search?q=Strengthen+Partnership+Date+Night+Ideas+health"
+      }
+    ],
+    "8.2.3": [
+      {
+        "d": "google.com",
+        "n": "Financial Planning Together",
+        "u": "https://www.google.com/search?q=Strengthen+Partnership+Financial+Planning+Together+health"
+      }
+    ],
+    "8.2.4": [
+      {
+        "d": "google.com",
+        "n": "Keeping Romance",
+        "u": "https://www.google.com/search?q=Strengthen+Partnership+Keeping+Romance+health"
+      }
+    ],
+    "8.2.6": [
+      {
+        "d": "google.com",
+        "n": "Shared Goals",
+        "u": "https://www.google.com/search?q=Strengthen+Partnership+Shared+Goals+health"
+      }
+    ],
+    "8.2.7": [
+      {
+        "d": "google.com",
+        "n": "Conflict Repair",
+        "u": "https://www.google.com/search?q=Strengthen+Partnership+Conflict+Repair+health"
+      }
+    ],
+    "8.2.8": [
+      {
+        "d": "google.com",
+        "n": "Appreciation",
+        "u": "https://www.google.com/search?q=Strengthen+Partnership+Appreciation+health"
+      }
+    ],
+    "8.2.9": [
+      {
+        "d": "google.com",
+        "n": "Milestones",
+        "u": "https://www.google.com/search?q=Strengthen+Partnership+Milestones+health"
+      }
+    ],
+    "8.3.1": [
+      {
+        "d": "google.com",
+        "n": "Fair Fighting Rules",
+        "u": "https://www.google.com/search?q=Fix+Conflict+Fair+Fighting+Rules+health"
+      }
+    ],
+    "8.3.2": [
+      {
+        "d": "google.com",
+        "n": "De-Escalation",
+        "u": "https://www.google.com/search?q=Fix+Conflict+De-Escalation+health"
+      }
+    ],
+    "8.3.3": [
+      {
+        "d": "google.com",
+        "n": "Compromise",
+        "u": "https://www.google.com/search?q=Fix+Conflict+Compromise+health"
+      }
+    ],
+    "8.3.4": [
+      {
+        "d": "google.com",
+        "n": "Couples Counseling",
+        "u": "https://www.google.com/search?q=Fix+Conflict+Couples+Counseling+health"
+      }
+    ],
+    "8.3.6": [
+      {
+        "d": "google.com",
+        "n": "Forgiveness",
+        "u": "https://www.google.com/search?q=Fix+Conflict+Forgiveness+health"
+      }
+    ],
+    "8.3.7": [
+      {
+        "d": "google.com",
+        "n": "Repair Attempts",
+        "u": "https://www.google.com/search?q=Fix+Conflict+Repair+Attempts+health"
+      }
+    ],
+    "8.3.8": [
+      {
+        "d": "google.com",
+        "n": "Stonewalling",
+        "u": "https://www.google.com/search?q=Fix+Conflict+Stonewalling+health"
+      }
+    ],
+    "8.3.9": [
+      {
+        "d": "google.com",
+        "n": "Healthy Arguments",
+        "u": "https://www.google.com/search?q=Fix+Conflict+Healthy+Arguments+health"
+      }
+    ],
+    "8.4.1": [
+      {
+        "d": "google.com",
+        "n": "Making Adult Friends",
+        "u": "https://www.google.com/search?q=Make+%26+Keep+Friends+Making+Adult+Friends+health"
+      }
+    ],
+    "8.4.2": [
+      {
+        "d": "google.com",
+        "n": "Friendship Apps",
+        "u": "https://www.google.com/search?q=Make+%26+Keep+Friends+Friendship+Apps+health"
+      }
+    ],
+    "8.4.3": [
+      {
+        "d": "google.com",
+        "n": "Maintaining Friendships",
+        "u": "https://www.google.com/search?q=Make+%26+Keep+Friends+Maintaining+Friendships+health"
+      }
+    ],
+    "8.4.4": [
+      {
+        "d": "google.com",
+        "n": "Toxic Friendships",
+        "u": "https://www.google.com/search?q=Make+%26+Keep+Friends+Toxic+Friendships+health"
+      }
+    ],
+    "8.4.6": [
+      {
+        "d": "google.com",
+        "n": "Group Dynamics",
+        "u": "https://www.google.com/search?q=Make+%26+Keep+Friends+Group+Dynamics+health"
+      }
+    ],
+    "8.4.7": [
+      {
+        "d": "google.com",
+        "n": "Long-Distance Friends",
+        "u": "https://www.google.com/search?q=Make+%26+Keep+Friends+Long-Distance+Friends+health"
+      }
+    ],
+    "8.4.8": [
+      {
+        "d": "google.com",
+        "n": "Friend Breakups",
+        "u": "https://www.google.com/search?q=Make+%26+Keep+Friends+Friend+Breakups+health"
+      }
+    ],
+    "8.4.9": [
+      {
+        "d": "google.com",
+        "n": "Social Skills",
+        "u": "https://www.google.com/search?q=Make+%26+Keep+Friends+Social+Skills+health"
+      }
+    ],
+    "8.6.1": [
+      {
+        "d": "google.com",
+        "n": "Sibling Relationships",
+        "u": "https://www.google.com/search?q=Family+Dynamics+Sibling+Relationships+health"
+      }
+    ],
+    "8.6.2": [
+      {
+        "d": "google.com",
+        "n": "Aging Parents",
+        "u": "https://www.google.com/search?q=Family+Dynamics+Aging+Parents+health"
+      }
+    ],
+    "8.6.3": [
+      {
+        "d": "google.com",
+        "n": "Family Boundaries",
+        "u": "https://www.google.com/search?q=Family+Dynamics+Family+Boundaries+health"
+      }
+    ],
+    "8.6.4": [
+      {
+        "d": "google.com",
+        "n": "Estrangement",
+        "u": "https://www.google.com/search?q=Family+Dynamics+Estrangement+health"
+      }
+    ],
+    "8.6.6": [
+      {
+        "d": "google.com",
+        "n": "Blended Families",
+        "u": "https://www.google.com/search?q=Family+Dynamics+Blended+Families+health"
+      }
+    ],
+    "8.6.7": [
+      {
+        "d": "google.com",
+        "n": "Family Meetings",
+        "u": "https://www.google.com/search?q=Family+Dynamics+Family+Meetings+health"
+      }
+    ],
+    "8.6.8": [
+      {
+        "d": "google.com",
+        "n": "Traditions",
+        "u": "https://www.google.com/search?q=Family+Dynamics+Traditions+health"
+      }
+    ],
+    "8.6.9": [
+      {
+        "d": "google.com",
+        "n": "Caretaking",
+        "u": "https://www.google.com/search?q=Family+Dynamics+Caretaking+health"
+      }
+    ],
+    "8.7.1": [
+      {
+        "d": "google.com",
+        "n": "Active Listening",
+        "u": "https://www.google.com/search?q=Communication+Active+Listening+health"
+      }
+    ],
+    "8.7.2": [
+      {
+        "d": "google.com",
+        "n": "Assertiveness",
+        "u": "https://www.google.com/search?q=Communication+Assertiveness+health"
+      }
+    ],
+    "8.7.3": [
+      {
+        "d": "google.com",
+        "n": "Difficult Conversations",
+        "u": "https://www.google.com/search?q=Communication+Difficult+Conversations+health"
+      }
+    ],
+    "8.7.4": [
+      {
+        "d": "google.com",
+        "n": "Nonviolent Communication",
+        "u": "https://www.google.com/search?q=Communication+Nonviolent+Communication+health"
+      }
+    ],
+    "8.7.6": [
+      {
+        "d": "google.com",
+        "n": "Apologies",
+        "u": "https://www.google.com/search?q=Communication+Apologies+health"
+      }
+    ],
+    "8.7.7": [
+      {
+        "d": "google.com",
+        "n": "Body Language",
+        "u": "https://www.google.com/search?q=Communication+Body+Language+health"
+      }
+    ],
+    "8.7.8": [
+      {
+        "d": "google.com",
+        "n": "Expressing Needs",
+        "u": "https://www.google.com/search?q=Communication+Expressing+Needs+health"
+      }
+    ],
+    "8.7.9": [
+      {
+        "d": "google.com",
+        "n": "Boundaries",
+        "u": "https://www.google.com/search?q=Communication+Boundaries+health"
+      }
+    ],
+    "8.8.1": [
+      {
+        "d": "google.com",
+        "n": "Love Languages",
+        "u": "https://www.google.com/search?q=Intimacy+%26+Connection+Love+Languages+health"
+      }
+    ],
+    "8.8.2": [
+      {
+        "d": "google.com",
+        "n": "Attachment Styles",
+        "u": "https://www.google.com/search?q=Intimacy+%26+Connection+Attachment+Styles+health"
+      }
+    ],
+    "8.8.3": [
+      {
+        "d": "google.com",
+        "n": "Emotional Intimacy",
+        "u": "https://www.google.com/search?q=Intimacy+%26+Connection+Emotional+Intimacy+health"
+      }
+    ],
+    "8.8.4": [
+      {
+        "d": "google.com",
+        "n": "Trust Building",
+        "u": "https://www.google.com/search?q=Intimacy+%26+Connection+Trust+Building+health"
+      }
+    ],
+    "8.8.6": [
+      {
+        "d": "google.com",
+        "n": "Vulnerability",
+        "u": "https://www.google.com/search?q=Intimacy+%26+Connection+Vulnerability+health"
+      }
+    ],
+    "8.8.7": [
+      {
+        "d": "google.com",
+        "n": "Reconnecting",
+        "u": "https://www.google.com/search?q=Intimacy+%26+Connection+Reconnecting+health"
+      }
+    ],
+    "8.8.8": [
+      {
+        "d": "google.com",
+        "n": "Couples Activities",
+        "u": "https://www.google.com/search?q=Intimacy+%26+Connection+Couples+Activities+health"
+      }
+    ],
+    "8.8.9": [
+      {
+        "d": "google.com",
+        "n": "Physical Connection",
+        "u": "https://www.google.com/search?q=Intimacy+%26+Connection+Physical+Connection+health"
+      }
+    ],
+    "8.9.1": [
+      {
+        "d": "google.com",
+        "n": "Legal Process",
+        "u": "https://www.google.com/search?q=Divorce+%26+Moving+On+Legal+Process+health"
+      }
+    ],
+    "8.9.2": [
+      {
+        "d": "google.com",
+        "n": "Co-Parenting Plan",
+        "u": "https://www.google.com/search?q=Divorce+%26+Moving+On+Co-Parenting+Plan+health"
+      }
+    ],
+    "8.9.3": [
+      {
+        "d": "google.com",
+        "n": "Financial Split",
+        "u": "https://www.google.com/search?q=Divorce+%26+Moving+On+Financial+Split+health"
+      }
+    ],
+    "8.9.4": [
+      {
+        "d": "google.com",
+        "n": "Emotional Recovery",
+        "u": "https://www.google.com/search?q=Divorce+%26+Moving+On+Emotional+Recovery+health"
+      }
+    ],
+    "8.9.6": [
+      {
+        "d": "google.com",
+        "n": "Custody Guide",
+        "u": "https://www.google.com/search?q=Divorce+%26+Moving+On+Custody+Guide+health"
+      }
+    ],
+    "8.9.7": [
+      {
+        "d": "google.com",
+        "n": "Mediation vs Court",
+        "u": "https://www.google.com/search?q=Divorce+%26+Moving+On+Mediation+vs+Court+health"
+      }
+    ],
+    "8.9.8": [
+      {
+        "d": "google.com",
+        "n": "Starting Over",
+        "u": "https://www.google.com/search?q=Divorce+%26+Moving+On+Starting+Over+health"
+      }
+    ],
+    "8.9.9": [
+      {
+        "d": "google.com",
+        "n": "Support Resources",
+        "u": "https://www.google.com/search?q=Divorce+%26+Moving+On+Support+Resources+health"
+      }
+    ],
+    "9.1.1": [
+      {
+        "d": "google.com",
+        "n": "Sleep Hygiene Basics",
+        "u": "https://www.google.com/search?q=Fix+My+Sleep+Sleep+Hygiene+Basics+health"
+      }
+    ],
+    "9.1.2": [
+      {
+        "d": "google.com",
+        "n": "Insomnia Strategies",
+        "u": "https://www.google.com/search?q=Fix+My+Sleep+Insomnia+Strategies+health"
+      }
+    ],
+    "9.1.3": [
+      {
+        "d": "google.com",
+        "n": "Sleep Schedule Reset",
+        "u": "https://www.google.com/search?q=Fix+My+Sleep+Sleep+Schedule+Reset+health"
+      }
+    ],
+    "9.1.4": [
+      {
+        "d": "google.com",
+        "n": "Jet Lag Recovery",
+        "u": "https://www.google.com/search?q=Fix+My+Sleep+Jet+Lag+Recovery+health"
+      }
+    ],
+    "9.1.6": [
+      {
+        "d": "google.com",
+        "n": "Shift Work Sleep",
+        "u": "https://www.google.com/search?q=Fix+My+Sleep+Shift+Work+Sleep+health"
+      }
+    ],
+    "9.1.7": [
+      {
+        "d": "google.com",
+        "n": "Nap Science",
+        "u": "https://www.google.com/search?q=Fix+My+Sleep+Nap+Science+health"
+      }
+    ],
+    "9.1.8": [
+      {
+        "d": "google.com",
+        "n": "Caffeine Cutoff",
+        "u": "https://www.google.com/search?q=Fix+My+Sleep+Caffeine+Cutoff+health"
+      }
+    ],
+    "9.1.9": [
+      {
+        "d": "google.com",
+        "n": "Alcohol & Sleep",
+        "u": "https://www.google.com/search?q=Fix+My+Sleep+Alcohol+%26+Sleep+health"
+      }
+    ],
+    "9.2.1": [
+      {
+        "d": "google.com",
+        "n": "Evening Routine",
+        "u": "https://www.google.com/search?q=Wind-Down+Routine+Evening+Routine+health"
+      }
+    ],
+    "9.2.2": [
+      {
+        "d": "google.com",
+        "n": "Blue Light Blocking",
+        "u": "https://www.google.com/search?q=Wind-Down+Routine+Blue+Light+Blocking+health"
+      }
+    ],
+    "9.2.3": [
+      {
+        "d": "google.com",
+        "n": "Meditation for Sleep",
+        "u": "https://www.google.com/search?q=Wind-Down+Routine+Meditation+for+Sleep+health"
+      }
+    ],
+    "9.2.4": [
+      {
+        "d": "google.com",
+        "n": "Reading",
+        "u": "https://www.google.com/search?q=Wind-Down+Routine+Reading+health"
+      }
+    ],
+    "9.2.6": [
+      {
+        "d": "google.com",
+        "n": "Stretching",
+        "u": "https://www.google.com/search?q=Wind-Down+Routine+Stretching+health"
+      }
+    ],
+    "9.2.7": [
+      {
+        "d": "google.com",
+        "n": "Journaling",
+        "u": "https://www.google.com/search?q=Wind-Down+Routine+Journaling+health"
+      }
+    ],
+    "9.2.8": [
+      {
+        "d": "google.com",
+        "n": "Bath & Shower",
+        "u": "https://www.google.com/search?q=Wind-Down+Routine+Bath+%26+Shower+health"
+      }
+    ],
+    "9.2.9": [
+      {
+        "d": "google.com",
+        "n": "Screen Cutoff Time",
+        "u": "https://www.google.com/search?q=Wind-Down+Routine+Screen+Cutoff+Time+health"
+      }
+    ],
+    "9.3.1": [
+      {
+        "d": "google.com",
+        "n": "Temperature",
+        "u": "https://www.google.com/search?q=Sleep+Environment+Temperature+health"
+      }
+    ],
+    "9.3.2": [
+      {
+        "d": "google.com",
+        "n": "Darkness & Blackout",
+        "u": "https://www.google.com/search?q=Sleep+Environment+Darkness+%26+Blackout+health"
+      }
+    ],
+    "9.3.3": [
+      {
+        "d": "google.com",
+        "n": "Noise & White Noise",
+        "u": "https://www.google.com/search?q=Sleep+Environment+Noise+%26+White+Noise+health"
+      }
+    ],
+    "9.3.4": [
+      {
+        "d": "google.com",
+        "n": "Air Quality",
+        "u": "https://www.google.com/search?q=Sleep+Environment+Air+Quality+health"
+      }
+    ],
+    "9.3.6": [
+      {
+        "d": "google.com",
+        "n": "Mattress Guide",
+        "u": "https://www.google.com/search?q=Sleep+Environment+Mattress+Guide+health"
+      }
+    ],
+    "9.3.7": [
+      {
+        "d": "google.com",
+        "n": "Pillow Selection",
+        "u": "https://www.google.com/search?q=Sleep+Environment+Pillow+Selection+health"
+      }
+    ],
+    "9.3.8": [
+      {
+        "d": "google.com",
+        "n": "Bedding",
+        "u": "https://www.google.com/search?q=Sleep+Environment+Bedding+health"
+      }
+    ],
+    "9.3.9": [
+      {
+        "d": "google.com",
+        "n": "Sleep Masks",
+        "u": "https://www.google.com/search?q=Sleep+Environment+Sleep+Masks+health"
+      }
+    ],
+    "9.4.1": [
+      {
+        "d": "google.com",
+        "n": "Sleep Apnea",
+        "u": "https://www.google.com/search?q=Sleep+Disorders+Sleep+Apnea+health"
+      }
+    ],
+    "9.4.2": [
+      {
+        "d": "google.com",
+        "n": "Restless Legs",
+        "u": "https://www.google.com/search?q=Sleep+Disorders+Restless+Legs+health"
+      }
+    ],
+    "9.4.3": [
+      {
+        "d": "google.com",
+        "n": "Narcolepsy",
+        "u": "https://www.google.com/search?q=Sleep+Disorders+Narcolepsy+health"
+      }
+    ],
+    "9.4.4": [
+      {
+        "d": "google.com",
+        "n": "Night Terrors",
+        "u": "https://www.google.com/search?q=Sleep+Disorders+Night+Terrors+health"
+      }
+    ],
+    "9.4.6": [
+      {
+        "d": "google.com",
+        "n": "Sleepwalking",
+        "u": "https://www.google.com/search?q=Sleep+Disorders+Sleepwalking+health"
+      }
+    ],
+    "9.4.7": [
+      {
+        "d": "google.com",
+        "n": "Circadian Rhythm",
+        "u": "https://www.google.com/search?q=Sleep+Disorders+Circadian+Rhythm+health"
+      }
+    ],
+    "9.4.8": [
+      {
+        "d": "google.com",
+        "n": "Snoring",
+        "u": "https://www.google.com/search?q=Sleep+Disorders+Snoring+health"
+      }
+    ],
+    "9.4.9": [
+      {
+        "d": "google.com",
+        "n": "When to See a Doctor",
+        "u": "https://www.google.com/search?q=Sleep+Disorders+When+to+See+a+Doctor+health"
+      }
+    ],
+    "9.6.1": [
+      {
+        "d": "google.com",
+        "n": "Sleep Trackers",
+        "u": "https://www.google.com/search?q=Track+%26+Measure+Sleep+Trackers+health"
+      }
+    ],
+    "9.6.2": [
+      {
+        "d": "google.com",
+        "n": "Wearable Devices",
+        "u": "https://www.google.com/search?q=Track+%26+Measure+Wearable+Devices+health"
+      }
+    ],
+    "9.6.3": [
+      {
+        "d": "google.com",
+        "n": "Sleep Apps",
+        "u": "https://www.google.com/search?q=Track+%26+Measure+Sleep+Apps+health"
+      }
+    ],
+    "9.6.4": [
+      {
+        "d": "google.com",
+        "n": "Sleep Stages",
+        "u": "https://www.google.com/search?q=Track+%26+Measure+Sleep+Stages+health"
+      }
+    ],
+    "9.6.6": [
+      {
+        "d": "google.com",
+        "n": "HRV Monitoring",
+        "u": "https://www.google.com/search?q=Track+%26+Measure+HRV+Monitoring+health"
+      }
+    ],
+    "9.6.7": [
+      {
+        "d": "google.com",
+        "n": "Sleep Score",
+        "u": "https://www.google.com/search?q=Track+%26+Measure+Sleep+Score+health"
+      }
+    ],
+    "9.6.8": [
+      {
+        "d": "google.com",
+        "n": "Trends & Patterns",
+        "u": "https://www.google.com/search?q=Track+%26+Measure+Trends+%26+Patterns+health"
+      }
+    ],
+    "9.6.9": [
+      {
+        "d": "google.com",
+        "n": "Optimizing",
+        "u": "https://www.google.com/search?q=Track+%26+Measure+Optimizing+health"
+      }
+    ],
+    "9.7.1": [
+      {
+        "d": "google.com",
+        "n": "Box Breathing",
+        "u": "https://www.google.com/search?q=Breathing+%26+Calm+Box+Breathing+health"
+      }
+    ],
+    "9.7.2": [
+      {
+        "d": "google.com",
+        "n": "4-7-8 Technique",
+        "u": "https://www.google.com/search?q=Breathing+%26+Calm+4-7-8+Technique+health"
+      }
+    ],
+    "9.7.3": [
+      {
+        "d": "google.com",
+        "n": "Body Scan",
+        "u": "https://www.google.com/search?q=Breathing+%26+Calm+Body+Scan+health"
+      }
+    ],
+    "9.7.4": [
+      {
+        "d": "google.com",
+        "n": "Progressive Relaxation",
+        "u": "https://www.google.com/search?q=Breathing+%26+Calm+Progressive+Relaxation+health"
+      }
+    ],
+    "9.7.6": [
+      {
+        "d": "google.com",
+        "n": "NSDR / Yoga Nidra",
+        "u": "https://www.google.com/search?q=Breathing+%26+Calm+NSDR+%2F+Yoga+Nidra+health"
+      }
+    ],
+    "9.7.7": [
+      {
+        "d": "google.com",
+        "n": "Coherent Breathing",
+        "u": "https://www.google.com/search?q=Breathing+%26+Calm+Coherent+Breathing+health"
+      }
+    ],
+    "9.7.8": [
+      {
+        "d": "google.com",
+        "n": "Guided Audio",
+        "u": "https://www.google.com/search?q=Breathing+%26+Calm+Guided+Audio+health"
+      }
+    ],
+    "9.7.9": [
+      {
+        "d": "google.com",
+        "n": "Breathwork Apps",
+        "u": "https://www.google.com/search?q=Breathing+%26+Calm+Breathwork+Apps+health"
+      }
+    ],
+    "9.8.1": [
+      {
+        "d": "google.com",
+        "n": "Morning Energy",
+        "u": "https://www.google.com/search?q=Energy+%26+Recovery+Morning+Energy+health"
+      }
+    ],
+    "9.8.2": [
+      {
+        "d": "google.com",
+        "n": "Fatigue Causes",
+        "u": "https://www.google.com/search?q=Energy+%26+Recovery+Fatigue+Causes+health"
+      }
+    ],
+    "9.8.3": [
+      {
+        "d": "google.com",
+        "n": "Burnout Recovery",
+        "u": "https://www.google.com/search?q=Energy+%26+Recovery+Burnout+Recovery+health"
+      }
+    ],
+    "9.8.4": [
+      {
+        "d": "google.com",
+        "n": "Nervous System Reset",
+        "u": "https://www.google.com/search?q=Energy+%26+Recovery+Nervous+System+Reset+health"
+      }
+    ],
+    "9.8.6": [
+      {
+        "d": "google.com",
+        "n": "Caffeine Strategy",
+        "u": "https://www.google.com/search?q=Energy+%26+Recovery+Caffeine+Strategy+health"
+      }
+    ],
+    "9.8.7": [
+      {
+        "d": "google.com",
+        "n": "Light Exposure",
+        "u": "https://www.google.com/search?q=Energy+%26+Recovery+Light+Exposure+health"
+      }
+    ],
+    "9.8.8": [
+      {
+        "d": "google.com",
+        "n": "Exercise Timing",
+        "u": "https://www.google.com/search?q=Energy+%26+Recovery+Exercise+Timing+health"
+      }
+    ],
+    "9.8.9": [
+      {
+        "d": "google.com",
+        "n": "Power Naps",
+        "u": "https://www.google.com/search?q=Energy+%26+Recovery+Power+Naps+health"
+      }
+    ],
+    "9.9.1": [
+      {
+        "d": "google.com",
+        "n": "Weighted Blankets",
+        "u": "https://www.google.com/search?q=Products+%26+Tools+Weighted+Blankets+health"
+      }
+    ],
+    "9.9.2": [
+      {
+        "d": "google.com",
+        "n": "White Noise Machines",
+        "u": "https://www.google.com/search?q=Products+%26+Tools+White+Noise+Machines+health"
+      }
+    ],
+    "9.9.3": [
+      {
+        "d": "google.com",
+        "n": "Smart Beds",
+        "u": "https://www.google.com/search?q=Products+%26+Tools+Smart+Beds+health"
+      }
+    ],
+    "9.9.4": [
+      {
+        "d": "google.com",
+        "n": "Sunrise Alarms",
+        "u": "https://www.google.com/search?q=Products+%26+Tools+Sunrise+Alarms+health"
+      }
+    ],
+    "9.9.6": [
+      {
+        "d": "google.com",
+        "n": "Blue Light Glasses",
+        "u": "https://www.google.com/search?q=Products+%26+Tools+Blue+Light+Glasses+health"
+      }
+    ],
+    "9.9.7": [
+      {
+        "d": "google.com",
+        "n": "Sleep Supplements",
+        "u": "https://www.google.com/search?q=Products+%26+Tools+Sleep+Supplements+health"
+      }
+    ],
+    "9.9.8": [
+      {
+        "d": "google.com",
+        "n": "Essential Oils",
+        "u": "https://www.google.com/search?q=Products+%26+Tools+Essential+Oils+health"
+      }
+    ],
+    "9.9.9": [
+      {
+        "d": "google.com",
+        "n": "Cooling Pads",
+        "u": "https://www.google.com/search?q=Products+%26+Tools+Cooling+Pads+health"
+      }
+    ]
+  }
+}

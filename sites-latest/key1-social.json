@@ -1,0 +1,3982 @@
+{
+  "key": 1,
+  "label": "Social Media",
+  "sites": {
+    "1.1.1": [
+      {
+        "d": "google.com",
+        "n": "Home Feed",
+        "u": "https://www.google.com/search?q=Browse+%26+Discover+Home+Feed"
+      }
+    ],
+    "1.1.2": [
+      {
+        "d": "google.com",
+        "n": "Explore Page",
+        "u": "https://www.google.com/search?q=Browse+%26+Discover+Explore+Page"
+      }
+    ],
+    "1.1.3": [
+      {
+        "d": "google.com",
+        "n": "Search",
+        "u": "https://www.google.com/search?q=Browse+%26+Discover+Search"
+      }
+    ],
+    "1.1.4": [
+      {
+        "d": "google.com",
+        "n": "Hashtag Browse",
+        "u": "https://www.google.com/search?q=Browse+%26+Discover+Hashtag+Browse"
+      }
+    ],
+    "1.1.6": [
+      {
+        "d": "google.com",
+        "n": "Suggested Users",
+        "u": "https://www.google.com/search?q=Browse+%26+Discover+Suggested+Users"
+      }
+    ],
+    "1.1.7": [
+      {
+        "d": "google.com",
+        "n": "Trending Audio",
+        "u": "https://www.google.com/search?q=Browse+%26+Discover+Trending+Audio"
+      }
+    ],
+    "1.1.8": [
+      {
+        "d": "google.com",
+        "n": "Location Tags",
+        "u": "https://www.google.com/search?q=Browse+%26+Discover+Location+Tags"
+      }
+    ],
+    "1.1.9": [
+      {
+        "d": "google.com",
+        "n": "Shop Tab",
+        "u": "https://www.google.com/search?q=Browse+%26+Discover+Shop+Tab"
+      }
+    ],
+    "1.2.1": [
+      {
+        "d": "google.com",
+        "n": "Photo Post",
+        "u": "https://www.google.com/search?q=Create+%26+Post+Photo+Post"
+      }
+    ],
+    "1.2.2": [
+      {
+        "d": "google.com",
+        "n": "Reel",
+        "u": "https://www.google.com/search?q=Create+%26+Post+Reel"
+      }
+    ],
+    "1.2.3": [
+      {
+        "d": "google.com",
+        "n": "Story",
+        "u": "https://www.google.com/search?q=Create+%26+Post+Story"
+      }
+    ],
+    "1.2.4": [
+      {
+        "d": "google.com",
+        "n": "Carousel",
+        "u": "https://www.google.com/search?q=Create+%26+Post+Carousel"
+      }
+    ],
+    "1.2.6": [
+      {
+        "d": "google.com",
+        "n": "Go Live",
+        "u": "https://www.google.com/search?q=Create+%26+Post+Go+Live"
+      }
+    ],
+    "1.2.7": [
+      {
+        "d": "google.com",
+        "n": "Collab Post",
+        "u": "https://www.google.com/search?q=Create+%26+Post+Collab+Post"
+      }
+    ],
+    "1.2.8": [
+      {
+        "d": "google.com",
+        "n": "Schedule Post",
+        "u": "https://www.google.com/search?q=Create+%26+Post+Schedule+Post"
+      }
+    ],
+    "1.2.9": [
+      {
+        "d": "google.com",
+        "n": "Drafts",
+        "u": "https://www.google.com/search?q=Create+%26+Post+Drafts"
+      }
+    ],
+    "1.3.1": [
+      {
+        "d": "google.com",
+        "n": "Inbox",
+        "u": "https://www.google.com/search?q=Messaging+Inbox"
+      }
+    ],
+    "1.3.2": [
+      {
+        "d": "google.com",
+        "n": "Group Chats",
+        "u": "https://www.google.com/search?q=Messaging+Group+Chats"
+      }
+    ],
+    "1.3.3": [
+      {
+        "d": "google.com",
+        "n": "Requests",
+        "u": "https://www.google.com/search?q=Messaging+Requests"
+      }
+    ],
+    "1.3.4": [
+      {
+        "d": "google.com",
+        "n": "Video Call",
+        "u": "https://www.google.com/search?q=Messaging+Video+Call"
+      }
+    ],
+    "1.3.6": [
+      {
+        "d": "google.com",
+        "n": "Vanish Mode",
+        "u": "https://www.google.com/search?q=Messaging+Vanish+Mode"
+      }
+    ],
+    "1.3.7": [
+      {
+        "d": "google.com",
+        "n": "Channels",
+        "u": "https://www.google.com/search?q=Messaging+Channels"
+      }
+    ],
+    "1.3.8": [
+      {
+        "d": "google.com",
+        "n": "Broadcast",
+        "u": "https://www.google.com/search?q=Messaging+Broadcast"
+      }
+    ],
+    "1.3.9": [
+      {
+        "d": "google.com",
+        "n": "Notes",
+        "u": "https://www.google.com/search?q=Messaging+Notes"
+      }
+    ],
+    "1.4.1": [
+      {
+        "d": "google.com",
+        "n": "Create Story",
+        "u": "https://www.google.com/search?q=Stories+%26+Reels+Create+Story"
+      }
+    ],
+    "1.4.2": [
+      {
+        "d": "google.com",
+        "n": "Highlights",
+        "u": "https://www.google.com/search?q=Stories+%26+Reels+Highlights"
+      }
+    ],
+    "1.4.3": [
+      {
+        "d": "google.com",
+        "n": "Reels Feed",
+        "u": "https://www.google.com/search?q=Stories+%26+Reels+Reels+Feed"
+      }
+    ],
+    "1.4.4": [
+      {
+        "d": "google.com",
+        "n": "Trending Reels",
+        "u": "https://www.google.com/search?q=Stories+%26+Reels+Trending+Reels"
+      }
+    ],
+    "1.4.6": [
+      {
+        "d": "google.com",
+        "n": "Audio Library",
+        "u": "https://www.google.com/search?q=Stories+%26+Reels+Audio+Library"
+      }
+    ],
+    "1.4.7": [
+      {
+        "d": "google.com",
+        "n": "Templates",
+        "u": "https://www.google.com/search?q=Stories+%26+Reels+Templates"
+      }
+    ],
+    "1.4.8": [
+      {
+        "d": "google.com",
+        "n": "Effects",
+        "u": "https://www.google.com/search?q=Stories+%26+Reels+Effects"
+      }
+    ],
+    "1.4.9": [
+      {
+        "d": "google.com",
+        "n": "Story Archive",
+        "u": "https://www.google.com/search?q=Stories+%26+Reels+Story+Archive"
+      }
+    ],
+    "1.6.1": [
+      {
+        "d": "google.com",
+        "n": "Edit Profile",
+        "u": "https://www.google.com/search?q=Profile+%26+Account+Edit+Profile"
+      }
+    ],
+    "1.6.2": [
+      {
+        "d": "google.com",
+        "n": "Saved Posts",
+        "u": "https://www.google.com/search?q=Profile+%26+Account+Saved+Posts"
+      }
+    ],
+    "1.6.3": [
+      {
+        "d": "google.com",
+        "n": "Archive",
+        "u": "https://www.google.com/search?q=Profile+%26+Account+Archive"
+      }
+    ],
+    "1.6.4": [
+      {
+        "d": "google.com",
+        "n": "Close Friends",
+        "u": "https://www.google.com/search?q=Profile+%26+Account+Close+Friends"
+      }
+    ],
+    "1.6.6": [
+      {
+        "d": "google.com",
+        "n": "Privacy Settings",
+        "u": "https://www.google.com/search?q=Profile+%26+Account+Privacy+Settings"
+      }
+    ],
+    "1.6.7": [
+      {
+        "d": "google.com",
+        "n": "Notifications",
+        "u": "https://www.google.com/search?q=Profile+%26+Account+Notifications"
+      }
+    ],
+    "1.6.8": [
+      {
+        "d": "google.com",
+        "n": "Linked Accounts",
+        "u": "https://www.google.com/search?q=Profile+%26+Account+Linked+Accounts"
+      }
+    ],
+    "1.6.9": [
+      {
+        "d": "google.com",
+        "n": "Activity Status",
+        "u": "https://www.google.com/search?q=Profile+%26+Account+Activity+Status"
+      }
+    ],
+    "1.7.1": [
+      {
+        "d": "google.com",
+        "n": "Overview",
+        "u": "https://www.google.com/search?q=Analytics+Overview"
+      }
+    ],
+    "1.7.2": [
+      {
+        "d": "google.com",
+        "n": "Reach",
+        "u": "https://www.google.com/search?q=Analytics+Reach"
+      }
+    ],
+    "1.7.3": [
+      {
+        "d": "google.com",
+        "n": "Engagement",
+        "u": "https://www.google.com/search?q=Analytics+Engagement"
+      }
+    ],
+    "1.7.4": [
+      {
+        "d": "google.com",
+        "n": "Followers",
+        "u": "https://www.google.com/search?q=Analytics+Followers"
+      }
+    ],
+    "1.7.6": [
+      {
+        "d": "google.com",
+        "n": "Content Performance",
+        "u": "https://www.google.com/search?q=Analytics+Content+Performance"
+      }
+    ],
+    "1.7.7": [
+      {
+        "d": "google.com",
+        "n": "Best Times",
+        "u": "https://www.google.com/search?q=Analytics+Best+Times"
+      }
+    ],
+    "1.7.8": [
+      {
+        "d": "google.com",
+        "n": "Story Metrics",
+        "u": "https://www.google.com/search?q=Analytics+Story+Metrics"
+      }
+    ],
+    "1.7.9": [
+      {
+        "d": "google.com",
+        "n": "Reel Metrics",
+        "u": "https://www.google.com/search?q=Analytics+Reel+Metrics"
+      }
+    ],
+    "1.8.1": [
+      {
+        "d": "google.com",
+        "n": "Shop Browse",
+        "u": "https://www.google.com/search?q=Shopping+Shop+Browse"
+      }
+    ],
+    "1.8.2": [
+      {
+        "d": "google.com",
+        "n": "Wishlist",
+        "u": "https://www.google.com/search?q=Shopping+Wishlist"
+      }
+    ],
+    "1.8.3": [
+      {
+        "d": "google.com",
+        "n": "Collections",
+        "u": "https://www.google.com/search?q=Shopping+Collections"
+      }
+    ],
+    "1.8.4": [
+      {
+        "d": "google.com",
+        "n": "Product Tags",
+        "u": "https://www.google.com/search?q=Shopping+Product+Tags"
+      }
+    ],
+    "1.8.6": [
+      {
+        "d": "google.com",
+        "n": "Live Shopping",
+        "u": "https://www.google.com/search?q=Shopping+Live+Shopping"
+      }
+    ],
+    "1.8.7": [
+      {
+        "d": "google.com",
+        "n": "Checkout",
+        "u": "https://www.google.com/search?q=Shopping+Checkout"
+      }
+    ],
+    "1.8.8": [
+      {
+        "d": "google.com",
+        "n": "Order History",
+        "u": "https://www.google.com/search?q=Shopping+Order+History"
+      }
+    ],
+    "1.8.9": [
+      {
+        "d": "google.com",
+        "n": "Creator Shop",
+        "u": "https://www.google.com/search?q=Shopping+Creator+Shop"
+      }
+    ],
+    "1.9.1": [
+      {
+        "d": "google.com",
+        "n": "Account Settings",
+        "u": "https://www.google.com/search?q=Settings+%26+Safety+Account+Settings"
+      }
+    ],
+    "1.9.2": [
+      {
+        "d": "google.com",
+        "n": "Security",
+        "u": "https://www.google.com/search?q=Settings+%26+Safety+Security"
+      }
+    ],
+    "1.9.3": [
+      {
+        "d": "google.com",
+        "n": "Blocked Accounts",
+        "u": "https://www.google.com/search?q=Settings+%26+Safety+Blocked+Accounts"
+      }
+    ],
+    "1.9.4": [
+      {
+        "d": "google.com",
+        "n": "Restricted",
+        "u": "https://www.google.com/search?q=Settings+%26+Safety+Restricted"
+      }
+    ],
+    "1.9.6": [
+      {
+        "d": "google.com",
+        "n": "Content Preferences",
+        "u": "https://www.google.com/search?q=Settings+%26+Safety+Content+Preferences"
+      }
+    ],
+    "1.9.7": [
+      {
+        "d": "google.com",
+        "n": "Data Download",
+        "u": "https://www.google.com/search?q=Settings+%26+Safety+Data+Download"
+      }
+    ],
+    "1.9.8": [
+      {
+        "d": "google.com",
+        "n": "Help Center",
+        "u": "https://www.google.com/search?q=Settings+%26+Safety+Help+Center"
+      }
+    ],
+    "1.9.9": [
+      {
+        "d": "google.com",
+        "n": "Report",
+        "u": "https://www.google.com/search?q=Settings+%26+Safety+Report"
+      }
+    ],
+    "2.1.1": [
+      {
+        "d": "google.com",
+        "n": "For You Page",
+        "u": "https://www.google.com/search?q=Browse+%26+Watch+For+You+Page"
+      }
+    ],
+    "2.1.2": [
+      {
+        "d": "google.com",
+        "n": "Following Feed",
+        "u": "https://www.google.com/search?q=Browse+%26+Watch+Following+Feed"
+      }
+    ],
+    "2.1.3": [
+      {
+        "d": "google.com",
+        "n": "Friends",
+        "u": "https://www.google.com/search?q=Browse+%26+Watch+Friends"
+      }
+    ],
+    "2.1.4": [
+      {
+        "d": "google.com",
+        "n": "Explore",
+        "u": "https://www.google.com/search?q=Browse+%26+Watch+Explore"
+      }
+    ],
+    "2.1.6": [
+      {
+        "d": "google.com",
+        "n": "Search",
+        "u": "https://www.google.com/search?q=Browse+%26+Watch+Search"
+      }
+    ],
+    "2.1.7": [
+      {
+        "d": "google.com",
+        "n": "Live Feed",
+        "u": "https://www.google.com/search?q=Browse+%26+Watch+Live+Feed"
+      }
+    ],
+    "2.1.8": [
+      {
+        "d": "google.com",
+        "n": "Watch History",
+        "u": "https://www.google.com/search?q=Browse+%26+Watch+Watch+History"
+      }
+    ],
+    "2.1.9": [
+      {
+        "d": "google.com",
+        "n": "Screen Time",
+        "u": "https://www.google.com/search?q=Browse+%26+Watch+Screen+Time"
+      }
+    ],
+    "2.2.1": [
+      {
+        "d": "google.com",
+        "n": "Record Video",
+        "u": "https://www.google.com/search?q=Create+%26+Edit+Record+Video"
+      }
+    ],
+    "2.2.2": [
+      {
+        "d": "google.com",
+        "n": "Upload",
+        "u": "https://www.google.com/search?q=Create+%26+Edit+Upload"
+      }
+    ],
+    "2.2.3": [
+      {
+        "d": "google.com",
+        "n": "Effects & Filters",
+        "u": "https://www.google.com/search?q=Create+%26+Edit+Effects+%26+Filters"
+      }
+    ],
+    "2.2.4": [
+      {
+        "d": "google.com",
+        "n": "Sounds Library",
+        "u": "https://www.google.com/search?q=Create+%26+Edit+Sounds+Library"
+      }
+    ],
+    "2.2.6": [
+      {
+        "d": "google.com",
+        "n": "Text & Stickers",
+        "u": "https://www.google.com/search?q=Create+%26+Edit+Text+%26+Stickers"
+      }
+    ],
+    "2.2.7": [
+      {
+        "d": "google.com",
+        "n": "Green Screen",
+        "u": "https://www.google.com/search?q=Create+%26+Edit+Green+Screen"
+      }
+    ],
+    "2.2.8": [
+      {
+        "d": "google.com",
+        "n": "Duet / Stitch",
+        "u": "https://www.google.com/search?q=Create+%26+Edit+Duet+%2F+Stitch"
+      }
+    ],
+    "2.2.9": [
+      {
+        "d": "google.com",
+        "n": "Drafts",
+        "u": "https://www.google.com/search?q=Create+%26+Edit+Drafts"
+      }
+    ],
+    "2.3.1": [
+      {
+        "d": "google.com",
+        "n": "Inbox",
+        "u": "https://www.google.com/search?q=Messaging+Inbox"
+      }
+    ],
+    "2.3.2": [
+      {
+        "d": "google.com",
+        "n": "Group Chat",
+        "u": "https://www.google.com/search?q=Messaging+Group+Chat"
+      }
+    ],
+    "2.3.3": [
+      {
+        "d": "google.com",
+        "n": "Activity",
+        "u": "https://www.google.com/search?q=Messaging+Activity"
+      }
+    ],
+    "2.3.4": [
+      {
+        "d": "google.com",
+        "n": "System Notices",
+        "u": "https://www.google.com/search?q=Messaging+System+Notices"
+      }
+    ],
+    "2.3.6": [
+      {
+        "d": "google.com",
+        "n": "Message Requests",
+        "u": "https://www.google.com/search?q=Messaging+Message+Requests"
+      }
+    ],
+    "2.3.7": [
+      {
+        "d": "google.com",
+        "n": "Video Call",
+        "u": "https://www.google.com/search?q=Messaging+Video+Call"
+      }
+    ],
+    "2.3.8": [
+      {
+        "d": "google.com",
+        "n": "Share Content",
+        "u": "https://www.google.com/search?q=Messaging+Share+Content"
+      }
+    ],
+    "2.3.9": [
+      {
+        "d": "google.com",
+        "n": "Chat Settings",
+        "u": "https://www.google.com/search?q=Messaging+Chat+Settings"
+      }
+    ],
+    "2.4.1": [
+      {
+        "d": "google.com",
+        "n": "Analytics",
+        "u": "https://www.google.com/search?q=Creator+Tools+Analytics"
+      }
+    ],
+    "2.4.2": [
+      {
+        "d": "google.com",
+        "n": "Promote",
+        "u": "https://www.google.com/search?q=Creator+Tools+Promote"
+      }
+    ],
+    "2.4.3": [
+      {
+        "d": "google.com",
+        "n": "Creator Fund",
+        "u": "https://www.google.com/search?q=Creator+Tools+Creator+Fund"
+      }
+    ],
+    "2.4.4": [
+      {
+        "d": "google.com",
+        "n": "Creator Marketplace",
+        "u": "https://www.google.com/search?q=Creator+Tools+Creator+Marketplace"
+      }
+    ],
+    "2.4.6": [
+      {
+        "d": "google.com",
+        "n": "Series",
+        "u": "https://www.google.com/search?q=Creator+Tools+Series"
+      }
+    ],
+    "2.4.7": [
+      {
+        "d": "google.com",
+        "n": "Playlists",
+        "u": "https://www.google.com/search?q=Creator+Tools+Playlists"
+      }
+    ],
+    "2.4.8": [
+      {
+        "d": "google.com",
+        "n": "Schedule",
+        "u": "https://www.google.com/search?q=Creator+Tools+Schedule"
+      }
+    ],
+    "2.4.9": [
+      {
+        "d": "google.com",
+        "n": "Content Tips",
+        "u": "https://www.google.com/search?q=Creator+Tools+Content+Tips"
+      }
+    ],
+    "2.6.1": [
+      {
+        "d": "google.com",
+        "n": "Browse Products",
+        "u": "https://www.google.com/search?q=TikTok+Shop+Browse+Products"
+      }
+    ],
+    "2.6.2": [
+      {
+        "d": "google.com",
+        "n": "Live Shopping",
+        "u": "https://www.google.com/search?q=TikTok+Shop+Live+Shopping"
+      }
+    ],
+    "2.6.3": [
+      {
+        "d": "google.com",
+        "n": "Product Reviews",
+        "u": "https://www.google.com/search?q=TikTok+Shop+Product+Reviews"
+      }
+    ],
+    "2.6.4": [
+      {
+        "d": "google.com",
+        "n": "Affiliate",
+        "u": "https://www.google.com/search?q=TikTok+Shop+Affiliate"
+      }
+    ],
+    "2.6.6": [
+      {
+        "d": "google.com",
+        "n": "Cart & Orders",
+        "u": "https://www.google.com/search?q=TikTok+Shop+Cart+%26+Orders"
+      }
+    ],
+    "2.6.7": [
+      {
+        "d": "google.com",
+        "n": "Seller Dashboard",
+        "u": "https://www.google.com/search?q=TikTok+Shop+Seller+Dashboard"
+      }
+    ],
+    "2.6.8": [
+      {
+        "d": "google.com",
+        "n": "Deals",
+        "u": "https://www.google.com/search?q=TikTok+Shop+Deals"
+      }
+    ],
+    "2.6.9": [
+      {
+        "d": "google.com",
+        "n": "Creator Shop",
+        "u": "https://www.google.com/search?q=TikTok+Shop+Creator+Shop"
+      }
+    ],
+    "2.7.1": [
+      {
+        "d": "google.com",
+        "n": "Viral Audio",
+        "u": "https://www.google.com/search?q=Sounds+%26+Trends+Viral+Audio"
+      }
+    ],
+    "2.7.2": [
+      {
+        "d": "google.com",
+        "n": "Music Charts",
+        "u": "https://www.google.com/search?q=Sounds+%26+Trends+Music+Charts"
+      }
+    ],
+    "2.7.3": [
+      {
+        "d": "google.com",
+        "n": "Sound Search",
+        "u": "https://www.google.com/search?q=Sounds+%26+Trends+Sound+Search"
+      }
+    ],
+    "2.7.4": [
+      {
+        "d": "google.com",
+        "n": "Original Sounds",
+        "u": "https://www.google.com/search?q=Sounds+%26+Trends+Original+Sounds"
+      }
+    ],
+    "2.7.6": [
+      {
+        "d": "google.com",
+        "n": "Trending Artists",
+        "u": "https://www.google.com/search?q=Sounds+%26+Trends+Trending+Artists"
+      }
+    ],
+    "2.7.7": [
+      {
+        "d": "google.com",
+        "n": "Saved Sounds",
+        "u": "https://www.google.com/search?q=Sounds+%26+Trends+Saved+Sounds"
+      }
+    ],
+    "2.7.8": [
+      {
+        "d": "google.com",
+        "n": "Sound Effects",
+        "u": "https://www.google.com/search?q=Sounds+%26+Trends+Sound+Effects"
+      }
+    ],
+    "2.7.9": [
+      {
+        "d": "google.com",
+        "n": "Remix",
+        "u": "https://www.google.com/search?q=Sounds+%26+Trends+Remix"
+      }
+    ],
+    "2.8.1": [
+      {
+        "d": "google.com",
+        "n": "Edit Profile",
+        "u": "https://www.google.com/search?q=Profile+%26+Account+Edit+Profile"
+      }
+    ],
+    "2.8.2": [
+      {
+        "d": "google.com",
+        "n": "Privacy",
+        "u": "https://www.google.com/search?q=Profile+%26+Account+Privacy"
+      }
+    ],
+    "2.8.3": [
+      {
+        "d": "google.com",
+        "n": "QR Code",
+        "u": "https://www.google.com/search?q=Profile+%26+Account+QR+Code"
+      }
+    ],
+    "2.8.4": [
+      {
+        "d": "google.com",
+        "n": "Linked Accounts",
+        "u": "https://www.google.com/search?q=Profile+%26+Account+Linked+Accounts"
+      }
+    ],
+    "2.8.6": [
+      {
+        "d": "google.com",
+        "n": "Content Preferences",
+        "u": "https://www.google.com/search?q=Profile+%26+Account+Content+Preferences"
+      }
+    ],
+    "2.8.7": [
+      {
+        "d": "google.com",
+        "n": "Notifications",
+        "u": "https://www.google.com/search?q=Profile+%26+Account+Notifications"
+      }
+    ],
+    "2.8.8": [
+      {
+        "d": "google.com",
+        "n": "Data & Storage",
+        "u": "https://www.google.com/search?q=Profile+%26+Account+Data+%26+Storage"
+      }
+    ],
+    "2.8.9": [
+      {
+        "d": "google.com",
+        "n": "Parental Controls",
+        "u": "https://www.google.com/search?q=Profile+%26+Account+Parental+Controls"
+      }
+    ],
+    "2.9.1": [
+      {
+        "d": "google.com",
+        "n": "Trending Hashtags",
+        "u": "https://www.google.com/search?q=Communities+Trending+Hashtags"
+      }
+    ],
+    "2.9.2": [
+      {
+        "d": "google.com",
+        "n": "Challenges",
+        "u": "https://www.google.com/search?q=Communities+Challenges"
+      }
+    ],
+    "2.9.3": [
+      {
+        "d": "google.com",
+        "n": "Topic Pages",
+        "u": "https://www.google.com/search?q=Communities+Topic+Pages"
+      }
+    ],
+    "2.9.4": [
+      {
+        "d": "google.com",
+        "n": "Location Tags",
+        "u": "https://www.google.com/search?q=Communities+Location+Tags"
+      }
+    ],
+    "2.9.6": [
+      {
+        "d": "google.com",
+        "n": "Events",
+        "u": "https://www.google.com/search?q=Communities+Events"
+      }
+    ],
+    "2.9.7": [
+      {
+        "d": "google.com",
+        "n": "Subcultures",
+        "u": "https://www.google.com/search?q=Communities+Subcultures"
+      }
+    ],
+    "2.9.8": [
+      {
+        "d": "google.com",
+        "n": "Collab Houses",
+        "u": "https://www.google.com/search?q=Communities+Collab+Houses"
+      }
+    ],
+    "2.9.9": [
+      {
+        "d": "google.com",
+        "n": "Creator Spotlights",
+        "u": "https://www.google.com/search?q=Communities+Creator+Spotlights"
+      }
+    ],
+    "3.1.1": [
+      {
+        "d": "google.com",
+        "n": "For You Tab",
+        "u": "https://www.google.com/search?q=Browse+%26+Read+For+You+Tab"
+      }
+    ],
+    "3.1.2": [
+      {
+        "d": "google.com",
+        "n": "Following Tab",
+        "u": "https://www.google.com/search?q=Browse+%26+Read+Following+Tab"
+      }
+    ],
+    "3.1.3": [
+      {
+        "d": "google.com",
+        "n": "Trending",
+        "u": "https://www.google.com/search?q=Browse+%26+Read+Trending"
+      }
+    ],
+    "3.1.4": [
+      {
+        "d": "google.com",
+        "n": "Explore Page",
+        "u": "https://www.google.com/search?q=Browse+%26+Read+Explore+Page"
+      }
+    ],
+    "3.1.6": [
+      {
+        "d": "google.com",
+        "n": "Lists",
+        "u": "https://www.google.com/search?q=Browse+%26+Read+Lists"
+      }
+    ],
+    "3.1.7": [
+      {
+        "d": "google.com",
+        "n": "Search",
+        "u": "https://www.google.com/search?q=Browse+%26+Read+Search"
+      }
+    ],
+    "3.1.8": [
+      {
+        "d": "google.com",
+        "n": "Hashtags",
+        "u": "https://www.google.com/search?q=Browse+%26+Read+Hashtags"
+      }
+    ],
+    "3.1.9": [
+      {
+        "d": "google.com",
+        "n": "Topics",
+        "u": "https://www.google.com/search?q=Browse+%26+Read+Topics"
+      }
+    ],
+    "3.2.1": [
+      {
+        "d": "google.com",
+        "n": "Compose Post",
+        "u": "https://www.google.com/search?q=Post+%26+Engage+Compose+Post"
+      }
+    ],
+    "3.2.2": [
+      {
+        "d": "google.com",
+        "n": "Reply",
+        "u": "https://www.google.com/search?q=Post+%26+Engage+Reply"
+      }
+    ],
+    "3.2.3": [
+      {
+        "d": "google.com",
+        "n": "Repost",
+        "u": "https://www.google.com/search?q=Post+%26+Engage+Repost"
+      }
+    ],
+    "3.2.4": [
+      {
+        "d": "google.com",
+        "n": "Quote",
+        "u": "https://www.google.com/search?q=Post+%26+Engage+Quote"
+      }
+    ],
+    "3.2.6": [
+      {
+        "d": "google.com",
+        "n": "Polls",
+        "u": "https://www.google.com/search?q=Post+%26+Engage+Polls"
+      }
+    ],
+    "3.2.7": [
+      {
+        "d": "google.com",
+        "n": "Schedule Post",
+        "u": "https://www.google.com/search?q=Post+%26+Engage+Schedule+Post"
+      }
+    ],
+    "3.2.8": [
+      {
+        "d": "threads.net",
+        "n": "Threads",
+        "u": "https://www.threads.net"
+      }
+    ],
+    "3.2.9": [
+      {
+        "d": "google.com",
+        "n": "Drafts",
+        "u": "https://www.google.com/search?q=Post+%26+Engage+Drafts"
+      }
+    ],
+    "3.3.1": [
+      {
+        "d": "google.com",
+        "n": "DM Inbox",
+        "u": "https://www.google.com/search?q=Messaging+DM+Inbox"
+      }
+    ],
+    "3.3.2": [
+      {
+        "d": "google.com",
+        "n": "Group DMs",
+        "u": "https://www.google.com/search?q=Messaging+Group+DMs"
+      }
+    ],
+    "3.3.3": [
+      {
+        "d": "google.com",
+        "n": "Requests",
+        "u": "https://www.google.com/search?q=Messaging+Requests"
+      }
+    ],
+    "3.3.4": [
+      {
+        "d": "google.com",
+        "n": "Voice DMs",
+        "u": "https://www.google.com/search?q=Messaging+Voice+DMs"
+      }
+    ],
+    "3.3.6": [
+      {
+        "d": "google.com",
+        "n": "Encrypted DMs",
+        "u": "https://www.google.com/search?q=Messaging+Encrypted+DMs"
+      }
+    ],
+    "3.3.7": [
+      {
+        "d": "google.com",
+        "n": "Reactions",
+        "u": "https://www.google.com/search?q=Messaging+Reactions"
+      }
+    ],
+    "3.3.8": [
+      {
+        "d": "google.com",
+        "n": "Broadcast",
+        "u": "https://www.google.com/search?q=Messaging+Broadcast"
+      }
+    ],
+    "3.3.9": [
+      {
+        "d": "google.com",
+        "n": "Settings",
+        "u": "https://www.google.com/search?q=Messaging+Settings"
+      }
+    ],
+    "3.4.1": [
+      {
+        "d": "google.com",
+        "n": "Live Spaces",
+        "u": "https://www.google.com/search?q=Spaces+Live+Spaces"
+      }
+    ],
+    "3.4.2": [
+      {
+        "d": "google.com",
+        "n": "Scheduled",
+        "u": "https://www.google.com/search?q=Spaces+Scheduled"
+      }
+    ],
+    "3.4.3": [
+      {
+        "d": "google.com",
+        "n": "Host Space",
+        "u": "https://www.google.com/search?q=Spaces+Host+Space"
+      }
+    ],
+    "3.4.4": [
+      {
+        "d": "google.com",
+        "n": "Co-Host",
+        "u": "https://www.google.com/search?q=Spaces+Co-Host"
+      }
+    ],
+    "3.4.6": [
+      {
+        "d": "google.com",
+        "n": "Recordings",
+        "u": "https://www.google.com/search?q=Spaces+Recordings"
+      }
+    ],
+    "3.4.7": [
+      {
+        "d": "google.com",
+        "n": "Discovery",
+        "u": "https://www.google.com/search?q=Spaces+Discovery"
+      }
+    ],
+    "3.4.8": [
+      {
+        "d": "google.com",
+        "n": "Notifications",
+        "u": "https://www.google.com/search?q=Spaces+Notifications"
+      }
+    ],
+    "3.4.9": [
+      {
+        "d": "google.com",
+        "n": "Analytics",
+        "u": "https://www.google.com/search?q=Spaces+Analytics"
+      }
+    ],
+    "3.6.1": [
+      {
+        "d": "google.com",
+        "n": "My Communities",
+        "u": "https://www.google.com/search?q=Communities+My+Communities"
+      }
+    ],
+    "3.6.2": [
+      {
+        "d": "google.com",
+        "n": "Discover",
+        "u": "https://www.google.com/search?q=Communities+Discover"
+      }
+    ],
+    "3.6.3": [
+      {
+        "d": "google.com",
+        "n": "Community Posts",
+        "u": "https://www.google.com/search?q=Communities+Community+Posts"
+      }
+    ],
+    "3.6.4": [
+      {
+        "d": "google.com",
+        "n": "Moderation",
+        "u": "https://www.google.com/search?q=Communities+Moderation"
+      }
+    ],
+    "3.6.6": [
+      {
+        "d": "google.com",
+        "n": "Rules",
+        "u": "https://www.google.com/search?q=Communities+Rules"
+      }
+    ],
+    "3.6.7": [
+      {
+        "d": "google.com",
+        "n": "Pinned Posts",
+        "u": "https://www.google.com/search?q=Communities+Pinned+Posts"
+      }
+    ],
+    "3.6.8": [
+      {
+        "d": "google.com",
+        "n": "Member Mgmt",
+        "u": "https://www.google.com/search?q=Communities+Member+Mgmt"
+      }
+    ],
+    "3.6.9": [
+      {
+        "d": "google.com",
+        "n": "Search",
+        "u": "https://www.google.com/search?q=Communities+Search"
+      }
+    ],
+    "3.7.1": [
+      {
+        "d": "google.com",
+        "n": "Saved Posts",
+        "u": "https://www.google.com/search?q=Bookmarks+%26+Lists+Saved+Posts"
+      }
+    ],
+    "3.7.2": [
+      {
+        "d": "google.com",
+        "n": "Bookmark Folders",
+        "u": "https://www.google.com/search?q=Bookmarks+%26+Lists+Bookmark+Folders"
+      }
+    ],
+    "3.7.3": [
+      {
+        "d": "google.com",
+        "n": "My Lists",
+        "u": "https://www.google.com/search?q=Bookmarks+%26+Lists+My+Lists"
+      }
+    ],
+    "3.7.4": [
+      {
+        "d": "google.com",
+        "n": "Subscribed Lists",
+        "u": "https://www.google.com/search?q=Bookmarks+%26+Lists+Subscribed+Lists"
+      }
+    ],
+    "3.7.6": [
+      {
+        "d": "google.com",
+        "n": "Create List",
+        "u": "https://www.google.com/search?q=Bookmarks+%26+Lists+Create+List"
+      }
+    ],
+    "3.7.7": [
+      {
+        "d": "google.com",
+        "n": "Pinned Lists",
+        "u": "https://www.google.com/search?q=Bookmarks+%26+Lists+Pinned+Lists"
+      }
+    ],
+    "3.7.8": [
+      {
+        "d": "google.com",
+        "n": "Suggested",
+        "u": "https://www.google.com/search?q=Bookmarks+%26+Lists+Suggested"
+      }
+    ],
+    "3.7.9": [
+      {
+        "d": "google.com",
+        "n": "Manage",
+        "u": "https://www.google.com/search?q=Bookmarks+%26+Lists+Manage"
+      }
+    ],
+    "3.8.1": [
+      {
+        "d": "google.com",
+        "n": "Ask Grok",
+        "u": "https://www.google.com/search?q=Grok+AI+Ask+Grok"
+      }
+    ],
+    "3.8.2": [
+      {
+        "d": "google.com",
+        "n": "Trending Analysis",
+        "u": "https://www.google.com/search?q=Grok+AI+Trending+Analysis"
+      }
+    ],
+    "3.8.3": [
+      {
+        "d": "google.com",
+        "n": "Image Generation",
+        "u": "https://www.google.com/search?q=Grok+AI+Image+Generation"
+      }
+    ],
+    "3.8.4": [
+      {
+        "d": "google.com",
+        "n": "Deep Search",
+        "u": "https://www.google.com/search?q=Grok+AI+Deep+Search"
+      }
+    ],
+    "3.8.6": [
+      {
+        "d": "google.com",
+        "n": "Real-Time Answers",
+        "u": "https://www.google.com/search?q=Grok+AI+Real-Time+Answers"
+      }
+    ],
+    "3.8.7": [
+      {
+        "d": "google.com",
+        "n": "Fun Mode",
+        "u": "https://www.google.com/search?q=Grok+AI+Fun+Mode"
+      }
+    ],
+    "3.8.8": [
+      {
+        "d": "google.com",
+        "n": "Conversation",
+        "u": "https://www.google.com/search?q=Grok+AI+Conversation"
+      }
+    ],
+    "3.8.9": [
+      {
+        "d": "google.com",
+        "n": "Settings",
+        "u": "https://www.google.com/search?q=Grok+AI+Settings"
+      }
+    ],
+    "3.9.1": [
+      {
+        "d": "google.com",
+        "n": "Edit Profile",
+        "u": "https://www.google.com/search?q=Profile+%26+Settings+Edit+Profile"
+      }
+    ],
+    "3.9.2": [
+      {
+        "d": "google.com",
+        "n": "Privacy",
+        "u": "https://www.google.com/search?q=Profile+%26+Settings+Privacy"
+      }
+    ],
+    "3.9.3": [
+      {
+        "d": "google.com",
+        "n": "Muted Words",
+        "u": "https://www.google.com/search?q=Profile+%26+Settings+Muted+Words"
+      }
+    ],
+    "3.9.4": [
+      {
+        "d": "google.com",
+        "n": "Blocked",
+        "u": "https://www.google.com/search?q=Profile+%26+Settings+Blocked"
+      }
+    ],
+    "3.9.6": [
+      {
+        "d": "google.com",
+        "n": "Content Prefs",
+        "u": "https://www.google.com/search?q=Profile+%26+Settings+Content+Prefs"
+      }
+    ],
+    "3.9.7": [
+      {
+        "d": "google.com",
+        "n": "Notifications",
+        "u": "https://www.google.com/search?q=Profile+%26+Settings+Notifications"
+      }
+    ],
+    "3.9.8": [
+      {
+        "d": "google.com",
+        "n": "Monetization",
+        "u": "https://www.google.com/search?q=Profile+%26+Settings+Monetization"
+      }
+    ],
+    "3.9.9": [
+      {
+        "d": "google.com",
+        "n": "Verification",
+        "u": "https://www.google.com/search?q=Profile+%26+Settings+Verification"
+      }
+    ],
+    "4.1.1": [
+      {
+        "d": "google.com",
+        "n": "News Feed",
+        "u": "https://www.google.com/search?q=Browse+%26+Feed+News+Feed"
+      }
+    ],
+    "4.1.2": [
+      {
+        "d": "google.com",
+        "n": "Most Recent",
+        "u": "https://www.google.com/search?q=Browse+%26+Feed+Most+Recent"
+      }
+    ],
+    "4.1.3": [
+      {
+        "d": "google.com",
+        "n": "Favorites",
+        "u": "https://www.google.com/search?q=Browse+%26+Feed+Favorites"
+      }
+    ],
+    "4.1.4": [
+      {
+        "d": "google.com",
+        "n": "Watch Videos",
+        "u": "https://www.google.com/search?q=Browse+%26+Feed+Watch+Videos"
+      }
+    ],
+    "4.1.6": [
+      {
+        "d": "google.com",
+        "n": "Reels",
+        "u": "https://www.google.com/search?q=Browse+%26+Feed+Reels"
+      }
+    ],
+    "4.1.7": [
+      {
+        "d": "google.com",
+        "n": "Suggested",
+        "u": "https://www.google.com/search?q=Browse+%26+Feed+Suggested"
+      }
+    ],
+    "4.1.8": [
+      {
+        "d": "google.com",
+        "n": "Feed Preferences",
+        "u": "https://www.google.com/search?q=Browse+%26+Feed+Feed+Preferences"
+      }
+    ],
+    "4.1.9": [
+      {
+        "d": "google.com",
+        "n": "Snooze & Unfollow",
+        "u": "https://www.google.com/search?q=Browse+%26+Feed+Snooze+%26+Unfollow"
+      }
+    ],
+    "4.2.1": [
+      {
+        "d": "google.com",
+        "n": "My Groups",
+        "u": "https://www.google.com/search?q=Groups+My+Groups"
+      }
+    ],
+    "4.2.2": [
+      {
+        "d": "google.com",
+        "n": "Discover",
+        "u": "https://www.google.com/search?q=Groups+Discover"
+      }
+    ],
+    "4.2.3": [
+      {
+        "d": "google.com",
+        "n": "Notifications",
+        "u": "https://www.google.com/search?q=Groups+Notifications"
+      }
+    ],
+    "4.2.4": [
+      {
+        "d": "google.com",
+        "n": "Admin Tools",
+        "u": "https://www.google.com/search?q=Groups+Admin+Tools"
+      }
+    ],
+    "4.2.6": [
+      {
+        "d": "google.com",
+        "n": "Group Files",
+        "u": "https://www.google.com/search?q=Groups+Group+Files"
+      }
+    ],
+    "4.2.7": [
+      {
+        "d": "google.com",
+        "n": "Buy & Sell",
+        "u": "https://www.google.com/search?q=Groups+Buy+%26+Sell"
+      }
+    ],
+    "4.2.8": [
+      {
+        "d": "google.com",
+        "n": "Discussion",
+        "u": "https://www.google.com/search?q=Groups+Discussion"
+      }
+    ],
+    "4.2.9": [
+      {
+        "d": "google.com",
+        "n": "Group Settings",
+        "u": "https://www.google.com/search?q=Groups+Group+Settings"
+      }
+    ],
+    "4.3.1": [
+      {
+        "d": "google.com",
+        "n": "Browse All",
+        "u": "https://www.google.com/search?q=Marketplace+Browse+All"
+      }
+    ],
+    "4.3.2.1": [
+      {
+        "d": "google.com",
+        "n": "Cars & Trucks",
+        "u": "https://www.google.com/search?q=Vehicles+Cars+%26+Trucks"
+      }
+    ],
+    "4.3.2.2": [
+      {
+        "d": "google.com",
+        "n": "Motorcycles",
+        "u": "https://www.google.com/search?q=Vehicles+Motorcycles"
+      }
+    ],
+    "4.3.2.3": [
+      {
+        "d": "google.com",
+        "n": "Boats",
+        "u": "https://www.google.com/search?q=Vehicles+Boats"
+      }
+    ],
+    "4.3.2.4": [
+      {
+        "d": "google.com",
+        "n": "RVs & Campers",
+        "u": "https://www.google.com/search?q=Vehicles+RVs+%26+Campers"
+      }
+    ],
+    "4.3.2.6": [
+      {
+        "d": "google.com",
+        "n": "Parts & Accessories",
+        "u": "https://www.google.com/search?q=Vehicles+Parts+%26+Accessories"
+      }
+    ],
+    "4.3.2.7": [
+      {
+        "d": "google.com",
+        "n": "Dealerships",
+        "u": "https://www.google.com/search?q=Vehicles+Dealerships"
+      }
+    ],
+    "4.3.2.8": [
+      {
+        "d": "google.com",
+        "n": "Price Research",
+        "u": "https://www.google.com/search?q=Vehicles+Price+Research"
+      }
+    ],
+    "4.3.2.9": [
+      {
+        "d": "google.com",
+        "n": "Financing",
+        "u": "https://www.google.com/search?q=Vehicles+Financing"
+      }
+    ],
+    "4.3.3.1": [
+      {
+        "d": "google.com",
+        "n": "Apartments",
+        "u": "https://www.google.com/search?q=Rentals+Apartments"
+      }
+    ],
+    "4.3.3.2": [
+      {
+        "d": "google.com",
+        "n": "Rooms",
+        "u": "https://www.google.com/search?q=Rentals+Rooms"
+      }
+    ],
+    "4.3.3.3": [
+      {
+        "d": "google.com",
+        "n": "Houses",
+        "u": "https://www.google.com/search?q=Rentals+Houses"
+      }
+    ],
+    "4.3.3.4": [
+      {
+        "d": "google.com",
+        "n": "Short-Term",
+        "u": "https://www.google.com/search?q=Rentals+Short-Term"
+      }
+    ],
+    "4.3.3.6": [
+      {
+        "d": "google.com",
+        "n": "Commercial",
+        "u": "https://www.google.com/search?q=Rentals+Commercial"
+      }
+    ],
+    "4.3.3.7": [
+      {
+        "d": "google.com",
+        "n": "Roommate Search",
+        "u": "https://www.google.com/search?q=Rentals+Roommate+Search"
+      }
+    ],
+    "4.3.3.8": [
+      {
+        "d": "google.com",
+        "n": "Neighborhoods",
+        "u": "https://www.google.com/search?q=Rentals+Neighborhoods"
+      }
+    ],
+    "4.3.3.9": [
+      {
+        "d": "google.com",
+        "n": "Price Tracker",
+        "u": "https://www.google.com/search?q=Rentals+Price+Tracker"
+      }
+    ],
+    "4.3.4": [
+      {
+        "d": "google.com",
+        "n": "Electronics",
+        "u": "https://www.google.com/search?q=Marketplace+Electronics"
+      }
+    ],
+    "4.3.6": [
+      {
+        "d": "google.com",
+        "n": "Furniture",
+        "u": "https://www.google.com/search?q=Marketplace+Furniture"
+      }
+    ],
+    "4.3.7": [
+      {
+        "d": "google.com",
+        "n": "Apparel",
+        "u": "https://www.google.com/search?q=Marketplace+Apparel"
+      }
+    ],
+    "4.3.8": [
+      {
+        "d": "google.com",
+        "n": "Free Stuff",
+        "u": "https://www.google.com/search?q=Marketplace+Free+Stuff"
+      }
+    ],
+    "4.3.9": [
+      {
+        "d": "google.com",
+        "n": "Selling",
+        "u": "https://www.google.com/search?q=Marketplace+Selling"
+      }
+    ],
+    "4.4.1": [
+      {
+        "d": "google.com",
+        "n": "Messenger Chat",
+        "u": "https://www.google.com/search?q=Messaging+Messenger+Chat"
+      }
+    ],
+    "4.4.2": [
+      {
+        "d": "google.com",
+        "n": "Group Chat",
+        "u": "https://www.google.com/search?q=Messaging+Group+Chat"
+      }
+    ],
+    "4.4.3": [
+      {
+        "d": "google.com",
+        "n": "Video Calls",
+        "u": "https://www.google.com/search?q=Messaging+Video+Calls"
+      }
+    ],
+    "4.4.4": [
+      {
+        "d": "google.com",
+        "n": "Voice Calls",
+        "u": "https://www.google.com/search?q=Messaging+Voice+Calls"
+      }
+    ],
+    "4.4.6": [
+      {
+        "d": "google.com",
+        "n": "Message Requests",
+        "u": "https://www.google.com/search?q=Messaging+Message+Requests"
+      }
+    ],
+    "4.4.7": [
+      {
+        "d": "google.com",
+        "n": "Encrypted Chat",
+        "u": "https://www.google.com/search?q=Messaging+Encrypted+Chat"
+      }
+    ],
+    "4.4.8": [
+      {
+        "d": "google.com",
+        "n": "Vanish Mode",
+        "u": "https://www.google.com/search?q=Messaging+Vanish+Mode"
+      }
+    ],
+    "4.4.9": [
+      {
+        "d": "google.com",
+        "n": "Chat Themes",
+        "u": "https://www.google.com/search?q=Messaging+Chat+Themes"
+      }
+    ],
+    "4.6.1": [
+      {
+        "d": "google.com",
+        "n": "Nearby Events",
+        "u": "https://www.google.com/search?q=Events+%26+Social+Nearby+Events"
+      }
+    ],
+    "4.6.2": [
+      {
+        "d": "google.com",
+        "n": "Online Events",
+        "u": "https://www.google.com/search?q=Events+%26+Social+Online+Events"
+      }
+    ],
+    "4.6.3": [
+      {
+        "d": "google.com",
+        "n": "My Events",
+        "u": "https://www.google.com/search?q=Events+%26+Social+My+Events"
+      }
+    ],
+    "4.6.4": [
+      {
+        "d": "google.com",
+        "n": "Hosting",
+        "u": "https://www.google.com/search?q=Events+%26+Social+Hosting"
+      }
+    ],
+    "4.6.6": [
+      {
+        "d": "google.com",
+        "n": "Birthdays",
+        "u": "https://www.google.com/search?q=Events+%26+Social+Birthdays"
+      }
+    ],
+    "4.6.7": [
+      {
+        "d": "google.com",
+        "n": "Calendar Sync",
+        "u": "https://www.google.com/search?q=Events+%26+Social+Calendar+Sync"
+      }
+    ],
+    "4.6.8": [
+      {
+        "d": "google.com",
+        "n": "Recurring",
+        "u": "https://www.google.com/search?q=Events+%26+Social+Recurring"
+      }
+    ],
+    "4.6.9": [
+      {
+        "d": "google.com",
+        "n": "Categories",
+        "u": "https://www.google.com/search?q=Events+%26+Social+Categories"
+      }
+    ],
+    "4.7.1": [
+      {
+        "d": "google.com",
+        "n": "My Story",
+        "u": "https://www.google.com/search?q=Stories+%26+Reels+My+Story"
+      }
+    ],
+    "4.7.2": [
+      {
+        "d": "google.com",
+        "n": "Friends Stories",
+        "u": "https://www.google.com/search?q=Stories+%26+Reels+Friends+Stories"
+      }
+    ],
+    "4.7.3": [
+      {
+        "d": "google.com",
+        "n": "Create Reel",
+        "u": "https://www.google.com/search?q=Stories+%26+Reels+Create+Reel"
+      }
+    ],
+    "4.7.4": [
+      {
+        "d": "google.com",
+        "n": "Story Archive",
+        "u": "https://www.google.com/search?q=Stories+%26+Reels+Story+Archive"
+      }
+    ],
+    "4.7.6": [
+      {
+        "d": "google.com",
+        "n": "Highlights",
+        "u": "https://www.google.com/search?q=Stories+%26+Reels+Highlights"
+      }
+    ],
+    "4.7.7": [
+      {
+        "d": "google.com",
+        "n": "Story Privacy",
+        "u": "https://www.google.com/search?q=Stories+%26+Reels+Story+Privacy"
+      }
+    ],
+    "4.7.8": [
+      {
+        "d": "google.com",
+        "n": "Effects",
+        "u": "https://www.google.com/search?q=Stories+%26+Reels+Effects"
+      }
+    ],
+    "4.7.9": [
+      {
+        "d": "google.com",
+        "n": "Cross-Post to IG",
+        "u": "https://www.google.com/search?q=Stories+%26+Reels+Cross-Post+to+IG"
+      }
+    ],
+    "4.8.1": [
+      {
+        "d": "google.com",
+        "n": "Profile Setup",
+        "u": "https://www.google.com/search?q=Dating+Profile+Setup"
+      }
+    ],
+    "4.8.2": [
+      {
+        "d": "google.com",
+        "n": "Matches",
+        "u": "https://www.google.com/search?q=Dating+Matches"
+      }
+    ],
+    "4.8.3": [
+      {
+        "d": "google.com",
+        "n": "Secret Crush",
+        "u": "https://www.google.com/search?q=Dating+Secret+Crush"
+      }
+    ],
+    "4.8.4": [
+      {
+        "d": "google.com",
+        "n": "Liked You",
+        "u": "https://www.google.com/search?q=Dating+Liked+You"
+      }
+    ],
+    "4.8.6": [
+      {
+        "d": "google.com",
+        "n": "Preferences",
+        "u": "https://www.google.com/search?q=Dating+Preferences"
+      }
+    ],
+    "4.8.7": [
+      {
+        "d": "google.com",
+        "n": "Icebreakers",
+        "u": "https://www.google.com/search?q=Dating+Icebreakers"
+      }
+    ],
+    "4.8.8": [
+      {
+        "d": "google.com",
+        "n": "Video Date",
+        "u": "https://www.google.com/search?q=Dating+Video+Date"
+      }
+    ],
+    "4.8.9": [
+      {
+        "d": "google.com",
+        "n": "Safety",
+        "u": "https://www.google.com/search?q=Dating+Safety"
+      }
+    ],
+    "4.9.1": [
+      {
+        "d": "google.com",
+        "n": "Edit Profile",
+        "u": "https://www.google.com/search?q=Profile+%26+Settings+Edit+Profile"
+      }
+    ],
+    "4.9.2": [
+      {
+        "d": "google.com",
+        "n": "Privacy",
+        "u": "https://www.google.com/search?q=Profile+%26+Settings+Privacy"
+      }
+    ],
+    "4.9.3": [
+      {
+        "d": "google.com",
+        "n": "Timeline Settings",
+        "u": "https://www.google.com/search?q=Profile+%26+Settings+Timeline+Settings"
+      }
+    ],
+    "4.9.4": [
+      {
+        "d": "google.com",
+        "n": "Blocking",
+        "u": "https://www.google.com/search?q=Profile+%26+Settings+Blocking"
+      }
+    ],
+    "4.9.6": [
+      {
+        "d": "google.com",
+        "n": "Notifications",
+        "u": "https://www.google.com/search?q=Profile+%26+Settings+Notifications"
+      }
+    ],
+    "4.9.7": [
+      {
+        "d": "google.com",
+        "n": "Activity Log",
+        "u": "https://www.google.com/search?q=Profile+%26+Settings+Activity+Log"
+      }
+    ],
+    "4.9.8": [
+      {
+        "d": "google.com",
+        "n": "Data Download",
+        "u": "https://www.google.com/search?q=Profile+%26+Settings+Data+Download"
+      }
+    ],
+    "4.9.9": [
+      {
+        "d": "google.com",
+        "n": "Help",
+        "u": "https://www.google.com/search?q=Profile+%26+Settings+Help"
+      }
+    ],
+    "6.1.1": [
+      {
+        "d": "google.com",
+        "n": "Home Feed",
+        "u": "https://www.google.com/search?q=Browse+%26+Watch+Home+Feed"
+      }
+    ],
+    "6.1.2": [
+      {
+        "d": "google.com",
+        "n": "Trending",
+        "u": "https://www.google.com/search?q=Browse+%26+Watch+Trending"
+      }
+    ],
+    "6.1.3": [
+      {
+        "d": "google.com",
+        "n": "Subscriptions",
+        "u": "https://www.google.com/search?q=Browse+%26+Watch+Subscriptions"
+      }
+    ],
+    "6.1.4": [
+      {
+        "d": "google.com",
+        "n": "Watch Later",
+        "u": "https://www.google.com/search?q=Browse+%26+Watch+Watch+Later"
+      }
+    ],
+    "6.1.6": [
+      {
+        "d": "google.com",
+        "n": "History",
+        "u": "https://www.google.com/search?q=Browse+%26+Watch+History"
+      }
+    ],
+    "6.1.7": [
+      {
+        "d": "google.com",
+        "n": "Liked Videos",
+        "u": "https://www.google.com/search?q=Browse+%26+Watch+Liked+Videos"
+      }
+    ],
+    "6.1.8": [
+      {
+        "d": "google.com",
+        "n": "Library",
+        "u": "https://www.google.com/search?q=Browse+%26+Watch+Library"
+      }
+    ],
+    "6.1.9": [
+      {
+        "d": "google.com",
+        "n": "Recommendations",
+        "u": "https://www.google.com/search?q=Browse+%26+Watch+Recommendations"
+      }
+    ],
+    "6.2.1": [
+      {
+        "d": "google.com",
+        "n": "Shorts Feed",
+        "u": "https://www.google.com/search?q=Shorts+Shorts+Feed"
+      }
+    ],
+    "6.2.2": [
+      {
+        "d": "google.com",
+        "n": "Trending Shorts",
+        "u": "https://www.google.com/search?q=Shorts+Trending+Shorts"
+      }
+    ],
+    "6.2.3": [
+      {
+        "d": "google.com",
+        "n": "Create Short",
+        "u": "https://www.google.com/search?q=Shorts+Create+Short"
+      }
+    ],
+    "6.2.4": [
+      {
+        "d": "google.com",
+        "n": "Remix",
+        "u": "https://www.google.com/search?q=Shorts+Remix"
+      }
+    ],
+    "6.2.6": [
+      {
+        "d": "google.com",
+        "n": "Sound Picker",
+        "u": "https://www.google.com/search?q=Shorts+Sound+Picker"
+      }
+    ],
+    "6.2.7": [
+      {
+        "d": "google.com",
+        "n": "Effects",
+        "u": "https://www.google.com/search?q=Shorts+Effects"
+      }
+    ],
+    "6.2.8": [
+      {
+        "d": "google.com",
+        "n": "Analytics",
+        "u": "https://www.google.com/search?q=Shorts+Analytics"
+      }
+    ],
+    "6.2.9": [
+      {
+        "d": "google.com",
+        "n": "Vertical",
+        "u": "https://www.google.com/search?q=Shorts+Vertical"
+      }
+    ],
+    "6.3.1": [
+      {
+        "d": "google.com",
+        "n": "Live Now",
+        "u": "https://www.google.com/search?q=Live+%26+Premieres+Live+Now"
+      }
+    ],
+    "6.3.2": [
+      {
+        "d": "google.com",
+        "n": "Upcoming",
+        "u": "https://www.google.com/search?q=Live+%26+Premieres+Upcoming"
+      }
+    ],
+    "6.3.3": [
+      {
+        "d": "google.com",
+        "n": "Live Chat",
+        "u": "https://www.google.com/search?q=Live+%26+Premieres+Live+Chat"
+      }
+    ],
+    "6.3.4": [
+      {
+        "d": "google.com",
+        "n": "Super Chat",
+        "u": "https://www.google.com/search?q=Live+%26+Premieres+Super+Chat"
+      }
+    ],
+    "6.3.6": [
+      {
+        "d": "google.com",
+        "n": "Super Stickers",
+        "u": "https://www.google.com/search?q=Live+%26+Premieres+Super+Stickers"
+      }
+    ],
+    "6.3.7": [
+      {
+        "d": "google.com",
+        "n": "Memberships",
+        "u": "https://www.google.com/search?q=Live+%26+Premieres+Memberships"
+      }
+    ],
+    "6.3.8": [
+      {
+        "d": "google.com",
+        "n": "Premieres",
+        "u": "https://www.google.com/search?q=Live+%26+Premieres+Premieres"
+      }
+    ],
+    "6.3.9": [
+      {
+        "d": "google.com",
+        "n": "Stream Schedule",
+        "u": "https://www.google.com/search?q=Live+%26+Premieres+Stream+Schedule"
+      }
+    ],
+    "6.4.1.1": [
+      {
+        "d": "google.com",
+        "n": "Open YT Music",
+        "u": "https://www.google.com/search?q=YouTube+Music+Open+YT+Music"
+      }
+    ],
+    "6.4.1.2": [
+      {
+        "d": "google.com",
+        "n": "Your Playlists",
+        "u": "https://www.google.com/search?q=YouTube+Music+Your+Playlists"
+      }
+    ],
+    "6.4.1.3": [
+      {
+        "d": "google.com",
+        "n": "Charts & Top 100",
+        "u": "https://www.google.com/search?q=YouTube+Music+Charts+%26+Top+100"
+      }
+    ],
+    "6.4.1.4": [
+      {
+        "d": "google.com",
+        "n": "New Releases",
+        "u": "https://www.google.com/search?q=YouTube+Music+New+Releases"
+      }
+    ],
+    "6.4.1.6": [
+      {
+        "d": "google.com",
+        "n": "Podcasts",
+        "u": "https://www.google.com/search?q=YouTube+Music+Podcasts"
+      }
+    ],
+    "6.4.1.7": [
+      {
+        "d": "google.com",
+        "n": "Radio Stations",
+        "u": "https://www.google.com/search?q=YouTube+Music+Radio+Stations"
+      }
+    ],
+    "6.4.1.8": [
+      {
+        "d": "google.com",
+        "n": "Offline Library",
+        "u": "https://www.google.com/search?q=YouTube+Music+Offline+Library"
+      }
+    ],
+    "6.4.1.9": [
+      {
+        "d": "google.com",
+        "n": "Premium",
+        "u": "https://www.google.com/search?q=YouTube+Music+Premium"
+      }
+    ],
+    "6.4.2": [
+      {
+        "d": "google.com",
+        "n": "Playlists",
+        "u": "https://www.google.com/search?q=Music+Playlists"
+      }
+    ],
+    "6.4.3": [
+      {
+        "d": "google.com",
+        "n": "Charts",
+        "u": "https://www.google.com/search?q=Music+Charts"
+      }
+    ],
+    "6.4.4": [
+      {
+        "d": "google.com",
+        "n": "New Releases",
+        "u": "https://www.google.com/search?q=Music+New+Releases"
+      }
+    ],
+    "6.4.6": [
+      {
+        "d": "google.com",
+        "n": "Podcasts",
+        "u": "https://www.google.com/search?q=Music+Podcasts"
+      }
+    ],
+    "6.4.7": [
+      {
+        "d": "google.com",
+        "n": "Radio",
+        "u": "https://www.google.com/search?q=Music+Radio"
+      }
+    ],
+    "6.4.8": [
+      {
+        "d": "google.com",
+        "n": "Offline",
+        "u": "https://www.google.com/search?q=Music+Offline"
+      }
+    ],
+    "6.4.9": [
+      {
+        "d": "google.com",
+        "n": "Premium",
+        "u": "https://www.google.com/search?q=Music+Premium"
+      }
+    ],
+    "6.6.1.1": [
+      {
+        "d": "google.com",
+        "n": "Studio Home",
+        "u": "https://www.google.com/search?q=Dashboard+Studio+Home"
+      }
+    ],
+    "6.6.1.2": [
+      {
+        "d": "google.com",
+        "n": "Content Manager",
+        "u": "https://www.google.com/search?q=Dashboard+Content+Manager"
+      }
+    ],
+    "6.6.1.3": [
+      {
+        "d": "google.com",
+        "n": "Analytics Dashboard",
+        "u": "https://www.google.com/search?q=Dashboard+Analytics+Dashboard"
+      }
+    ],
+    "6.6.1.4": [
+      {
+        "d": "google.com",
+        "n": "Monetization",
+        "u": "https://www.google.com/search?q=Dashboard+Monetization"
+      }
+    ],
+    "6.6.1.6": [
+      {
+        "d": "google.com",
+        "n": "Comments",
+        "u": "https://www.google.com/search?q=Dashboard+Comments"
+      }
+    ],
+    "6.6.1.7": [
+      {
+        "d": "google.com",
+        "n": "Channel Settings",
+        "u": "https://www.google.com/search?q=Dashboard+Channel+Settings"
+      }
+    ],
+    "6.6.1.8": [
+      {
+        "d": "google.com",
+        "n": "Customization",
+        "u": "https://www.google.com/search?q=Dashboard+Customization"
+      }
+    ],
+    "6.6.1.9": [
+      {
+        "d": "google.com",
+        "n": "Community Posts",
+        "u": "https://www.google.com/search?q=Dashboard+Community+Posts"
+      }
+    ],
+    "6.6.2": [
+      {
+        "d": "google.com",
+        "n": "Content Manager",
+        "u": "https://www.google.com/search?q=Creator+Studio+Content+Manager"
+      }
+    ],
+    "6.6.3": [
+      {
+        "d": "google.com",
+        "n": "Analytics",
+        "u": "https://www.google.com/search?q=Creator+Studio+Analytics"
+      }
+    ],
+    "6.6.4": [
+      {
+        "d": "google.com",
+        "n": "Monetization",
+        "u": "https://www.google.com/search?q=Creator+Studio+Monetization"
+      }
+    ],
+    "6.6.6": [
+      {
+        "d": "google.com",
+        "n": "Comments",
+        "u": "https://www.google.com/search?q=Creator+Studio+Comments"
+      }
+    ],
+    "6.6.7": [
+      {
+        "d": "google.com",
+        "n": "Channel Settings",
+        "u": "https://www.google.com/search?q=Creator+Studio+Channel+Settings"
+      }
+    ],
+    "6.6.8": [
+      {
+        "d": "google.com",
+        "n": "Customization",
+        "u": "https://www.google.com/search?q=Creator+Studio+Customization"
+      }
+    ],
+    "6.6.9": [
+      {
+        "d": "google.com",
+        "n": "Community Posts",
+        "u": "https://www.google.com/search?q=Creator+Studio+Community+Posts"
+      }
+    ],
+    "6.7.1": [
+      {
+        "d": "google.com",
+        "n": "Courses",
+        "u": "https://www.google.com/search?q=Learning+Courses"
+      }
+    ],
+    "6.7.2": [
+      {
+        "d": "google.com",
+        "n": "How-To",
+        "u": "https://www.google.com/search?q=Learning+How-To"
+      }
+    ],
+    "6.7.3": [
+      {
+        "d": "google.com",
+        "n": "Tutorials",
+        "u": "https://www.google.com/search?q=Learning+Tutorials"
+      }
+    ],
+    "6.7.4": [
+      {
+        "d": "google.com",
+        "n": "Skill Building",
+        "u": "https://www.google.com/search?q=Learning+Skill+Building"
+      }
+    ],
+    "6.7.6": [
+      {
+        "d": "google.com",
+        "n": "Lectures",
+        "u": "https://www.google.com/search?q=Learning+Lectures"
+      }
+    ],
+    "6.7.7": [
+      {
+        "d": "google.com",
+        "n": "Certifications",
+        "u": "https://www.google.com/search?q=Learning+Certifications"
+      }
+    ],
+    "6.7.8": [
+      {
+        "d": "google.com",
+        "n": "Study Lists",
+        "u": "https://www.google.com/search?q=Learning+Study+Lists"
+      }
+    ],
+    "6.7.9": [
+      {
+        "d": "google.com",
+        "n": "Educational Channels",
+        "u": "https://www.google.com/search?q=Learning+Educational+Channels"
+      }
+    ],
+    "6.8.1": [
+      {
+        "d": "google.com",
+        "n": "Podcast Feed",
+        "u": "https://www.google.com/search?q=Podcasts+Podcast+Feed"
+      }
+    ],
+    "6.8.2": [
+      {
+        "d": "google.com",
+        "n": "Popular Shows",
+        "u": "https://www.google.com/search?q=Podcasts+Popular+Shows"
+      }
+    ],
+    "6.8.3": [
+      {
+        "d": "google.com",
+        "n": "Subscribed",
+        "u": "https://www.google.com/search?q=Podcasts+Subscribed"
+      }
+    ],
+    "6.8.4": [
+      {
+        "d": "google.com",
+        "n": "New Episodes",
+        "u": "https://www.google.com/search?q=Podcasts+New+Episodes"
+      }
+    ],
+    "6.8.6": [
+      {
+        "d": "google.com",
+        "n": "Video Podcasts",
+        "u": "https://www.google.com/search?q=Podcasts+Video+Podcasts"
+      }
+    ],
+    "6.8.7": [
+      {
+        "d": "google.com",
+        "n": "Audio Only",
+        "u": "https://www.google.com/search?q=Podcasts+Audio+Only"
+      }
+    ],
+    "6.8.8": [
+      {
+        "d": "google.com",
+        "n": "Categories",
+        "u": "https://www.google.com/search?q=Podcasts+Categories"
+      }
+    ],
+    "6.8.9": [
+      {
+        "d": "google.com",
+        "n": "Playlists",
+        "u": "https://www.google.com/search?q=Podcasts+Playlists"
+      }
+    ],
+    "6.9.1": [
+      {
+        "d": "google.com",
+        "n": "Ad-Free",
+        "u": "https://www.google.com/search?q=Premium+%26+Settings+Ad-Free"
+      }
+    ],
+    "6.9.2": [
+      {
+        "d": "google.com",
+        "n": "Background Play",
+        "u": "https://www.google.com/search?q=Premium+%26+Settings+Background+Play"
+      }
+    ],
+    "6.9.3": [
+      {
+        "d": "google.com",
+        "n": "Downloads",
+        "u": "https://www.google.com/search?q=Premium+%26+Settings+Downloads"
+      }
+    ],
+    "6.9.4": [
+      {
+        "d": "google.com",
+        "n": "Family Plan",
+        "u": "https://www.google.com/search?q=Premium+%26+Settings+Family+Plan"
+      }
+    ],
+    "6.9.6": [
+      {
+        "d": "google.com",
+        "n": "Student Plan",
+        "u": "https://www.google.com/search?q=Premium+%26+Settings+Student+Plan"
+      }
+    ],
+    "6.9.7": [
+      {
+        "d": "google.com",
+        "n": "Channel Memberships",
+        "u": "https://www.google.com/search?q=Premium+%26+Settings+Channel+Memberships"
+      }
+    ],
+    "6.9.8": [
+      {
+        "d": "google.com",
+        "n": "Notifications",
+        "u": "https://www.google.com/search?q=Premium+%26+Settings+Notifications"
+      }
+    ],
+    "6.9.9": [
+      {
+        "d": "google.com",
+        "n": "Account",
+        "u": "https://www.google.com/search?q=Premium+%26+Settings+Account"
+      }
+    ],
+    "7.1.1": [
+      {
+        "d": "google.com",
+        "n": "Home Feed",
+        "u": "https://www.google.com/search?q=Browse+%26+Read+Home+Feed"
+      }
+    ],
+    "7.1.2": [
+      {
+        "d": "google.com",
+        "n": "Popular",
+        "u": "https://www.google.com/search?q=Browse+%26+Read+Popular"
+      }
+    ],
+    "7.1.3": [
+      {
+        "d": "google.com",
+        "n": "All",
+        "u": "https://www.google.com/search?q=Browse+%26+Read+All"
+      }
+    ],
+    "7.1.4": [
+      {
+        "d": "google.com",
+        "n": "Rising",
+        "u": "https://www.google.com/search?q=Browse+%26+Read+Rising"
+      }
+    ],
+    "7.1.6": [
+      {
+        "d": "google.com",
+        "n": "Best",
+        "u": "https://www.google.com/search?q=Browse+%26+Read+Best"
+      }
+    ],
+    "7.1.7": [
+      {
+        "d": "google.com",
+        "n": "Hot",
+        "u": "https://www.google.com/search?q=Browse+%26+Read+Hot"
+      }
+    ],
+    "7.1.8": [
+      {
+        "d": "google.com",
+        "n": "New",
+        "u": "https://www.google.com/search?q=Browse+%26+Read+New"
+      }
+    ],
+    "7.1.9": [
+      {
+        "d": "google.com",
+        "n": "Controversial",
+        "u": "https://www.google.com/search?q=Browse+%26+Read+Controversial"
+      }
+    ],
+    "7.2.1.1": [
+      {
+        "d": "google.com",
+        "n": "Technology",
+        "u": "https://www.google.com/search?q=Browse+by+Topic+Technology"
+      }
+    ],
+    "7.2.1.2": [
+      {
+        "d": "google.com",
+        "n": "Gaming",
+        "u": "https://www.google.com/search?q=Browse+by+Topic+Gaming"
+      }
+    ],
+    "7.2.1.3": [
+      {
+        "d": "google.com",
+        "n": "Science",
+        "u": "https://www.google.com/search?q=Browse+by+Topic+Science"
+      }
+    ],
+    "7.2.1.4": [
+      {
+        "d": "google.com",
+        "n": "Finance",
+        "u": "https://www.google.com/search?q=Browse+by+Topic+Finance"
+      }
+    ],
+    "7.2.1.6": [
+      {
+        "d": "google.com",
+        "n": "Creative & Art",
+        "u": "https://www.google.com/search?q=Browse+by+Topic+Creative+%26+Art"
+      }
+    ],
+    "7.2.1.7": [
+      {
+        "d": "google.com",
+        "n": "Sports",
+        "u": "https://www.google.com/search?q=Browse+by+Topic+Sports"
+      }
+    ],
+    "7.2.1.8": [
+      {
+        "d": "google.com",
+        "n": "Politics & News",
+        "u": "https://www.google.com/search?q=Browse+by+Topic+Politics+%26+News"
+      }
+    ],
+    "7.2.1.9": [
+      {
+        "d": "google.com",
+        "n": "Advice & Lifestyle",
+        "u": "https://www.google.com/search?q=Browse+by+Topic+Advice+%26+Lifestyle"
+      }
+    ],
+    "7.2.2": [
+      {
+        "d": "google.com",
+        "n": "My Subscriptions",
+        "u": "https://www.google.com/search?q=Subreddits+My+Subscriptions"
+      }
+    ],
+    "7.2.3": [
+      {
+        "d": "google.com",
+        "n": "Trending",
+        "u": "https://www.google.com/search?q=Subreddits+Trending"
+      }
+    ],
+    "7.2.4": [
+      {
+        "d": "google.com",
+        "n": "Recommended",
+        "u": "https://www.google.com/search?q=Subreddits+Recommended"
+      }
+    ],
+    "7.2.6": [
+      {
+        "d": "google.com",
+        "n": "Multireddits",
+        "u": "https://www.google.com/search?q=Subreddits+Multireddits"
+      }
+    ],
+    "7.2.7": [
+      {
+        "d": "google.com",
+        "n": "Custom Feeds",
+        "u": "https://www.google.com/search?q=Subreddits+Custom+Feeds"
+      }
+    ],
+    "7.2.8": [
+      {
+        "d": "google.com",
+        "n": "Create Sub",
+        "u": "https://www.google.com/search?q=Subreddits+Create+Sub"
+      }
+    ],
+    "7.2.9": [
+      {
+        "d": "google.com",
+        "n": "Discovery",
+        "u": "https://www.google.com/search?q=Subreddits+Discovery"
+      }
+    ],
+    "7.3.1": [
+      {
+        "d": "google.com",
+        "n": "Submit Post",
+        "u": "https://www.google.com/search?q=Post+%26+Engage+Submit+Post"
+      }
+    ],
+    "7.3.2": [
+      {
+        "d": "google.com",
+        "n": "Submit Link",
+        "u": "https://www.google.com/search?q=Post+%26+Engage+Submit+Link"
+      }
+    ],
+    "7.3.3": [
+      {
+        "d": "google.com",
+        "n": "Comment",
+        "u": "https://www.google.com/search?q=Post+%26+Engage+Comment"
+      }
+    ],
+    "7.3.4": [
+      {
+        "d": "google.com",
+        "n": "Award",
+        "u": "https://www.google.com/search?q=Post+%26+Engage+Award"
+      }
+    ],
+    "7.3.6": [
+      {
+        "d": "google.com",
+        "n": "Crosspost",
+        "u": "https://www.google.com/search?q=Post+%26+Engage+Crosspost"
+      }
+    ],
+    "7.3.7": [
+      {
+        "d": "google.com",
+        "n": "Polls",
+        "u": "https://www.google.com/search?q=Post+%26+Engage+Polls"
+      }
+    ],
+    "7.3.8": [
+      {
+        "d": "google.com",
+        "n": "AMA",
+        "u": "https://www.google.com/search?q=Post+%26+Engage+AMA"
+      }
+    ],
+    "7.3.9": [
+      {
+        "d": "google.com",
+        "n": "Flair",
+        "u": "https://www.google.com/search?q=Post+%26+Engage+Flair"
+      }
+    ],
+    "7.4.1": [
+      {
+        "d": "google.com",
+        "n": "Search Posts",
+        "u": "https://www.google.com/search?q=Search+%26+Discover+Search+Posts"
+      }
+    ],
+    "7.4.2": [
+      {
+        "d": "google.com",
+        "n": "Search Subs",
+        "u": "https://www.google.com/search?q=Search+%26+Discover+Search+Subs"
+      }
+    ],
+    "7.4.3": [
+      {
+        "d": "google.com",
+        "n": "Search Users",
+        "u": "https://www.google.com/search?q=Search+%26+Discover+Search+Users"
+      }
+    ],
+    "7.4.4": [
+      {
+        "d": "google.com",
+        "n": "Trending Topics",
+        "u": "https://www.google.com/search?q=Search+%26+Discover+Trending+Topics"
+      }
+    ],
+    "7.4.6": [
+      {
+        "d": "google.com",
+        "n": "Wiki Pages",
+        "u": "https://www.google.com/search?q=Search+%26+Discover+Wiki+Pages"
+      }
+    ],
+    "7.4.7": [
+      {
+        "d": "google.com",
+        "n": "Gilded",
+        "u": "https://www.google.com/search?q=Search+%26+Discover+Gilded"
+      }
+    ],
+    "7.4.8": [
+      {
+        "d": "google.com",
+        "n": "Saved",
+        "u": "https://www.google.com/search?q=Search+%26+Discover+Saved"
+      }
+    ],
+    "7.4.9": [
+      {
+        "d": "google.com",
+        "n": "History",
+        "u": "https://www.google.com/search?q=Search+%26+Discover+History"
+      }
+    ],
+    "7.6.1": [
+      {
+        "d": "google.com",
+        "n": "Inbox",
+        "u": "https://www.google.com/search?q=Messaging+Inbox"
+      }
+    ],
+    "7.6.2": [
+      {
+        "d": "google.com",
+        "n": "Sent",
+        "u": "https://www.google.com/search?q=Messaging+Sent"
+      }
+    ],
+    "7.6.3": [
+      {
+        "d": "google.com",
+        "n": "Chat",
+        "u": "https://www.google.com/search?q=Messaging+Chat"
+      }
+    ],
+    "7.6.4": [
+      {
+        "d": "google.com",
+        "n": "Notifications",
+        "u": "https://www.google.com/search?q=Messaging+Notifications"
+      }
+    ],
+    "7.6.6": [
+      {
+        "d": "google.com",
+        "n": "Mentions",
+        "u": "https://www.google.com/search?q=Messaging+Mentions"
+      }
+    ],
+    "7.6.7": [
+      {
+        "d": "google.com",
+        "n": "Post Replies",
+        "u": "https://www.google.com/search?q=Messaging+Post+Replies"
+      }
+    ],
+    "7.6.8": [
+      {
+        "d": "google.com",
+        "n": "Comment Replies",
+        "u": "https://www.google.com/search?q=Messaging+Comment+Replies"
+      }
+    ],
+    "7.6.9": [
+      {
+        "d": "google.com",
+        "n": "Mod Mail",
+        "u": "https://www.google.com/search?q=Messaging+Mod+Mail"
+      }
+    ],
+    "7.7.1": [
+      {
+        "d": "google.com",
+        "n": "Reddit Talk",
+        "u": "https://www.google.com/search?q=Live+%26+Audio+Reddit+Talk"
+      }
+    ],
+    "7.7.2": [
+      {
+        "d": "google.com",
+        "n": "Live Feeds",
+        "u": "https://www.google.com/search?q=Live+%26+Audio+Live+Feeds"
+      }
+    ],
+    "7.7.3": [
+      {
+        "d": "google.com",
+        "n": "Scheduled Talks",
+        "u": "https://www.google.com/search?q=Live+%26+Audio+Scheduled+Talks"
+      }
+    ],
+    "7.7.4": [
+      {
+        "d": "google.com",
+        "n": "Host Talk",
+        "u": "https://www.google.com/search?q=Live+%26+Audio+Host+Talk"
+      }
+    ],
+    "7.7.6": [
+      {
+        "d": "google.com",
+        "n": "RPAN Archive",
+        "u": "https://www.google.com/search?q=Live+%26+Audio+RPAN+Archive"
+      }
+    ],
+    "7.7.7": [
+      {
+        "d": "google.com",
+        "n": "Community Talks",
+        "u": "https://www.google.com/search?q=Live+%26+Audio+Community+Talks"
+      }
+    ],
+    "7.7.8": [
+      {
+        "d": "google.com",
+        "n": "Recordings",
+        "u": "https://www.google.com/search?q=Live+%26+Audio+Recordings"
+      }
+    ],
+    "7.7.9": [
+      {
+        "d": "google.com",
+        "n": "Discovery",
+        "u": "https://www.google.com/search?q=Live+%26+Audio+Discovery"
+      }
+    ],
+    "7.8.1": [
+      {
+        "d": "google.com",
+        "n": "My Profile",
+        "u": "https://www.google.com/search?q=Profile+%26+Account+My+Profile"
+      }
+    ],
+    "7.8.2": [
+      {
+        "d": "google.com",
+        "n": "Post History",
+        "u": "https://www.google.com/search?q=Profile+%26+Account+Post+History"
+      }
+    ],
+    "7.8.3": [
+      {
+        "d": "google.com",
+        "n": "Comment History",
+        "u": "https://www.google.com/search?q=Profile+%26+Account+Comment+History"
+      }
+    ],
+    "7.8.4": [
+      {
+        "d": "google.com",
+        "n": "Saved",
+        "u": "https://www.google.com/search?q=Profile+%26+Account+Saved"
+      }
+    ],
+    "7.8.6": [
+      {
+        "d": "google.com",
+        "n": "Hidden",
+        "u": "https://www.google.com/search?q=Profile+%26+Account+Hidden"
+      }
+    ],
+    "7.8.7": [
+      {
+        "d": "google.com",
+        "n": "Upvoted",
+        "u": "https://www.google.com/search?q=Profile+%26+Account+Upvoted"
+      }
+    ],
+    "7.8.8": [
+      {
+        "d": "google.com",
+        "n": "Karma",
+        "u": "https://www.google.com/search?q=Profile+%26+Account+Karma"
+      }
+    ],
+    "7.8.9": [
+      {
+        "d": "google.com",
+        "n": "Settings",
+        "u": "https://www.google.com/search?q=Profile+%26+Account+Settings"
+      }
+    ],
+    "7.9.1": [
+      {
+        "d": "google.com",
+        "n": "Mod Queue",
+        "u": "https://www.google.com/search?q=Mod+Tools+Mod+Queue"
+      }
+    ],
+    "7.9.2": [
+      {
+        "d": "google.com",
+        "n": "Reports",
+        "u": "https://www.google.com/search?q=Mod+Tools+Reports"
+      }
+    ],
+    "7.9.3": [
+      {
+        "d": "google.com",
+        "n": "Spam Filter",
+        "u": "https://www.google.com/search?q=Mod+Tools+Spam+Filter"
+      }
+    ],
+    "7.9.4": [
+      {
+        "d": "google.com",
+        "n": "AutoMod",
+        "u": "https://www.google.com/search?q=Mod+Tools+AutoMod"
+      }
+    ],
+    "7.9.6": [
+      {
+        "d": "google.com",
+        "n": "User Management",
+        "u": "https://www.google.com/search?q=Mod+Tools+User+Management"
+      }
+    ],
+    "7.9.7": [
+      {
+        "d": "google.com",
+        "n": "Rules",
+        "u": "https://www.google.com/search?q=Mod+Tools+Rules"
+      }
+    ],
+    "7.9.8": [
+      {
+        "d": "google.com",
+        "n": "Flair Mgmt",
+        "u": "https://www.google.com/search?q=Mod+Tools+Flair+Mgmt"
+      }
+    ],
+    "7.9.9": [
+      {
+        "d": "google.com",
+        "n": "Traffic Stats",
+        "u": "https://www.google.com/search?q=Mod+Tools+Traffic+Stats"
+      }
+    ],
+    "8.1.1": [
+      {
+        "d": "google.com",
+        "n": "Top Posts",
+        "u": "https://www.google.com/search?q=Feed+%26+Content+Top+Posts"
+      }
+    ],
+    "8.1.2": [
+      {
+        "d": "google.com",
+        "n": "Recent Posts",
+        "u": "https://www.google.com/search?q=Feed+%26+Content+Recent+Posts"
+      }
+    ],
+    "8.1.3": [
+      {
+        "d": "google.com",
+        "n": "Following",
+        "u": "https://www.google.com/search?q=Feed+%26+Content+Following"
+      }
+    ],
+    "8.1.4": [
+      {
+        "d": "google.com",
+        "n": "Newsletters",
+        "u": "https://www.google.com/search?q=Feed+%26+Content+Newsletters"
+      }
+    ],
+    "8.1.6": [
+      {
+        "d": "google.com",
+        "n": "Polls",
+        "u": "https://www.google.com/search?q=Feed+%26+Content+Polls"
+      }
+    ],
+    "8.1.7": [
+      {
+        "d": "google.com",
+        "n": "Documents",
+        "u": "https://www.google.com/search?q=Feed+%26+Content+Documents"
+      }
+    ],
+    "8.1.8": [
+      {
+        "d": "google.com",
+        "n": "Celebrations",
+        "u": "https://www.google.com/search?q=Feed+%26+Content+Celebrations"
+      }
+    ],
+    "8.1.9": [
+      {
+        "d": "google.com",
+        "n": "Suggested",
+        "u": "https://www.google.com/search?q=Feed+%26+Content+Suggested"
+      }
+    ],
+    "8.2.1": [
+      {
+        "d": "google.com",
+        "n": "Recommended",
+        "u": "https://www.google.com/search?q=Jobs+Recommended"
+      }
+    ],
+    "8.2.2.1": [
+      {
+        "d": "google.com",
+        "n": "Fully Remote",
+        "u": "https://www.google.com/search?q=Remote+Fully+Remote"
+      }
+    ],
+    "8.2.2.2": [
+      {
+        "d": "google.com",
+        "n": "Hybrid",
+        "u": "https://www.google.com/search?q=Remote+Hybrid"
+      }
+    ],
+    "8.2.2.3": [
+      {
+        "d": "google.com",
+        "n": "Tech Remote",
+        "u": "https://www.google.com/search?q=Remote+Tech+Remote"
+      }
+    ],
+    "8.2.2.4": [
+      {
+        "d": "google.com",
+        "n": "Marketing Remote",
+        "u": "https://www.google.com/search?q=Remote+Marketing+Remote"
+      }
+    ],
+    "8.2.2.6": [
+      {
+        "d": "google.com",
+        "n": "International",
+        "u": "https://www.google.com/search?q=Remote+International"
+      }
+    ],
+    "8.2.2.7": [
+      {
+        "d": "google.com",
+        "n": "Entry Level",
+        "u": "https://www.google.com/search?q=Remote+Entry+Level"
+      }
+    ],
+    "8.2.2.8": [
+      {
+        "d": "google.com",
+        "n": "Executive",
+        "u": "https://www.google.com/search?q=Remote+Executive"
+      }
+    ],
+    "8.2.2.9": [
+      {
+        "d": "google.com",
+        "n": "Freelance & Contract",
+        "u": "https://www.google.com/search?q=Remote+Freelance+%26+Contract"
+      }
+    ],
+    "8.2.3": [
+      {
+        "d": "google.com",
+        "n": "Easy Apply",
+        "u": "https://www.google.com/search?q=Jobs+Easy+Apply"
+      }
+    ],
+    "8.2.4": [
+      {
+        "d": "google.com",
+        "n": "Saved Jobs",
+        "u": "https://www.google.com/search?q=Jobs+Saved+Jobs"
+      }
+    ],
+    "8.2.6": [
+      {
+        "d": "google.com",
+        "n": "Job Alerts",
+        "u": "https://www.google.com/search?q=Jobs+Job+Alerts"
+      }
+    ],
+    "8.2.7.1": [
+      {
+        "d": "google.com",
+        "n": "By Role",
+        "u": "https://www.google.com/search?q=Salary+Insights+By+Role"
+      }
+    ],
+    "8.2.7.2": [
+      {
+        "d": "google.com",
+        "n": "By Industry",
+        "u": "https://www.google.com/search?q=Salary+Insights+By+Industry"
+      }
+    ],
+    "8.2.7.3": [
+      {
+        "d": "google.com",
+        "n": "By Location",
+        "u": "https://www.google.com/search?q=Salary+Insights+By+Location"
+      }
+    ],
+    "8.2.7.4": [
+      {
+        "d": "google.com",
+        "n": "By Experience",
+        "u": "https://www.google.com/search?q=Salary+Insights+By+Experience"
+      }
+    ],
+    "8.2.7.6": [
+      {
+        "d": "google.com",
+        "n": "Negotiation Tips",
+        "u": "https://www.google.com/search?q=Salary+Insights+Negotiation+Tips"
+      }
+    ],
+    "8.2.7.7": [
+      {
+        "d": "google.com",
+        "n": "Comp Benchmarks",
+        "u": "https://www.google.com/search?q=Salary+Insights+Comp+Benchmarks"
+      }
+    ],
+    "8.2.7.8": [
+      {
+        "d": "google.com",
+        "n": "Benefits Data",
+        "u": "https://www.google.com/search?q=Salary+Insights+Benefits+Data"
+      }
+    ],
+    "8.2.7.9": [
+      {
+        "d": "google.com",
+        "n": "Equity & Stock",
+        "u": "https://www.google.com/search?q=Salary+Insights+Equity+%26+Stock"
+      }
+    ],
+    "8.2.8": [
+      {
+        "d": "google.com",
+        "n": "Company Reviews",
+        "u": "https://www.google.com/search?q=Jobs+Company+Reviews"
+      }
+    ],
+    "8.2.9": [
+      {
+        "d": "google.com",
+        "n": "Application Status",
+        "u": "https://www.google.com/search?q=Jobs+Application+Status"
+      }
+    ],
+    "8.3.1": [
+      {
+        "d": "google.com",
+        "n": "Inbox",
+        "u": "https://www.google.com/search?q=Messaging+Inbox"
+      }
+    ],
+    "8.3.2": [
+      {
+        "d": "google.com",
+        "n": "Focused",
+        "u": "https://www.google.com/search?q=Messaging+Focused"
+      }
+    ],
+    "8.3.3": [
+      {
+        "d": "google.com",
+        "n": "Other",
+        "u": "https://www.google.com/search?q=Messaging+Other"
+      }
+    ],
+    "8.3.4": [
+      {
+        "d": "google.com",
+        "n": "InMail",
+        "u": "https://www.google.com/search?q=Messaging+InMail"
+      }
+    ],
+    "8.3.6": [
+      {
+        "d": "google.com",
+        "n": "Group Messages",
+        "u": "https://www.google.com/search?q=Messaging+Group+Messages"
+      }
+    ],
+    "8.3.7": [
+      {
+        "d": "google.com",
+        "n": "Voice Messages",
+        "u": "https://www.google.com/search?q=Messaging+Voice+Messages"
+      }
+    ],
+    "8.3.8": [
+      {
+        "d": "google.com",
+        "n": "Video Messages",
+        "u": "https://www.google.com/search?q=Messaging+Video+Messages"
+      }
+    ],
+    "8.3.9": [
+      {
+        "d": "google.com",
+        "n": "Requests",
+        "u": "https://www.google.com/search?q=Messaging+Requests"
+      }
+    ],
+    "8.4.1": [
+      {
+        "d": "google.com",
+        "n": "My Network",
+        "u": "https://www.google.com/search?q=Network+My+Network"
+      }
+    ],
+    "8.4.2": [
+      {
+        "d": "google.com",
+        "n": "Invitations",
+        "u": "https://www.google.com/search?q=Network+Invitations"
+      }
+    ],
+    "8.4.3": [
+      {
+        "d": "google.com",
+        "n": "People You Know",
+        "u": "https://www.google.com/search?q=Network+People+You+Know"
+      }
+    ],
+    "8.4.4": [
+      {
+        "d": "google.com",
+        "n": "Find Alumni",
+        "u": "https://www.google.com/search?q=Network+Find+Alumni"
+      }
+    ],
+    "8.4.6": [
+      {
+        "d": "google.com",
+        "n": "Follow Suggestions",
+        "u": "https://www.google.com/search?q=Network+Follow+Suggestions"
+      }
+    ],
+    "8.4.7": [
+      {
+        "d": "google.com",
+        "n": "Connections",
+        "u": "https://www.google.com/search?q=Network+Connections"
+      }
+    ],
+    "8.4.8": [
+      {
+        "d": "google.com",
+        "n": "Contacts",
+        "u": "https://www.google.com/search?q=Network+Contacts"
+      }
+    ],
+    "8.4.9": [
+      {
+        "d": "google.com",
+        "n": "Grow",
+        "u": "https://www.google.com/search?q=Network+Grow"
+      }
+    ],
+    "8.6.1": [
+      {
+        "d": "google.com",
+        "n": "My Learning",
+        "u": "https://www.google.com/search?q=Learning+My+Learning"
+      }
+    ],
+    "8.6.2": [
+      {
+        "d": "google.com",
+        "n": "In Progress",
+        "u": "https://www.google.com/search?q=Learning+In+Progress"
+      }
+    ],
+    "8.6.3": [
+      {
+        "d": "google.com",
+        "n": "Saved Courses",
+        "u": "https://www.google.com/search?q=Learning+Saved+Courses"
+      }
+    ],
+    "8.6.4": [
+      {
+        "d": "google.com",
+        "n": "Skill Assessments",
+        "u": "https://www.google.com/search?q=Learning+Skill+Assessments"
+      }
+    ],
+    "8.6.6": [
+      {
+        "d": "google.com",
+        "n": "Certificates",
+        "u": "https://www.google.com/search?q=Learning+Certificates"
+      }
+    ],
+    "8.6.7": [
+      {
+        "d": "google.com",
+        "n": "Learning Paths",
+        "u": "https://www.google.com/search?q=Learning+Learning+Paths"
+      }
+    ],
+    "8.6.8": [
+      {
+        "d": "google.com",
+        "n": "New Releases",
+        "u": "https://www.google.com/search?q=Learning+New+Releases"
+      }
+    ],
+    "8.6.9": [
+      {
+        "d": "google.com",
+        "n": "Recommended",
+        "u": "https://www.google.com/search?q=Learning+Recommended"
+      }
+    ],
+    "8.7.1": [
+      {
+        "d": "google.com",
+        "n": "Upcoming Events",
+        "u": "https://www.google.com/search?q=Events+%26+Groups+Upcoming+Events"
+      }
+    ],
+    "8.7.2": [
+      {
+        "d": "google.com",
+        "n": "My Events",
+        "u": "https://www.google.com/search?q=Events+%26+Groups+My+Events"
+      }
+    ],
+    "8.7.3": [
+      {
+        "d": "google.com",
+        "n": "Online Events",
+        "u": "https://www.google.com/search?q=Events+%26+Groups+Online+Events"
+      }
+    ],
+    "8.7.4": [
+      {
+        "d": "google.com",
+        "n": "Networking Events",
+        "u": "https://www.google.com/search?q=Events+%26+Groups+Networking+Events"
+      }
+    ],
+    "8.7.6": [
+      {
+        "d": "google.com",
+        "n": "Groups",
+        "u": "https://www.google.com/search?q=Events+%26+Groups+Groups"
+      }
+    ],
+    "8.7.7": [
+      {
+        "d": "google.com",
+        "n": "Webinars",
+        "u": "https://www.google.com/search?q=Events+%26+Groups+Webinars"
+      }
+    ],
+    "8.7.8": [
+      {
+        "d": "google.com",
+        "n": "Conferences",
+        "u": "https://www.google.com/search?q=Events+%26+Groups+Conferences"
+      }
+    ],
+    "8.7.9": [
+      {
+        "d": "google.com",
+        "n": "Create",
+        "u": "https://www.google.com/search?q=Events+%26+Groups+Create"
+      }
+    ],
+    "8.8.1": [
+      {
+        "d": "google.com",
+        "n": "Write Article",
+        "u": "https://www.google.com/search?q=Publishing+Write+Article"
+      }
+    ],
+    "8.8.2": [
+      {
+        "d": "google.com",
+        "n": "Newsletter",
+        "u": "https://www.google.com/search?q=Publishing+Newsletter"
+      }
+    ],
+    "8.8.3": [
+      {
+        "d": "google.com",
+        "n": "Trending Articles",
+        "u": "https://www.google.com/search?q=Publishing+Trending+Articles"
+      }
+    ],
+    "8.8.4": [
+      {
+        "d": "google.com",
+        "n": "Industry News",
+        "u": "https://www.google.com/search?q=Publishing+Industry+News"
+      }
+    ],
+    "8.8.6": [
+      {
+        "d": "google.com",
+        "n": "Thought Leadership",
+        "u": "https://www.google.com/search?q=Publishing+Thought+Leadership"
+      }
+    ],
+    "8.8.7": [
+      {
+        "d": "google.com",
+        "n": "How-To",
+        "u": "https://www.google.com/search?q=Publishing+How-To"
+      }
+    ],
+    "8.8.8": [
+      {
+        "d": "google.com",
+        "n": "Case Studies",
+        "u": "https://www.google.com/search?q=Publishing+Case+Studies"
+      }
+    ],
+    "8.8.9": [
+      {
+        "d": "google.com",
+        "n": "Draft",
+        "u": "https://www.google.com/search?q=Publishing+Draft"
+      }
+    ],
+    "8.9.1": [
+      {
+        "d": "google.com",
+        "n": "Edit Profile",
+        "u": "https://www.google.com/search?q=Profile+%26+Settings+Edit+Profile"
+      }
+    ],
+    "8.9.2": [
+      {
+        "d": "google.com",
+        "n": "Company Page",
+        "u": "https://www.google.com/search?q=Profile+%26+Settings+Company+Page"
+      }
+    ],
+    "8.9.3": [
+      {
+        "d": "google.com",
+        "n": "Analytics",
+        "u": "https://www.google.com/search?q=Profile+%26+Settings+Analytics"
+      }
+    ],
+    "8.9.4": [
+      {
+        "d": "google.com",
+        "n": "Premium",
+        "u": "https://www.google.com/search?q=Profile+%26+Settings+Premium"
+      }
+    ],
+    "8.9.6": [
+      {
+        "d": "google.com",
+        "n": "Privacy",
+        "u": "https://www.google.com/search?q=Profile+%26+Settings+Privacy"
+      }
+    ],
+    "8.9.7": [
+      {
+        "d": "google.com",
+        "n": "Notifications",
+        "u": "https://www.google.com/search?q=Profile+%26+Settings+Notifications"
+      }
+    ],
+    "8.9.8": [
+      {
+        "d": "google.com",
+        "n": "Visibility",
+        "u": "https://www.google.com/search?q=Profile+%26+Settings+Visibility"
+      }
+    ],
+    "8.9.9": [
+      {
+        "d": "google.com",
+        "n": "Account",
+        "u": "https://www.google.com/search?q=Profile+%26+Settings+Account"
+      }
+    ],
+    "9.1.1.1": [
+      {
+        "d": "google.com",
+        "n": "Gaming Servers",
+        "u": "https://www.google.com/search?q=Server+Discovery+Gaming+Servers"
+      }
+    ],
+    "9.1.1.2": [
+      {
+        "d": "google.com",
+        "n": "Tech & Dev",
+        "u": "https://www.google.com/search?q=Server+Discovery+Tech+%26+Dev"
+      }
+    ],
+    "9.1.1.3": [
+      {
+        "d": "google.com",
+        "n": "Crypto & Web3",
+        "u": "https://www.google.com/search?q=Server+Discovery+Crypto+%26+Web3"
+      }
+    ],
+    "9.1.1.4": [
+      {
+        "d": "google.com",
+        "n": "Art & Creative",
+        "u": "https://www.google.com/search?q=Server+Discovery+Art+%26+Creative"
+      }
+    ],
+    "9.1.1.6": [
+      {
+        "d": "google.com",
+        "n": "Music",
+        "u": "https://www.google.com/search?q=Server+Discovery+Music"
+      }
+    ],
+    "9.1.1.7": [
+      {
+        "d": "google.com",
+        "n": "Education",
+        "u": "https://www.google.com/search?q=Server+Discovery+Education"
+      }
+    ],
+    "9.1.1.8": [
+      {
+        "d": "google.com",
+        "n": "Anime & Fandom",
+        "u": "https://www.google.com/search?q=Server+Discovery+Anime+%26+Fandom"
+      }
+    ],
+    "9.1.1.9": [
+      {
+        "d": "google.com",
+        "n": "Community Hubs",
+        "u": "https://www.google.com/search?q=Server+Discovery+Community+Hubs"
+      }
+    ],
+    "9.1.2": [
+      {
+        "d": "google.com",
+        "n": "My Servers",
+        "u": "https://www.google.com/search?q=Discord+My+Servers"
+      }
+    ],
+    "9.1.3": [
+      {
+        "d": "google.com",
+        "n": "Voice Channels",
+        "u": "https://www.google.com/search?q=Discord+Voice+Channels"
+      }
+    ],
+    "9.1.4": [
+      {
+        "d": "google.com",
+        "n": "Text Channels",
+        "u": "https://www.google.com/search?q=Discord+Text+Channels"
+      }
+    ],
+    "9.1.6": [
+      {
+        "d": "google.com",
+        "n": "DMs",
+        "u": "https://www.google.com/search?q=Discord+DMs"
+      }
+    ],
+    "9.1.7": [
+      {
+        "d": "google.com",
+        "n": "Stage Channels",
+        "u": "https://www.google.com/search?q=Discord+Stage+Channels"
+      }
+    ],
+    "9.1.8": [
+      {
+        "d": "google.com",
+        "n": "Forum Channels",
+        "u": "https://www.google.com/search?q=Discord+Forum+Channels"
+      }
+    ],
+    "9.1.9": [
+      {
+        "d": "google.com",
+        "n": "Server Settings",
+        "u": "https://www.google.com/search?q=Discord+Server+Settings"
+      }
+    ],
+    "9.2.1": [
+      {
+        "d": "google.com",
+        "n": "Chats",
+        "u": "https://www.google.com/search?q=WhatsApp+Chats"
+      }
+    ],
+    "9.2.2": [
+      {
+        "d": "google.com",
+        "n": "Groups",
+        "u": "https://www.google.com/search?q=WhatsApp+Groups"
+      }
+    ],
+    "9.2.3": [
+      {
+        "d": "google.com",
+        "n": "Status",
+        "u": "https://www.google.com/search?q=WhatsApp+Status"
+      }
+    ],
+    "9.2.4": [
+      {
+        "d": "google.com",
+        "n": "Channels",
+        "u": "https://www.google.com/search?q=WhatsApp+Channels"
+      }
+    ],
+    "9.2.6": [
+      {
+        "d": "google.com",
+        "n": "Communities",
+        "u": "https://www.google.com/search?q=WhatsApp+Communities"
+      }
+    ],
+    "9.2.7": [
+      {
+        "d": "google.com",
+        "n": "Voice Calls",
+        "u": "https://www.google.com/search?q=WhatsApp+Voice+Calls"
+      }
+    ],
+    "9.2.8": [
+      {
+        "d": "google.com",
+        "n": "Video Calls",
+        "u": "https://www.google.com/search?q=WhatsApp+Video+Calls"
+      }
+    ],
+    "9.2.9": [
+      {
+        "d": "google.com",
+        "n": "Broadcast",
+        "u": "https://www.google.com/search?q=WhatsApp+Broadcast"
+      }
+    ],
+    "9.3.1": [
+      {
+        "d": "google.com",
+        "n": "Chat",
+        "u": "https://www.google.com/search?q=Snapchat+Chat"
+      }
+    ],
+    "9.3.2": [
+      {
+        "d": "google.com",
+        "n": "Snap Map",
+        "u": "https://www.google.com/search?q=Snapchat+Snap+Map"
+      }
+    ],
+    "9.3.3": [
+      {
+        "d": "google.com",
+        "n": "Spotlight",
+        "u": "https://www.google.com/search?q=Snapchat+Spotlight"
+      }
+    ],
+    "9.3.4": [
+      {
+        "d": "google.com",
+        "n": "Stories",
+        "u": "https://www.google.com/search?q=Snapchat+Stories"
+      }
+    ],
+    "9.3.6": [
+      {
+        "d": "google.com",
+        "n": "Discover",
+        "u": "https://www.google.com/search?q=Snapchat+Discover"
+      }
+    ],
+    "9.3.7": [
+      {
+        "d": "google.com",
+        "n": "Memories",
+        "u": "https://www.google.com/search?q=Snapchat+Memories"
+      }
+    ],
+    "9.3.8": [
+      {
+        "d": "google.com",
+        "n": "Bitmoji",
+        "u": "https://www.google.com/search?q=Snapchat+Bitmoji"
+      }
+    ],
+    "9.3.9": [
+      {
+        "d": "google.com",
+        "n": "My AI",
+        "u": "https://www.google.com/search?q=Snapchat+My+AI"
+      }
+    ],
+    "9.4.1": [
+      {
+        "d": "google.com",
+        "n": "Home Feed",
+        "u": "https://www.google.com/search?q=Pinterest+Home+Feed"
+      }
+    ],
+    "9.4.2": [
+      {
+        "d": "google.com",
+        "n": "Search & Explore",
+        "u": "https://www.google.com/search?q=Pinterest+Search+%26+Explore"
+      }
+    ],
+    "9.4.3": [
+      {
+        "d": "google.com",
+        "n": "Boards",
+        "u": "https://www.google.com/search?q=Pinterest+Boards"
+      }
+    ],
+    "9.4.4": [
+      {
+        "d": "google.com",
+        "n": "Idea Pins",
+        "u": "https://www.google.com/search?q=Pinterest+Idea+Pins"
+      }
+    ],
+    "9.4.6": [
+      {
+        "d": "google.com",
+        "n": "Shopping",
+        "u": "https://www.google.com/search?q=Pinterest+Shopping"
+      }
+    ],
+    "9.4.7": [
+      {
+        "d": "google.com",
+        "n": "Creator Hub",
+        "u": "https://www.google.com/search?q=Pinterest+Creator+Hub"
+      }
+    ],
+    "9.4.8": [
+      {
+        "d": "google.com",
+        "n": "Today Tab",
+        "u": "https://www.google.com/search?q=Pinterest+Today+Tab"
+      }
+    ],
+    "9.4.9": [
+      {
+        "d": "google.com",
+        "n": "Tried It",
+        "u": "https://www.google.com/search?q=Pinterest+Tried+It"
+      }
+    ],
+    "9.6.1": [
+      {
+        "d": "google.com",
+        "n": "Chats",
+        "u": "https://www.google.com/search?q=Telegram+Chats"
+      }
+    ],
+    "9.6.2": [
+      {
+        "d": "google.com",
+        "n": "Groups",
+        "u": "https://www.google.com/search?q=Telegram+Groups"
+      }
+    ],
+    "9.6.3": [
+      {
+        "d": "google.com",
+        "n": "Channels",
+        "u": "https://www.google.com/search?q=Telegram+Channels"
+      }
+    ],
+    "9.6.4": [
+      {
+        "d": "google.com",
+        "n": "Bots",
+        "u": "https://www.google.com/search?q=Telegram+Bots"
+      }
+    ],
+    "9.6.6": [
+      {
+        "d": "google.com",
+        "n": "Voice Chats",
+        "u": "https://www.google.com/search?q=Telegram+Voice+Chats"
+      }
+    ],
+    "9.6.7": [
+      {
+        "d": "google.com",
+        "n": "Stories",
+        "u": "https://www.google.com/search?q=Telegram+Stories"
+      }
+    ],
+    "9.6.8": [
+      {
+        "d": "google.com",
+        "n": "Saved Messages",
+        "u": "https://www.google.com/search?q=Telegram+Saved+Messages"
+      }
+    ],
+    "9.6.9": [
+      {
+        "d": "google.com",
+        "n": "Settings",
+        "u": "https://www.google.com/search?q=Telegram+Settings"
+      }
+    ],
+    "9.7.1": [
+      {
+        "d": "google.com",
+        "n": "Home Feed",
+        "u": "https://www.google.com/search?q=Bluesky+Home+Feed"
+      }
+    ],
+    "9.7.2": [
+      {
+        "d": "google.com",
+        "n": "Discover",
+        "u": "https://www.google.com/search?q=Bluesky+Discover"
+      }
+    ],
+    "9.7.3": [
+      {
+        "d": "google.com",
+        "n": "Custom Feeds",
+        "u": "https://www.google.com/search?q=Bluesky+Custom+Feeds"
+      }
+    ],
+    "9.7.4": [
+      {
+        "d": "google.com",
+        "n": "Starter Packs",
+        "u": "https://www.google.com/search?q=Bluesky+Starter+Packs"
+      }
+    ],
+    "9.7.6": [
+      {
+        "d": "google.com",
+        "n": "Lists",
+        "u": "https://www.google.com/search?q=Bluesky+Lists"
+      }
+    ],
+    "9.7.7": [
+      {
+        "d": "google.com",
+        "n": "Moderation",
+        "u": "https://www.google.com/search?q=Bluesky+Moderation"
+      }
+    ],
+    "9.7.8": [
+      {
+        "d": "google.com",
+        "n": "Handles",
+        "u": "https://www.google.com/search?q=Bluesky+Handles"
+      }
+    ],
+    "9.7.9": [
+      {
+        "d": "google.com",
+        "n": "Feed Generators",
+        "u": "https://www.google.com/search?q=Bluesky+Feed+Generators"
+      }
+    ],
+    "9.8.1": [
+      {
+        "d": "google.com",
+        "n": "Home",
+        "u": "https://www.google.com/search?q=Mastodon+Home"
+      }
+    ],
+    "9.8.2": [
+      {
+        "d": "google.com",
+        "n": "Local",
+        "u": "https://www.google.com/search?q=Mastodon+Local"
+      }
+    ],
+    "9.8.3": [
+      {
+        "d": "google.com",
+        "n": "Federated",
+        "u": "https://www.google.com/search?q=Mastodon+Federated"
+      }
+    ],
+    "9.8.4": [
+      {
+        "d": "google.com",
+        "n": "Explore",
+        "u": "https://www.google.com/search?q=Mastodon+Explore"
+      }
+    ],
+    "9.8.6": [
+      {
+        "d": "google.com",
+        "n": "Lists",
+        "u": "https://www.google.com/search?q=Mastodon+Lists"
+      }
+    ],
+    "9.8.7": [
+      {
+        "d": "google.com",
+        "n": "Bookmarks",
+        "u": "https://www.google.com/search?q=Mastodon+Bookmarks"
+      }
+    ],
+    "9.8.8": [
+      {
+        "d": "google.com",
+        "n": "Trending Tags",
+        "u": "https://www.google.com/search?q=Mastodon+Trending+Tags"
+      }
+    ],
+    "9.8.9": [
+      {
+        "d": "google.com",
+        "n": "Servers",
+        "u": "https://www.google.com/search?q=Mastodon+Servers"
+      }
+    ],
+    "9.9.1": [
+      {
+        "d": "google.com",
+        "n": "Private Chat",
+        "u": "https://www.google.com/search?q=Signal+Private+Chat"
+      }
+    ],
+    "9.9.2": [
+      {
+        "d": "google.com",
+        "n": "Group Chat",
+        "u": "https://www.google.com/search?q=Signal+Group+Chat"
+      }
+    ],
+    "9.9.3": [
+      {
+        "d": "google.com",
+        "n": "Stories",
+        "u": "https://www.google.com/search?q=Signal+Stories"
+      }
+    ],
+    "9.9.4": [
+      {
+        "d": "google.com",
+        "n": "Voice Call",
+        "u": "https://www.google.com/search?q=Signal+Voice+Call"
+      }
+    ],
+    "9.9.6": [
+      {
+        "d": "google.com",
+        "n": "Video Call",
+        "u": "https://www.google.com/search?q=Signal+Video+Call"
+      }
+    ],
+    "9.9.7": [
+      {
+        "d": "google.com",
+        "n": "Note to Self",
+        "u": "https://www.google.com/search?q=Signal+Note+to+Self"
+      }
+    ],
+    "9.9.8": [
+      {
+        "d": "google.com",
+        "n": "Disappearing Msgs",
+        "u": "https://www.google.com/search?q=Signal+Disappearing+Msgs"
+      }
+    ],
+    "9.9.9": [
+      {
+        "d": "google.com",
+        "n": "Safety",
+        "u": "https://www.google.com/search?q=Signal+Safety"
+      }
+    ]
+  }
+}

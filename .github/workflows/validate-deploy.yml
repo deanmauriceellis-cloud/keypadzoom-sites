@@ -1,0 +1,130 @@
+name: Validate & Deploy Site Packs
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'sites-latest/**'
+  pull_request:
+    branches: [main]
+    paths:
+      - 'sites-latest/**'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install ajv-cli
+        run: npm install -g ajv-cli ajv-formats
+
+      - name: Validate manifest.json
+        run: |
+          ajv validate \
+            -s schemas/manifest.schema.json \
+            -d sites-latest/manifest.json \
+            --spec=draft7 \
+            -c ajv-formats
+
+      - name: Validate brands.json
+        run: |
+          ajv validate \
+            -s schemas/brands.schema.json \
+            -d sites-latest/brands.json \
+            --spec=draft7 \
+            -c ajv-formats
+
+      - name: Validate site pack files
+        run: |
+          for f in sites-latest/key*.json; do
+            echo "Validating $f..."
+            ajv validate \
+              -s schemas/site-pack.schema.json \
+              -d "$f" \
+              --spec=draft7 \
+              -c ajv-formats
+          done
+
+      - name: Verify checksums
+        run: |
+          echo "Verifying checksums match manifest..."
+          ERRORS=0
+
+          # Check brands checksum
+          EXPECTED=$(jq -r '.brandsChecksum' sites-latest/manifest.json)
+          ACTUAL=$(sha256sum sites-latest/brands.json | cut -c1-8)
+          if [ "$EXPECTED" != "$ACTUAL" ]; then
+            echo "❌ brands.json checksum mismatch: expected=$EXPECTED actual=$ACTUAL"
+            ERRORS=$((ERRORS + 1))
+          else
+            echo "✅ brands.json checksum OK ($ACTUAL)"
+          fi
+
+          # Check each key file checksum
+          for key in 1 2 3 4 6 7 8 9; do
+            FILE=$(jq -r ".keys[\"$key\"].file" sites-latest/manifest.json)
+            EXPECTED=$(jq -r ".keys[\"$key\"].checksum" sites-latest/manifest.json)
+            ACTUAL=$(sha256sum "sites-latest/$FILE" | cut -c1-8)
+            if [ "$EXPECTED" != "$ACTUAL" ]; then
+              echo "❌ $FILE checksum mismatch: expected=$EXPECTED actual=$ACTUAL"
+              ERRORS=$((ERRORS + 1))
+            else
+              echo "✅ $FILE checksum OK ($ACTUAL)"
+            fi
+          done
+
+          if [ $ERRORS -gt 0 ]; then
+            echo ""
+            echo "❌ $ERRORS checksum error(s). Update manifest.json checksums before merging."
+            exit 1
+          fi
+
+      - name: Check for duplicate brand codes
+        run: |
+          DUPES=$(jq -r '[.[].b] | group_by(.) | map(select(length > 1) | .[0]) | .[]' sites-latest/brands.json)
+          if [ -n "$DUPES" ]; then
+            echo "❌ Duplicate brand codes found:"
+            echo "$DUPES"
+            exit 1
+          fi
+          echo "✅ All brand codes are unique"
+
+      - name: Verify endpoint counts
+        run: |
+          ERRORS=0
+          for key in 1 2 3 4 6 7 8 9; do
+            FILE=$(jq -r ".keys[\"$key\"].file" sites-latest/manifest.json)
+            EXPECTED=$(jq -r ".keys[\"$key\"].endpoints" sites-latest/manifest.json)
+            ACTUAL=$(jq '[.sites | to_entries[] | .value | length] | add' "sites-latest/$FILE")
+            if [ "$EXPECTED" != "$ACTUAL" ]; then
+              echo "⚠️  $FILE endpoint count: manifest says $EXPECTED, actual is $ACTUAL"
+              ERRORS=$((ERRORS + 1))
+            else
+              echo "✅ $FILE: $ACTUAL endpoints"
+            fi
+          done
+          if [ $ERRORS -gt 0 ]; then
+            echo ""
+            echo "⚠️  $ERRORS endpoint count mismatch(es). Update manifest.json if intentional."
+            exit 1
+          fi
+
+  # GitHub Pages deploys automatically from main branch.
+  # This job just logs the deployment for visibility.
+  log-deploy:
+    needs: validate
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Log deployment
+        run: |
+          VERSION=$(jq -r '.version' sites-latest/manifest.json)
+          echo "🚀 Deployed site packs version $VERSION"
+          echo "   CDN URL: https://deanmauriceellis-cloud.github.io/keypadzoom-sites/sites-latest/"
+          echo "   Updated: $(jq -r '.updated' sites-latest/manifest.json)"

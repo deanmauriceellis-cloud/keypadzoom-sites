@@ -1,0 +1,358 @@
+{
+  "1password.com": {
+    "b": "1P",
+    "c": "#666666"
+  },
+  "7cups.com": {
+    "b": "7C",
+    "c": "#666666"
+  },
+  "aljazeera.com": {
+    "b": "AL",
+    "c": "#666666"
+  },
+  "amazon.com": {
+    "b": "AZ",
+    "c": "#FF9900"
+  },
+  "apnews.com": {
+    "b": "AP",
+    "c": "#EE1C25"
+  },
+  "apple.com": {
+    "b": "AA",
+    "c": "#555555"
+  },
+  "arstechnica.com": {
+    "b": "AR",
+    "c": "#FF4E00"
+  },
+  "betterhelp.com": {
+    "b": "BH",
+    "c": "#2E7D32"
+  },
+  "bitwarden.com": {
+    "b": "BI",
+    "c": "#666666"
+  },
+  "canva.com": {
+    "b": "CA",
+    "c": "#00C4CC"
+  },
+  "cerebral.com": {
+    "b": "CE",
+    "c": "#666666"
+  },
+  "chess.com": {
+    "b": "CH",
+    "c": "#769656"
+  },
+  "claude.ai": {
+    "b": "CL",
+    "c": "#D97706"
+  },
+  "cnn.com": {
+    "b": "CN",
+    "c": "#CC0000"
+  },
+  "code.visualstudio.com": {
+    "b": "VS",
+    "c": "#007ACC"
+  },
+  "coinbase.com": {
+    "b": "CB",
+    "c": "#0052FF"
+  },
+  "copilot.microsoft.com": {
+    "b": "CP",
+    "c": "#7B83EB"
+  },
+  "creditkarma.com": {
+    "b": "CK",
+    "c": "#00825A"
+  },
+  "dashlane.com": {
+    "b": "DA",
+    "c": "#666666"
+  },
+  "dealnews.com": {
+    "b": "DE",
+    "c": "#666666"
+  },
+  "ebay.com": {
+    "b": "EB",
+    "c": "#E53238"
+  },
+  "etrade.com": {
+    "b": "ER",
+    "c": "#6633CC"
+  },
+  "etsy.com": {
+    "b": "ET",
+    "c": "#F1641E"
+  },
+  "fidelity.com": {
+    "b": "FI",
+    "c": "#498205"
+  },
+  "figma.com": {
+    "b": "FG",
+    "c": "#F24E1E"
+  },
+  "fiverr.com": {
+    "b": "FV",
+    "c": "#1DBF73"
+  },
+  "freetaxusa.com": {
+    "b": "FR",
+    "c": "#666666"
+  },
+  "gemini.google.com": {
+    "b": "GE",
+    "c": "#4285F4"
+  },
+  "github.com": {
+    "b": "GH",
+    "c": "#24292E"
+  },
+  "glassdoor.com": {
+    "b": "GD",
+    "c": "#0CAA41"
+  },
+  "goodreads.com": {
+    "b": "GR",
+    "c": "#553B08"
+  },
+  "google.com": {
+    "b": "GO",
+    "c": "#4285F4"
+  },
+  "gpt4all.io": {
+    "b": "GP",
+    "c": "#666666"
+  },
+  "hrblock.com": {
+    "b": "HR",
+    "c": "#00A651"
+  },
+  "huggingface.co": {
+    "b": "HF",
+    "c": "#FFD21E"
+  },
+  "hulu.com": {
+    "b": "HU",
+    "c": "#1CE783"
+  },
+  "indeed.com": {
+    "b": "IN",
+    "c": "#003A9B"
+  },
+  "instacart.com": {
+    "b": "IC",
+    "c": "#43B02A"
+  },
+  "joinhoney.com": {
+    "b": "JO",
+    "c": "#666666"
+  },
+  "lichess.org": {
+    "b": "LC",
+    "c": "#000000"
+  },
+  "linkedin.com": {
+    "b": "LI",
+    "c": "#0A66C2"
+  },
+  "lmstudio.ai": {
+    "b": "LM",
+    "c": "#666666"
+  },
+  "midjourney.com": {
+    "b": "MJ",
+    "c": "#000000"
+  },
+  "music.youtube.com": {
+    "b": "YM",
+    "c": "#FF0000"
+  },
+  "myfitnesspal.com": {
+    "b": "MF",
+    "c": "#0073CF"
+  },
+  "news.google.com": {
+    "b": "GN",
+    "c": "#4285F4"
+  },
+  "newyorker.com": {
+    "b": "NR",
+    "c": "#121212"
+  },
+  "nexusmods.com": {
+    "b": "NX",
+    "c": "#D98F40"
+  },
+  "nike.com": {
+    "b": "NI",
+    "c": "#666666"
+  },
+  "notion.so": {
+    "b": "NO",
+    "c": "#000000"
+  },
+  "npr.org": {
+    "b": "NP",
+    "c": "#DE1A1B"
+  },
+  "nytimes.com": {
+    "b": "NY",
+    "c": "#1A1A1A"
+  },
+  "obsidian.md": {
+    "b": "OB",
+    "c": "#7C3AED"
+  },
+  "ollama.com": {
+    "b": "OL",
+    "c": "#000000"
+  },
+  "onepeloton.com": {
+    "b": "PE",
+    "c": "#181A1B"
+  },
+  "openai.com": {
+    "b": "OA",
+    "c": "#74AA9C"
+  },
+  "paramountplus.com": {
+    "b": "P+",
+    "c": "#0064FF"
+  },
+  "paypal.com": {
+    "b": "PP",
+    "c": "#003087"
+  },
+  "peacocktv.com": {
+    "b": "PC",
+    "c": "#000000"
+  },
+  "perplexity.ai": {
+    "b": "PX",
+    "c": "#20808D"
+  },
+  "politico.com": {
+    "b": "PO",
+    "c": "#EE2A24"
+  },
+  "promptbase.com": {
+    "b": "PR",
+    "c": "#666666"
+  },
+  "rakuten.com": {
+    "b": "RA",
+    "c": "#BF0000"
+  },
+  "retailmenot.com": {
+    "b": "RM",
+    "c": "#E34225"
+  },
+  "reuters.com": {
+    "b": "RT",
+    "c": "#FF8000"
+  },
+  "robinhood.com": {
+    "b": "RH",
+    "c": "#00C805"
+  },
+  "schwab.com": {
+    "b": "CS",
+    "c": "#00A0DF"
+  },
+  "serialpodcast.org": {
+    "b": "SE",
+    "c": "#666666"
+  },
+  "slickdeals.net": {
+    "b": "SD",
+    "c": "#005DA6"
+  },
+  "steampowered.com": {
+    "b": "ST",
+    "c": "#1B2838"
+  },
+  "strava.com": {
+    "b": "SV",
+    "c": "#FC4C02"
+  },
+  "talkspace.com": {
+    "b": "TS",
+    "c": "#3F7CAC"
+  },
+  "techcrunch.com": {
+    "b": "TC",
+    "c": "#0A9B1E"
+  },
+  "theatlantic.com": {
+    "b": "TA",
+    "c": "#BB1A34"
+  },
+  "theguardian.com": {
+    "b": "GU",
+    "c": "#052962"
+  },
+  "theverge.com": {
+    "b": "VG",
+    "c": "#E3225C"
+  },
+  "threads.net": {
+    "b": "TH",
+    "c": "#000000"
+  },
+  "tidal.com": {
+    "b": "TI",
+    "c": "#000000"
+  },
+  "toptal.com": {
+    "b": "TP",
+    "c": "#204ECF"
+  },
+  "trends.google.com": {
+    "b": "TR",
+    "c": "#666666"
+  },
+  "turbotax.intuit.com": {
+    "b": "TT",
+    "c": "#365ABE"
+  },
+  "upwork.com": {
+    "b": "UP",
+    "c": "#14A800"
+  },
+  "vanguard.com": {
+    "b": "VA",
+    "c": "#C41230"
+  },
+  "venmo.com": {
+    "b": "VE",
+    "c": "#666666"
+  },
+  "washingtonpost.com": {
+    "b": "WP",
+    "c": "#000000"
+  },
+  "wired.com": {
+    "b": "WI",
+    "c": "#000000"
+  },
+  "wsj.com": {
+    "b": "WS",
+    "c": "#0274B6"
+  },
+  "ynab.com": {
+    "b": "YN",
+    "c": "#85C3E9"
+  },
+  "ziprecruiter.com": {
+    "b": "ZR",
+    "c": "#1861BF"
+  }
+}

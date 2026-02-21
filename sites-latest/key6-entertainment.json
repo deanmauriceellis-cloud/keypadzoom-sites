@@ -1,0 +1,3884 @@
+{
+  "key": 6,
+  "label": "Entertainment",
+  "sites": {
+    "1.1.1": [
+      {
+        "d": "google.com",
+        "n": "New on Netflix",
+        "u": "https://www.google.com/search?q=What%27s+New+New+on+Netflix"
+      }
+    ],
+    "1.1.2": [
+      {
+        "d": "google.com",
+        "n": "New on Disney+",
+        "u": "https://www.google.com/search?q=What%27s+New+New+on+Disney%2B"
+      }
+    ],
+    "1.1.3": [
+      {
+        "d": "google.com",
+        "n": "New on Max",
+        "u": "https://www.google.com/search?q=What%27s+New+New+on+Max"
+      }
+    ],
+    "1.1.4": [
+      {
+        "d": "google.com",
+        "n": "New on Prime Video",
+        "u": "https://www.google.com/search?q=What%27s+New+New+on+Prime+Video"
+      }
+    ],
+    "1.1.6": [
+      {
+        "d": "google.com",
+        "n": "New on Apple TV+",
+        "u": "https://www.google.com/search?q=What%27s+New+New+on+Apple+TV%2B"
+      }
+    ],
+    "1.1.7": [
+      {
+        "d": "google.com",
+        "n": "New on Hulu",
+        "u": "https://www.google.com/search?q=What%27s+New+New+on+Hulu"
+      }
+    ],
+    "1.1.8": [
+      {
+        "d": "google.com",
+        "n": "New on Peacock",
+        "u": "https://www.google.com/search?q=What%27s+New+New+on+Peacock"
+      }
+    ],
+    "1.1.9": [
+      {
+        "d": "google.com",
+        "n": "New on Paramount+",
+        "u": "https://www.google.com/search?q=What%27s+New+New+on+Paramount%2B"
+      }
+    ],
+    "1.2.1": [
+      {
+        "d": "google.com",
+        "n": "Most Watched Today",
+        "u": "https://www.google.com/search?q=Trending+Now+Most+Watched+Today"
+      }
+    ],
+    "1.2.2": [
+      {
+        "d": "google.com",
+        "n": "Binge-Worthy",
+        "u": "https://www.google.com/search?q=Trending+Now+Binge-Worthy"
+      }
+    ],
+    "1.2.3": [
+      {
+        "d": "google.com",
+        "n": "Critics' Picks",
+        "u": "https://www.google.com/search?q=Trending+Now+Critics%27+Picks"
+      }
+    ],
+    "1.2.4": [
+      {
+        "d": "google.com",
+        "n": "Audience Favorites",
+        "u": "https://www.google.com/search?q=Trending+Now+Audience+Favorites"
+      }
+    ],
+    "1.2.6": [
+      {
+        "d": "google.com",
+        "n": "Hidden Gems",
+        "u": "https://www.google.com/search?q=Trending+Now+Hidden+Gems"
+      }
+    ],
+    "1.2.7": [
+      {
+        "d": "google.com",
+        "n": "Leaving Soon",
+        "u": "https://www.google.com/search?q=Trending+Now+Leaving+Soon"
+      }
+    ],
+    "1.2.8": [
+      {
+        "d": "google.com",
+        "n": "Award Winners",
+        "u": "https://www.google.com/search?q=Trending+Now+Award+Winners"
+      }
+    ],
+    "1.2.9": [
+      {
+        "d": "google.com",
+        "n": "Guilty Pleasures",
+        "u": "https://www.google.com/search?q=Trending+Now+Guilty+Pleasures"
+      }
+    ],
+    "1.3.1": [
+      {
+        "d": "google.com",
+        "n": "Drama",
+        "u": "https://www.google.com/search?q=By+Genre+Drama"
+      }
+    ],
+    "1.3.2": [
+      {
+        "d": "google.com",
+        "n": "Comedy",
+        "u": "https://www.google.com/search?q=By+Genre+Comedy"
+      }
+    ],
+    "1.3.3": [
+      {
+        "d": "google.com",
+        "n": "Sci-Fi & Fantasy",
+        "u": "https://www.google.com/search?q=By+Genre+Sci-Fi+%26+Fantasy"
+      }
+    ],
+    "1.3.4": [
+      {
+        "d": "google.com",
+        "n": "Thriller & Crime",
+        "u": "https://www.google.com/search?q=By+Genre+Thriller+%26+Crime"
+      }
+    ],
+    "1.3.6": [
+      {
+        "d": "google.com",
+        "n": "Reality TV",
+        "u": "https://www.google.com/search?q=By+Genre+Reality+TV"
+      }
+    ],
+    "1.3.7": [
+      {
+        "d": "google.com",
+        "n": "Documentary Series",
+        "u": "https://www.google.com/search?q=By+Genre+Documentary+Series"
+      }
+    ],
+    "1.3.8": [
+      {
+        "d": "google.com",
+        "n": "Horror",
+        "u": "https://www.google.com/search?q=By+Genre+Horror"
+      }
+    ],
+    "1.3.9": [
+      {
+        "d": "google.com",
+        "n": "Anime",
+        "u": "https://www.google.com/search?q=By+Genre+Anime"
+      }
+    ],
+    "1.4.1.1": [
+      {
+        "d": "google.com",
+        "n": "Top 10 Today",
+        "u": "https://www.google.com/search?q=Netflix+Top+10+Today"
+      }
+    ],
+    "1.4.1.2": [
+      {
+        "d": "google.com",
+        "n": "New Releases",
+        "u": "https://www.google.com/search?q=Netflix+New+Releases"
+      }
+    ],
+    "1.4.1.3": [
+      {
+        "d": "google.com",
+        "n": "Originals",
+        "u": "https://www.google.com/search?q=Netflix+Originals"
+      }
+    ],
+    "1.4.1.4": [
+      {
+        "d": "google.com",
+        "n": "Leaving Soon",
+        "u": "https://www.google.com/search?q=Netflix+Leaving+Soon"
+      }
+    ],
+    "1.4.1.6": [
+      {
+        "d": "google.com",
+        "n": "Documentaries",
+        "u": "https://www.google.com/search?q=Netflix+Documentaries"
+      }
+    ],
+    "1.4.1.7": [
+      {
+        "d": "google.com",
+        "n": "Stand-Up",
+        "u": "https://www.google.com/search?q=Netflix+Stand-Up"
+      }
+    ],
+    "1.4.1.8": [
+      {
+        "d": "google.com",
+        "n": "Kids & Family",
+        "u": "https://www.google.com/search?q=Netflix+Kids+%26+Family"
+      }
+    ],
+    "1.4.1.9": [
+      {
+        "d": "google.com",
+        "n": "My List",
+        "u": "https://www.google.com/search?q=Netflix+My+List"
+      }
+    ],
+    "1.4.2.1": [
+      {
+        "d": "google.com",
+        "n": "New on Disney+",
+        "u": "https://www.google.com/search?q=Disney%2B+New+on+Disney%2B"
+      }
+    ],
+    "1.4.2.2": [
+      {
+        "d": "google.com",
+        "n": "Marvel",
+        "u": "https://www.google.com/search?q=Disney%2B+Marvel"
+      }
+    ],
+    "1.4.2.3": [
+      {
+        "d": "google.com",
+        "n": "Star Wars",
+        "u": "https://www.google.com/search?q=Disney%2B+Star+Wars"
+      }
+    ],
+    "1.4.2.4": [
+      {
+        "d": "google.com",
+        "n": "Pixar",
+        "u": "https://www.google.com/search?q=Disney%2B+Pixar"
+      }
+    ],
+    "1.4.2.6": [
+      {
+        "d": "google.com",
+        "n": "Nat Geo",
+        "u": "https://www.google.com/search?q=Disney%2B+Nat+Geo"
+      }
+    ],
+    "1.4.2.7": [
+      {
+        "d": "google.com",
+        "n": "Originals",
+        "u": "https://www.google.com/search?q=Disney%2B+Originals"
+      }
+    ],
+    "1.4.2.8": [
+      {
+        "d": "google.com",
+        "n": "Classic Disney",
+        "u": "https://www.google.com/search?q=Disney%2B+Classic+Disney"
+      }
+    ],
+    "1.4.2.9": [
+      {
+        "d": "google.com",
+        "n": "Hotstar",
+        "u": "https://www.google.com/search?q=Disney%2B+Hotstar"
+      }
+    ],
+    "1.4.3.1": [
+      {
+        "d": "google.com",
+        "n": "New on Max",
+        "u": "https://www.google.com/search?q=Max+%28HBO%29+New+on+Max"
+      }
+    ],
+    "1.4.3.2": [
+      {
+        "d": "google.com",
+        "n": "HBO Originals",
+        "u": "https://www.google.com/search?q=Max+%28HBO%29+HBO+Originals"
+      }
+    ],
+    "1.4.3.3": [
+      {
+        "d": "google.com",
+        "n": "DC Universe",
+        "u": "https://www.google.com/search?q=Max+%28HBO%29+DC+Universe"
+      }
+    ],
+    "1.4.3.4": [
+      {
+        "d": "google.com",
+        "n": "True Crime",
+        "u": "https://www.google.com/search?q=Max+%28HBO%29+True+Crime"
+      }
+    ],
+    "1.4.3.6": [
+      {
+        "d": "google.com",
+        "n": "Documentaries",
+        "u": "https://www.google.com/search?q=Max+%28HBO%29+Documentaries"
+      }
+    ],
+    "1.4.3.7": [
+      {
+        "d": "google.com",
+        "n": "Comedy Specials",
+        "u": "https://www.google.com/search?q=Max+%28HBO%29+Comedy+Specials"
+      }
+    ],
+    "1.4.3.8": [
+      {
+        "d": "google.com",
+        "n": "Reality",
+        "u": "https://www.google.com/search?q=Max+%28HBO%29+Reality"
+      }
+    ],
+    "1.4.3.9": [
+      {
+        "d": "google.com",
+        "n": "Last Chance",
+        "u": "https://www.google.com/search?q=Max+%28HBO%29+Last+Chance"
+      }
+    ],
+    "1.4.4": [
+      {
+        "d": "google.com",
+        "n": "Prime Video",
+        "u": "https://www.google.com/search?q=By+Streaming+Service+Prime+Video"
+      }
+    ],
+    "1.4.6": [
+      {
+        "d": "google.com",
+        "n": "Apple TV+",
+        "u": "https://www.google.com/search?q=By+Streaming+Service+Apple+TV%2B"
+      }
+    ],
+    "1.4.7": [
+      {
+        "d": "hulu.com",
+        "n": "Hulu",
+        "u": "https://www.hulu.com"
+      }
+    ],
+    "1.4.8": [
+      {
+        "d": "peacocktv.com",
+        "n": "Peacock",
+        "u": "https://www.peacocktv.com"
+      }
+    ],
+    "1.4.9": [
+      {
+        "d": "paramountplus.com",
+        "n": "Paramount+",
+        "u": "https://www.paramountplus.com"
+      }
+    ],
+    "1.6.1": [
+      {
+        "d": "google.com",
+        "n": "JustWatch",
+        "u": "https://www.google.com/search?q=What+Should+I+Watch%3F+JustWatch"
+      }
+    ],
+    "1.6.2": [
+      {
+        "d": "google.com",
+        "n": "Reelgood",
+        "u": "https://www.google.com/search?q=What+Should+I+Watch%3F+Reelgood"
+      }
+    ],
+    "1.6.3": [
+      {
+        "d": "google.com",
+        "n": "TV Time",
+        "u": "https://www.google.com/search?q=What+Should+I+Watch%3F+TV+Time"
+      }
+    ],
+    "1.6.4": [
+      {
+        "d": "google.com",
+        "n": "Letterboxd (TV)",
+        "u": "https://www.google.com/search?q=What+Should+I+Watch%3F+Letterboxd+%28TV%29"
+      }
+    ],
+    "1.6.6": [
+      {
+        "d": "google.com",
+        "n": "IMDb Watchlist",
+        "u": "https://www.google.com/search?q=What+Should+I+Watch%3F+IMDb+Watchlist"
+      }
+    ],
+    "1.6.7": [
+      {
+        "d": "google.com",
+        "n": "Rotten Tomatoes",
+        "u": "https://www.google.com/search?q=What+Should+I+Watch%3F+Rotten+Tomatoes"
+      }
+    ],
+    "1.6.8": [
+      {
+        "d": "google.com",
+        "n": "Reddit Recommendations",
+        "u": "https://www.google.com/search?q=What+Should+I+Watch%3F+Reddit+Recommendations"
+      }
+    ],
+    "1.6.9": [
+      {
+        "d": "google.com",
+        "n": "Taste.io",
+        "u": "https://www.google.com/search?q=What+Should+I+Watch%3F+Taste.io"
+      }
+    ],
+    "1.7.1": [
+      {
+        "d": "google.com",
+        "n": "YouTube TV",
+        "u": "https://www.google.com/search?q=Live+TV+%26+Sports+YouTube+TV"
+      }
+    ],
+    "1.7.2": [
+      {
+        "d": "google.com",
+        "n": "Hulu + Live TV",
+        "u": "https://www.google.com/search?q=Live+TV+%26+Sports+Hulu+%2B+Live+TV"
+      }
+    ],
+    "1.7.3": [
+      {
+        "d": "google.com",
+        "n": "Sling TV",
+        "u": "https://www.google.com/search?q=Live+TV+%26+Sports+Sling+TV"
+      }
+    ],
+    "1.7.4": [
+      {
+        "d": "google.com",
+        "n": "Fubo",
+        "u": "https://www.google.com/search?q=Live+TV+%26+Sports+Fubo"
+      }
+    ],
+    "1.7.6": [
+      {
+        "d": "google.com",
+        "n": "Pluto TV (Free)",
+        "u": "https://www.google.com/search?q=Live+TV+%26+Sports+Pluto+TV+%28Free%29"
+      }
+    ],
+    "1.7.7": [
+      {
+        "d": "google.com",
+        "n": "Tubi (Free)",
+        "u": "https://www.google.com/search?q=Live+TV+%26+Sports+Tubi+%28Free%29"
+      }
+    ],
+    "1.7.8": [
+      {
+        "d": "google.com",
+        "n": "Compare Live TV",
+        "u": "https://www.google.com/search?q=Live+TV+%26+Sports+Compare+Live+TV"
+      }
+    ],
+    "1.7.9": [
+      {
+        "d": "google.com",
+        "n": "Free Streaming",
+        "u": "https://www.google.com/search?q=Live+TV+%26+Sports+Free+Streaming"
+      }
+    ],
+    "1.8.1": [
+      {
+        "d": "google.com",
+        "n": "Netflix Kids",
+        "u": "https://www.google.com/search?q=Kids+%26+Family+Netflix+Kids"
+      }
+    ],
+    "1.8.2": [
+      {
+        "d": "google.com",
+        "n": "Disney+ Kids",
+        "u": "https://www.google.com/search?q=Kids+%26+Family+Disney%2B+Kids"
+      }
+    ],
+    "1.8.3": [
+      {
+        "d": "google.com",
+        "n": "PBS Kids",
+        "u": "https://www.google.com/search?q=Kids+%26+Family+PBS+Kids"
+      }
+    ],
+    "1.8.4": [
+      {
+        "d": "google.com",
+        "n": "YouTube Kids",
+        "u": "https://www.google.com/search?q=Kids+%26+Family+YouTube+Kids"
+      }
+    ],
+    "1.8.6": [
+      {
+        "d": "google.com",
+        "n": "Cartoon Network",
+        "u": "https://www.google.com/search?q=Kids+%26+Family+Cartoon+Network"
+      }
+    ],
+    "1.8.7": [
+      {
+        "d": "google.com",
+        "n": "Nickelodeon",
+        "u": "https://www.google.com/search?q=Kids+%26+Family+Nickelodeon"
+      }
+    ],
+    "1.8.8": [
+      {
+        "d": "google.com",
+        "n": "Educational Shows",
+        "u": "https://www.google.com/search?q=Kids+%26+Family+Educational+Shows"
+      }
+    ],
+    "1.8.9": [
+      {
+        "d": "google.com",
+        "n": "Family Movie Night",
+        "u": "https://www.google.com/search?q=Kids+%26+Family+Family+Movie+Night"
+      }
+    ],
+    "1.9.1": [
+      {
+        "d": "google.com",
+        "n": "Compare Plans",
+        "u": "https://www.google.com/search?q=Manage+Subscriptions+Compare+Plans"
+      }
+    ],
+    "1.9.2": [
+      {
+        "d": "google.com",
+        "n": "Bundle Deals",
+        "u": "https://www.google.com/search?q=Manage+Subscriptions+Bundle+Deals"
+      }
+    ],
+    "1.9.3": [
+      {
+        "d": "google.com",
+        "n": "Free Trials",
+        "u": "https://www.google.com/search?q=Manage+Subscriptions+Free+Trials"
+      }
+    ],
+    "1.9.4": [
+      {
+        "d": "google.com",
+        "n": "Student Discounts",
+        "u": "https://www.google.com/search?q=Manage+Subscriptions+Student+Discounts"
+      }
+    ],
+    "1.9.6": [
+      {
+        "d": "google.com",
+        "n": "Cancel & Rotate",
+        "u": "https://www.google.com/search?q=Manage+Subscriptions+Cancel+%26+Rotate"
+      }
+    ],
+    "1.9.7": [
+      {
+        "d": "google.com",
+        "n": "Ad-Free vs Ads",
+        "u": "https://www.google.com/search?q=Manage+Subscriptions+Ad-Free+vs+Ads"
+      }
+    ],
+    "1.9.8": [
+      {
+        "d": "google.com",
+        "n": "Family Plans",
+        "u": "https://www.google.com/search?q=Manage+Subscriptions+Family+Plans"
+      }
+    ],
+    "1.9.9": [
+      {
+        "d": "google.com",
+        "n": "Total Cost Calculator",
+        "u": "https://www.google.com/search?q=Manage+Subscriptions+Total+Cost+Calculator"
+      }
+    ],
+    "2.1.1": [
+      {
+        "d": "google.com",
+        "n": "Billboard Hot 100",
+        "u": "https://www.google.com/search?q=What%27s+Hot+Billboard+Hot+100"
+      }
+    ],
+    "2.1.2": [
+      {
+        "d": "google.com",
+        "n": "Global Top 50",
+        "u": "https://www.google.com/search?q=What%27s+Hot+Global+Top+50"
+      }
+    ],
+    "2.1.3": [
+      {
+        "d": "google.com",
+        "n": "Spotify Top 50",
+        "u": "https://www.google.com/search?q=What%27s+Hot+Spotify+Top+50"
+      }
+    ],
+    "2.1.4": [
+      {
+        "d": "google.com",
+        "n": "Apple Music Top 100",
+        "u": "https://www.google.com/search?q=What%27s+Hot+Apple+Music+Top+100"
+      }
+    ],
+    "2.1.6": [
+      {
+        "d": "google.com",
+        "n": "Shazam Discovery",
+        "u": "https://www.google.com/search?q=What%27s+Hot+Shazam+Discovery"
+      }
+    ],
+    "2.1.7": [
+      {
+        "d": "google.com",
+        "n": "Viral Charts",
+        "u": "https://www.google.com/search?q=What%27s+Hot+Viral+Charts"
+      }
+    ],
+    "2.1.8": [
+      {
+        "d": "google.com",
+        "n": "New Albums",
+        "u": "https://www.google.com/search?q=What%27s+Hot+New+Albums"
+      }
+    ],
+    "2.1.9": [
+      {
+        "d": "google.com",
+        "n": "New Singles",
+        "u": "https://www.google.com/search?q=What%27s+Hot+New+Singles"
+      }
+    ],
+    "2.2.1": [
+      {
+        "d": "google.com",
+        "n": "Hip-Hop & R&B",
+        "u": "https://www.google.com/search?q=By+Genre+Hip-Hop+%26+R%26B"
+      }
+    ],
+    "2.2.2": [
+      {
+        "d": "google.com",
+        "n": "Pop",
+        "u": "https://www.google.com/search?q=By+Genre+Pop"
+      }
+    ],
+    "2.2.3": [
+      {
+        "d": "google.com",
+        "n": "Rock & Alternative",
+        "u": "https://www.google.com/search?q=By+Genre+Rock+%26+Alternative"
+      }
+    ],
+    "2.2.4": [
+      {
+        "d": "google.com",
+        "n": "Country",
+        "u": "https://www.google.com/search?q=By+Genre+Country"
+      }
+    ],
+    "2.2.6": [
+      {
+        "d": "google.com",
+        "n": "Electronic & EDM",
+        "u": "https://www.google.com/search?q=By+Genre+Electronic+%26+EDM"
+      }
+    ],
+    "2.2.7": [
+      {
+        "d": "google.com",
+        "n": "K-Pop",
+        "u": "https://www.google.com/search?q=By+Genre+K-Pop"
+      }
+    ],
+    "2.2.8": [
+      {
+        "d": "google.com",
+        "n": "Latin",
+        "u": "https://www.google.com/search?q=By+Genre+Latin"
+      }
+    ],
+    "2.2.9": [
+      {
+        "d": "google.com",
+        "n": "Jazz, Classical & More",
+        "u": "https://www.google.com/search?q=By+Genre+Jazz%2C+Classical+%26+More"
+      }
+    ],
+    "2.3.1": [
+      {
+        "d": "google.com",
+        "n": "Workout Playlists",
+        "u": "https://www.google.com/search?q=Playlists+%26+Moods+Workout+Playlists"
+      }
+    ],
+    "2.3.2": [
+      {
+        "d": "google.com",
+        "n": "Focus & Study",
+        "u": "https://www.google.com/search?q=Playlists+%26+Moods+Focus+%26+Study"
+      }
+    ],
+    "2.3.3": [
+      {
+        "d": "google.com",
+        "n": "Chill & Relax",
+        "u": "https://www.google.com/search?q=Playlists+%26+Moods+Chill+%26+Relax"
+      }
+    ],
+    "2.3.4": [
+      {
+        "d": "google.com",
+        "n": "Road Trip",
+        "u": "https://www.google.com/search?q=Playlists+%26+Moods+Road+Trip"
+      }
+    ],
+    "2.3.6": [
+      {
+        "d": "google.com",
+        "n": "Party",
+        "u": "https://www.google.com/search?q=Playlists+%26+Moods+Party"
+      }
+    ],
+    "2.3.7": [
+      {
+        "d": "google.com",
+        "n": "Sleep & Ambient",
+        "u": "https://www.google.com/search?q=Playlists+%26+Moods+Sleep+%26+Ambient"
+      }
+    ],
+    "2.3.8": [
+      {
+        "d": "google.com",
+        "n": "Morning Energy",
+        "u": "https://www.google.com/search?q=Playlists+%26+Moods+Morning+Energy"
+      }
+    ],
+    "2.3.9": [
+      {
+        "d": "google.com",
+        "n": "Dinner & Cooking",
+        "u": "https://www.google.com/search?q=Playlists+%26+Moods+Dinner+%26+Cooking"
+      }
+    ],
+    "2.4.1.1": [
+      {
+        "d": "google.com",
+        "n": "Open Spotify",
+        "u": "https://www.google.com/search?q=Spotify+Open+Spotify"
+      }
+    ],
+    "2.4.1.2": [
+      {
+        "d": "google.com",
+        "n": "Discover Weekly",
+        "u": "https://www.google.com/search?q=Spotify+Discover+Weekly"
+      }
+    ],
+    "2.4.1.3": [
+      {
+        "d": "google.com",
+        "n": "Release Radar",
+        "u": "https://www.google.com/search?q=Spotify+Release+Radar"
+      }
+    ],
+    "2.4.1.4": [
+      {
+        "d": "google.com",
+        "n": "Daily Mix",
+        "u": "https://www.google.com/search?q=Spotify+Daily+Mix"
+      }
+    ],
+    "2.4.1.6": [
+      {
+        "d": "google.com",
+        "n": "Wrapped / Stats",
+        "u": "https://www.google.com/search?q=Spotify+Wrapped+%2F+Stats"
+      }
+    ],
+    "2.4.1.7": [
+      {
+        "d": "google.com",
+        "n": "Premium Plans",
+        "u": "https://www.google.com/search?q=Spotify+Premium+Plans"
+      }
+    ],
+    "2.4.1.8": [
+      {
+        "d": "google.com",
+        "n": "Playlist Finder",
+        "u": "https://www.google.com/search?q=Spotify+Playlist+Finder"
+      }
+    ],
+    "2.4.1.9": [
+      {
+        "d": "google.com",
+        "n": "Podcasts on Spotify",
+        "u": "https://www.google.com/search?q=Spotify+Podcasts+on+Spotify"
+      }
+    ],
+    "2.4.2.1": [
+      {
+        "d": "google.com",
+        "n": "Open Apple Music",
+        "u": "https://www.google.com/search?q=Apple+Music+Open+Apple+Music"
+      }
+    ],
+    "2.4.2.2": [
+      {
+        "d": "google.com",
+        "n": "New Music Daily",
+        "u": "https://www.google.com/search?q=Apple+Music+New+Music+Daily"
+      }
+    ],
+    "2.4.2.3": [
+      {
+        "d": "google.com",
+        "n": "Spatial Audio",
+        "u": "https://www.google.com/search?q=Apple+Music+Spatial+Audio"
+      }
+    ],
+    "2.4.2.4": [
+      {
+        "d": "google.com",
+        "n": "Radio Stations",
+        "u": "https://www.google.com/search?q=Apple+Music+Radio+Stations"
+      }
+    ],
+    "2.4.2.6": [
+      {
+        "d": "google.com",
+        "n": "Apple Music 1",
+        "u": "https://www.google.com/search?q=Apple+Music+Apple+Music+1"
+      }
+    ],
+    "2.4.2.7": [
+      {
+        "d": "google.com",
+        "n": "Plans & Pricing",
+        "u": "https://www.google.com/search?q=Apple+Music+Plans+%26+Pricing"
+      }
+    ],
+    "2.4.2.8": [
+      {
+        "d": "google.com",
+        "n": "Playlist Finder",
+        "u": "https://www.google.com/search?q=Apple+Music+Playlist+Finder"
+      }
+    ],
+    "2.4.2.9": [
+      {
+        "d": "google.com",
+        "n": "Apple Classical",
+        "u": "https://www.google.com/search?q=Apple+Music+Apple+Classical"
+      }
+    ],
+    "2.4.3": [
+      {
+        "d": "music.youtube.com",
+        "n": "YouTube Music",
+        "u": "https://music.youtube.com"
+      }
+    ],
+    "2.4.4": [
+      {
+        "d": "tidal.com",
+        "n": "Tidal",
+        "u": "https://tidal.com"
+      }
+    ],
+    "2.4.6": [
+      {
+        "d": "google.com",
+        "n": "Amazon Music",
+        "u": "https://www.google.com/search?q=Streaming+Services+Amazon+Music"
+      }
+    ],
+    "2.4.7": [
+      {
+        "d": "google.com",
+        "n": "Deezer",
+        "u": "https://www.google.com/search?q=Streaming+Services+Deezer"
+      }
+    ],
+    "2.4.8": [
+      {
+        "d": "google.com",
+        "n": "Compare Services",
+        "u": "https://www.google.com/search?q=Streaming+Services+Compare+Services"
+      }
+    ],
+    "2.4.9": [
+      {
+        "d": "google.com",
+        "n": "Free Music Options",
+        "u": "https://www.google.com/search?q=Streaming+Services+Free+Music+Options"
+      }
+    ],
+    "2.6.1": [
+      {
+        "d": "google.com",
+        "n": "Tours Near Me",
+        "u": "https://www.google.com/search?q=Concerts+%26+Tours+Tours+Near+Me"
+      }
+    ],
+    "2.6.2": [
+      {
+        "d": "google.com",
+        "n": "Major Tours 2026",
+        "u": "https://www.google.com/search?q=Concerts+%26+Tours+Major+Tours+2026"
+      }
+    ],
+    "2.6.3": [
+      {
+        "d": "google.com",
+        "n": "Festival Calendar",
+        "u": "https://www.google.com/search?q=Concerts+%26+Tours+Festival+Calendar"
+      }
+    ],
+    "2.6.4": [
+      {
+        "d": "google.com",
+        "n": "Presale Codes",
+        "u": "https://www.google.com/search?q=Concerts+%26+Tours+Presale+Codes"
+      }
+    ],
+    "2.6.6": [
+      {
+        "d": "google.com",
+        "n": "Ticket Prices",
+        "u": "https://www.google.com/search?q=Concerts+%26+Tours+Ticket+Prices"
+      }
+    ],
+    "2.6.7": [
+      {
+        "d": "google.com",
+        "n": "Setlist Tracker",
+        "u": "https://www.google.com/search?q=Concerts+%26+Tours+Setlist+Tracker"
+      }
+    ],
+    "2.6.8": [
+      {
+        "d": "google.com",
+        "n": "VIP Packages",
+        "u": "https://www.google.com/search?q=Concerts+%26+Tours+VIP+Packages"
+      }
+    ],
+    "2.6.9": [
+      {
+        "d": "google.com",
+        "n": "Ticket Resale",
+        "u": "https://www.google.com/search?q=Concerts+%26+Tours+Ticket+Resale"
+      }
+    ],
+    "2.7.1": [
+      {
+        "d": "google.com",
+        "n": "New Releases",
+        "u": "https://www.google.com/search?q=Music+News+New+Releases"
+      }
+    ],
+    "2.7.2": [
+      {
+        "d": "google.com",
+        "n": "Album Reviews",
+        "u": "https://www.google.com/search?q=Music+News+Album+Reviews"
+      }
+    ],
+    "2.7.3": [
+      {
+        "d": "google.com",
+        "n": "Artist Interviews",
+        "u": "https://www.google.com/search?q=Music+News+Artist+Interviews"
+      }
+    ],
+    "2.7.4": [
+      {
+        "d": "google.com",
+        "n": "Grammy & Awards",
+        "u": "https://www.google.com/search?q=Music+News+Grammy+%26+Awards"
+      }
+    ],
+    "2.7.6": [
+      {
+        "d": "google.com",
+        "n": "Music Industry",
+        "u": "https://www.google.com/search?q=Music+News+Music+Industry"
+      }
+    ],
+    "2.7.7": [
+      {
+        "d": "google.com",
+        "n": "Pitchfork",
+        "u": "https://www.google.com/search?q=Music+News+Pitchfork"
+      }
+    ],
+    "2.7.8": [
+      {
+        "d": "google.com",
+        "n": "NME",
+        "u": "https://www.google.com/search?q=Music+News+NME"
+      }
+    ],
+    "2.7.9": [
+      {
+        "d": "google.com",
+        "n": "Stereogum",
+        "u": "https://www.google.com/search?q=Music+News+Stereogum"
+      }
+    ],
+    "2.8.1": [
+      {
+        "d": "google.com",
+        "n": "Music Blogs",
+        "u": "https://www.google.com/search?q=Discover+Music+Music+Blogs"
+      }
+    ],
+    "2.8.2": [
+      {
+        "d": "google.com",
+        "n": "Rate Your Music",
+        "u": "https://www.google.com/search?q=Discover+Music+Rate+Your+Music"
+      }
+    ],
+    "2.8.3": [
+      {
+        "d": "google.com",
+        "n": "Album of the Year",
+        "u": "https://www.google.com/search?q=Discover+Music+Album+of+the+Year"
+      }
+    ],
+    "2.8.4": [
+      {
+        "d": "google.com",
+        "n": "Bandcamp",
+        "u": "https://www.google.com/search?q=Discover+Music+Bandcamp"
+      }
+    ],
+    "2.8.6": [
+      {
+        "d": "google.com",
+        "n": "SoundCloud",
+        "u": "https://www.google.com/search?q=Discover+Music+SoundCloud"
+      }
+    ],
+    "2.8.7": [
+      {
+        "d": "google.com",
+        "n": "Music Subreddits",
+        "u": "https://www.google.com/search?q=Discover+Music+Music+Subreddits"
+      }
+    ],
+    "2.8.8": [
+      {
+        "d": "google.com",
+        "n": "Similar Artists",
+        "u": "https://www.google.com/search?q=Discover+Music+Similar+Artists"
+      }
+    ],
+    "2.8.9": [
+      {
+        "d": "google.com",
+        "n": "Music Map",
+        "u": "https://www.google.com/search?q=Discover+Music+Music+Map"
+      }
+    ],
+    "2.9.1": [
+      {
+        "d": "google.com",
+        "n": "GarageBand",
+        "u": "https://www.google.com/search?q=Make+Music+GarageBand"
+      }
+    ],
+    "2.9.2": [
+      {
+        "d": "google.com",
+        "n": "Ableton Live",
+        "u": "https://www.google.com/search?q=Make+Music+Ableton+Live"
+      }
+    ],
+    "2.9.3": [
+      {
+        "d": "google.com",
+        "n": "FL Studio",
+        "u": "https://www.google.com/search?q=Make+Music+FL+Studio"
+      }
+    ],
+    "2.9.4": [
+      {
+        "d": "google.com",
+        "n": "Logic Pro",
+        "u": "https://www.google.com/search?q=Make+Music+Logic+Pro"
+      }
+    ],
+    "2.9.6": [
+      {
+        "d": "google.com",
+        "n": "BandLab (Free)",
+        "u": "https://www.google.com/search?q=Make+Music+BandLab+%28Free%29"
+      }
+    ],
+    "2.9.7": [
+      {
+        "d": "google.com",
+        "n": "Splice Samples",
+        "u": "https://www.google.com/search?q=Make+Music+Splice+Samples"
+      }
+    ],
+    "2.9.8": [
+      {
+        "d": "google.com",
+        "n": "Music Theory",
+        "u": "https://www.google.com/search?q=Make+Music+Music+Theory"
+      }
+    ],
+    "2.9.9": [
+      {
+        "d": "google.com",
+        "n": "Instrument Lessons",
+        "u": "https://www.google.com/search?q=Make+Music+Instrument+Lessons"
+      }
+    ],
+    "3.1.1": [
+      {
+        "d": "google.com",
+        "n": "This Weekend",
+        "u": "https://www.google.com/search?q=In+Theaters+Now+This+Weekend"
+      }
+    ],
+    "3.1.2": [
+      {
+        "d": "google.com",
+        "n": "Box Office Results",
+        "u": "https://www.google.com/search?q=In+Theaters+Now+Box+Office+Results"
+      }
+    ],
+    "3.1.3": [
+      {
+        "d": "google.com",
+        "n": "IMAX & Dolby",
+        "u": "https://www.google.com/search?q=In+Theaters+Now+IMAX+%26+Dolby"
+      }
+    ],
+    "3.1.4": [
+      {
+        "d": "google.com",
+        "n": "Showtimes Near Me",
+        "u": "https://www.google.com/search?q=In+Theaters+Now+Showtimes+Near+Me"
+      }
+    ],
+    "3.1.6": [
+      {
+        "d": "google.com",
+        "n": "Limited Release",
+        "u": "https://www.google.com/search?q=In+Theaters+Now+Limited+Release"
+      }
+    ],
+    "3.1.7": [
+      {
+        "d": "google.com",
+        "n": "Indie Theaters",
+        "u": "https://www.google.com/search?q=In+Theaters+Now+Indie+Theaters"
+      }
+    ],
+    "3.1.8": [
+      {
+        "d": "google.com",
+        "n": "Fathom Events",
+        "u": "https://www.google.com/search?q=In+Theaters+Now+Fathom+Events"
+      }
+    ],
+    "3.1.9": [
+      {
+        "d": "google.com",
+        "n": "Ticket Deals",
+        "u": "https://www.google.com/search?q=In+Theaters+Now+Ticket+Deals"
+      }
+    ],
+    "3.2.1": [
+      {
+        "d": "google.com",
+        "n": "Release Calendar",
+        "u": "https://www.google.com/search?q=Coming+Soon+Release+Calendar"
+      }
+    ],
+    "3.2.2": [
+      {
+        "d": "google.com",
+        "n": "Trailers",
+        "u": "https://www.google.com/search?q=Coming+Soon+Trailers"
+      }
+    ],
+    "3.2.3": [
+      {
+        "d": "google.com",
+        "n": "Most Anticipated",
+        "u": "https://www.google.com/search?q=Coming+Soon+Most+Anticipated"
+      }
+    ],
+    "3.2.4": [
+      {
+        "d": "google.com",
+        "n": "Sequel & Franchise",
+        "u": "https://www.google.com/search?q=Coming+Soon+Sequel+%26+Franchise"
+      }
+    ],
+    "3.2.6": [
+      {
+        "d": "google.com",
+        "n": "Festival Buzz",
+        "u": "https://www.google.com/search?q=Coming+Soon+Festival+Buzz"
+      }
+    ],
+    "3.2.7": [
+      {
+        "d": "google.com",
+        "n": "Oscar Contenders",
+        "u": "https://www.google.com/search?q=Coming+Soon+Oscar+Contenders"
+      }
+    ],
+    "3.2.8": [
+      {
+        "d": "google.com",
+        "n": "Remake & Reboot",
+        "u": "https://www.google.com/search?q=Coming+Soon+Remake+%26+Reboot"
+      }
+    ],
+    "3.2.9": [
+      {
+        "d": "google.com",
+        "n": "Indie Highlights",
+        "u": "https://www.google.com/search?q=Coming+Soon+Indie+Highlights"
+      }
+    ],
+    "3.3.1": [
+      {
+        "d": "google.com",
+        "n": "Netflix Films",
+        "u": "https://www.google.com/search?q=Stream+a+Movie+Netflix+Films"
+      }
+    ],
+    "3.3.2": [
+      {
+        "d": "google.com",
+        "n": "Amazon Films",
+        "u": "https://www.google.com/search?q=Stream+a+Movie+Amazon+Films"
+      }
+    ],
+    "3.3.3": [
+      {
+        "d": "google.com",
+        "n": "Apple Films",
+        "u": "https://www.google.com/search?q=Stream+a+Movie+Apple+Films"
+      }
+    ],
+    "3.3.4": [
+      {
+        "d": "google.com",
+        "n": "Max Films",
+        "u": "https://www.google.com/search?q=Stream+a+Movie+Max+Films"
+      }
+    ],
+    "3.3.6": [
+      {
+        "d": "google.com",
+        "n": "Disney+ Films",
+        "u": "https://www.google.com/search?q=Stream+a+Movie+Disney%2B+Films"
+      }
+    ],
+    "3.3.7": [
+      {
+        "d": "google.com",
+        "n": "Hulu Films",
+        "u": "https://www.google.com/search?q=Stream+a+Movie+Hulu+Films"
+      }
+    ],
+    "3.3.8": [
+      {
+        "d": "google.com",
+        "n": "A24 Streaming",
+        "u": "https://www.google.com/search?q=Stream+a+Movie+A24+Streaming"
+      }
+    ],
+    "3.3.9": [
+      {
+        "d": "google.com",
+        "n": "Free on Tubi/Pluto",
+        "u": "https://www.google.com/search?q=Stream+a+Movie+Free+on+Tubi%2FPluto"
+      }
+    ],
+    "3.4.1": [
+      {
+        "d": "google.com",
+        "n": "Action & Thriller",
+        "u": "https://www.google.com/search?q=By+Genre+Action+%26+Thriller"
+      }
+    ],
+    "3.4.2": [
+      {
+        "d": "google.com",
+        "n": "Comedy",
+        "u": "https://www.google.com/search?q=By+Genre+Comedy"
+      }
+    ],
+    "3.4.3": [
+      {
+        "d": "google.com",
+        "n": "Drama & Indie",
+        "u": "https://www.google.com/search?q=By+Genre+Drama+%26+Indie"
+      }
+    ],
+    "3.4.4": [
+      {
+        "d": "google.com",
+        "n": "Horror",
+        "u": "https://www.google.com/search?q=By+Genre+Horror"
+      }
+    ],
+    "3.4.6": [
+      {
+        "d": "google.com",
+        "n": "Sci-Fi & Fantasy",
+        "u": "https://www.google.com/search?q=By+Genre+Sci-Fi+%26+Fantasy"
+      }
+    ],
+    "3.4.7": [
+      {
+        "d": "google.com",
+        "n": "Documentary",
+        "u": "https://www.google.com/search?q=By+Genre+Documentary"
+      }
+    ],
+    "3.4.8": [
+      {
+        "d": "google.com",
+        "n": "Romance",
+        "u": "https://www.google.com/search?q=By+Genre+Romance"
+      }
+    ],
+    "3.4.9": [
+      {
+        "d": "google.com",
+        "n": "Animation",
+        "u": "https://www.google.com/search?q=By+Genre+Animation"
+      }
+    ],
+    "3.6.1": [
+      {
+        "d": "google.com",
+        "n": "Letterboxd",
+        "u": "https://www.google.com/search?q=Movie+Recommendations+Letterboxd"
+      }
+    ],
+    "3.6.2": [
+      {
+        "d": "google.com",
+        "n": "IMDb Top 250",
+        "u": "https://www.google.com/search?q=Movie+Recommendations+IMDb+Top+250"
+      }
+    ],
+    "3.6.3": [
+      {
+        "d": "google.com",
+        "n": "Rotten Tomatoes",
+        "u": "https://www.google.com/search?q=Movie+Recommendations+Rotten+Tomatoes"
+      }
+    ],
+    "3.6.4": [
+      {
+        "d": "google.com",
+        "n": "Metacritic",
+        "u": "https://www.google.com/search?q=Movie+Recommendations+Metacritic"
+      }
+    ],
+    "3.6.6": [
+      {
+        "d": "google.com",
+        "n": "Reddit Movie Recs",
+        "u": "https://www.google.com/search?q=Movie+Recommendations+Reddit+Movie+Recs"
+      }
+    ],
+    "3.6.7": [
+      {
+        "d": "google.com",
+        "n": "Taste.io",
+        "u": "https://www.google.com/search?q=Movie+Recommendations+Taste.io"
+      }
+    ],
+    "3.6.8": [
+      {
+        "d": "google.com",
+        "n": "Film Twitter/X",
+        "u": "https://www.google.com/search?q=Movie+Recommendations+Film+Twitter%2FX"
+      }
+    ],
+    "3.6.9": [
+      {
+        "d": "google.com",
+        "n": "A24 Collection",
+        "u": "https://www.google.com/search?q=Movie+Recommendations+A24+Collection"
+      }
+    ],
+    "3.7.1": [
+      {
+        "d": "google.com",
+        "n": "Oscar Nominations",
+        "u": "https://www.google.com/search?q=Awards+Season+Oscar+Nominations"
+      }
+    ],
+    "3.7.2": [
+      {
+        "d": "google.com",
+        "n": "Golden Globes",
+        "u": "https://www.google.com/search?q=Awards+Season+Golden+Globes"
+      }
+    ],
+    "3.7.3": [
+      {
+        "d": "google.com",
+        "n": "SAG Awards",
+        "u": "https://www.google.com/search?q=Awards+Season+SAG+Awards"
+      }
+    ],
+    "3.7.4": [
+      {
+        "d": "google.com",
+        "n": "Spirit Awards",
+        "u": "https://www.google.com/search?q=Awards+Season+Spirit+Awards"
+      }
+    ],
+    "3.7.6": [
+      {
+        "d": "google.com",
+        "n": "Cannes & Venice",
+        "u": "https://www.google.com/search?q=Awards+Season+Cannes+%26+Venice"
+      }
+    ],
+    "3.7.7": [
+      {
+        "d": "google.com",
+        "n": "Sundance Winners",
+        "u": "https://www.google.com/search?q=Awards+Season+Sundance+Winners"
+      }
+    ],
+    "3.7.8": [
+      {
+        "d": "google.com",
+        "n": "Predictions",
+        "u": "https://www.google.com/search?q=Awards+Season+Predictions"
+      }
+    ],
+    "3.7.9": [
+      {
+        "d": "google.com",
+        "n": "Awards Calendar",
+        "u": "https://www.google.com/search?q=Awards+Season+Awards+Calendar"
+      }
+    ],
+    "3.8.1": [
+      {
+        "d": "google.com",
+        "n": "Sundance",
+        "u": "https://www.google.com/search?q=Film+Festivals+Sundance"
+      }
+    ],
+    "3.8.2": [
+      {
+        "d": "google.com",
+        "n": "Cannes",
+        "u": "https://www.google.com/search?q=Film+Festivals+Cannes"
+      }
+    ],
+    "3.8.3": [
+      {
+        "d": "google.com",
+        "n": "Toronto TIFF",
+        "u": "https://www.google.com/search?q=Film+Festivals+Toronto+TIFF"
+      }
+    ],
+    "3.8.4": [
+      {
+        "d": "google.com",
+        "n": "Venice",
+        "u": "https://www.google.com/search?q=Film+Festivals+Venice"
+      }
+    ],
+    "3.8.6": [
+      {
+        "d": "google.com",
+        "n": "Tribeca",
+        "u": "https://www.google.com/search?q=Film+Festivals+Tribeca"
+      }
+    ],
+    "3.8.7": [
+      {
+        "d": "google.com",
+        "n": "SXSW",
+        "u": "https://www.google.com/search?q=Film+Festivals+SXSW"
+      }
+    ],
+    "3.8.8": [
+      {
+        "d": "google.com",
+        "n": "Berlin",
+        "u": "https://www.google.com/search?q=Film+Festivals+Berlin"
+      }
+    ],
+    "3.8.9": [
+      {
+        "d": "google.com",
+        "n": "Festival Calendar",
+        "u": "https://www.google.com/search?q=Film+Festivals+Festival+Calendar"
+      }
+    ],
+    "3.9.1": [
+      {
+        "d": "google.com",
+        "n": "Box Office Analysis",
+        "u": "https://www.google.com/search?q=Movie+News+Box+Office+Analysis"
+      }
+    ],
+    "3.9.2": [
+      {
+        "d": "google.com",
+        "n": "Casting News",
+        "u": "https://www.google.com/search?q=Movie+News+Casting+News"
+      }
+    ],
+    "3.9.3": [
+      {
+        "d": "google.com",
+        "n": "Production Updates",
+        "u": "https://www.google.com/search?q=Movie+News+Production+Updates"
+      }
+    ],
+    "3.9.4": [
+      {
+        "d": "google.com",
+        "n": "Director Spotlights",
+        "u": "https://www.google.com/search?q=Movie+News+Director+Spotlights"
+      }
+    ],
+    "3.9.6": [
+      {
+        "d": "google.com",
+        "n": "Film Criticism",
+        "u": "https://www.google.com/search?q=Movie+News+Film+Criticism"
+      }
+    ],
+    "3.9.7": [
+      {
+        "d": "google.com",
+        "n": "Franchise Updates",
+        "u": "https://www.google.com/search?q=Movie+News+Franchise+Updates"
+      }
+    ],
+    "3.9.8": [
+      {
+        "d": "google.com",
+        "n": "Industry Business",
+        "u": "https://www.google.com/search?q=Movie+News+Industry+Business"
+      }
+    ],
+    "3.9.9": [
+      {
+        "d": "google.com",
+        "n": "Movie Podcasts",
+        "u": "https://www.google.com/search?q=Movie+News+Movie+Podcasts"
+      }
+    ],
+    "4.1.1": [
+      {
+        "d": "serialpodcast.org",
+        "n": "Serial",
+        "u": "https://serialpodcast.org"
+      }
+    ],
+    "4.1.2": [
+      {
+        "d": "google.com",
+        "n": "Crime Junkie",
+        "u": "https://www.google.com/search?q=True+Crime+Crime+Junkie"
+      }
+    ],
+    "4.1.3": [
+      {
+        "d": "google.com",
+        "n": "My Favorite Murder",
+        "u": "https://www.google.com/search?q=True+Crime+My+Favorite+Murder"
+      }
+    ],
+    "4.1.4": [
+      {
+        "d": "google.com",
+        "n": "Casefile",
+        "u": "https://www.google.com/search?q=True+Crime+Casefile"
+      }
+    ],
+    "4.1.6": [
+      {
+        "d": "google.com",
+        "n": "Dateline NBC",
+        "u": "https://www.google.com/search?q=True+Crime+Dateline+NBC"
+      }
+    ],
+    "4.1.7": [
+      {
+        "d": "google.com",
+        "n": "Cold Case Files",
+        "u": "https://www.google.com/search?q=True+Crime+Cold+Case+Files"
+      }
+    ],
+    "4.1.8": [
+      {
+        "d": "google.com",
+        "n": "Criminal",
+        "u": "https://www.google.com/search?q=True+Crime+Criminal"
+      }
+    ],
+    "4.1.9": [
+      {
+        "d": "google.com",
+        "n": "True Crime Roundup",
+        "u": "https://www.google.com/search?q=True+Crime+True+Crime+Roundup"
+      }
+    ],
+    "4.2.1": [
+      {
+        "d": "google.com",
+        "n": "Conan O'Brien",
+        "u": "https://www.google.com/search?q=Comedy+Conan+O%27Brien"
+      }
+    ],
+    "4.2.2": [
+      {
+        "d": "google.com",
+        "n": "SmartLess",
+        "u": "https://www.google.com/search?q=Comedy+SmartLess"
+      }
+    ],
+    "4.2.3": [
+      {
+        "d": "google.com",
+        "n": "Bad Friends",
+        "u": "https://www.google.com/search?q=Comedy+Bad+Friends"
+      }
+    ],
+    "4.2.4": [
+      {
+        "d": "google.com",
+        "n": "Flagrant",
+        "u": "https://www.google.com/search?q=Comedy+Flagrant"
+      }
+    ],
+    "4.2.6": [
+      {
+        "d": "google.com",
+        "n": "Kill Tony",
+        "u": "https://www.google.com/search?q=Comedy+Kill+Tony"
+      }
+    ],
+    "4.2.7": [
+      {
+        "d": "google.com",
+        "n": "Theo Von",
+        "u": "https://www.google.com/search?q=Comedy+Theo+Von"
+      }
+    ],
+    "4.2.8": [
+      {
+        "d": "google.com",
+        "n": "Call Her Daddy",
+        "u": "https://www.google.com/search?q=Comedy+Call+Her+Daddy"
+      }
+    ],
+    "4.2.9": [
+      {
+        "d": "google.com",
+        "n": "Comedy Roundup",
+        "u": "https://www.google.com/search?q=Comedy+Comedy+Roundup"
+      }
+    ],
+    "4.3.1": [
+      {
+        "d": "google.com",
+        "n": "This American Life",
+        "u": "https://www.google.com/search?q=Storytelling+This+American+Life"
+      }
+    ],
+    "4.3.2": [
+      {
+        "d": "google.com",
+        "n": "Radiolab",
+        "u": "https://www.google.com/search?q=Storytelling+Radiolab"
+      }
+    ],
+    "4.3.3": [
+      {
+        "d": "google.com",
+        "n": "The Moth",
+        "u": "https://www.google.com/search?q=Storytelling+The+Moth"
+      }
+    ],
+    "4.3.4": [
+      {
+        "d": "google.com",
+        "n": "Snap Judgment",
+        "u": "https://www.google.com/search?q=Storytelling+Snap+Judgment"
+      }
+    ],
+    "4.3.6": [
+      {
+        "d": "google.com",
+        "n": "Heavyweight",
+        "u": "https://www.google.com/search?q=Storytelling+Heavyweight"
+      }
+    ],
+    "4.3.7": [
+      {
+        "d": "google.com",
+        "n": "Invisibilia",
+        "u": "https://www.google.com/search?q=Storytelling+Invisibilia"
+      }
+    ],
+    "4.3.8": [
+      {
+        "d": "google.com",
+        "n": "99% Invisible",
+        "u": "https://www.google.com/search?q=Storytelling+99%25+Invisible"
+      }
+    ],
+    "4.3.9": [
+      {
+        "d": "google.com",
+        "n": "Story Roundup",
+        "u": "https://www.google.com/search?q=Storytelling+Story+Roundup"
+      }
+    ],
+    "4.4.1": [
+      {
+        "d": "google.com",
+        "n": "How I Built This",
+        "u": "https://www.google.com/search?q=Business+%26+Tech+How+I+Built+This"
+      }
+    ],
+    "4.4.2": [
+      {
+        "d": "google.com",
+        "n": "Acquired",
+        "u": "https://www.google.com/search?q=Business+%26+Tech+Acquired"
+      }
+    ],
+    "4.4.3": [
+      {
+        "d": "google.com",
+        "n": "All-In Podcast",
+        "u": "https://www.google.com/search?q=Business+%26+Tech+All-In+Podcast"
+      }
+    ],
+    "4.4.4": [
+      {
+        "d": "google.com",
+        "n": "My First Million",
+        "u": "https://www.google.com/search?q=Business+%26+Tech+My+First+Million"
+      }
+    ],
+    "4.4.6": [
+      {
+        "d": "google.com",
+        "n": "Lex Fridman",
+        "u": "https://www.google.com/search?q=Business+%26+Tech+Lex+Fridman"
+      }
+    ],
+    "4.4.7": [
+      {
+        "d": "google.com",
+        "n": "The Tim Ferriss Show",
+        "u": "https://www.google.com/search?q=Business+%26+Tech+The+Tim+Ferriss+Show"
+      }
+    ],
+    "4.4.8": [
+      {
+        "d": "google.com",
+        "n": "Invest Like the Best",
+        "u": "https://www.google.com/search?q=Business+%26+Tech+Invest+Like+the+Best"
+      }
+    ],
+    "4.4.9": [
+      {
+        "d": "google.com",
+        "n": "Biz/Tech Roundup",
+        "u": "https://www.google.com/search?q=Business+%26+Tech+Biz%2FTech+Roundup"
+      }
+    ],
+    "4.6.1": [
+      {
+        "d": "google.com",
+        "n": "The Daily (NYT)",
+        "u": "https://www.google.com/search?q=News+%26+Politics+The+Daily+%28NYT%29"
+      }
+    ],
+    "4.6.2": [
+      {
+        "d": "google.com",
+        "n": "Up First (NPR)",
+        "u": "https://www.google.com/search?q=News+%26+Politics+Up+First+%28NPR%29"
+      }
+    ],
+    "4.6.3": [
+      {
+        "d": "google.com",
+        "n": "Pod Save America",
+        "u": "https://www.google.com/search?q=News+%26+Politics+Pod+Save+America"
+      }
+    ],
+    "4.6.4": [
+      {
+        "d": "google.com",
+        "n": "The Ezra Klein Show",
+        "u": "https://www.google.com/search?q=News+%26+Politics+The+Ezra+Klein+Show"
+      }
+    ],
+    "4.6.6": [
+      {
+        "d": "google.com",
+        "n": "Pivot",
+        "u": "https://www.google.com/search?q=News+%26+Politics+Pivot"
+      }
+    ],
+    "4.6.7": [
+      {
+        "d": "google.com",
+        "n": "Hard Fork",
+        "u": "https://www.google.com/search?q=News+%26+Politics+Hard+Fork"
+      }
+    ],
+    "4.6.8": [
+      {
+        "d": "google.com",
+        "n": "The Journal (WSJ)",
+        "u": "https://www.google.com/search?q=News+%26+Politics+The+Journal+%28WSJ%29"
+      }
+    ],
+    "4.6.9": [
+      {
+        "d": "google.com",
+        "n": "News Pod Roundup",
+        "u": "https://www.google.com/search?q=News+%26+Politics+News+Pod+Roundup"
+      }
+    ],
+    "4.7.1": [
+      {
+        "d": "google.com",
+        "n": "Huberman Lab",
+        "u": "https://www.google.com/search?q=Health+%26+Science+Huberman+Lab"
+      }
+    ],
+    "4.7.2": [
+      {
+        "d": "google.com",
+        "n": "On Purpose",
+        "u": "https://www.google.com/search?q=Health+%26+Science+On+Purpose"
+      }
+    ],
+    "4.7.3": [
+      {
+        "d": "google.com",
+        "n": "Ten Percent Happier",
+        "u": "https://www.google.com/search?q=Health+%26+Science+Ten+Percent+Happier"
+      }
+    ],
+    "4.7.4": [
+      {
+        "d": "google.com",
+        "n": "The Happiness Lab",
+        "u": "https://www.google.com/search?q=Health+%26+Science+The+Happiness+Lab"
+      }
+    ],
+    "4.7.6": [
+      {
+        "d": "google.com",
+        "n": "Maintenance Phase",
+        "u": "https://www.google.com/search?q=Health+%26+Science+Maintenance+Phase"
+      }
+    ],
+    "4.7.7": [
+      {
+        "d": "google.com",
+        "n": "Radiolab (Science)",
+        "u": "https://www.google.com/search?q=Health+%26+Science+Radiolab+%28Science%29"
+      }
+    ],
+    "4.7.8": [
+      {
+        "d": "google.com",
+        "n": "Two Minute Papers",
+        "u": "https://www.google.com/search?q=Health+%26+Science+Two+Minute+Papers"
+      }
+    ],
+    "4.7.9": [
+      {
+        "d": "google.com",
+        "n": "Health/Sci Roundup",
+        "u": "https://www.google.com/search?q=Health+%26+Science+Health%2FSci+Roundup"
+      }
+    ],
+    "4.8.1": [
+      {
+        "d": "google.com",
+        "n": "Bill Simmons",
+        "u": "https://www.google.com/search?q=Sports+Bill+Simmons"
+      }
+    ],
+    "4.8.2": [
+      {
+        "d": "google.com",
+        "n": "Pardon My Take",
+        "u": "https://www.google.com/search?q=Sports+Pardon+My+Take"
+      }
+    ],
+    "4.8.3": [
+      {
+        "d": "google.com",
+        "n": "Pat McAfee Show",
+        "u": "https://www.google.com/search?q=Sports+Pat+McAfee+Show"
+      }
+    ],
+    "4.8.4": [
+      {
+        "d": "google.com",
+        "n": "New Heights",
+        "u": "https://www.google.com/search?q=Sports+New+Heights"
+      }
+    ],
+    "4.8.6": [
+      {
+        "d": "google.com",
+        "n": "The Lowe Post",
+        "u": "https://www.google.com/search?q=Sports+The+Lowe+Post"
+      }
+    ],
+    "4.8.7": [
+      {
+        "d": "google.com",
+        "n": "Fantasy Footballers",
+        "u": "https://www.google.com/search?q=Sports+Fantasy+Footballers"
+      }
+    ],
+    "4.8.8": [
+      {
+        "d": "google.com",
+        "n": "Le Batard Show",
+        "u": "https://www.google.com/search?q=Sports+Le+Batard+Show"
+      }
+    ],
+    "4.8.9": [
+      {
+        "d": "google.com",
+        "n": "Sports Pod Roundup",
+        "u": "https://www.google.com/search?q=Sports+Sports+Pod+Roundup"
+      }
+    ],
+    "4.9.1": [
+      {
+        "d": "google.com",
+        "n": "Apple Podcasts Charts",
+        "u": "https://www.google.com/search?q=Discover+Podcasts+Apple+Podcasts+Charts"
+      }
+    ],
+    "4.9.2": [
+      {
+        "d": "google.com",
+        "n": "Spotify Podcast Charts",
+        "u": "https://www.google.com/search?q=Discover+Podcasts+Spotify+Podcast+Charts"
+      }
+    ],
+    "4.9.3": [
+      {
+        "d": "google.com",
+        "n": "Pocketcasts",
+        "u": "https://www.google.com/search?q=Discover+Podcasts+Pocketcasts"
+      }
+    ],
+    "4.9.4": [
+      {
+        "d": "google.com",
+        "n": "Overcast",
+        "u": "https://www.google.com/search?q=Discover+Podcasts+Overcast"
+      }
+    ],
+    "4.9.6": [
+      {
+        "d": "google.com",
+        "n": "Podcast Addict",
+        "u": "https://www.google.com/search?q=Discover+Podcasts+Podcast+Addict"
+      }
+    ],
+    "4.9.7": [
+      {
+        "d": "google.com",
+        "n": "Podchaser",
+        "u": "https://www.google.com/search?q=Discover+Podcasts+Podchaser"
+      }
+    ],
+    "4.9.8": [
+      {
+        "d": "google.com",
+        "n": "Reddit Podcast Recs",
+        "u": "https://www.google.com/search?q=Discover+Podcasts+Reddit+Podcast+Recs"
+      }
+    ],
+    "4.9.9": [
+      {
+        "d": "google.com",
+        "n": "Compare Podcast Apps",
+        "u": "https://www.google.com/search?q=Discover+Podcasts+Compare+Podcast+Apps"
+      }
+    ],
+    "6.1.1": [
+      {
+        "d": "google.com",
+        "n": "NYT Fiction",
+        "u": "https://www.google.com/search?q=Bestsellers+NYT+Fiction"
+      }
+    ],
+    "6.1.2": [
+      {
+        "d": "google.com",
+        "n": "NYT Nonfiction",
+        "u": "https://www.google.com/search?q=Bestsellers+NYT+Nonfiction"
+      }
+    ],
+    "6.1.3": [
+      {
+        "d": "google.com",
+        "n": "Amazon Top 100",
+        "u": "https://www.google.com/search?q=Bestsellers+Amazon+Top+100"
+      }
+    ],
+    "6.1.4": [
+      {
+        "d": "google.com",
+        "n": "Indie Bestsellers",
+        "u": "https://www.google.com/search?q=Bestsellers+Indie+Bestsellers"
+      }
+    ],
+    "6.1.6": [
+      {
+        "d": "google.com",
+        "n": "BookTok Favorites",
+        "u": "https://www.google.com/search?q=Bestsellers+BookTok+Favorites"
+      }
+    ],
+    "6.1.7": [
+      {
+        "d": "google.com",
+        "n": "Goodreads Popular",
+        "u": "https://www.google.com/search?q=Bestsellers+Goodreads+Popular"
+      }
+    ],
+    "6.1.8": [
+      {
+        "d": "google.com",
+        "n": "Award Winners",
+        "u": "https://www.google.com/search?q=Bestsellers+Award+Winners"
+      }
+    ],
+    "6.1.9": [
+      {
+        "d": "google.com",
+        "n": "Staff Picks",
+        "u": "https://www.google.com/search?q=Bestsellers+Staff+Picks"
+      }
+    ],
+    "6.2.1": [
+      {
+        "d": "google.com",
+        "n": "Sci-Fi & Fantasy",
+        "u": "https://www.google.com/search?q=By+Genre+Sci-Fi+%26+Fantasy"
+      }
+    ],
+    "6.2.2": [
+      {
+        "d": "google.com",
+        "n": "Mystery & Thriller",
+        "u": "https://www.google.com/search?q=By+Genre+Mystery+%26+Thriller"
+      }
+    ],
+    "6.2.3": [
+      {
+        "d": "google.com",
+        "n": "Romance",
+        "u": "https://www.google.com/search?q=By+Genre+Romance"
+      }
+    ],
+    "6.2.4": [
+      {
+        "d": "google.com",
+        "n": "Literary Fiction",
+        "u": "https://www.google.com/search?q=By+Genre+Literary+Fiction"
+      }
+    ],
+    "6.2.6": [
+      {
+        "d": "google.com",
+        "n": "Horror",
+        "u": "https://www.google.com/search?q=By+Genre+Horror"
+      }
+    ],
+    "6.2.7": [
+      {
+        "d": "google.com",
+        "n": "Historical Fiction",
+        "u": "https://www.google.com/search?q=By+Genre+Historical+Fiction"
+      }
+    ],
+    "6.2.8": [
+      {
+        "d": "google.com",
+        "n": "Nonfiction",
+        "u": "https://www.google.com/search?q=By+Genre+Nonfiction"
+      }
+    ],
+    "6.2.9": [
+      {
+        "d": "google.com",
+        "n": "Self-Help",
+        "u": "https://www.google.com/search?q=By+Genre+Self-Help"
+      }
+    ],
+    "6.3.1": [
+      {
+        "d": "google.com",
+        "n": "Audible",
+        "u": "https://www.google.com/search?q=Audiobooks+Audible"
+      }
+    ],
+    "6.3.2": [
+      {
+        "d": "google.com",
+        "n": "Libro.fm",
+        "u": "https://www.google.com/search?q=Audiobooks+Libro.fm"
+      }
+    ],
+    "6.3.3": [
+      {
+        "d": "google.com",
+        "n": "Best Narrators",
+        "u": "https://www.google.com/search?q=Audiobooks+Best+Narrators"
+      }
+    ],
+    "6.3.4": [
+      {
+        "d": "google.com",
+        "n": "New Audio Releases",
+        "u": "https://www.google.com/search?q=Audiobooks+New+Audio+Releases"
+      }
+    ],
+    "6.3.6": [
+      {
+        "d": "google.com",
+        "n": "Free Audiobooks",
+        "u": "https://www.google.com/search?q=Audiobooks+Free+Audiobooks"
+      }
+    ],
+    "6.3.7": [
+      {
+        "d": "google.com",
+        "n": "Audible Originals",
+        "u": "https://www.google.com/search?q=Audiobooks+Audible+Originals"
+      }
+    ],
+    "6.3.8": [
+      {
+        "d": "google.com",
+        "n": "Multi-Cast",
+        "u": "https://www.google.com/search?q=Audiobooks+Multi-Cast"
+      }
+    ],
+    "6.3.9": [
+      {
+        "d": "google.com",
+        "n": "Compare Services",
+        "u": "https://www.google.com/search?q=Audiobooks+Compare+Services"
+      }
+    ],
+    "6.4.1": [
+      {
+        "d": "google.com",
+        "n": "Oprah's Book Club",
+        "u": "https://www.google.com/search?q=Book+Clubs+Oprah%27s+Book+Club"
+      }
+    ],
+    "6.4.2": [
+      {
+        "d": "google.com",
+        "n": "Reese's Book Club",
+        "u": "https://www.google.com/search?q=Book+Clubs+Reese%27s+Book+Club"
+      }
+    ],
+    "6.4.3": [
+      {
+        "d": "google.com",
+        "n": "Goodreads Groups",
+        "u": "https://www.google.com/search?q=Book+Clubs+Goodreads+Groups"
+      }
+    ],
+    "6.4.4": [
+      {
+        "d": "google.com",
+        "n": "Reddit Book Clubs",
+        "u": "https://www.google.com/search?q=Book+Clubs+Reddit+Book+Clubs"
+      }
+    ],
+    "6.4.6": [
+      {
+        "d": "google.com",
+        "n": "Local Book Clubs",
+        "u": "https://www.google.com/search?q=Book+Clubs+Local+Book+Clubs"
+      }
+    ],
+    "6.4.7": [
+      {
+        "d": "google.com",
+        "n": "Virtual Book Clubs",
+        "u": "https://www.google.com/search?q=Book+Clubs+Virtual+Book+Clubs"
+      }
+    ],
+    "6.4.8": [
+      {
+        "d": "google.com",
+        "n": "Today Show Picks",
+        "u": "https://www.google.com/search?q=Book+Clubs+Today+Show+Picks"
+      }
+    ],
+    "6.4.9": [
+      {
+        "d": "google.com",
+        "n": "Themed Clubs",
+        "u": "https://www.google.com/search?q=Book+Clubs+Themed+Clubs"
+      }
+    ],
+    "6.6.1": [
+      {
+        "d": "google.com",
+        "n": "Marvel Comics",
+        "u": "https://www.google.com/search?q=Comics+%26+Manga+Marvel+Comics"
+      }
+    ],
+    "6.6.2": [
+      {
+        "d": "google.com",
+        "n": "DC Comics",
+        "u": "https://www.google.com/search?q=Comics+%26+Manga+DC+Comics"
+      }
+    ],
+    "6.6.3.1": [
+      {
+        "d": "google.com",
+        "n": "Shonen Jump",
+        "u": "https://www.google.com/search?q=Manga+Shonen+Jump"
+      }
+    ],
+    "6.6.3.2": [
+      {
+        "d": "google.com",
+        "n": "New Releases",
+        "u": "https://www.google.com/search?q=Manga+New+Releases"
+      }
+    ],
+    "6.6.3.3": [
+      {
+        "d": "google.com",
+        "n": "Top Manga",
+        "u": "https://www.google.com/search?q=Manga+Top+Manga"
+      }
+    ],
+    "6.6.3.4": [
+      {
+        "d": "google.com",
+        "n": "Webtoon",
+        "u": "https://www.google.com/search?q=Manga+Webtoon"
+      }
+    ],
+    "6.6.3.6": [
+      {
+        "d": "google.com",
+        "n": "Manga Plus (Free)",
+        "u": "https://www.google.com/search?q=Manga+Manga+Plus+%28Free%29"
+      }
+    ],
+    "6.6.3.7": [
+      {
+        "d": "google.com",
+        "n": "Crunchyroll Manga",
+        "u": "https://www.google.com/search?q=Manga+Crunchyroll+Manga"
+      }
+    ],
+    "6.6.3.8": [
+      {
+        "d": "google.com",
+        "n": "Manga Subreddit",
+        "u": "https://www.google.com/search?q=Manga+Manga+Subreddit"
+      }
+    ],
+    "6.6.3.9": [
+      {
+        "d": "google.com",
+        "n": "Reading Order Guides",
+        "u": "https://www.google.com/search?q=Manga+Reading+Order+Guides"
+      }
+    ],
+    "6.6.4": [
+      {
+        "d": "google.com",
+        "n": "Indie Comics",
+        "u": "https://www.google.com/search?q=Comics+%26+Manga+Indie+Comics"
+      }
+    ],
+    "6.6.6": [
+      {
+        "d": "google.com",
+        "n": "Webtoons",
+        "u": "https://www.google.com/search?q=Comics+%26+Manga+Webtoons"
+      }
+    ],
+    "6.6.7": [
+      {
+        "d": "google.com",
+        "n": "Graphic Memoirs",
+        "u": "https://www.google.com/search?q=Comics+%26+Manga+Graphic+Memoirs"
+      }
+    ],
+    "6.6.8": [
+      {
+        "d": "google.com",
+        "n": "Kids Comics",
+        "u": "https://www.google.com/search?q=Comics+%26+Manga+Kids+Comics"
+      }
+    ],
+    "6.6.9": [
+      {
+        "d": "google.com",
+        "n": "New Comic Releases",
+        "u": "https://www.google.com/search?q=Comics+%26+Manga+New+Comic+Releases"
+      }
+    ],
+    "6.7.1": [
+      {
+        "d": "google.com",
+        "n": "Kindle",
+        "u": "https://www.google.com/search?q=Where+to+Read+Kindle"
+      }
+    ],
+    "6.7.2": [
+      {
+        "d": "google.com",
+        "n": "Apple Books",
+        "u": "https://www.google.com/search?q=Where+to+Read+Apple+Books"
+      }
+    ],
+    "6.7.3": [
+      {
+        "d": "google.com",
+        "n": "Kobo",
+        "u": "https://www.google.com/search?q=Where+to+Read+Kobo"
+      }
+    ],
+    "6.7.4": [
+      {
+        "d": "google.com",
+        "n": "Libby (Library)",
+        "u": "https://www.google.com/search?q=Where+to+Read+Libby+%28Library%29"
+      }
+    ],
+    "6.7.6": [
+      {
+        "d": "google.com",
+        "n": "Google Play Books",
+        "u": "https://www.google.com/search?q=Where+to+Read+Google+Play+Books"
+      }
+    ],
+    "6.7.7": [
+      {
+        "d": "google.com",
+        "n": "Scribd",
+        "u": "https://www.google.com/search?q=Where+to+Read+Scribd"
+      }
+    ],
+    "6.7.8": [
+      {
+        "d": "google.com",
+        "n": "Bookshop.org",
+        "u": "https://www.google.com/search?q=Where+to+Read+Bookshop.org"
+      }
+    ],
+    "6.7.9": [
+      {
+        "d": "google.com",
+        "n": "Compare eReaders",
+        "u": "https://www.google.com/search?q=Where+to+Read+Compare+eReaders"
+      }
+    ],
+    "6.8.1": [
+      {
+        "d": "goodreads.com",
+        "n": "Goodreads",
+        "u": "https://www.goodreads.com"
+      }
+    ],
+    "6.8.2": [
+      {
+        "d": "google.com",
+        "n": "StoryGraph",
+        "u": "https://www.google.com/search?q=Book+Discovery+StoryGraph"
+      }
+    ],
+    "6.8.3": [
+      {
+        "d": "google.com",
+        "n": "BookTok (TikTok)",
+        "u": "https://www.google.com/search?q=Book+Discovery+BookTok+%28TikTok%29"
+      }
+    ],
+    "6.8.4": [
+      {
+        "d": "google.com",
+        "n": "Bookstagram",
+        "u": "https://www.google.com/search?q=Book+Discovery+Bookstagram"
+      }
+    ],
+    "6.8.6": [
+      {
+        "d": "google.com",
+        "n": "r/books",
+        "u": "https://www.google.com/search?q=Book+Discovery+r%2Fbooks"
+      }
+    ],
+    "6.8.7": [
+      {
+        "d": "google.com",
+        "n": "Book Reviews",
+        "u": "https://www.google.com/search?q=Book+Discovery+Book+Reviews"
+      }
+    ],
+    "6.8.8": [
+      {
+        "d": "google.com",
+        "n": "Most Anticipated",
+        "u": "https://www.google.com/search?q=Book+Discovery+Most+Anticipated"
+      }
+    ],
+    "6.8.9": [
+      {
+        "d": "google.com",
+        "n": "Book Podcasts",
+        "u": "https://www.google.com/search?q=Book+Discovery+Book+Podcasts"
+      }
+    ],
+    "6.9.1": [
+      {
+        "d": "google.com",
+        "n": "This Week",
+        "u": "https://www.google.com/search?q=New+Releases+This+Week"
+      }
+    ],
+    "6.9.2": [
+      {
+        "d": "google.com",
+        "n": "This Month",
+        "u": "https://www.google.com/search?q=New+Releases+This+Month"
+      }
+    ],
+    "6.9.3": [
+      {
+        "d": "google.com",
+        "n": "Most Anticipated",
+        "u": "https://www.google.com/search?q=New+Releases+Most+Anticipated"
+      }
+    ],
+    "6.9.4": [
+      {
+        "d": "google.com",
+        "n": "Debut Authors",
+        "u": "https://www.google.com/search?q=New+Releases+Debut+Authors"
+      }
+    ],
+    "6.9.6": [
+      {
+        "d": "google.com",
+        "n": "Sequel Releases",
+        "u": "https://www.google.com/search?q=New+Releases+Sequel+Releases"
+      }
+    ],
+    "6.9.7": [
+      {
+        "d": "google.com",
+        "n": "Pre-Order",
+        "u": "https://www.google.com/search?q=New+Releases+Pre-Order"
+      }
+    ],
+    "6.9.8": [
+      {
+        "d": "google.com",
+        "n": "Reissues",
+        "u": "https://www.google.com/search?q=New+Releases+Reissues"
+      }
+    ],
+    "6.9.9": [
+      {
+        "d": "google.com",
+        "n": "Release Calendar",
+        "u": "https://www.google.com/search?q=New+Releases+Release+Calendar"
+      }
+    ],
+    "7.1.1": [
+      {
+        "d": "google.com",
+        "n": "Tours Near Me",
+        "u": "https://www.google.com/search?q=Concerts+%26+Tours+Tours+Near+Me"
+      }
+    ],
+    "7.1.2": [
+      {
+        "d": "google.com",
+        "n": "Major Tours",
+        "u": "https://www.google.com/search?q=Concerts+%26+Tours+Major+Tours"
+      }
+    ],
+    "7.1.3": [
+      {
+        "d": "google.com",
+        "n": "Presale Codes",
+        "u": "https://www.google.com/search?q=Concerts+%26+Tours+Presale+Codes"
+      }
+    ],
+    "7.1.4": [
+      {
+        "d": "google.com",
+        "n": "Venue Guides",
+        "u": "https://www.google.com/search?q=Concerts+%26+Tours+Venue+Guides"
+      }
+    ],
+    "7.1.6": [
+      {
+        "d": "google.com",
+        "n": "VIP Packages",
+        "u": "https://www.google.com/search?q=Concerts+%26+Tours+VIP+Packages"
+      }
+    ],
+    "7.1.7": [
+      {
+        "d": "google.com",
+        "n": "Ticket Resale",
+        "u": "https://www.google.com/search?q=Concerts+%26+Tours+Ticket+Resale"
+      }
+    ],
+    "7.1.8": [
+      {
+        "d": "google.com",
+        "n": "Setlist Tracker",
+        "u": "https://www.google.com/search?q=Concerts+%26+Tours+Setlist+Tracker"
+      }
+    ],
+    "7.1.9": [
+      {
+        "d": "google.com",
+        "n": "Concert Tips",
+        "u": "https://www.google.com/search?q=Concerts+%26+Tours+Concert+Tips"
+      }
+    ],
+    "7.2.1": [
+      {
+        "d": "google.com",
+        "n": "Coachella",
+        "u": "https://www.google.com/search?q=Music+Festivals+Coachella"
+      }
+    ],
+    "7.2.2": [
+      {
+        "d": "google.com",
+        "n": "Lollapalooza",
+        "u": "https://www.google.com/search?q=Music+Festivals+Lollapalooza"
+      }
+    ],
+    "7.2.3": [
+      {
+        "d": "google.com",
+        "n": "Bonnaroo",
+        "u": "https://www.google.com/search?q=Music+Festivals+Bonnaroo"
+      }
+    ],
+    "7.2.4": [
+      {
+        "d": "google.com",
+        "n": "Glastonbury",
+        "u": "https://www.google.com/search?q=Music+Festivals+Glastonbury"
+      }
+    ],
+    "7.2.6": [
+      {
+        "d": "google.com",
+        "n": "Tomorrowland",
+        "u": "https://www.google.com/search?q=Music+Festivals+Tomorrowland"
+      }
+    ],
+    "7.2.7": [
+      {
+        "d": "google.com",
+        "n": "Austin City Limits",
+        "u": "https://www.google.com/search?q=Music+Festivals+Austin+City+Limits"
+      }
+    ],
+    "7.2.8": [
+      {
+        "d": "google.com",
+        "n": "Festival Calendar",
+        "u": "https://www.google.com/search?q=Music+Festivals+Festival+Calendar"
+      }
+    ],
+    "7.2.9": [
+      {
+        "d": "google.com",
+        "n": "Festival Packing Guide",
+        "u": "https://www.google.com/search?q=Music+Festivals+Festival+Packing+Guide"
+      }
+    ],
+    "7.3.1": [
+      {
+        "d": "google.com",
+        "n": "Stand-Up Near Me",
+        "u": "https://www.google.com/search?q=Comedy+Shows+Stand-Up+Near+Me"
+      }
+    ],
+    "7.3.2": [
+      {
+        "d": "google.com",
+        "n": "Comedy Clubs",
+        "u": "https://www.google.com/search?q=Comedy+Shows+Comedy+Clubs"
+      }
+    ],
+    "7.3.3": [
+      {
+        "d": "google.com",
+        "n": "Open Mics",
+        "u": "https://www.google.com/search?q=Comedy+Shows+Open+Mics"
+      }
+    ],
+    "7.3.4": [
+      {
+        "d": "google.com",
+        "n": "Touring Comedians",
+        "u": "https://www.google.com/search?q=Comedy+Shows+Touring+Comedians"
+      }
+    ],
+    "7.3.6": [
+      {
+        "d": "google.com",
+        "n": "Improv Shows",
+        "u": "https://www.google.com/search?q=Comedy+Shows+Improv+Shows"
+      }
+    ],
+    "7.3.7": [
+      {
+        "d": "google.com",
+        "n": "Comedy Festivals",
+        "u": "https://www.google.com/search?q=Comedy+Shows+Comedy+Festivals"
+      }
+    ],
+    "7.3.8": [
+      {
+        "d": "google.com",
+        "n": "Ticket Deals",
+        "u": "https://www.google.com/search?q=Comedy+Shows+Ticket+Deals"
+      }
+    ],
+    "7.3.9": [
+      {
+        "d": "google.com",
+        "n": "Sketch Comedy",
+        "u": "https://www.google.com/search?q=Comedy+Shows+Sketch+Comedy"
+      }
+    ],
+    "7.4.1": [
+      {
+        "d": "google.com",
+        "n": "Now Playing",
+        "u": "https://www.google.com/search?q=Broadway+%26+Theater+Now+Playing"
+      }
+    ],
+    "7.4.2": [
+      {
+        "d": "google.com",
+        "n": "Coming Soon",
+        "u": "https://www.google.com/search?q=Broadway+%26+Theater+Coming+Soon"
+      }
+    ],
+    "7.4.3": [
+      {
+        "d": "google.com",
+        "n": "Lottery & Rush",
+        "u": "https://www.google.com/search?q=Broadway+%26+Theater+Lottery+%26+Rush"
+      }
+    ],
+    "7.4.4": [
+      {
+        "d": "google.com",
+        "n": "Tony Awards",
+        "u": "https://www.google.com/search?q=Broadway+%26+Theater+Tony+Awards"
+      }
+    ],
+    "7.4.6": [
+      {
+        "d": "google.com",
+        "n": "Off-Broadway",
+        "u": "https://www.google.com/search?q=Broadway+%26+Theater+Off-Broadway"
+      }
+    ],
+    "7.4.7": [
+      {
+        "d": "google.com",
+        "n": "Regional Theater",
+        "u": "https://www.google.com/search?q=Broadway+%26+Theater+Regional+Theater"
+      }
+    ],
+    "7.4.8": [
+      {
+        "d": "google.com",
+        "n": "London West End",
+        "u": "https://www.google.com/search?q=Broadway+%26+Theater+London+West+End"
+      }
+    ],
+    "7.4.9": [
+      {
+        "d": "google.com",
+        "n": "Touring Shows",
+        "u": "https://www.google.com/search?q=Broadway+%26+Theater+Touring+Shows"
+      }
+    ],
+    "7.6.1": [
+      {
+        "d": "google.com",
+        "n": "Comic-Con",
+        "u": "https://www.google.com/search?q=Conventions+%26+Expos+Comic-Con"
+      }
+    ],
+    "7.6.2": [
+      {
+        "d": "google.com",
+        "n": "PAX Gaming",
+        "u": "https://www.google.com/search?q=Conventions+%26+Expos+PAX+Gaming"
+      }
+    ],
+    "7.6.3": [
+      {
+        "d": "google.com",
+        "n": "D23 Disney",
+        "u": "https://www.google.com/search?q=Conventions+%26+Expos+D23+Disney"
+      }
+    ],
+    "7.6.4": [
+      {
+        "d": "google.com",
+        "n": "Star Wars Celebration",
+        "u": "https://www.google.com/search?q=Conventions+%26+Expos+Star+Wars+Celebration"
+      }
+    ],
+    "7.6.6": [
+      {
+        "d": "google.com",
+        "n": "Anime Expo",
+        "u": "https://www.google.com/search?q=Conventions+%26+Expos+Anime+Expo"
+      }
+    ],
+    "7.6.7": [
+      {
+        "d": "google.com",
+        "n": "Gen Con (Board Games)",
+        "u": "https://www.google.com/search?q=Conventions+%26+Expos+Gen+Con+%28Board+Games%29"
+      }
+    ],
+    "7.6.8": [
+      {
+        "d": "google.com",
+        "n": "Convention Calendar",
+        "u": "https://www.google.com/search?q=Conventions+%26+Expos+Convention+Calendar"
+      }
+    ],
+    "7.6.9": [
+      {
+        "d": "google.com",
+        "n": "Cosplay Resources",
+        "u": "https://www.google.com/search?q=Conventions+%26+Expos+Cosplay+Resources"
+      }
+    ],
+    "7.7.1": [
+      {
+        "d": "google.com",
+        "n": "This Weekend",
+        "u": "https://www.google.com/search?q=Local+Events+This+Weekend"
+      }
+    ],
+    "7.7.2": [
+      {
+        "d": "google.com",
+        "n": "Art Walks",
+        "u": "https://www.google.com/search?q=Local+Events+Art+Walks"
+      }
+    ],
+    "7.7.3": [
+      {
+        "d": "google.com",
+        "n": "Food Festivals",
+        "u": "https://www.google.com/search?q=Local+Events+Food+Festivals"
+      }
+    ],
+    "7.7.4": [
+      {
+        "d": "google.com",
+        "n": "Night Markets",
+        "u": "https://www.google.com/search?q=Local+Events+Night+Markets"
+      }
+    ],
+    "7.7.6": [
+      {
+        "d": "google.com",
+        "n": "Outdoor Cinema",
+        "u": "https://www.google.com/search?q=Local+Events+Outdoor+Cinema"
+      }
+    ],
+    "7.7.7": [
+      {
+        "d": "google.com",
+        "n": "Holiday Events",
+        "u": "https://www.google.com/search?q=Local+Events+Holiday+Events"
+      }
+    ],
+    "7.7.8": [
+      {
+        "d": "google.com",
+        "n": "Free Events",
+        "u": "https://www.google.com/search?q=Local+Events+Free+Events"
+      }
+    ],
+    "7.7.9": [
+      {
+        "d": "google.com",
+        "n": "Pop-Up Shops",
+        "u": "https://www.google.com/search?q=Local+Events+Pop-Up+Shops"
+      }
+    ],
+    "7.8.1": [
+      {
+        "d": "google.com",
+        "n": "Ticketmaster",
+        "u": "https://www.google.com/search?q=Ticket+Sources+Ticketmaster"
+      }
+    ],
+    "7.8.2": [
+      {
+        "d": "google.com",
+        "n": "StubHub",
+        "u": "https://www.google.com/search?q=Ticket+Sources+StubHub"
+      }
+    ],
+    "7.8.3": [
+      {
+        "d": "google.com",
+        "n": "SeatGeek",
+        "u": "https://www.google.com/search?q=Ticket+Sources+SeatGeek"
+      }
+    ],
+    "7.8.4": [
+      {
+        "d": "google.com",
+        "n": "AXS",
+        "u": "https://www.google.com/search?q=Ticket+Sources+AXS"
+      }
+    ],
+    "7.8.6": [
+      {
+        "d": "google.com",
+        "n": "Eventbrite",
+        "u": "https://www.google.com/search?q=Ticket+Sources+Eventbrite"
+      }
+    ],
+    "7.8.7": [
+      {
+        "d": "google.com",
+        "n": "Dice",
+        "u": "https://www.google.com/search?q=Ticket+Sources+Dice"
+      }
+    ],
+    "7.8.8": [
+      {
+        "d": "google.com",
+        "n": "Compare Prices",
+        "u": "https://www.google.com/search?q=Ticket+Sources+Compare+Prices"
+      }
+    ],
+    "7.8.9": [
+      {
+        "d": "google.com",
+        "n": "Ticket Tips & Tricks",
+        "u": "https://www.google.com/search?q=Ticket+Sources+Ticket+Tips+%26+Tricks"
+      }
+    ],
+    "7.9.1": [
+      {
+        "d": "google.com",
+        "n": "Live Streams",
+        "u": "https://www.google.com/search?q=Virtual+Events+Live+Streams"
+      }
+    ],
+    "7.9.2": [
+      {
+        "d": "google.com",
+        "n": "Virtual Concerts",
+        "u": "https://www.google.com/search?q=Virtual+Events+Virtual+Concerts"
+      }
+    ],
+    "7.9.3": [
+      {
+        "d": "google.com",
+        "n": "Online Conventions",
+        "u": "https://www.google.com/search?q=Virtual+Events+Online+Conventions"
+      }
+    ],
+    "7.9.4": [
+      {
+        "d": "google.com",
+        "n": "Watch Parties",
+        "u": "https://www.google.com/search?q=Virtual+Events+Watch+Parties"
+      }
+    ],
+    "7.9.6": [
+      {
+        "d": "google.com",
+        "n": "Virtual Museum Tours",
+        "u": "https://www.google.com/search?q=Virtual+Events+Virtual+Museum+Tours"
+      }
+    ],
+    "7.9.7": [
+      {
+        "d": "google.com",
+        "n": "Online Gaming Events",
+        "u": "https://www.google.com/search?q=Virtual+Events+Online+Gaming+Events"
+      }
+    ],
+    "7.9.8": [
+      {
+        "d": "google.com",
+        "n": "Digital Art Shows",
+        "u": "https://www.google.com/search?q=Virtual+Events+Digital+Art+Shows"
+      }
+    ],
+    "7.9.9": [
+      {
+        "d": "google.com",
+        "n": "Upcoming Virtual",
+        "u": "https://www.google.com/search?q=Virtual+Events+Upcoming+Virtual"
+      }
+    ],
+    "8.1.1": [
+      {
+        "d": "google.com",
+        "n": "Reddit Memes",
+        "u": "https://www.google.com/search?q=Memes+Reddit+Memes"
+      }
+    ],
+    "8.1.2": [
+      {
+        "d": "google.com",
+        "n": "Twitter/X Memes",
+        "u": "https://www.google.com/search?q=Memes+Twitter%2FX+Memes"
+      }
+    ],
+    "8.1.3": [
+      {
+        "d": "google.com",
+        "n": "Instagram Memes",
+        "u": "https://www.google.com/search?q=Memes+Instagram+Memes"
+      }
+    ],
+    "8.1.4": [
+      {
+        "d": "google.com",
+        "n": "TikTok Memes",
+        "u": "https://www.google.com/search?q=Memes+TikTok+Memes"
+      }
+    ],
+    "8.1.6": [
+      {
+        "d": "google.com",
+        "n": "Wholesome Memes",
+        "u": "https://www.google.com/search?q=Memes+Wholesome+Memes"
+      }
+    ],
+    "8.1.7": [
+      {
+        "d": "google.com",
+        "n": "Niche Memes",
+        "u": "https://www.google.com/search?q=Memes+Niche+Memes"
+      }
+    ],
+    "8.1.8": [
+      {
+        "d": "google.com",
+        "n": "Meme Generators",
+        "u": "https://www.google.com/search?q=Memes+Meme+Generators"
+      }
+    ],
+    "8.1.9": [
+      {
+        "d": "google.com",
+        "n": "Meme Archives",
+        "u": "https://www.google.com/search?q=Memes+Meme+Archives"
+      }
+    ],
+    "8.2.1": [
+      {
+        "d": "google.com",
+        "n": "TikTok Comedy",
+        "u": "https://www.google.com/search?q=Funny+Videos+TikTok+Comedy"
+      }
+    ],
+    "8.2.2": [
+      {
+        "d": "google.com",
+        "n": "YouTube Funny",
+        "u": "https://www.google.com/search?q=Funny+Videos+YouTube+Funny"
+      }
+    ],
+    "8.2.3": [
+      {
+        "d": "google.com",
+        "n": "Fails Compilation",
+        "u": "https://www.google.com/search?q=Funny+Videos+Fails+Compilation"
+      }
+    ],
+    "8.2.4": [
+      {
+        "d": "google.com",
+        "n": "Prank Videos",
+        "u": "https://www.google.com/search?q=Funny+Videos+Prank+Videos"
+      }
+    ],
+    "8.2.6": [
+      {
+        "d": "google.com",
+        "n": "Reaction Videos",
+        "u": "https://www.google.com/search?q=Funny+Videos+Reaction+Videos"
+      }
+    ],
+    "8.2.7": [
+      {
+        "d": "google.com",
+        "n": "Sketch Comedy",
+        "u": "https://www.google.com/search?q=Funny+Videos+Sketch+Comedy"
+      }
+    ],
+    "8.2.8": [
+      {
+        "d": "google.com",
+        "n": "Impressions",
+        "u": "https://www.google.com/search?q=Funny+Videos+Impressions"
+      }
+    ],
+    "8.2.9": [
+      {
+        "d": "google.com",
+        "n": "Viral This Week",
+        "u": "https://www.google.com/search?q=Funny+Videos+Viral+This+Week"
+      }
+    ],
+    "8.3.1": [
+      {
+        "d": "google.com",
+        "n": "Netflix Specials",
+        "u": "https://www.google.com/search?q=Stand-Up+Specials+Netflix+Specials"
+      }
+    ],
+    "8.3.2": [
+      {
+        "d": "google.com",
+        "n": "YouTube Specials",
+        "u": "https://www.google.com/search?q=Stand-Up+Specials+YouTube+Specials"
+      }
+    ],
+    "8.3.3": [
+      {
+        "d": "google.com",
+        "n": "New Releases",
+        "u": "https://www.google.com/search?q=Stand-Up+Specials+New+Releases"
+      }
+    ],
+    "8.3.4": [
+      {
+        "d": "google.com",
+        "n": "Recommended",
+        "u": "https://www.google.com/search?q=Stand-Up+Specials+Recommended"
+      }
+    ],
+    "8.3.6": [
+      {
+        "d": "google.com",
+        "n": "Classic Sets",
+        "u": "https://www.google.com/search?q=Stand-Up+Specials+Classic+Sets"
+      }
+    ],
+    "8.3.7": [
+      {
+        "d": "google.com",
+        "n": "International",
+        "u": "https://www.google.com/search?q=Stand-Up+Specials+International"
+      }
+    ],
+    "8.3.8": [
+      {
+        "d": "google.com",
+        "n": "Up-and-Coming",
+        "u": "https://www.google.com/search?q=Stand-Up+Specials+Up-and-Coming"
+      }
+    ],
+    "8.3.9": [
+      {
+        "d": "google.com",
+        "n": "Live Show Finder",
+        "u": "https://www.google.com/search?q=Stand-Up+Specials+Live+Show+Finder"
+      }
+    ],
+    "8.4.1": [
+      {
+        "d": "google.com",
+        "n": "Cat Videos",
+        "u": "https://www.google.com/search?q=Animals+Being+Funny+Cat+Videos"
+      }
+    ],
+    "8.4.2": [
+      {
+        "d": "google.com",
+        "n": "Dog Videos",
+        "u": "https://www.google.com/search?q=Animals+Being+Funny+Dog+Videos"
+      }
+    ],
+    "8.4.3": [
+      {
+        "d": "google.com",
+        "n": "Wildlife Fails",
+        "u": "https://www.google.com/search?q=Animals+Being+Funny+Wildlife+Fails"
+      }
+    ],
+    "8.4.4": [
+      {
+        "d": "google.com",
+        "n": "Pets Being Derpy",
+        "u": "https://www.google.com/search?q=Animals+Being+Funny+Pets+Being+Derpy"
+      }
+    ],
+    "8.4.6": [
+      {
+        "d": "google.com",
+        "n": "Animal Friendships",
+        "u": "https://www.google.com/search?q=Animals+Being+Funny+Animal+Friendships"
+      }
+    ],
+    "8.4.7": [
+      {
+        "d": "google.com",
+        "n": "Cute Overload",
+        "u": "https://www.google.com/search?q=Animals+Being+Funny+Cute+Overload"
+      }
+    ],
+    "8.4.8": [
+      {
+        "d": "google.com",
+        "n": "Farm Animals",
+        "u": "https://www.google.com/search?q=Animals+Being+Funny+Farm+Animals"
+      }
+    ],
+    "8.4.9": [
+      {
+        "d": "google.com",
+        "n": "Marine Animals",
+        "u": "https://www.google.com/search?q=Animals+Being+Funny+Marine+Animals"
+      }
+    ],
+    "8.6.1": [
+      {
+        "d": "google.com",
+        "n": "r/funny",
+        "u": "https://www.google.com/search?q=Reddit+Rabbit+Holes+r%2Ffunny"
+      }
+    ],
+    "8.6.2": [
+      {
+        "d": "google.com",
+        "n": "r/MadeMeSmile",
+        "u": "https://www.google.com/search?q=Reddit+Rabbit+Holes+r%2FMadeMeSmile"
+      }
+    ],
+    "8.6.3": [
+      {
+        "d": "google.com",
+        "n": "r/Unexpected",
+        "u": "https://www.google.com/search?q=Reddit+Rabbit+Holes+r%2FUnexpected"
+      }
+    ],
+    "8.6.4": [
+      {
+        "d": "google.com",
+        "n": "r/ContagiousLaughter",
+        "u": "https://www.google.com/search?q=Reddit+Rabbit+Holes+r%2FContagiousLaughter"
+      }
+    ],
+    "8.6.6": [
+      {
+        "d": "google.com",
+        "n": "r/WellThatSucks",
+        "u": "https://www.google.com/search?q=Reddit+Rabbit+Holes+r%2FWellThatSucks"
+      }
+    ],
+    "8.6.7": [
+      {
+        "d": "google.com",
+        "n": "r/therewasanattempt",
+        "u": "https://www.google.com/search?q=Reddit+Rabbit+Holes+r%2Ftherewasanattempt"
+      }
+    ],
+    "8.6.8": [
+      {
+        "d": "google.com",
+        "n": "r/AbsoluteUnits",
+        "u": "https://www.google.com/search?q=Reddit+Rabbit+Holes+r%2FAbsoluteUnits"
+      }
+    ],
+    "8.6.9": [
+      {
+        "d": "google.com",
+        "n": "r/mildlyinteresting",
+        "u": "https://www.google.com/search?q=Reddit+Rabbit+Holes+r%2Fmildlyinteresting"
+      }
+    ],
+    "8.7.1": [
+      {
+        "d": "google.com",
+        "n": "Made Me Smile",
+        "u": "https://www.google.com/search?q=Wholesome+Content+Made+Me+Smile"
+      }
+    ],
+    "8.7.2": [
+      {
+        "d": "google.com",
+        "n": "Humans Being Bros",
+        "u": "https://www.google.com/search?q=Wholesome+Content+Humans+Being+Bros"
+      }
+    ],
+    "8.7.3": [
+      {
+        "d": "google.com",
+        "n": "Good News Today",
+        "u": "https://www.google.com/search?q=Wholesome+Content+Good+News+Today"
+      }
+    ],
+    "8.7.4": [
+      {
+        "d": "google.com",
+        "n": "Faith in Humanity",
+        "u": "https://www.google.com/search?q=Wholesome+Content+Faith+in+Humanity"
+      }
+    ],
+    "8.7.6": [
+      {
+        "d": "google.com",
+        "n": "Reunion Videos",
+        "u": "https://www.google.com/search?q=Wholesome+Content+Reunion+Videos"
+      }
+    ],
+    "8.7.7": [
+      {
+        "d": "google.com",
+        "n": "Surprise Reactions",
+        "u": "https://www.google.com/search?q=Wholesome+Content+Surprise+Reactions"
+      }
+    ],
+    "8.7.8": [
+      {
+        "d": "google.com",
+        "n": "Feel-Good Stories",
+        "u": "https://www.google.com/search?q=Wholesome+Content+Feel-Good+Stories"
+      }
+    ],
+    "8.7.9": [
+      {
+        "d": "google.com",
+        "n": "Unexpected Kindness",
+        "u": "https://www.google.com/search?q=Wholesome+Content+Unexpected+Kindness"
+      }
+    ],
+    "8.8.1": [
+      {
+        "d": "google.com",
+        "n": "The Onion",
+        "u": "https://www.google.com/search?q=Satire+%26+Parody+The+Onion"
+      }
+    ],
+    "8.8.2": [
+      {
+        "d": "google.com",
+        "n": "Babylon Bee",
+        "u": "https://www.google.com/search?q=Satire+%26+Parody+Babylon+Bee"
+      }
+    ],
+    "8.8.3": [
+      {
+        "d": "google.com",
+        "n": "McSweeney's",
+        "u": "https://www.google.com/search?q=Satire+%26+Parody+McSweeney%27s"
+      }
+    ],
+    "8.8.4": [
+      {
+        "d": "google.com",
+        "n": "Reductress",
+        "u": "https://www.google.com/search?q=Satire+%26+Parody+Reductress"
+      }
+    ],
+    "8.8.6": [
+      {
+        "d": "google.com",
+        "n": "Hard Times",
+        "u": "https://www.google.com/search?q=Satire+%26+Parody+Hard+Times"
+      }
+    ],
+    "8.8.7": [
+      {
+        "d": "google.com",
+        "n": "Parody Accounts",
+        "u": "https://www.google.com/search?q=Satire+%26+Parody+Parody+Accounts"
+      }
+    ],
+    "8.8.8": [
+      {
+        "d": "google.com",
+        "n": "Late Night Clips",
+        "u": "https://www.google.com/search?q=Satire+%26+Parody+Late+Night+Clips"
+      }
+    ],
+    "8.8.9": [
+      {
+        "d": "google.com",
+        "n": "Comedy News Shows",
+        "u": "https://www.google.com/search?q=Satire+%26+Parody+Comedy+News+Shows"
+      }
+    ],
+    "8.9.1": [
+      {
+        "d": "google.com",
+        "n": "Daily Crossword",
+        "u": "https://www.google.com/search?q=Brain+Teasers+%26+Fun+Daily+Crossword"
+      }
+    ],
+    "8.9.2": [
+      {
+        "d": "nytimes.com",
+        "n": "Wordle",
+        "u": "https://www.nytimes.com/games/wordle"
+      }
+    ],
+    "8.9.3": [
+      {
+        "d": "google.com",
+        "n": "NYT Games",
+        "u": "https://www.google.com/search?q=Brain+Teasers+%26+Fun+NYT+Games"
+      }
+    ],
+    "8.9.4": [
+      {
+        "d": "google.com",
+        "n": "Trivia Quizzes",
+        "u": "https://www.google.com/search?q=Brain+Teasers+%26+Fun+Trivia+Quizzes"
+      }
+    ],
+    "8.9.6": [
+      {
+        "d": "google.com",
+        "n": "Sudoku",
+        "u": "https://www.google.com/search?q=Brain+Teasers+%26+Fun+Sudoku"
+      }
+    ],
+    "8.9.7": [
+      {
+        "d": "google.com",
+        "n": "Brain Teasers",
+        "u": "https://www.google.com/search?q=Brain+Teasers+%26+Fun+Brain+Teasers"
+      }
+    ],
+    "8.9.8": [
+      {
+        "d": "google.com",
+        "n": "Would You Rather",
+        "u": "https://www.google.com/search?q=Brain+Teasers+%26+Fun+Would+You+Rather"
+      }
+    ],
+    "8.9.9": [
+      {
+        "d": "google.com",
+        "n": "Personality Quizzes",
+        "u": "https://www.google.com/search?q=Brain+Teasers+%26+Fun+Personality+Quizzes"
+      }
+    ],
+    "9.1.1": [
+      {
+        "d": "google.com",
+        "n": "Camera Gear",
+        "u": "https://www.google.com/search?q=YouTube+Camera+Gear"
+      }
+    ],
+    "9.1.2": [
+      {
+        "d": "google.com",
+        "n": "Lighting Setup",
+        "u": "https://www.google.com/search?q=YouTube+Lighting+Setup"
+      }
+    ],
+    "9.1.3": [
+      {
+        "d": "google.com",
+        "n": "Microphones",
+        "u": "https://www.google.com/search?q=YouTube+Microphones"
+      }
+    ],
+    "9.1.4": [
+      {
+        "d": "google.com",
+        "n": "Editing Software",
+        "u": "https://www.google.com/search?q=YouTube+Editing+Software"
+      }
+    ],
+    "9.1.6": [
+      {
+        "d": "google.com",
+        "n": "Thumbnails",
+        "u": "https://www.google.com/search?q=YouTube+Thumbnails"
+      }
+    ],
+    "9.1.7": [
+      {
+        "d": "google.com",
+        "n": "SEO & Tags",
+        "u": "https://www.google.com/search?q=YouTube+SEO+%26+Tags"
+      }
+    ],
+    "9.1.8": [
+      {
+        "d": "google.com",
+        "n": "Monetization",
+        "u": "https://www.google.com/search?q=YouTube+Monetization"
+      }
+    ],
+    "9.1.9": [
+      {
+        "d": "google.com",
+        "n": "Channel Strategy",
+        "u": "https://www.google.com/search?q=YouTube+Channel+Strategy"
+      }
+    ],
+    "9.2.1": [
+      {
+        "d": "google.com",
+        "n": "Microphones",
+        "u": "https://www.google.com/search?q=Podcasting+Microphones"
+      }
+    ],
+    "9.2.2": [
+      {
+        "d": "google.com",
+        "n": "Recording Software",
+        "u": "https://www.google.com/search?q=Podcasting+Recording+Software"
+      }
+    ],
+    "9.2.3": [
+      {
+        "d": "google.com",
+        "n": "Hosting Platforms",
+        "u": "https://www.google.com/search?q=Podcasting+Hosting+Platforms"
+      }
+    ],
+    "9.2.4": [
+      {
+        "d": "google.com",
+        "n": "Editing & Post",
+        "u": "https://www.google.com/search?q=Podcasting+Editing+%26+Post"
+      }
+    ],
+    "9.2.6": [
+      {
+        "d": "google.com",
+        "n": "Distribution",
+        "u": "https://www.google.com/search?q=Podcasting+Distribution"
+      }
+    ],
+    "9.2.7": [
+      {
+        "d": "google.com",
+        "n": "Monetization",
+        "u": "https://www.google.com/search?q=Podcasting+Monetization"
+      }
+    ],
+    "9.2.8": [
+      {
+        "d": "google.com",
+        "n": "Guest Booking",
+        "u": "https://www.google.com/search?q=Podcasting+Guest+Booking"
+      }
+    ],
+    "9.2.9": [
+      {
+        "d": "google.com",
+        "n": "Show Notes & Format",
+        "u": "https://www.google.com/search?q=Podcasting+Show+Notes+%26+Format"
+      }
+    ],
+    "9.3.1": [
+      {
+        "d": "google.com",
+        "n": "Twitch Setup",
+        "u": "https://www.google.com/search?q=Streaming+%28Twitch%29+Twitch+Setup"
+      }
+    ],
+    "9.3.2": [
+      {
+        "d": "google.com",
+        "n": "OBS Guide",
+        "u": "https://www.google.com/search?q=Streaming+%28Twitch%29+OBS+Guide"
+      }
+    ],
+    "9.3.3": [
+      {
+        "d": "google.com",
+        "n": "Stream Deck",
+        "u": "https://www.google.com/search?q=Streaming+%28Twitch%29+Stream+Deck"
+      }
+    ],
+    "9.3.4": [
+      {
+        "d": "google.com",
+        "n": "Alerts & Overlays",
+        "u": "https://www.google.com/search?q=Streaming+%28Twitch%29+Alerts+%26+Overlays"
+      }
+    ],
+    "9.3.6": [
+      {
+        "d": "google.com",
+        "n": "Chat Bots",
+        "u": "https://www.google.com/search?q=Streaming+%28Twitch%29+Chat+Bots"
+      }
+    ],
+    "9.3.7": [
+      {
+        "d": "google.com",
+        "n": "Monetization",
+        "u": "https://www.google.com/search?q=Streaming+%28Twitch%29+Monetization"
+      }
+    ],
+    "9.3.8": [
+      {
+        "d": "google.com",
+        "n": "Community Building",
+        "u": "https://www.google.com/search?q=Streaming+%28Twitch%29+Community+Building"
+      }
+    ],
+    "9.3.9": [
+      {
+        "d": "google.com",
+        "n": "Kick & Alternatives",
+        "u": "https://www.google.com/search?q=Streaming+%28Twitch%29+Kick+%26+Alternatives"
+      }
+    ],
+    "9.4.1": [
+      {
+        "d": "google.com",
+        "n": "WordPress",
+        "u": "https://www.google.com/search?q=Blog+%26+Newsletter+WordPress"
+      }
+    ],
+    "9.4.2": [
+      {
+        "d": "google.com",
+        "n": "Substack",
+        "u": "https://www.google.com/search?q=Blog+%26+Newsletter+Substack"
+      }
+    ],
+    "9.4.3": [
+      {
+        "d": "google.com",
+        "n": "Ghost",
+        "u": "https://www.google.com/search?q=Blog+%26+Newsletter+Ghost"
+      }
+    ],
+    "9.4.4": [
+      {
+        "d": "google.com",
+        "n": "Beehiiv",
+        "u": "https://www.google.com/search?q=Blog+%26+Newsletter+Beehiiv"
+      }
+    ],
+    "9.4.6": [
+      {
+        "d": "google.com",
+        "n": "SEO Writing",
+        "u": "https://www.google.com/search?q=Blog+%26+Newsletter+SEO+Writing"
+      }
+    ],
+    "9.4.7": [
+      {
+        "d": "google.com",
+        "n": "Email Growth",
+        "u": "https://www.google.com/search?q=Blog+%26+Newsletter+Email+Growth"
+      }
+    ],
+    "9.4.8": [
+      {
+        "d": "google.com",
+        "n": "Monetization",
+        "u": "https://www.google.com/search?q=Blog+%26+Newsletter+Monetization"
+      }
+    ],
+    "9.4.9": [
+      {
+        "d": "google.com",
+        "n": "Content Calendar",
+        "u": "https://www.google.com/search?q=Blog+%26+Newsletter+Content+Calendar"
+      }
+    ],
+    "9.6.1": [
+      {
+        "d": "google.com",
+        "n": "Instagram Strategy",
+        "u": "https://www.google.com/search?q=Social+Media+Growth+Instagram+Strategy"
+      }
+    ],
+    "9.6.2": [
+      {
+        "d": "google.com",
+        "n": "TikTok Strategy",
+        "u": "https://www.google.com/search?q=Social+Media+Growth+TikTok+Strategy"
+      }
+    ],
+    "9.6.3": [
+      {
+        "d": "google.com",
+        "n": "Twitter/X Strategy",
+        "u": "https://www.google.com/search?q=Social+Media+Growth+Twitter%2FX+Strategy"
+      }
+    ],
+    "9.6.4": [
+      {
+        "d": "google.com",
+        "n": "LinkedIn Strategy",
+        "u": "https://www.google.com/search?q=Social+Media+Growth+LinkedIn+Strategy"
+      }
+    ],
+    "9.6.6": [
+      {
+        "d": "google.com",
+        "n": "Scheduling Tools",
+        "u": "https://www.google.com/search?q=Social+Media+Growth+Scheduling+Tools"
+      }
+    ],
+    "9.6.7": [
+      {
+        "d": "google.com",
+        "n": "Analytics",
+        "u": "https://www.google.com/search?q=Social+Media+Growth+Analytics"
+      }
+    ],
+    "9.6.8": [
+      {
+        "d": "google.com",
+        "n": "Hashtag Strategy",
+        "u": "https://www.google.com/search?q=Social+Media+Growth+Hashtag+Strategy"
+      }
+    ],
+    "9.6.9": [
+      {
+        "d": "google.com",
+        "n": "Canva Templates",
+        "u": "https://www.google.com/search?q=Social+Media+Growth+Canva+Templates"
+      }
+    ],
+    "9.7.1": [
+      {
+        "d": "google.com",
+        "n": "Composition",
+        "u": "https://www.google.com/search?q=Photography+Composition"
+      }
+    ],
+    "9.7.2": [
+      {
+        "d": "google.com",
+        "n": "Lighting",
+        "u": "https://www.google.com/search?q=Photography+Lighting"
+      }
+    ],
+    "9.7.3": [
+      {
+        "d": "google.com",
+        "n": "Portrait Tips",
+        "u": "https://www.google.com/search?q=Photography+Portrait+Tips"
+      }
+    ],
+    "9.7.4": [
+      {
+        "d": "google.com",
+        "n": "Landscape",
+        "u": "https://www.google.com/search?q=Photography+Landscape"
+      }
+    ],
+    "9.7.6": [
+      {
+        "d": "google.com",
+        "n": "Phone Photography",
+        "u": "https://www.google.com/search?q=Photography+Phone+Photography"
+      }
+    ],
+    "9.7.7": [
+      {
+        "d": "google.com",
+        "n": "Post-Processing",
+        "u": "https://www.google.com/search?q=Photography+Post-Processing"
+      }
+    ],
+    "9.7.8": [
+      {
+        "d": "google.com",
+        "n": "Street Photography",
+        "u": "https://www.google.com/search?q=Photography+Street+Photography"
+      }
+    ],
+    "9.7.9": [
+      {
+        "d": "google.com",
+        "n": "Gear Guides",
+        "u": "https://www.google.com/search?q=Photography+Gear+Guides"
+      }
+    ],
+    "9.8.1": [
+      {
+        "d": "google.com",
+        "n": "Premiere Pro",
+        "u": "https://www.google.com/search?q=Video+Editing+Premiere+Pro"
+      }
+    ],
+    "9.8.2": [
+      {
+        "d": "google.com",
+        "n": "Final Cut Pro",
+        "u": "https://www.google.com/search?q=Video+Editing+Final+Cut+Pro"
+      }
+    ],
+    "9.8.3": [
+      {
+        "d": "google.com",
+        "n": "DaVinci Resolve",
+        "u": "https://www.google.com/search?q=Video+Editing+DaVinci+Resolve"
+      }
+    ],
+    "9.8.4": [
+      {
+        "d": "google.com",
+        "n": "CapCut",
+        "u": "https://www.google.com/search?q=Video+Editing+CapCut"
+      }
+    ],
+    "9.8.6": [
+      {
+        "d": "google.com",
+        "n": "Color Grading",
+        "u": "https://www.google.com/search?q=Video+Editing+Color+Grading"
+      }
+    ],
+    "9.8.7": [
+      {
+        "d": "google.com",
+        "n": "Sound Design",
+        "u": "https://www.google.com/search?q=Video+Editing+Sound+Design"
+      }
+    ],
+    "9.8.8": [
+      {
+        "d": "google.com",
+        "n": "Motion Graphics",
+        "u": "https://www.google.com/search?q=Video+Editing+Motion+Graphics"
+      }
+    ],
+    "9.8.9": [
+      {
+        "d": "google.com",
+        "n": "Free Editing Tools",
+        "u": "https://www.google.com/search?q=Video+Editing+Free+Editing+Tools"
+      }
+    ],
+    "9.9.1": [
+      {
+        "d": "google.com",
+        "n": "Ad Revenue",
+        "u": "https://www.google.com/search?q=Monetization+Guide+Ad+Revenue"
+      }
+    ],
+    "9.9.2": [
+      {
+        "d": "google.com",
+        "n": "Sponsorships",
+        "u": "https://www.google.com/search?q=Monetization+Guide+Sponsorships"
+      }
+    ],
+    "9.9.3": [
+      {
+        "d": "google.com",
+        "n": "Affiliate Marketing",
+        "u": "https://www.google.com/search?q=Monetization+Guide+Affiliate+Marketing"
+      }
+    ],
+    "9.9.4": [
+      {
+        "d": "google.com",
+        "n": "Patreon & Memberships",
+        "u": "https://www.google.com/search?q=Monetization+Guide+Patreon+%26+Memberships"
+      }
+    ],
+    "9.9.6": [
+      {
+        "d": "google.com",
+        "n": "Merch & Products",
+        "u": "https://www.google.com/search?q=Monetization+Guide+Merch+%26+Products"
+      }
+    ],
+    "9.9.7": [
+      {
+        "d": "google.com",
+        "n": "Brand Deals",
+        "u": "https://www.google.com/search?q=Monetization+Guide+Brand+Deals"
+      }
+    ],
+    "9.9.8": [
+      {
+        "d": "google.com",
+        "n": "Creator Fund",
+        "u": "https://www.google.com/search?q=Monetization+Guide+Creator+Fund"
+      }
+    ],
+    "9.9.9": [
+      {
+        "d": "google.com",
+        "n": "Income Diversification",
+        "u": "https://www.google.com/search?q=Monetization+Guide+Income+Diversification"
+      }
+    ]
+  }
+}

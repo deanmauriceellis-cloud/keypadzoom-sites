@@ -1,0 +1,4913 @@
+{
+  "key": 4,
+  "label": "Technology",
+  "sites": {
+    "1.1.1.1": [
+      {
+        "d": "openai.com",
+        "n": "Open ChatGPT",
+        "u": "https://chat.openai.com"
+      }
+    ],
+    "1.1.1.2": [
+      {
+        "d": "promptbase.com",
+        "n": "Prompt Libraries",
+        "u": "https://www.promptbase.com"
+      }
+    ],
+    "1.1.1.3": [
+      {
+        "d": "openai.com",
+        "n": "GPT Store & Plugins",
+        "u": "https://chat.openai.com/gpts"
+      }
+    ],
+    "1.1.1.4": [
+      {
+        "d": "google.com",
+        "n": "Tips & Tutorials",
+        "u": "https://www.google.com/search?q=ChatGPT+Tips+%26+Tutorials"
+      }
+    ],
+    "1.1.1.6": [
+      {
+        "d": "google.com",
+        "n": "API & Developer Docs",
+        "u": "https://www.google.com/search?q=ChatGPT+API+%26+Developer+Docs"
+      }
+    ],
+    "1.1.1.7": [
+      {
+        "d": "google.com",
+        "n": "Pricing & Plans",
+        "u": "https://www.google.com/search?q=ChatGPT+Pricing+%26+Plans"
+      }
+    ],
+    "1.1.1.8": [
+      {
+        "d": "google.com",
+        "n": "Community & Reddit",
+        "u": "https://www.google.com/search?q=ChatGPT+Community+%26+Reddit"
+      }
+    ],
+    "1.1.1.9": [
+      {
+        "d": "google.com",
+        "n": "What's New",
+        "u": "https://www.google.com/search?q=ChatGPT+What%27s+New"
+      }
+    ],
+    "1.1.2.1": [
+      {
+        "d": "claude.ai",
+        "n": "Open Claude",
+        "u": "https://claude.ai"
+      }
+    ],
+    "1.1.2.2": [
+      {
+        "d": "claude.ai",
+        "n": "Projects & Artifacts",
+        "u": "https://claude.ai"
+      }
+    ],
+    "1.1.2.3": [
+      {
+        "d": "google.com",
+        "n": "API & Developer Docs",
+        "u": "https://www.google.com/search?q=Claude+API+%26+Developer+Docs"
+      }
+    ],
+    "1.1.2.4": [
+      {
+        "d": "google.com",
+        "n": "Prompt Engineering",
+        "u": "https://www.google.com/search?q=Claude+Prompt+Engineering"
+      }
+    ],
+    "1.1.2.6": [
+      {
+        "d": "google.com",
+        "n": "Claude Code",
+        "u": "https://www.google.com/search?q=Claude+Claude+Code"
+      }
+    ],
+    "1.1.2.7": [
+      {
+        "d": "google.com",
+        "n": "Pricing & Plans",
+        "u": "https://www.google.com/search?q=Claude+Pricing+%26+Plans"
+      }
+    ],
+    "1.1.2.8": [
+      {
+        "d": "google.com",
+        "n": "Community",
+        "u": "https://www.google.com/search?q=Claude+Community"
+      }
+    ],
+    "1.1.2.9": [
+      {
+        "d": "google.com",
+        "n": "What's New",
+        "u": "https://www.google.com/search?q=Claude+What%27s+New"
+      }
+    ],
+    "1.1.3.1": [
+      {
+        "d": "gemini.google.com",
+        "n": "Open Gemini",
+        "u": "https://gemini.google.com"
+      }
+    ],
+    "1.1.3.2": [
+      {
+        "d": "gemini.google.com",
+        "n": "Gemini Advanced",
+        "u": "https://gemini.google.com/advanced"
+      }
+    ],
+    "1.1.3.3": [
+      {
+        "d": "google.com",
+        "n": "API & Vertex AI",
+        "u": "https://www.google.com/search?q=Gemini+API+%26+Vertex+AI"
+      }
+    ],
+    "1.1.3.4": [
+      {
+        "d": "google.com",
+        "n": "Workspace Integration",
+        "u": "https://www.google.com/search?q=Gemini+Workspace+Integration"
+      }
+    ],
+    "1.1.3.6": [
+      {
+        "d": "google.com",
+        "n": "Tutorials",
+        "u": "https://www.google.com/search?q=Gemini+Tutorials"
+      }
+    ],
+    "1.1.3.7": [
+      {
+        "d": "google.com",
+        "n": "Pricing & Plans",
+        "u": "https://www.google.com/search?q=Gemini+Pricing+%26+Plans"
+      }
+    ],
+    "1.1.3.8": [
+      {
+        "d": "google.com",
+        "n": "Community",
+        "u": "https://www.google.com/search?q=Gemini+Community"
+      }
+    ],
+    "1.1.3.9": [
+      {
+        "d": "google.com",
+        "n": "What's New",
+        "u": "https://www.google.com/search?q=Gemini+What%27s+New"
+      }
+    ],
+    "1.1.4": [
+      {
+        "d": "copilot.microsoft.com",
+        "n": "Copilot",
+        "u": "https://copilot.microsoft.com"
+      }
+    ],
+    "1.1.6": [
+      {
+        "d": "perplexity.ai",
+        "n": "Perplexity",
+        "u": "https://www.perplexity.ai"
+      }
+    ],
+    "1.1.7.1": [
+      {
+        "d": "ollama.com",
+        "n": "Ollama",
+        "u": "https://ollama.com"
+      }
+    ],
+    "1.1.7.2": [
+      {
+        "d": "lmstudio.ai",
+        "n": "LM Studio",
+        "u": "https://lmstudio.ai"
+      }
+    ],
+    "1.1.7.3": [
+      {
+        "d": "gpt4all.io",
+        "n": "GPT4All",
+        "u": "https://gpt4all.io"
+      }
+    ],
+    "1.1.7.4": [
+      {
+        "d": "google.com",
+        "n": "Model Downloads",
+        "u": "https://www.google.com/search?q=Local+LLMs+Model+Downloads"
+      }
+    ],
+    "1.1.7.6": [
+      {
+        "d": "google.com",
+        "n": "Hardware Guides",
+        "u": "https://www.google.com/search?q=Local+LLMs+Hardware+Guides"
+      }
+    ],
+    "1.1.7.7": [
+      {
+        "d": "google.com",
+        "n": "Setup Tutorials",
+        "u": "https://www.google.com/search?q=Local+LLMs+Setup+Tutorials"
+      }
+    ],
+    "1.1.7.8": [
+      {
+        "d": "google.com",
+        "n": "Performance Tips",
+        "u": "https://www.google.com/search?q=Local+LLMs+Performance+Tips"
+      }
+    ],
+    "1.1.7.9": [
+      {
+        "d": "google.com",
+        "n": "Community",
+        "u": "https://www.google.com/search?q=Local+LLMs+Community"
+      }
+    ],
+    "1.1.8": [
+      {
+        "d": "google.com",
+        "n": "Compare Chatbots",
+        "u": "https://www.google.com/search?q=Chat+with+AI+Compare+Chatbots"
+      }
+    ],
+    "1.1.9": [
+      {
+        "d": "google.com",
+        "n": "Prompt Tips",
+        "u": "https://www.google.com/search?q=Chat+with+AI+Prompt+Tips"
+      }
+    ],
+    "1.2.1.1": [
+      {
+        "d": "midjourney.com",
+        "n": "Open Midjourney",
+        "u": "https://www.midjourney.com"
+      }
+    ],
+    "1.2.1.2": [
+      {
+        "d": "google.com",
+        "n": "Prompt Guide",
+        "u": "https://www.google.com/search?q=Midjourney+Prompt+Guide"
+      }
+    ],
+    "1.2.1.3": [
+      {
+        "d": "google.com",
+        "n": "Style Reference",
+        "u": "https://www.google.com/search?q=Midjourney+Style+Reference"
+      }
+    ],
+    "1.2.1.4": [
+      {
+        "d": "google.com",
+        "n": "Community Gallery",
+        "u": "https://www.google.com/search?q=Midjourney+Community+Gallery"
+      }
+    ],
+    "1.2.1.6": [
+      {
+        "d": "google.com",
+        "n": "Pricing & Plans",
+        "u": "https://www.google.com/search?q=Midjourney+Pricing+%26+Plans"
+      }
+    ],
+    "1.2.1.7": [
+      {
+        "d": "google.com",
+        "n": "V6 Features",
+        "u": "https://www.google.com/search?q=Midjourney+V6+Features"
+      }
+    ],
+    "1.2.1.8": [
+      {
+        "d": "google.com",
+        "n": "Tips & Tricks",
+        "u": "https://www.google.com/search?q=Midjourney+Tips+%26+Tricks"
+      }
+    ],
+    "1.2.1.9": [
+      {
+        "d": "google.com",
+        "n": "Discord Server",
+        "u": "https://www.google.com/search?q=Midjourney+Discord+Server"
+      }
+    ],
+    "1.2.2": [
+      {
+        "d": "openai.com",
+        "n": "DALL-E",
+        "u": "https://labs.openai.com"
+      }
+    ],
+    "1.2.3.1": [
+      {
+        "d": "google.com",
+        "n": "ComfyUI",
+        "u": "https://www.google.com/search?q=Stable+Diffusion+ComfyUI"
+      }
+    ],
+    "1.2.3.2": [
+      {
+        "d": "google.com",
+        "n": "Automatic1111",
+        "u": "https://www.google.com/search?q=Stable+Diffusion+Automatic1111"
+      }
+    ],
+    "1.2.3.3": [
+      {
+        "d": "google.com",
+        "n": "Model Downloads",
+        "u": "https://www.google.com/search?q=Stable+Diffusion+Model+Downloads"
+      }
+    ],
+    "1.2.3.4": [
+      {
+        "d": "google.com",
+        "n": "LoRA Training",
+        "u": "https://www.google.com/search?q=Stable+Diffusion+LoRA+Training"
+      }
+    ],
+    "1.2.3.6": [
+      {
+        "d": "google.com",
+        "n": "Prompt Guides",
+        "u": "https://www.google.com/search?q=Stable+Diffusion+Prompt+Guides"
+      }
+    ],
+    "1.2.3.7": [
+      {
+        "d": "google.com",
+        "n": "Hardware Setup",
+        "u": "https://www.google.com/search?q=Stable+Diffusion+Hardware+Setup"
+      }
+    ],
+    "1.2.3.8": [
+      {
+        "d": "google.com",
+        "n": "CivitAI",
+        "u": "https://www.google.com/search?q=Stable+Diffusion+CivitAI"
+      }
+    ],
+    "1.2.3.9": [
+      {
+        "d": "google.com",
+        "n": "Community",
+        "u": "https://www.google.com/search?q=Stable+Diffusion+Community"
+      }
+    ],
+    "1.2.4": [
+      {
+        "d": "google.com",
+        "n": "Adobe Firefly",
+        "u": "https://www.google.com/search?q=Generate+Images+Adobe+Firefly"
+      }
+    ],
+    "1.2.6": [
+      {
+        "d": "google.com",
+        "n": "Flux & Comfy",
+        "u": "https://www.google.com/search?q=Generate+Images+Flux+%26+Comfy"
+      }
+    ],
+    "1.2.7": [
+      {
+        "d": "google.com",
+        "n": "Prompt Galleries",
+        "u": "https://www.google.com/search?q=Generate+Images+Prompt+Galleries"
+      }
+    ],
+    "1.2.8": [
+      {
+        "d": "google.com",
+        "n": "Style Guides",
+        "u": "https://www.google.com/search?q=Generate+Images+Style+Guides"
+      }
+    ],
+    "1.2.9": [
+      {
+        "d": "google.com",
+        "n": "Upscale & Edit",
+        "u": "https://www.google.com/search?q=Generate+Images+Upscale+%26+Edit"
+      }
+    ],
+    "1.3.1.1": [
+      {
+        "d": "google.com",
+        "n": "Blog & Content",
+        "u": "https://www.google.com/search?q=AI+Writing+Blog+%26+Content"
+      }
+    ],
+    "1.3.1.2": [
+      {
+        "d": "google.com",
+        "n": "Marketing Copy",
+        "u": "https://www.google.com/search?q=AI+Writing+Marketing+Copy"
+      }
+    ],
+    "1.3.1.3": [
+      {
+        "d": "google.com",
+        "n": "Fiction & Creative",
+        "u": "https://www.google.com/search?q=AI+Writing+Fiction+%26+Creative"
+      }
+    ],
+    "1.3.1.4": [
+      {
+        "d": "google.com",
+        "n": "Academic Writing",
+        "u": "https://www.google.com/search?q=AI+Writing+Academic+Writing"
+      }
+    ],
+    "1.3.1.6": [
+      {
+        "d": "google.com",
+        "n": "Email & Business",
+        "u": "https://www.google.com/search?q=AI+Writing+Email+%26+Business"
+      }
+    ],
+    "1.3.1.7": [
+      {
+        "d": "google.com",
+        "n": "Grammarly",
+        "u": "https://www.google.com/search?q=AI+Writing+Grammarly"
+      }
+    ],
+    "1.3.1.8": [
+      {
+        "d": "google.com",
+        "n": "Compare Tools",
+        "u": "https://www.google.com/search?q=AI+Writing+Compare+Tools"
+      }
+    ],
+    "1.3.1.9": [
+      {
+        "d": "google.com",
+        "n": "Free Options",
+        "u": "https://www.google.com/search?q=AI+Writing+Free+Options"
+      }
+    ],
+    "1.3.2.1": [
+      {
+        "d": "google.com",
+        "n": "Sora",
+        "u": "https://www.google.com/search?q=AI+Video+Sora"
+      }
+    ],
+    "1.3.2.2": [
+      {
+        "d": "google.com",
+        "n": "Runway",
+        "u": "https://www.google.com/search?q=AI+Video+Runway"
+      }
+    ],
+    "1.3.2.3": [
+      {
+        "d": "google.com",
+        "n": "Pika",
+        "u": "https://www.google.com/search?q=AI+Video+Pika"
+      }
+    ],
+    "1.3.2.4": [
+      {
+        "d": "google.com",
+        "n": "HeyGen & Avatars",
+        "u": "https://www.google.com/search?q=AI+Video+HeyGen+%26+Avatars"
+      }
+    ],
+    "1.3.2.6": [
+      {
+        "d": "google.com",
+        "n": "Text-to-Video",
+        "u": "https://www.google.com/search?q=AI+Video+Text-to-Video"
+      }
+    ],
+    "1.3.2.7": [
+      {
+        "d": "google.com",
+        "n": "Video Editing AI",
+        "u": "https://www.google.com/search?q=AI+Video+Video+Editing+AI"
+      }
+    ],
+    "1.3.2.8": [
+      {
+        "d": "google.com",
+        "n": "Compare Tools",
+        "u": "https://www.google.com/search?q=AI+Video+Compare+Tools"
+      }
+    ],
+    "1.3.2.9": [
+      {
+        "d": "google.com",
+        "n": "Tutorials",
+        "u": "https://www.google.com/search?q=AI+Video+Tutorials"
+      }
+    ],
+    "1.3.3.1": [
+      {
+        "d": "google.com",
+        "n": "Suno",
+        "u": "https://www.google.com/search?q=AI+Music+Suno"
+      }
+    ],
+    "1.3.3.2": [
+      {
+        "d": "google.com",
+        "n": "Udio",
+        "u": "https://www.google.com/search?q=AI+Music+Udio"
+      }
+    ],
+    "1.3.3.3": [
+      {
+        "d": "google.com",
+        "n": "Soundraw",
+        "u": "https://www.google.com/search?q=AI+Music+Soundraw"
+      }
+    ],
+    "1.3.3.4": [
+      {
+        "d": "google.com",
+        "n": "AI Stems & Mixing",
+        "u": "https://www.google.com/search?q=AI+Music+AI+Stems+%26+Mixing"
+      }
+    ],
+    "1.3.3.6": [
+      {
+        "d": "google.com",
+        "n": "Background Music",
+        "u": "https://www.google.com/search?q=AI+Music+Background+Music"
+      }
+    ],
+    "1.3.3.7": [
+      {
+        "d": "google.com",
+        "n": "Compare Tools",
+        "u": "https://www.google.com/search?q=AI+Music+Compare+Tools"
+      }
+    ],
+    "1.3.3.8": [
+      {
+        "d": "google.com",
+        "n": "Licensing Info",
+        "u": "https://www.google.com/search?q=AI+Music+Licensing+Info"
+      }
+    ],
+    "1.3.3.9": [
+      {
+        "d": "google.com",
+        "n": "Tutorials",
+        "u": "https://www.google.com/search?q=AI+Music+Tutorials"
+      }
+    ],
+    "1.3.4": [
+      {
+        "d": "google.com",
+        "n": "AI Presentations",
+        "u": "https://www.google.com/search?q=Create+with+AI+AI+Presentations"
+      }
+    ],
+    "1.3.6": [
+      {
+        "d": "google.com",
+        "n": "AI Spreadsheets",
+        "u": "https://www.google.com/search?q=Create+with+AI+AI+Spreadsheets"
+      }
+    ],
+    "1.3.7": [
+      {
+        "d": "google.com",
+        "n": "AI Design",
+        "u": "https://www.google.com/search?q=Create+with+AI+AI+Design"
+      }
+    ],
+    "1.3.8": [
+      {
+        "d": "google.com",
+        "n": "AI Voice & Audio",
+        "u": "https://www.google.com/search?q=Create+with+AI+AI+Voice+%26+Audio"
+      }
+    ],
+    "1.3.9": [
+      {
+        "d": "google.com",
+        "n": "AI Workflows",
+        "u": "https://www.google.com/search?q=Create+with+AI+AI+Workflows"
+      }
+    ],
+    "1.4.1": [
+      {
+        "d": "github.com",
+        "n": "GitHub Copilot",
+        "u": "https://github.com/features/copilot"
+      }
+    ],
+    "1.4.2": [
+      {
+        "d": "google.com",
+        "n": "Cursor",
+        "u": "https://www.google.com/search?q=Code+with+AI+Cursor"
+      }
+    ],
+    "1.4.3": [
+      {
+        "d": "google.com",
+        "n": "Claude Code",
+        "u": "https://www.google.com/search?q=Code+with+AI+Claude+Code"
+      }
+    ],
+    "1.4.4": [
+      {
+        "d": "google.com",
+        "n": "Codeium",
+        "u": "https://www.google.com/search?q=Code+with+AI+Codeium"
+      }
+    ],
+    "1.4.6": [
+      {
+        "d": "google.com",
+        "n": "Replit Agent",
+        "u": "https://www.google.com/search?q=Code+with+AI+Replit+Agent"
+      }
+    ],
+    "1.4.7": [
+      {
+        "d": "google.com",
+        "n": "v0 & Bolt",
+        "u": "https://www.google.com/search?q=Code+with+AI+v0+%26+Bolt"
+      }
+    ],
+    "1.4.8": [
+      {
+        "d": "google.com",
+        "n": "AI Debugging",
+        "u": "https://www.google.com/search?q=Code+with+AI+AI+Debugging"
+      }
+    ],
+    "1.4.9": [
+      {
+        "d": "google.com",
+        "n": "Compare Coding AI",
+        "u": "https://www.google.com/search?q=Code+with+AI+Compare+Coding+AI"
+      }
+    ],
+    "1.6.1": [
+      {
+        "d": "google.com",
+        "n": "Customer Service AI",
+        "u": "https://www.google.com/search?q=AI+for+Business+Customer+Service+AI"
+      }
+    ],
+    "1.6.2": [
+      {
+        "d": "google.com",
+        "n": "Marketing AI",
+        "u": "https://www.google.com/search?q=AI+for+Business+Marketing+AI"
+      }
+    ],
+    "1.6.3": [
+      {
+        "d": "google.com",
+        "n": "Sales AI",
+        "u": "https://www.google.com/search?q=AI+for+Business+Sales+AI"
+      }
+    ],
+    "1.6.4": [
+      {
+        "d": "google.com",
+        "n": "HR & Recruiting AI",
+        "u": "https://www.google.com/search?q=AI+for+Business+HR+%26+Recruiting+AI"
+      }
+    ],
+    "1.6.6": [
+      {
+        "d": "google.com",
+        "n": "Analytics AI",
+        "u": "https://www.google.com/search?q=AI+for+Business+Analytics+AI"
+      }
+    ],
+    "1.6.7": [
+      {
+        "d": "google.com",
+        "n": "Legal AI",
+        "u": "https://www.google.com/search?q=AI+for+Business+Legal+AI"
+      }
+    ],
+    "1.6.8": [
+      {
+        "d": "google.com",
+        "n": "Healthcare AI",
+        "u": "https://www.google.com/search?q=AI+for+Business+Healthcare+AI"
+      }
+    ],
+    "1.6.9": [
+      {
+        "d": "google.com",
+        "n": "Enterprise Platforms",
+        "u": "https://www.google.com/search?q=AI+for+Business+Enterprise+Platforms"
+      }
+    ],
+    "1.7.1": [
+      {
+        "d": "google.com",
+        "n": "Product Launches",
+        "u": "https://www.google.com/search?q=AI+News+%26+Trends+Product+Launches"
+      }
+    ],
+    "1.7.2": [
+      {
+        "d": "google.com",
+        "n": "Funding & Deals",
+        "u": "https://www.google.com/search?q=AI+News+%26+Trends+Funding+%26+Deals"
+      }
+    ],
+    "1.7.3": [
+      {
+        "d": "google.com",
+        "n": "Research Papers",
+        "u": "https://www.google.com/search?q=AI+News+%26+Trends+Research+Papers"
+      }
+    ],
+    "1.7.4": [
+      {
+        "d": "google.com",
+        "n": "Regulation Updates",
+        "u": "https://www.google.com/search?q=AI+News+%26+Trends+Regulation+Updates"
+      }
+    ],
+    "1.7.6": [
+      {
+        "d": "google.com",
+        "n": "Industry Analysis",
+        "u": "https://www.google.com/search?q=AI+News+%26+Trends+Industry+Analysis"
+      }
+    ],
+    "1.7.7": [
+      {
+        "d": "google.com",
+        "n": "AI Safety & Ethics",
+        "u": "https://www.google.com/search?q=AI+News+%26+Trends+AI+Safety+%26+Ethics"
+      }
+    ],
+    "1.7.8.1": [
+      {
+        "d": "google.com",
+        "n": "Hugging Face Hub",
+        "u": "https://www.google.com/search?q=Open+Source+Models+Hugging+Face+Hub"
+      }
+    ],
+    "1.7.8.2": [
+      {
+        "d": "google.com",
+        "n": "Model Leaderboard",
+        "u": "https://www.google.com/search?q=Open+Source+Models+Model+Leaderboard"
+      }
+    ],
+    "1.7.8.3": [
+      {
+        "d": "google.com",
+        "n": "Download Models",
+        "u": "https://www.google.com/search?q=Open+Source+Models+Download+Models"
+      }
+    ],
+    "1.7.8.4": [
+      {
+        "d": "google.com",
+        "n": "Fine-Tune Guides",
+        "u": "https://www.google.com/search?q=Open+Source+Models+Fine-Tune+Guides"
+      }
+    ],
+    "1.7.8.6": [
+      {
+        "d": "google.com",
+        "n": "Community Models",
+        "u": "https://www.google.com/search?q=Open+Source+Models+Community+Models"
+      }
+    ],
+    "1.7.8.7": [
+      {
+        "d": "google.com",
+        "n": "Dataset Resources",
+        "u": "https://www.google.com/search?q=Open+Source+Models+Dataset+Resources"
+      }
+    ],
+    "1.7.8.8": [
+      {
+        "d": "google.com",
+        "n": "GitHub Repos",
+        "u": "https://www.google.com/search?q=Open+Source+Models+GitHub+Repos"
+      }
+    ],
+    "1.7.8.9": [
+      {
+        "d": "google.com",
+        "n": "GGUF & Quantized",
+        "u": "https://www.google.com/search?q=Open+Source+Models+GGUF+%26+Quantized"
+      }
+    ],
+    "1.7.9": [
+      {
+        "d": "google.com",
+        "n": "Startup Watch",
+        "u": "https://www.google.com/search?q=AI+News+%26+Trends+Startup+Watch"
+      }
+    ],
+    "1.8.1": [
+      {
+        "d": "google.com",
+        "n": "Beginner Courses",
+        "u": "https://www.google.com/search?q=Learn+AI+%26+ML+Beginner+Courses"
+      }
+    ],
+    "1.8.2": [
+      {
+        "d": "google.com",
+        "n": "Python for ML",
+        "u": "https://www.google.com/search?q=Learn+AI+%26+ML+Python+for+ML"
+      }
+    ],
+    "1.8.3": [
+      {
+        "d": "google.com",
+        "n": "Neural Networks",
+        "u": "https://www.google.com/search?q=Learn+AI+%26+ML+Neural+Networks"
+      }
+    ],
+    "1.8.4": [
+      {
+        "d": "google.com",
+        "n": "Computer Vision",
+        "u": "https://www.google.com/search?q=Learn+AI+%26+ML+Computer+Vision"
+      }
+    ],
+    "1.8.6": [
+      {
+        "d": "google.com",
+        "n": "NLP & Language",
+        "u": "https://www.google.com/search?q=Learn+AI+%26+ML+NLP+%26+Language"
+      }
+    ],
+    "1.8.7": [
+      {
+        "d": "huggingface.co",
+        "n": "Hugging Face",
+        "u": "https://huggingface.co"
+      }
+    ],
+    "1.8.8": [
+      {
+        "d": "google.com",
+        "n": "Fine-Tuning",
+        "u": "https://www.google.com/search?q=Learn+AI+%26+ML+Fine-Tuning"
+      }
+    ],
+    "1.8.9": [
+      {
+        "d": "google.com",
+        "n": "Kaggle & Datasets",
+        "u": "https://www.google.com/search?q=Learn+AI+%26+ML+Kaggle+%26+Datasets"
+      }
+    ],
+    "1.9.1": [
+      {
+        "d": "google.com",
+        "n": "There's an AI For That",
+        "u": "https://www.google.com/search?q=AI+Directories+There%27s+an+AI+For+That"
+      }
+    ],
+    "1.9.2": [
+      {
+        "d": "google.com",
+        "n": "Futurepedia",
+        "u": "https://www.google.com/search?q=AI+Directories+Futurepedia"
+      }
+    ],
+    "1.9.3": [
+      {
+        "d": "google.com",
+        "n": "AI Tool Tracker",
+        "u": "https://www.google.com/search?q=AI+Directories+AI+Tool+Tracker"
+      }
+    ],
+    "1.9.4": [
+      {
+        "d": "google.com",
+        "n": "Product Hunt AI",
+        "u": "https://www.google.com/search?q=AI+Directories+Product+Hunt+AI"
+      }
+    ],
+    "1.9.6": [
+      {
+        "d": "google.com",
+        "n": "Top Free AI Tools",
+        "u": "https://www.google.com/search?q=AI+Directories+Top+Free+AI+Tools"
+      }
+    ],
+    "1.9.7": [
+      {
+        "d": "google.com",
+        "n": "AI Newsletters",
+        "u": "https://www.google.com/search?q=AI+Directories+AI+Newsletters"
+      }
+    ],
+    "1.9.8": [
+      {
+        "d": "google.com",
+        "n": "AI Podcasts",
+        "u": "https://www.google.com/search?q=AI+Directories+AI+Podcasts"
+      }
+    ],
+    "1.9.9": [
+      {
+        "d": "google.com",
+        "n": "AI Communities",
+        "u": "https://www.google.com/search?q=AI+Directories+AI+Communities"
+      }
+    ],
+    "2.1.1.1": [
+      {
+        "d": "google.com",
+        "n": "Latest iPhone",
+        "u": "https://www.google.com/search?q=iPhone+Latest+iPhone"
+      }
+    ],
+    "2.1.1.2": [
+      {
+        "d": "google.com",
+        "n": "Deals & Pricing",
+        "u": "https://www.google.com/search?q=iPhone+Deals+%26+Pricing"
+      }
+    ],
+    "2.1.1.3": [
+      {
+        "d": "google.com",
+        "n": "Reviews",
+        "u": "https://www.google.com/search?q=iPhone+Reviews"
+      }
+    ],
+    "2.1.1.4": [
+      {
+        "d": "google.com",
+        "n": "Cases & Accessories",
+        "u": "https://www.google.com/search?q=iPhone+Cases+%26+Accessories"
+      }
+    ],
+    "2.1.1.6": [
+      {
+        "d": "google.com",
+        "n": "Trade-In",
+        "u": "https://www.google.com/search?q=iPhone+Trade-In"
+      }
+    ],
+    "2.1.1.7": [
+      {
+        "d": "google.com",
+        "n": "Compare Models",
+        "u": "https://www.google.com/search?q=iPhone+Compare+Models"
+      }
+    ],
+    "2.1.1.8": [
+      {
+        "d": "google.com",
+        "n": "Tips & Tricks",
+        "u": "https://www.google.com/search?q=iPhone+Tips+%26+Tricks"
+      }
+    ],
+    "2.1.1.9": [
+      {
+        "d": "google.com",
+        "n": "Upcoming Rumors",
+        "u": "https://www.google.com/search?q=iPhone+Upcoming+Rumors"
+      }
+    ],
+    "2.1.2.1": [
+      {
+        "d": "google.com",
+        "n": "Latest Galaxy S",
+        "u": "https://www.google.com/search?q=Samsung+Galaxy+Latest+Galaxy+S"
+      }
+    ],
+    "2.1.2.2": [
+      {
+        "d": "google.com",
+        "n": "Galaxy Z Fold/Flip",
+        "u": "https://www.google.com/search?q=Samsung+Galaxy+Galaxy+Z+Fold%2FFlip"
+      }
+    ],
+    "2.1.2.3": [
+      {
+        "d": "google.com",
+        "n": "Deals & Pricing",
+        "u": "https://www.google.com/search?q=Samsung+Galaxy+Deals+%26+Pricing"
+      }
+    ],
+    "2.1.2.4": [
+      {
+        "d": "google.com",
+        "n": "Reviews",
+        "u": "https://www.google.com/search?q=Samsung+Galaxy+Reviews"
+      }
+    ],
+    "2.1.2.6": [
+      {
+        "d": "google.com",
+        "n": "Accessories",
+        "u": "https://www.google.com/search?q=Samsung+Galaxy+Accessories"
+      }
+    ],
+    "2.1.2.7": [
+      {
+        "d": "google.com",
+        "n": "Compare Models",
+        "u": "https://www.google.com/search?q=Samsung+Galaxy+Compare+Models"
+      }
+    ],
+    "2.1.2.8": [
+      {
+        "d": "google.com",
+        "n": "Tips & Tricks",
+        "u": "https://www.google.com/search?q=Samsung+Galaxy+Tips+%26+Tricks"
+      }
+    ],
+    "2.1.2.9": [
+      {
+        "d": "google.com",
+        "n": "Upcoming",
+        "u": "https://www.google.com/search?q=Samsung+Galaxy+Upcoming"
+      }
+    ],
+    "2.1.3": [
+      {
+        "d": "google.com",
+        "n": "Google Pixel",
+        "u": "https://www.google.com/search?q=Phones+Google+Pixel"
+      }
+    ],
+    "2.1.4": [
+      {
+        "d": "google.com",
+        "n": "OnePlus",
+        "u": "https://www.google.com/search?q=Phones+OnePlus"
+      }
+    ],
+    "2.1.6": [
+      {
+        "d": "google.com",
+        "n": "Foldables",
+        "u": "https://www.google.com/search?q=Phones+Foldables"
+      }
+    ],
+    "2.1.7": [
+      {
+        "d": "google.com",
+        "n": "Budget Phones",
+        "u": "https://www.google.com/search?q=Phones+Budget+Phones"
+      }
+    ],
+    "2.1.8": [
+      {
+        "d": "google.com",
+        "n": "Compare Phones",
+        "u": "https://www.google.com/search?q=Phones+Compare+Phones"
+      }
+    ],
+    "2.1.9": [
+      {
+        "d": "google.com",
+        "n": "Phone Accessories",
+        "u": "https://www.google.com/search?q=Phones+Phone+Accessories"
+      }
+    ],
+    "2.2.1.1": [
+      {
+        "d": "google.com",
+        "n": "MacBook Air",
+        "u": "https://www.google.com/search?q=MacBook+MacBook+Air"
+      }
+    ],
+    "2.2.1.2": [
+      {
+        "d": "google.com",
+        "n": "MacBook Pro",
+        "u": "https://www.google.com/search?q=MacBook+MacBook+Pro"
+      }
+    ],
+    "2.2.1.3": [
+      {
+        "d": "google.com",
+        "n": "Deals & Pricing",
+        "u": "https://www.google.com/search?q=MacBook+Deals+%26+Pricing"
+      }
+    ],
+    "2.2.1.4": [
+      {
+        "d": "google.com",
+        "n": "Reviews",
+        "u": "https://www.google.com/search?q=MacBook+Reviews"
+      }
+    ],
+    "2.2.1.6": [
+      {
+        "d": "google.com",
+        "n": "Accessories",
+        "u": "https://www.google.com/search?q=MacBook+Accessories"
+      }
+    ],
+    "2.2.1.7": [
+      {
+        "d": "google.com",
+        "n": "Setup Guides",
+        "u": "https://www.google.com/search?q=MacBook+Setup+Guides"
+      }
+    ],
+    "2.2.1.8": [
+      {
+        "d": "google.com",
+        "n": "Compare Models",
+        "u": "https://www.google.com/search?q=MacBook+Compare+Models"
+      }
+    ],
+    "2.2.1.9": [
+      {
+        "d": "google.com",
+        "n": "Refurbished",
+        "u": "https://www.google.com/search?q=MacBook+Refurbished"
+      }
+    ],
+    "2.2.2.1": [
+      {
+        "d": "google.com",
+        "n": "ThinkPad",
+        "u": "https://www.google.com/search?q=Windows+Laptops+ThinkPad"
+      }
+    ],
+    "2.2.2.2": [
+      {
+        "d": "google.com",
+        "n": "Dell XPS",
+        "u": "https://www.google.com/search?q=Windows+Laptops+Dell+XPS"
+      }
+    ],
+    "2.2.2.3": [
+      {
+        "d": "google.com",
+        "n": "Surface",
+        "u": "https://www.google.com/search?q=Windows+Laptops+Surface"
+      }
+    ],
+    "2.2.2.4": [
+      {
+        "d": "google.com",
+        "n": "HP Spectre",
+        "u": "https://www.google.com/search?q=Windows+Laptops+HP+Spectre"
+      }
+    ],
+    "2.2.2.6": [
+      {
+        "d": "google.com",
+        "n": "Budget Picks",
+        "u": "https://www.google.com/search?q=Windows+Laptops+Budget+Picks"
+      }
+    ],
+    "2.2.2.7": [
+      {
+        "d": "google.com",
+        "n": "Business Laptops",
+        "u": "https://www.google.com/search?q=Windows+Laptops+Business+Laptops"
+      }
+    ],
+    "2.2.2.8": [
+      {
+        "d": "google.com",
+        "n": "Compare",
+        "u": "https://www.google.com/search?q=Windows+Laptops+Compare"
+      }
+    ],
+    "2.2.2.9": [
+      {
+        "d": "google.com",
+        "n": "Deals",
+        "u": "https://www.google.com/search?q=Windows+Laptops+Deals"
+      }
+    ],
+    "2.2.3": [
+      {
+        "d": "google.com",
+        "n": "Gaming Laptops",
+        "u": "https://www.google.com/search?q=Laptops+%26+PCs+Gaming+Laptops"
+      }
+    ],
+    "2.2.4": [
+      {
+        "d": "google.com",
+        "n": "Chromebooks",
+        "u": "https://www.google.com/search?q=Laptops+%26+PCs+Chromebooks"
+      }
+    ],
+    "2.2.6.1": [
+      {
+        "d": "google.com",
+        "n": "PC Part Picker",
+        "u": "https://www.google.com/search?q=Desktop+Builds+PC+Part+Picker"
+      }
+    ],
+    "2.2.6.2": [
+      {
+        "d": "google.com",
+        "n": "Build Guides",
+        "u": "https://www.google.com/search?q=Desktop+Builds+Build+Guides"
+      }
+    ],
+    "2.2.6.3": [
+      {
+        "d": "google.com",
+        "n": "Pre-Built PCs",
+        "u": "https://www.google.com/search?q=Desktop+Builds+Pre-Built+PCs"
+      }
+    ],
+    "2.2.6.4": [
+      {
+        "d": "google.com",
+        "n": "r/buildapc",
+        "u": "https://www.google.com/search?q=Desktop+Builds+r%2Fbuildapc"
+      }
+    ],
+    "2.2.6.6": [
+      {
+        "d": "google.com",
+        "n": "Benchmark Tools",
+        "u": "https://www.google.com/search?q=Desktop+Builds+Benchmark+Tools"
+      }
+    ],
+    "2.2.6.7": [
+      {
+        "d": "google.com",
+        "n": "Budget Builds",
+        "u": "https://www.google.com/search?q=Desktop+Builds+Budget+Builds"
+      }
+    ],
+    "2.2.6.8": [
+      {
+        "d": "google.com",
+        "n": "Deals",
+        "u": "https://www.google.com/search?q=Desktop+Builds+Deals"
+      }
+    ],
+    "2.2.6.9": [
+      {
+        "d": "google.com",
+        "n": "Cable Management",
+        "u": "https://www.google.com/search?q=Desktop+Builds+Cable+Management"
+      }
+    ],
+    "2.2.7": [
+      {
+        "d": "google.com",
+        "n": "Mini PCs",
+        "u": "https://www.google.com/search?q=Laptops+%26+PCs+Mini+PCs"
+      }
+    ],
+    "2.2.8": [
+      {
+        "d": "google.com",
+        "n": "Compare Laptops",
+        "u": "https://www.google.com/search?q=Laptops+%26+PCs+Compare+Laptops"
+      }
+    ],
+    "2.2.9": [
+      {
+        "d": "google.com",
+        "n": "PC Accessories",
+        "u": "https://www.google.com/search?q=Laptops+%26+PCs+PC+Accessories"
+      }
+    ],
+    "2.3.1.1": [
+      {
+        "d": "google.com",
+        "n": "iPad Pro",
+        "u": "https://www.google.com/search?q=iPad+iPad+Pro"
+      }
+    ],
+    "2.3.1.2": [
+      {
+        "d": "google.com",
+        "n": "iPad Air",
+        "u": "https://www.google.com/search?q=iPad+iPad+Air"
+      }
+    ],
+    "2.3.1.3": [
+      {
+        "d": "google.com",
+        "n": "iPad Mini",
+        "u": "https://www.google.com/search?q=iPad+iPad+Mini"
+      }
+    ],
+    "2.3.1.4": [
+      {
+        "d": "google.com",
+        "n": "Deals & Pricing",
+        "u": "https://www.google.com/search?q=iPad+Deals+%26+Pricing"
+      }
+    ],
+    "2.3.1.6": [
+      {
+        "d": "google.com",
+        "n": "Reviews",
+        "u": "https://www.google.com/search?q=iPad+Reviews"
+      }
+    ],
+    "2.3.1.7": [
+      {
+        "d": "google.com",
+        "n": "Apple Pencil",
+        "u": "https://www.google.com/search?q=iPad+Apple+Pencil"
+      }
+    ],
+    "2.3.1.8": [
+      {
+        "d": "google.com",
+        "n": "Keyboards",
+        "u": "https://www.google.com/search?q=iPad+Keyboards"
+      }
+    ],
+    "2.3.1.9": [
+      {
+        "d": "google.com",
+        "n": "Compare Models",
+        "u": "https://www.google.com/search?q=iPad+Compare+Models"
+      }
+    ],
+    "2.3.2": [
+      {
+        "d": "google.com",
+        "n": "Samsung Galaxy Tab",
+        "u": "https://www.google.com/search?q=Tablets+%26+E-Readers+Samsung+Galaxy+Tab"
+      }
+    ],
+    "2.3.3": [
+      {
+        "d": "google.com",
+        "n": "Amazon Fire",
+        "u": "https://www.google.com/search?q=Tablets+%26+E-Readers+Amazon+Fire"
+      }
+    ],
+    "2.3.4": [
+      {
+        "d": "google.com",
+        "n": "Kindle & E-Ink",
+        "u": "https://www.google.com/search?q=Tablets+%26+E-Readers+Kindle+%26+E-Ink"
+      }
+    ],
+    "2.3.6": [
+      {
+        "d": "google.com",
+        "n": "Drawing Tablets",
+        "u": "https://www.google.com/search?q=Tablets+%26+E-Readers+Drawing+Tablets"
+      }
+    ],
+    "2.3.7": [
+      {
+        "d": "google.com",
+        "n": "reMarkable",
+        "u": "https://www.google.com/search?q=Tablets+%26+E-Readers+reMarkable"
+      }
+    ],
+    "2.3.8": [
+      {
+        "d": "google.com",
+        "n": "Compare Tablets",
+        "u": "https://www.google.com/search?q=Tablets+%26+E-Readers+Compare+Tablets"
+      }
+    ],
+    "2.3.9": [
+      {
+        "d": "google.com",
+        "n": "Tablet Accessories",
+        "u": "https://www.google.com/search?q=Tablets+%26+E-Readers+Tablet+Accessories"
+      }
+    ],
+    "2.4.1": [
+      {
+        "d": "google.com",
+        "n": "Apple Watch",
+        "u": "https://www.google.com/search?q=Wearables+Apple+Watch"
+      }
+    ],
+    "2.4.2": [
+      {
+        "d": "google.com",
+        "n": "Samsung Watch",
+        "u": "https://www.google.com/search?q=Wearables+Samsung+Watch"
+      }
+    ],
+    "2.4.3": [
+      {
+        "d": "google.com",
+        "n": "Fitbit & Bands",
+        "u": "https://www.google.com/search?q=Wearables+Fitbit+%26+Bands"
+      }
+    ],
+    "2.4.4": [
+      {
+        "d": "google.com",
+        "n": "Garmin",
+        "u": "https://www.google.com/search?q=Wearables+Garmin"
+      }
+    ],
+    "2.4.6": [
+      {
+        "d": "google.com",
+        "n": "Oura & Whoop",
+        "u": "https://www.google.com/search?q=Wearables+Oura+%26+Whoop"
+      }
+    ],
+    "2.4.7": [
+      {
+        "d": "google.com",
+        "n": "Smart Glasses",
+        "u": "https://www.google.com/search?q=Wearables+Smart+Glasses"
+      }
+    ],
+    "2.4.8": [
+      {
+        "d": "google.com",
+        "n": "Compare Wearables",
+        "u": "https://www.google.com/search?q=Wearables+Compare+Wearables"
+      }
+    ],
+    "2.4.9": [
+      {
+        "d": "google.com",
+        "n": "Watch Bands & Chargers",
+        "u": "https://www.google.com/search?q=Wearables+Watch+Bands+%26+Chargers"
+      }
+    ],
+    "2.6.1": [
+      {
+        "d": "google.com",
+        "n": "AirPods",
+        "u": "https://www.google.com/search?q=Audio+%26+Headphones+AirPods"
+      }
+    ],
+    "2.6.2": [
+      {
+        "d": "google.com",
+        "n": "Sony Headphones",
+        "u": "https://www.google.com/search?q=Audio+%26+Headphones+Sony+Headphones"
+      }
+    ],
+    "2.6.3": [
+      {
+        "d": "google.com",
+        "n": "Bose",
+        "u": "https://www.google.com/search?q=Audio+%26+Headphones+Bose"
+      }
+    ],
+    "2.6.4": [
+      {
+        "d": "google.com",
+        "n": "Budget Earbuds",
+        "u": "https://www.google.com/search?q=Audio+%26+Headphones+Budget+Earbuds"
+      }
+    ],
+    "2.6.6": [
+      {
+        "d": "google.com",
+        "n": "Audiophile Picks",
+        "u": "https://www.google.com/search?q=Audio+%26+Headphones+Audiophile+Picks"
+      }
+    ],
+    "2.6.7": [
+      {
+        "d": "google.com",
+        "n": "Soundbars",
+        "u": "https://www.google.com/search?q=Audio+%26+Headphones+Soundbars"
+      }
+    ],
+    "2.6.8": [
+      {
+        "d": "google.com",
+        "n": "Speakers",
+        "u": "https://www.google.com/search?q=Audio+%26+Headphones+Speakers"
+      }
+    ],
+    "2.6.9": [
+      {
+        "d": "google.com",
+        "n": "Compare Audio",
+        "u": "https://www.google.com/search?q=Audio+%26+Headphones+Compare+Audio"
+      }
+    ],
+    "2.7.1": [
+      {
+        "d": "google.com",
+        "n": "Echo & Alexa",
+        "u": "https://www.google.com/search?q=Smart+Home+Echo+%26+Alexa"
+      }
+    ],
+    "2.7.2": [
+      {
+        "d": "google.com",
+        "n": "Google Nest",
+        "u": "https://www.google.com/search?q=Smart+Home+Google+Nest"
+      }
+    ],
+    "2.7.3": [
+      {
+        "d": "google.com",
+        "n": "Apple HomeKit",
+        "u": "https://www.google.com/search?q=Smart+Home+Apple+HomeKit"
+      }
+    ],
+    "2.7.4": [
+      {
+        "d": "google.com",
+        "n": "Smart Lights",
+        "u": "https://www.google.com/search?q=Smart+Home+Smart+Lights"
+      }
+    ],
+    "2.7.6": [
+      {
+        "d": "google.com",
+        "n": "Smart Locks",
+        "u": "https://www.google.com/search?q=Smart+Home+Smart+Locks"
+      }
+    ],
+    "2.7.7": [
+      {
+        "d": "google.com",
+        "n": "Smart Cameras",
+        "u": "https://www.google.com/search?q=Smart+Home+Smart+Cameras"
+      }
+    ],
+    "2.7.8": [
+      {
+        "d": "google.com",
+        "n": "Robot Vacuums",
+        "u": "https://www.google.com/search?q=Smart+Home+Robot+Vacuums"
+      }
+    ],
+    "2.7.9": [
+      {
+        "d": "google.com",
+        "n": "Smart Thermostats",
+        "u": "https://www.google.com/search?q=Smart+Home+Smart+Thermostats"
+      }
+    ],
+    "2.8.1": [
+      {
+        "d": "google.com",
+        "n": "Mirrorless Cameras",
+        "u": "https://www.google.com/search?q=Cameras+%26+Drones+Mirrorless+Cameras"
+      }
+    ],
+    "2.8.2": [
+      {
+        "d": "google.com",
+        "n": "Action Cameras",
+        "u": "https://www.google.com/search?q=Cameras+%26+Drones+Action+Cameras"
+      }
+    ],
+    "2.8.3": [
+      {
+        "d": "google.com",
+        "n": "DJI Drones",
+        "u": "https://www.google.com/search?q=Cameras+%26+Drones+DJI+Drones"
+      }
+    ],
+    "2.8.4": [
+      {
+        "d": "google.com",
+        "n": "Webcams",
+        "u": "https://www.google.com/search?q=Cameras+%26+Drones+Webcams"
+      }
+    ],
+    "2.8.6": [
+      {
+        "d": "google.com",
+        "n": "Camera Lenses",
+        "u": "https://www.google.com/search?q=Cameras+%26+Drones+Camera+Lenses"
+      }
+    ],
+    "2.8.7": [
+      {
+        "d": "google.com",
+        "n": "FPV Drones",
+        "u": "https://www.google.com/search?q=Cameras+%26+Drones+FPV+Drones"
+      }
+    ],
+    "2.8.8": [
+      {
+        "d": "google.com",
+        "n": "Photo Accessories",
+        "u": "https://www.google.com/search?q=Cameras+%26+Drones+Photo+Accessories"
+      }
+    ],
+    "2.8.9": [
+      {
+        "d": "google.com",
+        "n": "Compare Cameras",
+        "u": "https://www.google.com/search?q=Cameras+%26+Drones+Compare+Cameras"
+      }
+    ],
+    "2.9.1": [
+      {
+        "d": "google.com",
+        "n": "Best Phones",
+        "u": "https://www.google.com/search?q=Buying+Guides+Best+Phones"
+      }
+    ],
+    "2.9.2": [
+      {
+        "d": "google.com",
+        "n": "Best Laptops",
+        "u": "https://www.google.com/search?q=Buying+Guides+Best+Laptops"
+      }
+    ],
+    "2.9.3": [
+      {
+        "d": "google.com",
+        "n": "Best Tablets",
+        "u": "https://www.google.com/search?q=Buying+Guides+Best+Tablets"
+      }
+    ],
+    "2.9.4": [
+      {
+        "d": "google.com",
+        "n": "Best Headphones",
+        "u": "https://www.google.com/search?q=Buying+Guides+Best+Headphones"
+      }
+    ],
+    "2.9.6": [
+      {
+        "d": "google.com",
+        "n": "Best Smart Home",
+        "u": "https://www.google.com/search?q=Buying+Guides+Best+Smart+Home"
+      }
+    ],
+    "2.9.7": [
+      {
+        "d": "google.com",
+        "n": "Best TVs",
+        "u": "https://www.google.com/search?q=Buying+Guides+Best+TVs"
+      }
+    ],
+    "2.9.8": [
+      {
+        "d": "google.com",
+        "n": "Best Budget Picks",
+        "u": "https://www.google.com/search?q=Buying+Guides+Best+Budget+Picks"
+      }
+    ],
+    "2.9.9": [
+      {
+        "d": "google.com",
+        "n": "Black Friday Deals",
+        "u": "https://www.google.com/search?q=Buying+Guides+Black+Friday+Deals"
+      }
+    ],
+    "3.1.1.1": [
+      {
+        "d": "google.com",
+        "n": "Beginner Tutorials",
+        "u": "https://www.google.com/search?q=Python+Beginner+Tutorials"
+      }
+    ],
+    "3.1.1.2": [
+      {
+        "d": "google.com",
+        "n": "Data Science",
+        "u": "https://www.google.com/search?q=Python+Data+Science"
+      }
+    ],
+    "3.1.1.3": [
+      {
+        "d": "google.com",
+        "n": "Web (Django/Flask)",
+        "u": "https://www.google.com/search?q=Python+Web+%28Django%2FFlask%29"
+      }
+    ],
+    "3.1.1.4": [
+      {
+        "d": "google.com",
+        "n": "Automation & Scripts",
+        "u": "https://www.google.com/search?q=Python+Automation+%26+Scripts"
+      }
+    ],
+    "3.1.1.6": [
+      {
+        "d": "google.com",
+        "n": "Package Index (PyPI)",
+        "u": "https://www.google.com/search?q=Python+Package+Index+%28PyPI%29"
+      }
+    ],
+    "3.1.1.7": [
+      {
+        "d": "google.com",
+        "n": "Cheat Sheets",
+        "u": "https://www.google.com/search?q=Python+Cheat+Sheets"
+      }
+    ],
+    "3.1.1.8": [
+      {
+        "d": "google.com",
+        "n": "Community",
+        "u": "https://www.google.com/search?q=Python+Community"
+      }
+    ],
+    "3.1.1.9": [
+      {
+        "d": "google.com",
+        "n": "Books & Courses",
+        "u": "https://www.google.com/search?q=Python+Books+%26+Courses"
+      }
+    ],
+    "3.1.2.1": [
+      {
+        "d": "google.com",
+        "n": "Beginner Tutorials",
+        "u": "https://www.google.com/search?q=JavaScript+Beginner+Tutorials"
+      }
+    ],
+    "3.1.2.2": [
+      {
+        "d": "google.com",
+        "n": "Node.js",
+        "u": "https://www.google.com/search?q=JavaScript+Node.js"
+      }
+    ],
+    "3.1.2.3": [
+      {
+        "d": "google.com",
+        "n": "Frameworks Overview",
+        "u": "https://www.google.com/search?q=JavaScript+Frameworks+Overview"
+      }
+    ],
+    "3.1.2.4": [
+      {
+        "d": "google.com",
+        "n": "MDN Reference",
+        "u": "https://www.google.com/search?q=JavaScript+MDN+Reference"
+      }
+    ],
+    "3.1.2.6": [
+      {
+        "d": "google.com",
+        "n": "npm Ecosystem",
+        "u": "https://www.google.com/search?q=JavaScript+npm+Ecosystem"
+      }
+    ],
+    "3.1.2.7": [
+      {
+        "d": "google.com",
+        "n": "Cheat Sheets",
+        "u": "https://www.google.com/search?q=JavaScript+Cheat+Sheets"
+      }
+    ],
+    "3.1.2.8": [
+      {
+        "d": "google.com",
+        "n": "Community",
+        "u": "https://www.google.com/search?q=JavaScript+Community"
+      }
+    ],
+    "3.1.2.9": [
+      {
+        "d": "google.com",
+        "n": "Books & Courses",
+        "u": "https://www.google.com/search?q=JavaScript+Books+%26+Courses"
+      }
+    ],
+    "3.1.3": [
+      {
+        "d": "google.com",
+        "n": "TypeScript",
+        "u": "https://www.google.com/search?q=Pick+a+Language+TypeScript"
+      }
+    ],
+    "3.1.4": [
+      {
+        "d": "google.com",
+        "n": "Rust",
+        "u": "https://www.google.com/search?q=Pick+a+Language+Rust"
+      }
+    ],
+    "3.1.6": [
+      {
+        "d": "google.com",
+        "n": "Go",
+        "u": "https://www.google.com/search?q=Pick+a+Language+Go"
+      }
+    ],
+    "3.1.7": [
+      {
+        "d": "google.com",
+        "n": "Java",
+        "u": "https://www.google.com/search?q=Pick+a+Language+Java"
+      }
+    ],
+    "3.1.8": [
+      {
+        "d": "google.com",
+        "n": "C# & .NET",
+        "u": "https://www.google.com/search?q=Pick+a+Language+C%23+%26+.NET"
+      }
+    ],
+    "3.1.9": [
+      {
+        "d": "google.com",
+        "n": "Swift & Kotlin",
+        "u": "https://www.google.com/search?q=Pick+a+Language+Swift+%26+Kotlin"
+      }
+    ],
+    "3.2.1.1": [
+      {
+        "d": "google.com",
+        "n": "Official Docs",
+        "u": "https://www.google.com/search?q=React+Official+Docs"
+      }
+    ],
+    "3.2.1.2": [
+      {
+        "d": "google.com",
+        "n": "Beginner Tutorial",
+        "u": "https://www.google.com/search?q=React+Beginner+Tutorial"
+      }
+    ],
+    "3.2.1.3": [
+      {
+        "d": "google.com",
+        "n": "Next.js Integration",
+        "u": "https://www.google.com/search?q=React+Next.js+Integration"
+      }
+    ],
+    "3.2.1.4": [
+      {
+        "d": "google.com",
+        "n": "Component Libraries",
+        "u": "https://www.google.com/search?q=React+Component+Libraries"
+      }
+    ],
+    "3.2.1.6": [
+      {
+        "d": "google.com",
+        "n": "State Management",
+        "u": "https://www.google.com/search?q=React+State+Management"
+      }
+    ],
+    "3.2.1.7": [
+      {
+        "d": "google.com",
+        "n": "Testing",
+        "u": "https://www.google.com/search?q=React+Testing"
+      }
+    ],
+    "3.2.1.8": [
+      {
+        "d": "google.com",
+        "n": "Community",
+        "u": "https://www.google.com/search?q=React+Community"
+      }
+    ],
+    "3.2.1.9": [
+      {
+        "d": "google.com",
+        "n": "Courses",
+        "u": "https://www.google.com/search?q=React+Courses"
+      }
+    ],
+    "3.2.2": [
+      {
+        "d": "google.com",
+        "n": "Next.js",
+        "u": "https://www.google.com/search?q=Web+Development+Next.js"
+      }
+    ],
+    "3.2.3": [
+      {
+        "d": "google.com",
+        "n": "Vue & Svelte",
+        "u": "https://www.google.com/search?q=Web+Development+Vue+%26+Svelte"
+      }
+    ],
+    "3.2.4": [
+      {
+        "d": "google.com",
+        "n": "HTML & CSS",
+        "u": "https://www.google.com/search?q=Web+Development+HTML+%26+CSS"
+      }
+    ],
+    "3.2.6": [
+      {
+        "d": "google.com",
+        "n": "Tailwind",
+        "u": "https://www.google.com/search?q=Web+Development+Tailwind"
+      }
+    ],
+    "3.2.7": [
+      {
+        "d": "google.com",
+        "n": "Node & Express",
+        "u": "https://www.google.com/search?q=Web+Development+Node+%26+Express"
+      }
+    ],
+    "3.2.8": [
+      {
+        "d": "google.com",
+        "n": "Django & FastAPI",
+        "u": "https://www.google.com/search?q=Web+Development+Django+%26+FastAPI"
+      }
+    ],
+    "3.2.9": [
+      {
+        "d": "google.com",
+        "n": "Full-Stack Guides",
+        "u": "https://www.google.com/search?q=Web+Development+Full-Stack+Guides"
+      }
+    ],
+    "3.3.1": [
+      {
+        "d": "google.com",
+        "n": "iOS & Swift",
+        "u": "https://www.google.com/search?q=Mobile+Development+iOS+%26+Swift"
+      }
+    ],
+    "3.3.2": [
+      {
+        "d": "google.com",
+        "n": "Android & Kotlin",
+        "u": "https://www.google.com/search?q=Mobile+Development+Android+%26+Kotlin"
+      }
+    ],
+    "3.3.3": [
+      {
+        "d": "google.com",
+        "n": "React Native",
+        "u": "https://www.google.com/search?q=Mobile+Development+React+Native"
+      }
+    ],
+    "3.3.4": [
+      {
+        "d": "google.com",
+        "n": "Flutter",
+        "u": "https://www.google.com/search?q=Mobile+Development+Flutter"
+      }
+    ],
+    "3.3.6": [
+      {
+        "d": "google.com",
+        "n": "App Store Launch",
+        "u": "https://www.google.com/search?q=Mobile+Development+App+Store+Launch"
+      }
+    ],
+    "3.3.7": [
+      {
+        "d": "google.com",
+        "n": "Mobile UI Design",
+        "u": "https://www.google.com/search?q=Mobile+Development+Mobile+UI+Design"
+      }
+    ],
+    "3.3.8": [
+      {
+        "d": "google.com",
+        "n": "Push & Notifications",
+        "u": "https://www.google.com/search?q=Mobile+Development+Push+%26+Notifications"
+      }
+    ],
+    "3.3.9": [
+      {
+        "d": "google.com",
+        "n": "Cross-Platform Tips",
+        "u": "https://www.google.com/search?q=Mobile+Development+Cross-Platform+Tips"
+      }
+    ],
+    "3.4.1.1": [
+      {
+        "d": "google.com",
+        "n": "AWS Console",
+        "u": "https://www.google.com/search?q=AWS+AWS+Console"
+      }
+    ],
+    "3.4.1.2": [
+      {
+        "d": "google.com",
+        "n": "Getting Started",
+        "u": "https://www.google.com/search?q=AWS+Getting+Started"
+      }
+    ],
+    "3.4.1.3": [
+      {
+        "d": "google.com",
+        "n": "Certifications",
+        "u": "https://www.google.com/search?q=AWS+Certifications"
+      }
+    ],
+    "3.4.1.4": [
+      {
+        "d": "google.com",
+        "n": "Pricing Calculator",
+        "u": "https://www.google.com/search?q=AWS+Pricing+Calculator"
+      }
+    ],
+    "3.4.1.6": [
+      {
+        "d": "google.com",
+        "n": "Popular Services",
+        "u": "https://www.google.com/search?q=AWS+Popular+Services"
+      }
+    ],
+    "3.4.1.7": [
+      {
+        "d": "google.com",
+        "n": "Architecture",
+        "u": "https://www.google.com/search?q=AWS+Architecture"
+      }
+    ],
+    "3.4.1.8": [
+      {
+        "d": "google.com",
+        "n": "Community",
+        "u": "https://www.google.com/search?q=AWS+Community"
+      }
+    ],
+    "3.4.1.9": [
+      {
+        "d": "google.com",
+        "n": "Free Tier Guide",
+        "u": "https://www.google.com/search?q=AWS+Free+Tier+Guide"
+      }
+    ],
+    "3.4.2": [
+      {
+        "d": "google.com",
+        "n": "Azure",
+        "u": "https://www.google.com/search?q=DevOps+%26+Cloud+Azure"
+      }
+    ],
+    "3.4.3": [
+      {
+        "d": "google.com",
+        "n": "Google Cloud",
+        "u": "https://www.google.com/search?q=DevOps+%26+Cloud+Google+Cloud"
+      }
+    ],
+    "3.4.4": [
+      {
+        "d": "google.com",
+        "n": "Docker",
+        "u": "https://www.google.com/search?q=DevOps+%26+Cloud+Docker"
+      }
+    ],
+    "3.4.6": [
+      {
+        "d": "google.com",
+        "n": "Kubernetes",
+        "u": "https://www.google.com/search?q=DevOps+%26+Cloud+Kubernetes"
+      }
+    ],
+    "3.4.7": [
+      {
+        "d": "google.com",
+        "n": "CI/CD Pipelines",
+        "u": "https://www.google.com/search?q=DevOps+%26+Cloud+CI%2FCD+Pipelines"
+      }
+    ],
+    "3.4.8": [
+      {
+        "d": "google.com",
+        "n": "Terraform & IaC",
+        "u": "https://www.google.com/search?q=DevOps+%26+Cloud+Terraform+%26+IaC"
+      }
+    ],
+    "3.4.9": [
+      {
+        "d": "google.com",
+        "n": "Monitoring & Logs",
+        "u": "https://www.google.com/search?q=DevOps+%26+Cloud+Monitoring+%26+Logs"
+      }
+    ],
+    "3.6.1": [
+      {
+        "d": "google.com",
+        "n": "PostgreSQL",
+        "u": "https://www.google.com/search?q=Databases+%26+APIs+PostgreSQL"
+      }
+    ],
+    "3.6.2": [
+      {
+        "d": "google.com",
+        "n": "MongoDB",
+        "u": "https://www.google.com/search?q=Databases+%26+APIs+MongoDB"
+      }
+    ],
+    "3.6.3": [
+      {
+        "d": "google.com",
+        "n": "Redis",
+        "u": "https://www.google.com/search?q=Databases+%26+APIs+Redis"
+      }
+    ],
+    "3.6.4": [
+      {
+        "d": "google.com",
+        "n": "Supabase & Firebase",
+        "u": "https://www.google.com/search?q=Databases+%26+APIs+Supabase+%26+Firebase"
+      }
+    ],
+    "3.6.6": [
+      {
+        "d": "google.com",
+        "n": "REST API Design",
+        "u": "https://www.google.com/search?q=Databases+%26+APIs+REST+API+Design"
+      }
+    ],
+    "3.6.7": [
+      {
+        "d": "google.com",
+        "n": "GraphQL",
+        "u": "https://www.google.com/search?q=Databases+%26+APIs+GraphQL"
+      }
+    ],
+    "3.6.8": [
+      {
+        "d": "google.com",
+        "n": "SQL Mastery",
+        "u": "https://www.google.com/search?q=Databases+%26+APIs+SQL+Mastery"
+      }
+    ],
+    "3.6.9": [
+      {
+        "d": "google.com",
+        "n": "Database Design",
+        "u": "https://www.google.com/search?q=Databases+%26+APIs+Database+Design"
+      }
+    ],
+    "3.7.1": [
+      {
+        "d": "code.visualstudio.com",
+        "n": "VS Code",
+        "u": "https://code.visualstudio.com"
+      }
+    ],
+    "3.7.2": [
+      {
+        "d": "google.com",
+        "n": "JetBrains IDEs",
+        "u": "https://www.google.com/search?q=Tools+%26+Workflow+JetBrains+IDEs"
+      }
+    ],
+    "3.7.3.1": [
+      {
+        "d": "google.com",
+        "n": "Git Basics",
+        "u": "https://www.google.com/search?q=Git+%26+GitHub+Git+Basics"
+      }
+    ],
+    "3.7.3.2": [
+      {
+        "d": "google.com",
+        "n": "GitHub Features",
+        "u": "https://www.google.com/search?q=Git+%26+GitHub+GitHub+Features"
+      }
+    ],
+    "3.7.3.3": [
+      {
+        "d": "github.com",
+        "n": "GitHub Actions",
+        "u": "https://github.com/features/actions"
+      }
+    ],
+    "3.7.3.4": [
+      {
+        "d": "github.com",
+        "n": "GitHub Pages",
+        "u": "https://pages.github.com"
+      }
+    ],
+    "3.7.3.6": [
+      {
+        "d": "google.com",
+        "n": "Repo Templates",
+        "u": "https://www.google.com/search?q=Git+%26+GitHub+Repo+Templates"
+      }
+    ],
+    "3.7.3.7": [
+      {
+        "d": "google.com",
+        "n": "Code Review",
+        "u": "https://www.google.com/search?q=Git+%26+GitHub+Code+Review"
+      }
+    ],
+    "3.7.3.8": [
+      {
+        "d": "google.com",
+        "n": "Community",
+        "u": "https://www.google.com/search?q=Git+%26+GitHub+Community"
+      }
+    ],
+    "3.7.3.9": [
+      {
+        "d": "google.com",
+        "n": "Cheat Sheet",
+        "u": "https://www.google.com/search?q=Git+%26+GitHub+Cheat+Sheet"
+      }
+    ],
+    "3.7.4": [
+      {
+        "d": "google.com",
+        "n": "Vim & Terminal",
+        "u": "https://www.google.com/search?q=Tools+%26+Workflow+Vim+%26+Terminal"
+      }
+    ],
+    "3.7.6": [
+      {
+        "d": "google.com",
+        "n": "Linux for Devs",
+        "u": "https://www.google.com/search?q=Tools+%26+Workflow+Linux+for+Devs"
+      }
+    ],
+    "3.7.7": [
+      {
+        "d": "google.com",
+        "n": "Debugging Skills",
+        "u": "https://www.google.com/search?q=Tools+%26+Workflow+Debugging+Skills"
+      }
+    ],
+    "3.7.8": [
+      {
+        "d": "google.com",
+        "n": "Testing & QA",
+        "u": "https://www.google.com/search?q=Tools+%26+Workflow+Testing+%26+QA"
+      }
+    ],
+    "3.7.9": [
+      {
+        "d": "google.com",
+        "n": "Dev Productivity",
+        "u": "https://www.google.com/search?q=Tools+%26+Workflow+Dev+Productivity"
+      }
+    ],
+    "3.8.1": [
+      {
+        "d": "google.com",
+        "n": "LeetCode",
+        "u": "https://www.google.com/search?q=Practice+%26+Build+LeetCode"
+      }
+    ],
+    "3.8.2": [
+      {
+        "d": "google.com",
+        "n": "HackerRank",
+        "u": "https://www.google.com/search?q=Practice+%26+Build+HackerRank"
+      }
+    ],
+    "3.8.3": [
+      {
+        "d": "google.com",
+        "n": "Advent of Code",
+        "u": "https://www.google.com/search?q=Practice+%26+Build+Advent+of+Code"
+      }
+    ],
+    "3.8.4": [
+      {
+        "d": "google.com",
+        "n": "Project Ideas",
+        "u": "https://www.google.com/search?q=Practice+%26+Build+Project+Ideas"
+      }
+    ],
+    "3.8.6": [
+      {
+        "d": "google.com",
+        "n": "Open Source Contrib",
+        "u": "https://www.google.com/search?q=Practice+%26+Build+Open+Source+Contrib"
+      }
+    ],
+    "3.8.7": [
+      {
+        "d": "google.com",
+        "n": "Portfolio Projects",
+        "u": "https://www.google.com/search?q=Practice+%26+Build+Portfolio+Projects"
+      }
+    ],
+    "3.8.8": [
+      {
+        "d": "google.com",
+        "n": "Code Review",
+        "u": "https://www.google.com/search?q=Practice+%26+Build+Code+Review"
+      }
+    ],
+    "3.8.9.1": [
+      {
+        "d": "google.com",
+        "n": "System Design",
+        "u": "https://www.google.com/search?q=Interview+Prep+System+Design"
+      }
+    ],
+    "3.8.9.2": [
+      {
+        "d": "google.com",
+        "n": "Behavioral Prep",
+        "u": "https://www.google.com/search?q=Interview+Prep+Behavioral+Prep"
+      }
+    ],
+    "3.8.9.3": [
+      {
+        "d": "google.com",
+        "n": "Coding Problems",
+        "u": "https://www.google.com/search?q=Interview+Prep+Coding+Problems"
+      }
+    ],
+    "3.8.9.4": [
+      {
+        "d": "google.com",
+        "n": "Salary Negotiation",
+        "u": "https://www.google.com/search?q=Interview+Prep+Salary+Negotiation"
+      }
+    ],
+    "3.8.9.6": [
+      {
+        "d": "google.com",
+        "n": "Mock Interviews",
+        "u": "https://www.google.com/search?q=Interview+Prep+Mock+Interviews"
+      }
+    ],
+    "3.8.9.7": [
+      {
+        "d": "google.com",
+        "n": "Company-Specific",
+        "u": "https://www.google.com/search?q=Interview+Prep+Company-Specific"
+      }
+    ],
+    "3.8.9.8": [
+      {
+        "d": "google.com",
+        "n": "Resume Builders",
+        "u": "https://www.google.com/search?q=Interview+Prep+Resume+Builders"
+      }
+    ],
+    "3.8.9.9": [
+      {
+        "d": "google.com",
+        "n": "Interviewing.io",
+        "u": "https://www.google.com/search?q=Interview+Prep+Interviewing.io"
+      }
+    ],
+    "3.9.1": [
+      {
+        "d": "google.com",
+        "n": "freeCodeCamp",
+        "u": "https://www.google.com/search?q=Learning+Platforms+freeCodeCamp"
+      }
+    ],
+    "3.9.2": [
+      {
+        "d": "google.com",
+        "n": "Codecademy",
+        "u": "https://www.google.com/search?q=Learning+Platforms+Codecademy"
+      }
+    ],
+    "3.9.3": [
+      {
+        "d": "google.com",
+        "n": "Udemy & Coursera",
+        "u": "https://www.google.com/search?q=Learning+Platforms+Udemy+%26+Coursera"
+      }
+    ],
+    "3.9.4": [
+      {
+        "d": "google.com",
+        "n": "Frontend Masters",
+        "u": "https://www.google.com/search?q=Learning+Platforms+Frontend+Masters"
+      }
+    ],
+    "3.9.6": [
+      {
+        "d": "google.com",
+        "n": "Pluralsight",
+        "u": "https://www.google.com/search?q=Learning+Platforms+Pluralsight"
+      }
+    ],
+    "3.9.7": [
+      {
+        "d": "google.com",
+        "n": "YouTube Channels",
+        "u": "https://www.google.com/search?q=Learning+Platforms+YouTube+Channels"
+      }
+    ],
+    "3.9.8": [
+      {
+        "d": "google.com",
+        "n": "Dev Blogs",
+        "u": "https://www.google.com/search?q=Learning+Platforms+Dev+Blogs"
+      }
+    ],
+    "3.9.9": [
+      {
+        "d": "google.com",
+        "n": "Tech Podcasts",
+        "u": "https://www.google.com/search?q=Learning+Platforms+Tech+Podcasts"
+      }
+    ],
+    "4.1.1.1": [
+      {
+        "d": "1password.com",
+        "n": "1Password",
+        "u": "https://1password.com"
+      }
+    ],
+    "4.1.1.2": [
+      {
+        "d": "bitwarden.com",
+        "n": "Bitwarden",
+        "u": "https://bitwarden.com"
+      }
+    ],
+    "4.1.1.3": [
+      {
+        "d": "dashlane.com",
+        "n": "Dashlane",
+        "u": "https://www.dashlane.com"
+      }
+    ],
+    "4.1.1.4": [
+      {
+        "d": "google.com",
+        "n": "KeePass",
+        "u": "https://www.google.com/search?q=Password+Managers+KeePass"
+      }
+    ],
+    "4.1.1.6": [
+      {
+        "d": "google.com",
+        "n": "Comparison",
+        "u": "https://www.google.com/search?q=Password+Managers+Comparison"
+      }
+    ],
+    "4.1.1.7": [
+      {
+        "d": "google.com",
+        "n": "Migration Guide",
+        "u": "https://www.google.com/search?q=Password+Managers+Migration+Guide"
+      }
+    ],
+    "4.1.1.8": [
+      {
+        "d": "google.com",
+        "n": "Setup Tutorial",
+        "u": "https://www.google.com/search?q=Password+Managers+Setup+Tutorial"
+      }
+    ],
+    "4.1.1.9": [
+      {
+        "d": "google.com",
+        "n": "Best Practices",
+        "u": "https://www.google.com/search?q=Password+Managers+Best+Practices"
+      }
+    ],
+    "4.1.2": [
+      {
+        "d": "google.com",
+        "n": "Two-Factor Auth",
+        "u": "https://www.google.com/search?q=Protect+Accounts+Two-Factor+Auth"
+      }
+    ],
+    "4.1.3": [
+      {
+        "d": "google.com",
+        "n": "Passkeys Setup",
+        "u": "https://www.google.com/search?q=Protect+Accounts+Passkeys+Setup"
+      }
+    ],
+    "4.1.4": [
+      {
+        "d": "google.com",
+        "n": "Security Checkup",
+        "u": "https://www.google.com/search?q=Protect+Accounts+Security+Checkup"
+      }
+    ],
+    "4.1.6": [
+      {
+        "d": "google.com",
+        "n": "Account Recovery",
+        "u": "https://www.google.com/search?q=Protect+Accounts+Account+Recovery"
+      }
+    ],
+    "4.1.7": [
+      {
+        "d": "google.com",
+        "n": "Social Media Privacy",
+        "u": "https://www.google.com/search?q=Protect+Accounts+Social+Media+Privacy"
+      }
+    ],
+    "4.1.8": [
+      {
+        "d": "google.com",
+        "n": "Email Security",
+        "u": "https://www.google.com/search?q=Protect+Accounts+Email+Security"
+      }
+    ],
+    "4.1.9": [
+      {
+        "d": "google.com",
+        "n": "Best Practices",
+        "u": "https://www.google.com/search?q=Protect+Accounts+Best+Practices"
+      }
+    ],
+    "4.2.1": [
+      {
+        "d": "google.com",
+        "n": "NordVPN",
+        "u": "https://www.google.com/search?q=Use+a+VPN+NordVPN"
+      }
+    ],
+    "4.2.2": [
+      {
+        "d": "google.com",
+        "n": "ExpressVPN",
+        "u": "https://www.google.com/search?q=Use+a+VPN+ExpressVPN"
+      }
+    ],
+    "4.2.3": [
+      {
+        "d": "google.com",
+        "n": "ProtonVPN",
+        "u": "https://www.google.com/search?q=Use+a+VPN+ProtonVPN"
+      }
+    ],
+    "4.2.4": [
+      {
+        "d": "google.com",
+        "n": "Mullvad",
+        "u": "https://www.google.com/search?q=Use+a+VPN+Mullvad"
+      }
+    ],
+    "4.2.6": [
+      {
+        "d": "google.com",
+        "n": "Surfshark",
+        "u": "https://www.google.com/search?q=Use+a+VPN+Surfshark"
+      }
+    ],
+    "4.2.7": [
+      {
+        "d": "google.com",
+        "n": "Speed Tests",
+        "u": "https://www.google.com/search?q=Use+a+VPN+Speed+Tests"
+      }
+    ],
+    "4.2.8": [
+      {
+        "d": "google.com",
+        "n": "Compare VPNs",
+        "u": "https://www.google.com/search?q=Use+a+VPN+Compare+VPNs"
+      }
+    ],
+    "4.2.9": [
+      {
+        "d": "google.com",
+        "n": "VPN Setup Guides",
+        "u": "https://www.google.com/search?q=Use+a+VPN+VPN+Setup+Guides"
+      }
+    ],
+    "4.3.1": [
+      {
+        "d": "google.com",
+        "n": "Phishing Alerts",
+        "u": "https://www.google.com/search?q=Avoid+Scams+Phishing+Alerts"
+      }
+    ],
+    "4.3.2": [
+      {
+        "d": "google.com",
+        "n": "Email Scams",
+        "u": "https://www.google.com/search?q=Avoid+Scams+Email+Scams"
+      }
+    ],
+    "4.3.3": [
+      {
+        "d": "google.com",
+        "n": "Text & Call Scams",
+        "u": "https://www.google.com/search?q=Avoid+Scams+Text+%26+Call+Scams"
+      }
+    ],
+    "4.3.4": [
+      {
+        "d": "google.com",
+        "n": "Social Engineering",
+        "u": "https://www.google.com/search?q=Avoid+Scams+Social+Engineering"
+      }
+    ],
+    "4.3.6": [
+      {
+        "d": "google.com",
+        "n": "Shopping Scams",
+        "u": "https://www.google.com/search?q=Avoid+Scams+Shopping+Scams"
+      }
+    ],
+    "4.3.7": [
+      {
+        "d": "google.com",
+        "n": "Crypto Scams",
+        "u": "https://www.google.com/search?q=Avoid+Scams+Crypto+Scams"
+      }
+    ],
+    "4.3.8": [
+      {
+        "d": "google.com",
+        "n": "Report a Scam",
+        "u": "https://www.google.com/search?q=Avoid+Scams+Report+a+Scam"
+      }
+    ],
+    "4.3.9": [
+      {
+        "d": "google.com",
+        "n": "Scam Prevention Tips",
+        "u": "https://www.google.com/search?q=Avoid+Scams+Scam+Prevention+Tips"
+      }
+    ],
+    "4.4.1": [
+      {
+        "d": "google.com",
+        "n": "Have I Been Pwned",
+        "u": "https://www.google.com/search?q=Handle+a+Breach+Have+I+Been+Pwned"
+      }
+    ],
+    "4.4.2": [
+      {
+        "d": "google.com",
+        "n": "Freeze Credit",
+        "u": "https://www.google.com/search?q=Handle+a+Breach+Freeze+Credit"
+      }
+    ],
+    "4.4.3": [
+      {
+        "d": "google.com",
+        "n": "Change Passwords",
+        "u": "https://www.google.com/search?q=Handle+a+Breach+Change+Passwords"
+      }
+    ],
+    "4.4.4": [
+      {
+        "d": "google.com",
+        "n": "Monitor Identity",
+        "u": "https://www.google.com/search?q=Handle+a+Breach+Monitor+Identity"
+      }
+    ],
+    "4.4.6": [
+      {
+        "d": "google.com",
+        "n": "Latest Breaches",
+        "u": "https://www.google.com/search?q=Handle+a+Breach+Latest+Breaches"
+      }
+    ],
+    "4.4.7": [
+      {
+        "d": "google.com",
+        "n": "Dark Web Monitoring",
+        "u": "https://www.google.com/search?q=Handle+a+Breach+Dark+Web+Monitoring"
+      }
+    ],
+    "4.4.8": [
+      {
+        "d": "google.com",
+        "n": "Recovery Steps",
+        "u": "https://www.google.com/search?q=Handle+a+Breach+Recovery+Steps"
+      }
+    ],
+    "4.4.9": [
+      {
+        "d": "google.com",
+        "n": "Breach Notifications",
+        "u": "https://www.google.com/search?q=Handle+a+Breach+Breach+Notifications"
+      }
+    ],
+    "4.6.1": [
+      {
+        "d": "google.com",
+        "n": "Signal",
+        "u": "https://www.google.com/search?q=Privacy+Tools+Signal"
+      }
+    ],
+    "4.6.2": [
+      {
+        "d": "google.com",
+        "n": "ProtonMail",
+        "u": "https://www.google.com/search?q=Privacy+Tools+ProtonMail"
+      }
+    ],
+    "4.6.3": [
+      {
+        "d": "google.com",
+        "n": "Tor Browser",
+        "u": "https://www.google.com/search?q=Privacy+Tools+Tor+Browser"
+      }
+    ],
+    "4.6.4": [
+      {
+        "d": "google.com",
+        "n": "DuckDuckGo",
+        "u": "https://www.google.com/search?q=Privacy+Tools+DuckDuckGo"
+      }
+    ],
+    "4.6.6": [
+      {
+        "d": "google.com",
+        "n": "Privacy Browsers",
+        "u": "https://www.google.com/search?q=Privacy+Tools+Privacy+Browsers"
+      }
+    ],
+    "4.6.7": [
+      {
+        "d": "google.com",
+        "n": "Ad & Tracker Blockers",
+        "u": "https://www.google.com/search?q=Privacy+Tools+Ad+%26+Tracker+Blockers"
+      }
+    ],
+    "4.6.8": [
+      {
+        "d": "google.com",
+        "n": "Metadata Removal",
+        "u": "https://www.google.com/search?q=Privacy+Tools+Metadata+Removal"
+      }
+    ],
+    "4.6.9": [
+      {
+        "d": "google.com",
+        "n": "FOSS Alternatives",
+        "u": "https://www.google.com/search?q=Privacy+Tools+FOSS+Alternatives"
+      }
+    ],
+    "4.7.1": [
+      {
+        "d": "google.com",
+        "n": "Antivirus Software",
+        "u": "https://www.google.com/search?q=Protect+Devices+Antivirus+Software"
+      }
+    ],
+    "4.7.2": [
+      {
+        "d": "google.com",
+        "n": "Firewall Setup",
+        "u": "https://www.google.com/search?q=Protect+Devices+Firewall+Setup"
+      }
+    ],
+    "4.7.3": [
+      {
+        "d": "google.com",
+        "n": "Encryption Tools",
+        "u": "https://www.google.com/search?q=Protect+Devices+Encryption+Tools"
+      }
+    ],
+    "4.7.4": [
+      {
+        "d": "google.com",
+        "n": "Secure Wi-Fi",
+        "u": "https://www.google.com/search?q=Protect+Devices+Secure+Wi-Fi"
+      }
+    ],
+    "4.7.6": [
+      {
+        "d": "google.com",
+        "n": "Phone Security",
+        "u": "https://www.google.com/search?q=Protect+Devices+Phone+Security"
+      }
+    ],
+    "4.7.7": [
+      {
+        "d": "google.com",
+        "n": "Mac Security",
+        "u": "https://www.google.com/search?q=Protect+Devices+Mac+Security"
+      }
+    ],
+    "4.7.8": [
+      {
+        "d": "google.com",
+        "n": "Windows Security",
+        "u": "https://www.google.com/search?q=Protect+Devices+Windows+Security"
+      }
+    ],
+    "4.7.9": [
+      {
+        "d": "google.com",
+        "n": "Router Hardening",
+        "u": "https://www.google.com/search?q=Protect+Devices+Router+Hardening"
+      }
+    ],
+    "4.8.1": [
+      {
+        "d": "google.com",
+        "n": "Parental Controls",
+        "u": "https://www.google.com/search?q=Family+Safety+Parental+Controls"
+      }
+    ],
+    "4.8.2": [
+      {
+        "d": "google.com",
+        "n": "Kid-Safe Devices",
+        "u": "https://www.google.com/search?q=Family+Safety+Kid-Safe+Devices"
+      }
+    ],
+    "4.8.3": [
+      {
+        "d": "google.com",
+        "n": "Screen Time Tools",
+        "u": "https://www.google.com/search?q=Family+Safety+Screen+Time+Tools"
+      }
+    ],
+    "4.8.4": [
+      {
+        "d": "google.com",
+        "n": "Online Predator Safety",
+        "u": "https://www.google.com/search?q=Family+Safety+Online+Predator+Safety"
+      }
+    ],
+    "4.8.6": [
+      {
+        "d": "google.com",
+        "n": "Teen Social Media",
+        "u": "https://www.google.com/search?q=Family+Safety+Teen+Social+Media"
+      }
+    ],
+    "4.8.7": [
+      {
+        "d": "google.com",
+        "n": "Senior Scam Protection",
+        "u": "https://www.google.com/search?q=Family+Safety+Senior+Scam+Protection"
+      }
+    ],
+    "4.8.8": [
+      {
+        "d": "google.com",
+        "n": "Family Password Sharing",
+        "u": "https://www.google.com/search?q=Family+Safety+Family+Password+Sharing"
+      }
+    ],
+    "4.8.9": [
+      {
+        "d": "google.com",
+        "n": "Digital Literacy",
+        "u": "https://www.google.com/search?q=Family+Safety+Digital+Literacy"
+      }
+    ],
+    "4.9.1": [
+      {
+        "d": "google.com",
+        "n": "Vulnerability Alerts",
+        "u": "https://www.google.com/search?q=Security+News+Vulnerability+Alerts"
+      }
+    ],
+    "4.9.2": [
+      {
+        "d": "google.com",
+        "n": "Ransomware Updates",
+        "u": "https://www.google.com/search?q=Security+News+Ransomware+Updates"
+      }
+    ],
+    "4.9.3": [
+      {
+        "d": "google.com",
+        "n": "Zero-Day Exploits",
+        "u": "https://www.google.com/search?q=Security+News+Zero-Day+Exploits"
+      }
+    ],
+    "4.9.4": [
+      {
+        "d": "google.com",
+        "n": "Patch Advisories",
+        "u": "https://www.google.com/search?q=Security+News+Patch+Advisories"
+      }
+    ],
+    "4.9.6": [
+      {
+        "d": "google.com",
+        "n": "Threat Intelligence",
+        "u": "https://www.google.com/search?q=Security+News+Threat+Intelligence"
+      }
+    ],
+    "4.9.7": [
+      {
+        "d": "google.com",
+        "n": "Security Blogs",
+        "u": "https://www.google.com/search?q=Security+News+Security+Blogs"
+      }
+    ],
+    "4.9.8": [
+      {
+        "d": "google.com",
+        "n": "Infosec Community",
+        "u": "https://www.google.com/search?q=Security+News+Infosec+Community"
+      }
+    ],
+    "4.9.9": [
+      {
+        "d": "google.com",
+        "n": "Security Podcasts",
+        "u": "https://www.google.com/search?q=Security+News+Security+Podcasts"
+      }
+    ],
+    "6.1.1": [
+      {
+        "d": "notion.so",
+        "n": "Notion",
+        "u": "https://www.notion.so"
+      }
+    ],
+    "6.1.2": [
+      {
+        "d": "obsidian.md",
+        "n": "Obsidian",
+        "u": "https://obsidian.md"
+      }
+    ],
+    "6.1.3.1": [
+      {
+        "d": "google.com",
+        "n": "Word",
+        "u": "https://www.google.com/search?q=Microsoft+365+Word"
+      }
+    ],
+    "6.1.3.2": [
+      {
+        "d": "google.com",
+        "n": "Excel",
+        "u": "https://www.google.com/search?q=Microsoft+365+Excel"
+      }
+    ],
+    "6.1.3.3": [
+      {
+        "d": "google.com",
+        "n": "PowerPoint",
+        "u": "https://www.google.com/search?q=Microsoft+365+PowerPoint"
+      }
+    ],
+    "6.1.3.4": [
+      {
+        "d": "google.com",
+        "n": "Teams",
+        "u": "https://www.google.com/search?q=Microsoft+365+Teams"
+      }
+    ],
+    "6.1.3.6": [
+      {
+        "d": "google.com",
+        "n": "Outlook",
+        "u": "https://www.google.com/search?q=Microsoft+365+Outlook"
+      }
+    ],
+    "6.1.3.7": [
+      {
+        "d": "google.com",
+        "n": "Pricing & Plans",
+        "u": "https://www.google.com/search?q=Microsoft+365+Pricing+%26+Plans"
+      }
+    ],
+    "6.1.3.8": [
+      {
+        "d": "google.com",
+        "n": "Tips & Templates",
+        "u": "https://www.google.com/search?q=Microsoft+365+Tips+%26+Templates"
+      }
+    ],
+    "6.1.3.9": [
+      {
+        "d": "google.com",
+        "n": "Compare to Google",
+        "u": "https://www.google.com/search?q=Microsoft+365+Compare+to+Google"
+      }
+    ],
+    "6.1.4.1": [
+      {
+        "d": "google.com",
+        "n": "Docs",
+        "u": "https://www.google.com/search?q=Google+Workspace+Docs"
+      }
+    ],
+    "6.1.4.2": [
+      {
+        "d": "google.com",
+        "n": "Sheets",
+        "u": "https://www.google.com/search?q=Google+Workspace+Sheets"
+      }
+    ],
+    "6.1.4.3": [
+      {
+        "d": "google.com",
+        "n": "Drive",
+        "u": "https://www.google.com/search?q=Google+Workspace+Drive"
+      }
+    ],
+    "6.1.4.4": [
+      {
+        "d": "google.com",
+        "n": "Meet",
+        "u": "https://www.google.com/search?q=Google+Workspace+Meet"
+      }
+    ],
+    "6.1.4.6": [
+      {
+        "d": "google.com",
+        "n": "Gmail Tips",
+        "u": "https://www.google.com/search?q=Google+Workspace+Gmail+Tips"
+      }
+    ],
+    "6.1.4.7": [
+      {
+        "d": "google.com",
+        "n": "Pricing & Plans",
+        "u": "https://www.google.com/search?q=Google+Workspace+Pricing+%26+Plans"
+      }
+    ],
+    "6.1.4.8": [
+      {
+        "d": "google.com",
+        "n": "Add-Ons",
+        "u": "https://www.google.com/search?q=Google+Workspace+Add-Ons"
+      }
+    ],
+    "6.1.4.9": [
+      {
+        "d": "google.com",
+        "n": "Compare to M365",
+        "u": "https://www.google.com/search?q=Google+Workspace+Compare+to+M365"
+      }
+    ],
+    "6.1.6": [
+      {
+        "d": "google.com",
+        "n": "Todoist & Tasks",
+        "u": "https://www.google.com/search?q=Productivity+%26+Office+Todoist+%26+Tasks"
+      }
+    ],
+    "6.1.7": [
+      {
+        "d": "google.com",
+        "n": "Slack & Teams",
+        "u": "https://www.google.com/search?q=Productivity+%26+Office+Slack+%26+Teams"
+      }
+    ],
+    "6.1.8": [
+      {
+        "d": "google.com",
+        "n": "Project Management",
+        "u": "https://www.google.com/search?q=Productivity+%26+Office+Project+Management"
+      }
+    ],
+    "6.1.9": [
+      {
+        "d": "google.com",
+        "n": "Apple iWork",
+        "u": "https://www.google.com/search?q=Productivity+%26+Office+Apple+iWork"
+      }
+    ],
+    "6.2.1": [
+      {
+        "d": "google.com",
+        "n": "Photoshop",
+        "u": "https://www.google.com/search?q=Photo+%26+Design+Photoshop"
+      }
+    ],
+    "6.2.2": [
+      {
+        "d": "google.com",
+        "n": "Lightroom",
+        "u": "https://www.google.com/search?q=Photo+%26+Design+Lightroom"
+      }
+    ],
+    "6.2.3": [
+      {
+        "d": "canva.com",
+        "n": "Canva",
+        "u": "https://www.canva.com"
+      }
+    ],
+    "6.2.4": [
+      {
+        "d": "figma.com",
+        "n": "Figma",
+        "u": "https://www.figma.com"
+      }
+    ],
+    "6.2.6": [
+      {
+        "d": "google.com",
+        "n": "Affinity Suite",
+        "u": "https://www.google.com/search?q=Photo+%26+Design+Affinity+Suite"
+      }
+    ],
+    "6.2.7": [
+      {
+        "d": "google.com",
+        "n": "Procreate",
+        "u": "https://www.google.com/search?q=Photo+%26+Design+Procreate"
+      }
+    ],
+    "6.2.8": [
+      {
+        "d": "google.com",
+        "n": "Free Alternatives",
+        "u": "https://www.google.com/search?q=Photo+%26+Design+Free+Alternatives"
+      }
+    ],
+    "6.2.9": [
+      {
+        "d": "google.com",
+        "n": "Design Resources",
+        "u": "https://www.google.com/search?q=Photo+%26+Design+Design+Resources"
+      }
+    ],
+    "6.3.1": [
+      {
+        "d": "google.com",
+        "n": "DaVinci Resolve",
+        "u": "https://www.google.com/search?q=Video+Editing+DaVinci+Resolve"
+      }
+    ],
+    "6.3.2": [
+      {
+        "d": "google.com",
+        "n": "Final Cut Pro",
+        "u": "https://www.google.com/search?q=Video+Editing+Final+Cut+Pro"
+      }
+    ],
+    "6.3.3": [
+      {
+        "d": "google.com",
+        "n": "Premiere Pro",
+        "u": "https://www.google.com/search?q=Video+Editing+Premiere+Pro"
+      }
+    ],
+    "6.3.4": [
+      {
+        "d": "google.com",
+        "n": "CapCut",
+        "u": "https://www.google.com/search?q=Video+Editing+CapCut"
+      }
+    ],
+    "6.3.6": [
+      {
+        "d": "google.com",
+        "n": "iMovie",
+        "u": "https://www.google.com/search?q=Video+Editing+iMovie"
+      }
+    ],
+    "6.3.7": [
+      {
+        "d": "google.com",
+        "n": "Screen Recording",
+        "u": "https://www.google.com/search?q=Video+Editing+Screen+Recording"
+      }
+    ],
+    "6.3.8": [
+      {
+        "d": "google.com",
+        "n": "Subtitles & Captions",
+        "u": "https://www.google.com/search?q=Video+Editing+Subtitles+%26+Captions"
+      }
+    ],
+    "6.3.9": [
+      {
+        "d": "google.com",
+        "n": "Free Video Editors",
+        "u": "https://www.google.com/search?q=Video+Editing+Free+Video+Editors"
+      }
+    ],
+    "6.4.1": [
+      {
+        "d": "google.com",
+        "n": "Google Drive",
+        "u": "https://www.google.com/search?q=Cloud+Storage+Google+Drive"
+      }
+    ],
+    "6.4.2": [
+      {
+        "d": "google.com",
+        "n": "iCloud",
+        "u": "https://www.google.com/search?q=Cloud+Storage+iCloud"
+      }
+    ],
+    "6.4.3": [
+      {
+        "d": "google.com",
+        "n": "OneDrive",
+        "u": "https://www.google.com/search?q=Cloud+Storage+OneDrive"
+      }
+    ],
+    "6.4.4": [
+      {
+        "d": "google.com",
+        "n": "Dropbox",
+        "u": "https://www.google.com/search?q=Cloud+Storage+Dropbox"
+      }
+    ],
+    "6.4.6": [
+      {
+        "d": "google.com",
+        "n": "Backblaze",
+        "u": "https://www.google.com/search?q=Cloud+Storage+Backblaze"
+      }
+    ],
+    "6.4.7": [
+      {
+        "d": "google.com",
+        "n": "Compare Cloud",
+        "u": "https://www.google.com/search?q=Cloud+Storage+Compare+Cloud"
+      }
+    ],
+    "6.4.8": [
+      {
+        "d": "google.com",
+        "n": "Backup Strategy",
+        "u": "https://www.google.com/search?q=Cloud+Storage+Backup+Strategy"
+      }
+    ],
+    "6.4.9": [
+      {
+        "d": "google.com",
+        "n": "Self-Hosted Options",
+        "u": "https://www.google.com/search?q=Cloud+Storage+Self-Hosted+Options"
+      }
+    ],
+    "6.6.1": [
+      {
+        "d": "google.com",
+        "n": "Chrome",
+        "u": "https://www.google.com/search?q=Browsers+%26+Search+Chrome"
+      }
+    ],
+    "6.6.2": [
+      {
+        "d": "google.com",
+        "n": "Firefox",
+        "u": "https://www.google.com/search?q=Browsers+%26+Search+Firefox"
+      }
+    ],
+    "6.6.3": [
+      {
+        "d": "google.com",
+        "n": "Safari",
+        "u": "https://www.google.com/search?q=Browsers+%26+Search+Safari"
+      }
+    ],
+    "6.6.4": [
+      {
+        "d": "google.com",
+        "n": "Arc Browser",
+        "u": "https://www.google.com/search?q=Browsers+%26+Search+Arc+Browser"
+      }
+    ],
+    "6.6.6": [
+      {
+        "d": "google.com",
+        "n": "Brave",
+        "u": "https://www.google.com/search?q=Browsers+%26+Search+Brave"
+      }
+    ],
+    "6.6.7": [
+      {
+        "d": "google.com",
+        "n": "Edge",
+        "u": "https://www.google.com/search?q=Browsers+%26+Search+Edge"
+      }
+    ],
+    "6.6.8": [
+      {
+        "d": "google.com",
+        "n": "Best Extensions",
+        "u": "https://www.google.com/search?q=Browsers+%26+Search+Best+Extensions"
+      }
+    ],
+    "6.6.9": [
+      {
+        "d": "google.com",
+        "n": "Compare Browsers",
+        "u": "https://www.google.com/search?q=Browsers+%26+Search+Compare+Browsers"
+      }
+    ],
+    "6.7.1": [
+      {
+        "d": "google.com",
+        "n": "Windows 11",
+        "u": "https://www.google.com/search?q=Operating+Systems+Windows+11"
+      }
+    ],
+    "6.7.2": [
+      {
+        "d": "google.com",
+        "n": "macOS",
+        "u": "https://www.google.com/search?q=Operating+Systems+macOS"
+      }
+    ],
+    "6.7.3.1": [
+      {
+        "d": "google.com",
+        "n": "Ubuntu",
+        "u": "https://www.google.com/search?q=Linux+Distros+Ubuntu"
+      }
+    ],
+    "6.7.3.2": [
+      {
+        "d": "google.com",
+        "n": "Fedora",
+        "u": "https://www.google.com/search?q=Linux+Distros+Fedora"
+      }
+    ],
+    "6.7.3.3": [
+      {
+        "d": "google.com",
+        "n": "Arch Linux",
+        "u": "https://www.google.com/search?q=Linux+Distros+Arch+Linux"
+      }
+    ],
+    "6.7.3.4": [
+      {
+        "d": "google.com",
+        "n": "Linux Mint",
+        "u": "https://www.google.com/search?q=Linux+Distros+Linux+Mint"
+      }
+    ],
+    "6.7.3.6": [
+      {
+        "d": "google.com",
+        "n": "Pop!_OS",
+        "u": "https://www.google.com/search?q=Linux+Distros+Pop%21_OS"
+      }
+    ],
+    "6.7.3.7": [
+      {
+        "d": "google.com",
+        "n": "Distro Chooser",
+        "u": "https://www.google.com/search?q=Linux+Distros+Distro+Chooser"
+      }
+    ],
+    "6.7.3.8": [
+      {
+        "d": "google.com",
+        "n": "Beginner Guide",
+        "u": "https://www.google.com/search?q=Linux+Distros+Beginner+Guide"
+      }
+    ],
+    "6.7.3.9": [
+      {
+        "d": "google.com",
+        "n": "Community",
+        "u": "https://www.google.com/search?q=Linux+Distros+Community"
+      }
+    ],
+    "6.7.4": [
+      {
+        "d": "google.com",
+        "n": "Chrome OS",
+        "u": "https://www.google.com/search?q=Operating+Systems+Chrome+OS"
+      }
+    ],
+    "6.7.6": [
+      {
+        "d": "google.com",
+        "n": "iOS Tips",
+        "u": "https://www.google.com/search?q=Operating+Systems+iOS+Tips"
+      }
+    ],
+    "6.7.7": [
+      {
+        "d": "google.com",
+        "n": "Android Tips",
+        "u": "https://www.google.com/search?q=Operating+Systems+Android+Tips"
+      }
+    ],
+    "6.7.8": [
+      {
+        "d": "google.com",
+        "n": "Dual Boot Guides",
+        "u": "https://www.google.com/search?q=Operating+Systems+Dual+Boot+Guides"
+      }
+    ],
+    "6.7.9": [
+      {
+        "d": "google.com",
+        "n": "Compare OS",
+        "u": "https://www.google.com/search?q=Operating+Systems+Compare+OS"
+      }
+    ],
+    "6.8.1": [
+      {
+        "d": "google.com",
+        "n": "Backup Software",
+        "u": "https://www.google.com/search?q=Utilities+%26+Tools+Backup+Software"
+      }
+    ],
+    "6.8.2": [
+      {
+        "d": "google.com",
+        "n": "File Management",
+        "u": "https://www.google.com/search?q=Utilities+%26+Tools+File+Management"
+      }
+    ],
+    "6.8.3": [
+      {
+        "d": "google.com",
+        "n": "System Monitors",
+        "u": "https://www.google.com/search?q=Utilities+%26+Tools+System+Monitors"
+      }
+    ],
+    "6.8.4": [
+      {
+        "d": "google.com",
+        "n": "Automation Tools",
+        "u": "https://www.google.com/search?q=Utilities+%26+Tools+Automation+Tools"
+      }
+    ],
+    "6.8.6": [
+      {
+        "d": "google.com",
+        "n": "Screenshot & Capture",
+        "u": "https://www.google.com/search?q=Utilities+%26+Tools+Screenshot+%26+Capture"
+      }
+    ],
+    "6.8.7": [
+      {
+        "d": "google.com",
+        "n": "Clipboard Managers",
+        "u": "https://www.google.com/search?q=Utilities+%26+Tools+Clipboard+Managers"
+      }
+    ],
+    "6.8.8": [
+      {
+        "d": "google.com",
+        "n": "Uninstallers",
+        "u": "https://www.google.com/search?q=Utilities+%26+Tools+Uninstallers"
+      }
+    ],
+    "6.8.9": [
+      {
+        "d": "google.com",
+        "n": "Disk Cleanup",
+        "u": "https://www.google.com/search?q=Utilities+%26+Tools+Disk+Cleanup"
+      }
+    ],
+    "6.9.1": [
+      {
+        "d": "google.com",
+        "n": "App of the Week",
+        "u": "https://www.google.com/search?q=App+Discovery+App+of+the+Week"
+      }
+    ],
+    "6.9.2": [
+      {
+        "d": "google.com",
+        "n": "New Releases",
+        "u": "https://www.google.com/search?q=App+Discovery+New+Releases"
+      }
+    ],
+    "6.9.3": [
+      {
+        "d": "google.com",
+        "n": "Free Alternatives",
+        "u": "https://www.google.com/search?q=App+Discovery+Free+Alternatives"
+      }
+    ],
+    "6.9.4": [
+      {
+        "d": "google.com",
+        "n": "Mobile Must-Haves",
+        "u": "https://www.google.com/search?q=App+Discovery+Mobile+Must-Haves"
+      }
+    ],
+    "6.9.6": [
+      {
+        "d": "google.com",
+        "n": "Mac Must-Haves",
+        "u": "https://www.google.com/search?q=App+Discovery+Mac+Must-Haves"
+      }
+    ],
+    "6.9.7": [
+      {
+        "d": "google.com",
+        "n": "Windows Must-Haves",
+        "u": "https://www.google.com/search?q=App+Discovery+Windows+Must-Haves"
+      }
+    ],
+    "6.9.8": [
+      {
+        "d": "google.com",
+        "n": "Linux Must-Haves",
+        "u": "https://www.google.com/search?q=App+Discovery+Linux+Must-Haves"
+      }
+    ],
+    "6.9.9": [
+      {
+        "d": "google.com",
+        "n": "App Deal Trackers",
+        "u": "https://www.google.com/search?q=App+Discovery+App+Deal+Trackers"
+      }
+    ],
+    "7.1.1": [
+      {
+        "d": "theverge.com",
+        "n": "The Verge",
+        "u": "https://www.theverge.com"
+      }
+    ],
+    "7.1.2": [
+      {
+        "d": "techcrunch.com",
+        "n": "TechCrunch",
+        "u": "https://techcrunch.com"
+      }
+    ],
+    "7.1.3": [
+      {
+        "d": "arstechnica.com",
+        "n": "Ars Technica",
+        "u": "https://arstechnica.com"
+      }
+    ],
+    "7.1.4": [
+      {
+        "d": "wired.com",
+        "n": "Wired",
+        "u": "https://www.wired.com"
+      }
+    ],
+    "7.1.6": [
+      {
+        "d": "google.com",
+        "n": "Engadget",
+        "u": "https://www.google.com/search?q=Industry+Headlines+Engadget"
+      }
+    ],
+    "7.1.7": [
+      {
+        "d": "google.com",
+        "n": "CNET",
+        "u": "https://www.google.com/search?q=Industry+Headlines+CNET"
+      }
+    ],
+    "7.1.8": [
+      {
+        "d": "google.com",
+        "n": "Hacker News",
+        "u": "https://www.google.com/search?q=Industry+Headlines+Hacker+News"
+      }
+    ],
+    "7.1.9": [
+      {
+        "d": "google.com",
+        "n": "Techmeme",
+        "u": "https://www.google.com/search?q=Industry+Headlines+Techmeme"
+      }
+    ],
+    "7.2.1": [
+      {
+        "d": "google.com",
+        "n": "Apple Events",
+        "u": "https://www.google.com/search?q=Product+Launches+Apple+Events"
+      }
+    ],
+    "7.2.2": [
+      {
+        "d": "google.com",
+        "n": "Google I/O",
+        "u": "https://www.google.com/search?q=Product+Launches+Google+I%2FO"
+      }
+    ],
+    "7.2.3": [
+      {
+        "d": "google.com",
+        "n": "Samsung Unpacked",
+        "u": "https://www.google.com/search?q=Product+Launches+Samsung+Unpacked"
+      }
+    ],
+    "7.2.4": [
+      {
+        "d": "google.com",
+        "n": "Microsoft Events",
+        "u": "https://www.google.com/search?q=Product+Launches+Microsoft+Events"
+      }
+    ],
+    "7.2.6": [
+      {
+        "d": "google.com",
+        "n": "CES & MWC",
+        "u": "https://www.google.com/search?q=Product+Launches+CES+%26+MWC"
+      }
+    ],
+    "7.2.7": [
+      {
+        "d": "google.com",
+        "n": "Product Hunt",
+        "u": "https://www.google.com/search?q=Product+Launches+Product+Hunt"
+      }
+    ],
+    "7.2.8": [
+      {
+        "d": "google.com",
+        "n": "Launch Roundups",
+        "u": "https://www.google.com/search?q=Product+Launches+Launch+Roundups"
+      }
+    ],
+    "7.2.9": [
+      {
+        "d": "google.com",
+        "n": "Rumor Trackers",
+        "u": "https://www.google.com/search?q=Product+Launches+Rumor+Trackers"
+      }
+    ],
+    "7.3.1": [
+      {
+        "d": "google.com",
+        "n": "Funding Rounds",
+        "u": "https://www.google.com/search?q=Startups+%26+Funding+Funding+Rounds"
+      }
+    ],
+    "7.3.2": [
+      {
+        "d": "google.com",
+        "n": "Unicorn Watch",
+        "u": "https://www.google.com/search?q=Startups+%26+Funding+Unicorn+Watch"
+      }
+    ],
+    "7.3.3": [
+      {
+        "d": "google.com",
+        "n": "Y Combinator",
+        "u": "https://www.google.com/search?q=Startups+%26+Funding+Y+Combinator"
+      }
+    ],
+    "7.3.4": [
+      {
+        "d": "google.com",
+        "n": "IPO Pipeline",
+        "u": "https://www.google.com/search?q=Startups+%26+Funding+IPO+Pipeline"
+      }
+    ],
+    "7.3.6": [
+      {
+        "d": "google.com",
+        "n": "Crunchbase",
+        "u": "https://www.google.com/search?q=Startups+%26+Funding+Crunchbase"
+      }
+    ],
+    "7.3.7": [
+      {
+        "d": "google.com",
+        "n": "Founder Stories",
+        "u": "https://www.google.com/search?q=Startups+%26+Funding+Founder+Stories"
+      }
+    ],
+    "7.3.8": [
+      {
+        "d": "google.com",
+        "n": "Acquisitions",
+        "u": "https://www.google.com/search?q=Startups+%26+Funding+Acquisitions"
+      }
+    ],
+    "7.3.9": [
+      {
+        "d": "google.com",
+        "n": "Startup News",
+        "u": "https://www.google.com/search?q=Startups+%26+Funding+Startup+News"
+      }
+    ],
+    "7.4.1": [
+      {
+        "d": "google.com",
+        "n": "Apple News",
+        "u": "https://www.google.com/search?q=Big+Tech+Watch+Apple+News"
+      }
+    ],
+    "7.4.2": [
+      {
+        "d": "news.google.com",
+        "n": "Google News",
+        "u": "https://news.google.com"
+      }
+    ],
+    "7.4.3": [
+      {
+        "d": "google.com",
+        "n": "Microsoft News",
+        "u": "https://www.google.com/search?q=Big+Tech+Watch+Microsoft+News"
+      }
+    ],
+    "7.4.4": [
+      {
+        "d": "google.com",
+        "n": "Meta News",
+        "u": "https://www.google.com/search?q=Big+Tech+Watch+Meta+News"
+      }
+    ],
+    "7.4.6": [
+      {
+        "d": "google.com",
+        "n": "Amazon News",
+        "u": "https://www.google.com/search?q=Big+Tech+Watch+Amazon+News"
+      }
+    ],
+    "7.4.7": [
+      {
+        "d": "google.com",
+        "n": "Nvidia News",
+        "u": "https://www.google.com/search?q=Big+Tech+Watch+Nvidia+News"
+      }
+    ],
+    "7.4.8": [
+      {
+        "d": "google.com",
+        "n": "Tesla News",
+        "u": "https://www.google.com/search?q=Big+Tech+Watch+Tesla+News"
+      }
+    ],
+    "7.4.9": [
+      {
+        "d": "google.com",
+        "n": "Earnings & Reports",
+        "u": "https://www.google.com/search?q=Big+Tech+Watch+Earnings+%26+Reports"
+      }
+    ],
+    "7.6.1": [
+      {
+        "d": "google.com",
+        "n": "Quantum Computing",
+        "u": "https://www.google.com/search?q=Future+Tech+Quantum+Computing"
+      }
+    ],
+    "7.6.2": [
+      {
+        "d": "google.com",
+        "n": "Robotics",
+        "u": "https://www.google.com/search?q=Future+Tech+Robotics"
+      }
+    ],
+    "7.6.3": [
+      {
+        "d": "google.com",
+        "n": "Space Tech",
+        "u": "https://www.google.com/search?q=Future+Tech+Space+Tech"
+      }
+    ],
+    "7.6.4": [
+      {
+        "d": "google.com",
+        "n": "Biotech",
+        "u": "https://www.google.com/search?q=Future+Tech+Biotech"
+      }
+    ],
+    "7.6.6": [
+      {
+        "d": "google.com",
+        "n": "Autonomous Vehicles",
+        "u": "https://www.google.com/search?q=Future+Tech+Autonomous+Vehicles"
+      }
+    ],
+    "7.6.7": [
+      {
+        "d": "google.com",
+        "n": "Green Energy Tech",
+        "u": "https://www.google.com/search?q=Future+Tech+Green+Energy+Tech"
+      }
+    ],
+    "7.6.8": [
+      {
+        "d": "google.com",
+        "n": "3D Printing",
+        "u": "https://www.google.com/search?q=Future+Tech+3D+Printing"
+      }
+    ],
+    "7.6.9": [
+      {
+        "d": "google.com",
+        "n": "Brain-Computer",
+        "u": "https://www.google.com/search?q=Future+Tech+Brain-Computer"
+      }
+    ],
+    "7.7.1": [
+      {
+        "d": "google.com",
+        "n": "Bitcoin",
+        "u": "https://www.google.com/search?q=Crypto+%26+Web3+Bitcoin"
+      }
+    ],
+    "7.7.2": [
+      {
+        "d": "google.com",
+        "n": "Ethereum",
+        "u": "https://www.google.com/search?q=Crypto+%26+Web3+Ethereum"
+      }
+    ],
+    "7.7.3": [
+      {
+        "d": "google.com",
+        "n": "DeFi",
+        "u": "https://www.google.com/search?q=Crypto+%26+Web3+DeFi"
+      }
+    ],
+    "7.7.4": [
+      {
+        "d": "google.com",
+        "n": "NFT & Digital Assets",
+        "u": "https://www.google.com/search?q=Crypto+%26+Web3+NFT+%26+Digital+Assets"
+      }
+    ],
+    "7.7.6": [
+      {
+        "d": "google.com",
+        "n": "Layer 2 & Scaling",
+        "u": "https://www.google.com/search?q=Crypto+%26+Web3+Layer+2+%26+Scaling"
+      }
+    ],
+    "7.7.7": [
+      {
+        "d": "google.com",
+        "n": "Crypto Regulation",
+        "u": "https://www.google.com/search?q=Crypto+%26+Web3+Crypto+Regulation"
+      }
+    ],
+    "7.7.8": [
+      {
+        "d": "google.com",
+        "n": "Web3 Apps",
+        "u": "https://www.google.com/search?q=Crypto+%26+Web3+Web3+Apps"
+      }
+    ],
+    "7.7.9": [
+      {
+        "d": "google.com",
+        "n": "Crypto News Sites",
+        "u": "https://www.google.com/search?q=Crypto+%26+Web3+Crypto+News+Sites"
+      }
+    ],
+    "7.8.1": [
+      {
+        "d": "google.com",
+        "n": "The Vergecast",
+        "u": "https://www.google.com/search?q=Tech+Podcasts+The+Vergecast"
+      }
+    ],
+    "7.8.2": [
+      {
+        "d": "google.com",
+        "n": "All-In Podcast",
+        "u": "https://www.google.com/search?q=Tech+Podcasts+All-In+Podcast"
+      }
+    ],
+    "7.8.3": [
+      {
+        "d": "google.com",
+        "n": "Hard Fork",
+        "u": "https://www.google.com/search?q=Tech+Podcasts+Hard+Fork"
+      }
+    ],
+    "7.8.4": [
+      {
+        "d": "google.com",
+        "n": "Acquired",
+        "u": "https://www.google.com/search?q=Tech+Podcasts+Acquired"
+      }
+    ],
+    "7.8.6": [
+      {
+        "d": "google.com",
+        "n": "Lex Fridman",
+        "u": "https://www.google.com/search?q=Tech+Podcasts+Lex+Fridman"
+      }
+    ],
+    "7.8.7": [
+      {
+        "d": "google.com",
+        "n": "Decoder",
+        "u": "https://www.google.com/search?q=Tech+Podcasts+Decoder"
+      }
+    ],
+    "7.8.8": [
+      {
+        "d": "google.com",
+        "n": "MKBHD / Waveform",
+        "u": "https://www.google.com/search?q=Tech+Podcasts+MKBHD+%2F+Waveform"
+      }
+    ],
+    "7.8.9": [
+      {
+        "d": "google.com",
+        "n": "TWiT Network",
+        "u": "https://www.google.com/search?q=Tech+Podcasts+TWiT+Network"
+      }
+    ],
+    "7.9.1": [
+      {
+        "d": "google.com",
+        "n": "MKBHD",
+        "u": "https://www.google.com/search?q=YouTube+Channels+MKBHD"
+      }
+    ],
+    "7.9.2": [
+      {
+        "d": "google.com",
+        "n": "Linus Tech Tips",
+        "u": "https://www.google.com/search?q=YouTube+Channels+Linus+Tech+Tips"
+      }
+    ],
+    "7.9.3": [
+      {
+        "d": "google.com",
+        "n": "Dave Lee",
+        "u": "https://www.google.com/search?q=YouTube+Channels+Dave+Lee"
+      }
+    ],
+    "7.9.4": [
+      {
+        "d": "google.com",
+        "n": "JerryRigEverything",
+        "u": "https://www.google.com/search?q=YouTube+Channels+JerryRigEverything"
+      }
+    ],
+    "7.9.6": [
+      {
+        "d": "google.com",
+        "n": "Fireship",
+        "u": "https://www.google.com/search?q=YouTube+Channels+Fireship"
+      }
+    ],
+    "7.9.7": [
+      {
+        "d": "google.com",
+        "n": "Two Minute Papers",
+        "u": "https://www.google.com/search?q=YouTube+Channels+Two+Minute+Papers"
+      }
+    ],
+    "7.9.8": [
+      {
+        "d": "google.com",
+        "n": "Tech Reviewers",
+        "u": "https://www.google.com/search?q=YouTube+Channels+Tech+Reviewers"
+      }
+    ],
+    "7.9.9": [
+      {
+        "d": "google.com",
+        "n": "Explainer Channels",
+        "u": "https://www.google.com/search?q=YouTube+Channels+Explainer+Channels"
+      }
+    ],
+    "8.1.1": [
+      {
+        "d": "google.com",
+        "n": "Market Research",
+        "u": "https://www.google.com/search?q=Validate+an+Idea+Market+Research"
+      }
+    ],
+    "8.1.2": [
+      {
+        "d": "google.com",
+        "n": "Competitor Analysis",
+        "u": "https://www.google.com/search?q=Validate+an+Idea+Competitor+Analysis"
+      }
+    ],
+    "8.1.3": [
+      {
+        "d": "google.com",
+        "n": "Landing Page Test",
+        "u": "https://www.google.com/search?q=Validate+an+Idea+Landing+Page+Test"
+      }
+    ],
+    "8.1.4": [
+      {
+        "d": "google.com",
+        "n": "Survey Tools",
+        "u": "https://www.google.com/search?q=Validate+an+Idea+Survey+Tools"
+      }
+    ],
+    "8.1.6": [
+      {
+        "d": "google.com",
+        "n": "MVP Frameworks",
+        "u": "https://www.google.com/search?q=Validate+an+Idea+MVP+Frameworks"
+      }
+    ],
+    "8.1.7": [
+      {
+        "d": "google.com",
+        "n": "Indie Hacker Forum",
+        "u": "https://www.google.com/search?q=Validate+an+Idea+Indie+Hacker+Forum"
+      }
+    ],
+    "8.1.8": [
+      {
+        "d": "google.com",
+        "n": "Problem Discovery",
+        "u": "https://www.google.com/search?q=Validate+an+Idea+Problem+Discovery"
+      }
+    ],
+    "8.1.9": [
+      {
+        "d": "google.com",
+        "n": "Niche Validation",
+        "u": "https://www.google.com/search?q=Validate+an+Idea+Niche+Validation"
+      }
+    ],
+    "8.2.1.1": [
+      {
+        "d": "google.com",
+        "n": "Bubble",
+        "u": "https://www.google.com/search?q=No-Code+Tools+Bubble"
+      }
+    ],
+    "8.2.1.2": [
+      {
+        "d": "google.com",
+        "n": "Webflow",
+        "u": "https://www.google.com/search?q=No-Code+Tools+Webflow"
+      }
+    ],
+    "8.2.1.3": [
+      {
+        "d": "google.com",
+        "n": "Softr",
+        "u": "https://www.google.com/search?q=No-Code+Tools+Softr"
+      }
+    ],
+    "8.2.1.4": [
+      {
+        "d": "google.com",
+        "n": "Glide",
+        "u": "https://www.google.com/search?q=No-Code+Tools+Glide"
+      }
+    ],
+    "8.2.1.6": [
+      {
+        "d": "google.com",
+        "n": "Airtable Apps",
+        "u": "https://www.google.com/search?q=No-Code+Tools+Airtable+Apps"
+      }
+    ],
+    "8.2.1.7": [
+      {
+        "d": "google.com",
+        "n": "Compare No-Code",
+        "u": "https://www.google.com/search?q=No-Code+Tools+Compare+No-Code"
+      }
+    ],
+    "8.2.1.8": [
+      {
+        "d": "google.com",
+        "n": "Templates",
+        "u": "https://www.google.com/search?q=No-Code+Tools+Templates"
+      }
+    ],
+    "8.2.1.9": [
+      {
+        "d": "google.com",
+        "n": "Tutorials",
+        "u": "https://www.google.com/search?q=No-Code+Tools+Tutorials"
+      }
+    ],
+    "8.2.2": [
+      {
+        "d": "google.com",
+        "n": "Low-Code Platforms",
+        "u": "https://www.google.com/search?q=Build+an+MVP+Low-Code+Platforms"
+      }
+    ],
+    "8.2.3": [
+      {
+        "d": "google.com",
+        "n": "Boilerplate Starters",
+        "u": "https://www.google.com/search?q=Build+an+MVP+Boilerplate+Starters"
+      }
+    ],
+    "8.2.4": [
+      {
+        "d": "google.com",
+        "n": "Design Systems",
+        "u": "https://www.google.com/search?q=Build+an+MVP+Design+Systems"
+      }
+    ],
+    "8.2.6": [
+      {
+        "d": "google.com",
+        "n": "Auth & Payments",
+        "u": "https://www.google.com/search?q=Build+an+MVP+Auth+%26+Payments"
+      }
+    ],
+    "8.2.7": [
+      {
+        "d": "google.com",
+        "n": "Hosting & Deploy",
+        "u": "https://www.google.com/search?q=Build+an+MVP+Hosting+%26+Deploy"
+      }
+    ],
+    "8.2.8": [
+      {
+        "d": "google.com",
+        "n": "Analytics Setup",
+        "u": "https://www.google.com/search?q=Build+an+MVP+Analytics+Setup"
+      }
+    ],
+    "8.2.9": [
+      {
+        "d": "google.com",
+        "n": "Tech Stack Guides",
+        "u": "https://www.google.com/search?q=Build+an+MVP+Tech+Stack+Guides"
+      }
+    ],
+    "8.3.1": [
+      {
+        "d": "google.com",
+        "n": "Product Hunt Launch",
+        "u": "https://www.google.com/search?q=Launch+%26+Grow+Product+Hunt+Launch"
+      }
+    ],
+    "8.3.2": [
+      {
+        "d": "google.com",
+        "n": "Hacker News Launch",
+        "u": "https://www.google.com/search?q=Launch+%26+Grow+Hacker+News+Launch"
+      }
+    ],
+    "8.3.3": [
+      {
+        "d": "google.com",
+        "n": "Launch Checklists",
+        "u": "https://www.google.com/search?q=Launch+%26+Grow+Launch+Checklists"
+      }
+    ],
+    "8.3.4": [
+      {
+        "d": "google.com",
+        "n": "Beta Programs",
+        "u": "https://www.google.com/search?q=Launch+%26+Grow+Beta+Programs"
+      }
+    ],
+    "8.3.6": [
+      {
+        "d": "google.com",
+        "n": "Growth Hacking",
+        "u": "https://www.google.com/search?q=Launch+%26+Grow+Growth+Hacking"
+      }
+    ],
+    "8.3.7": [
+      {
+        "d": "google.com",
+        "n": "Content Marketing",
+        "u": "https://www.google.com/search?q=Launch+%26+Grow+Content+Marketing"
+      }
+    ],
+    "8.3.8": [
+      {
+        "d": "google.com",
+        "n": "SEO for Startups",
+        "u": "https://www.google.com/search?q=Launch+%26+Grow+SEO+for+Startups"
+      }
+    ],
+    "8.3.9": [
+      {
+        "d": "google.com",
+        "n": "Community Building",
+        "u": "https://www.google.com/search?q=Launch+%26+Grow+Community+Building"
+      }
+    ],
+    "8.4.1": [
+      {
+        "d": "google.com",
+        "n": "Pitch Deck Guides",
+        "u": "https://www.google.com/search?q=Get+Funded+Pitch+Deck+Guides"
+      }
+    ],
+    "8.4.2": [
+      {
+        "d": "google.com",
+        "n": "Investor Research",
+        "u": "https://www.google.com/search?q=Get+Funded+Investor+Research"
+      }
+    ],
+    "8.4.3": [
+      {
+        "d": "google.com",
+        "n": "Angel Investing",
+        "u": "https://www.google.com/search?q=Get+Funded+Angel+Investing"
+      }
+    ],
+    "8.4.4": [
+      {
+        "d": "google.com",
+        "n": "VC Landscape",
+        "u": "https://www.google.com/search?q=Get+Funded+VC+Landscape"
+      }
+    ],
+    "8.4.6": [
+      {
+        "d": "google.com",
+        "n": "Term Sheet Basics",
+        "u": "https://www.google.com/search?q=Get+Funded+Term+Sheet+Basics"
+      }
+    ],
+    "8.4.7": [
+      {
+        "d": "google.com",
+        "n": "Bootstrapping",
+        "u": "https://www.google.com/search?q=Get+Funded+Bootstrapping"
+      }
+    ],
+    "8.4.8": [
+      {
+        "d": "google.com",
+        "n": "Grants & Competitions",
+        "u": "https://www.google.com/search?q=Get+Funded+Grants+%26+Competitions"
+      }
+    ],
+    "8.4.9": [
+      {
+        "d": "google.com",
+        "n": "Incubators & YC",
+        "u": "https://www.google.com/search?q=Get+Funded+Incubators+%26+YC"
+      }
+    ],
+    "8.6.1": [
+      {
+        "d": "google.com",
+        "n": "AWS for Startups",
+        "u": "https://www.google.com/search?q=Scale+Infrastructure+AWS+for+Startups"
+      }
+    ],
+    "8.6.2": [
+      {
+        "d": "google.com",
+        "n": "Vercel & Netlify",
+        "u": "https://www.google.com/search?q=Scale+Infrastructure+Vercel+%26+Netlify"
+      }
+    ],
+    "8.6.3": [
+      {
+        "d": "google.com",
+        "n": "Database Scaling",
+        "u": "https://www.google.com/search?q=Scale+Infrastructure+Database+Scaling"
+      }
+    ],
+    "8.6.4": [
+      {
+        "d": "google.com",
+        "n": "CDN & Edge",
+        "u": "https://www.google.com/search?q=Scale+Infrastructure+CDN+%26+Edge"
+      }
+    ],
+    "8.6.6": [
+      {
+        "d": "google.com",
+        "n": "Serverless",
+        "u": "https://www.google.com/search?q=Scale+Infrastructure+Serverless"
+      }
+    ],
+    "8.6.7": [
+      {
+        "d": "google.com",
+        "n": "Microservices",
+        "u": "https://www.google.com/search?q=Scale+Infrastructure+Microservices"
+      }
+    ],
+    "8.6.8": [
+      {
+        "d": "google.com",
+        "n": "Load Testing",
+        "u": "https://www.google.com/search?q=Scale+Infrastructure+Load+Testing"
+      }
+    ],
+    "8.6.9": [
+      {
+        "d": "google.com",
+        "n": "Cost Optimization",
+        "u": "https://www.google.com/search?q=Scale+Infrastructure+Cost+Optimization"
+      }
+    ],
+    "8.7.1": [
+      {
+        "d": "google.com",
+        "n": "SaaS Pricing",
+        "u": "https://www.google.com/search?q=Monetize+SaaS+Pricing"
+      }
+    ],
+    "8.7.2": [
+      {
+        "d": "google.com",
+        "n": "Stripe Integration",
+        "u": "https://www.google.com/search?q=Monetize+Stripe+Integration"
+      }
+    ],
+    "8.7.3": [
+      {
+        "d": "google.com",
+        "n": "Subscription Models",
+        "u": "https://www.google.com/search?q=Monetize+Subscription+Models"
+      }
+    ],
+    "8.7.4": [
+      {
+        "d": "google.com",
+        "n": "Freemium Strategy",
+        "u": "https://www.google.com/search?q=Monetize+Freemium+Strategy"
+      }
+    ],
+    "8.7.6": [
+      {
+        "d": "google.com",
+        "n": "Marketplace Models",
+        "u": "https://www.google.com/search?q=Monetize+Marketplace+Models"
+      }
+    ],
+    "8.7.7": [
+      {
+        "d": "google.com",
+        "n": "Ad Revenue",
+        "u": "https://www.google.com/search?q=Monetize+Ad+Revenue"
+      }
+    ],
+    "8.7.8": [
+      {
+        "d": "google.com",
+        "n": "Affiliate Programs",
+        "u": "https://www.google.com/search?q=Monetize+Affiliate+Programs"
+      }
+    ],
+    "8.7.9": [
+      {
+        "d": "google.com",
+        "n": "Revenue Benchmarks",
+        "u": "https://www.google.com/search?q=Monetize+Revenue+Benchmarks"
+      }
+    ],
+    "8.8.1": [
+      {
+        "d": "google.com",
+        "n": "Incorporate",
+        "u": "https://www.google.com/search?q=Legal+%26+Ops+Incorporate"
+      }
+    ],
+    "8.8.2": [
+      {
+        "d": "google.com",
+        "n": "Terms & Privacy",
+        "u": "https://www.google.com/search?q=Legal+%26+Ops+Terms+%26+Privacy"
+      }
+    ],
+    "8.8.3": [
+      {
+        "d": "google.com",
+        "n": "Trademark & IP",
+        "u": "https://www.google.com/search?q=Legal+%26+Ops+Trademark+%26+IP"
+      }
+    ],
+    "8.8.4": [
+      {
+        "d": "google.com",
+        "n": "Compliance (SOC2)",
+        "u": "https://www.google.com/search?q=Legal+%26+Ops+Compliance+%28SOC2%29"
+      }
+    ],
+    "8.8.6": [
+      {
+        "d": "google.com",
+        "n": "Hiring First Devs",
+        "u": "https://www.google.com/search?q=Legal+%26+Ops+Hiring+First+Devs"
+      }
+    ],
+    "8.8.7": [
+      {
+        "d": "google.com",
+        "n": "Remote Team Tools",
+        "u": "https://www.google.com/search?q=Legal+%26+Ops+Remote+Team+Tools"
+      }
+    ],
+    "8.8.8": [
+      {
+        "d": "google.com",
+        "n": "Contractor Platforms",
+        "u": "https://www.google.com/search?q=Legal+%26+Ops+Contractor+Platforms"
+      }
+    ],
+    "8.8.9": [
+      {
+        "d": "google.com",
+        "n": "Accounting & Tax",
+        "u": "https://www.google.com/search?q=Legal+%26+Ops+Accounting+%26+Tax"
+      }
+    ],
+    "8.9.1": [
+      {
+        "d": "google.com",
+        "n": "Indie Hackers",
+        "u": "https://www.google.com/search?q=Founder+Resources+Indie+Hackers"
+      }
+    ],
+    "8.9.2": [
+      {
+        "d": "google.com",
+        "n": "Hacker News",
+        "u": "https://www.google.com/search?q=Founder+Resources+Hacker+News"
+      }
+    ],
+    "8.9.3": [
+      {
+        "d": "google.com",
+        "n": "Startup School",
+        "u": "https://www.google.com/search?q=Founder+Resources+Startup+School"
+      }
+    ],
+    "8.9.4": [
+      {
+        "d": "google.com",
+        "n": "How I Built This",
+        "u": "https://www.google.com/search?q=Founder+Resources+How+I+Built+This"
+      }
+    ],
+    "8.9.6": [
+      {
+        "d": "google.com",
+        "n": "Micro-SaaS Stories",
+        "u": "https://www.google.com/search?q=Founder+Resources+Micro-SaaS+Stories"
+      }
+    ],
+    "8.9.7": [
+      {
+        "d": "google.com",
+        "n": "Failed Startup Lessons",
+        "u": "https://www.google.com/search?q=Founder+Resources+Failed+Startup+Lessons"
+      }
+    ],
+    "8.9.8": [
+      {
+        "d": "google.com",
+        "n": "Solo Founder Guides",
+        "u": "https://www.google.com/search?q=Founder+Resources+Solo+Founder+Guides"
+      }
+    ],
+    "8.9.9": [
+      {
+        "d": "google.com",
+        "n": "Founder Communities",
+        "u": "https://www.google.com/search?q=Founder+Resources+Founder+Communities"
+      }
+    ],
+    "9.1.1": [
+      {
+        "d": "google.com",
+        "n": "Startup Cleanup",
+        "u": "https://www.google.com/search?q=Speed+Up+My+PC%2FMac+Startup+Cleanup"
+      }
+    ],
+    "9.1.2": [
+      {
+        "d": "google.com",
+        "n": "RAM & Storage Check",
+        "u": "https://www.google.com/search?q=Speed+Up+My+PC%2FMac+RAM+%26+Storage+Check"
+      }
+    ],
+    "9.1.3": [
+      {
+        "d": "google.com",
+        "n": "Bloatware Removal",
+        "u": "https://www.google.com/search?q=Speed+Up+My+PC%2FMac+Bloatware+Removal"
+      }
+    ],
+    "9.1.4": [
+      {
+        "d": "google.com",
+        "n": "SSD Upgrade Guide",
+        "u": "https://www.google.com/search?q=Speed+Up+My+PC%2FMac+SSD+Upgrade+Guide"
+      }
+    ],
+    "9.1.6": [
+      {
+        "d": "google.com",
+        "n": "Cache & Temp Files",
+        "u": "https://www.google.com/search?q=Speed+Up+My+PC%2FMac+Cache+%26+Temp+Files"
+      }
+    ],
+    "9.1.7": [
+      {
+        "d": "google.com",
+        "n": "Driver Updates",
+        "u": "https://www.google.com/search?q=Speed+Up+My+PC%2FMac+Driver+Updates"
+      }
+    ],
+    "9.1.8": [
+      {
+        "d": "google.com",
+        "n": "Performance Monitor",
+        "u": "https://www.google.com/search?q=Speed+Up+My+PC%2FMac+Performance+Monitor"
+      }
+    ],
+    "9.1.9": [
+      {
+        "d": "google.com",
+        "n": "Factory Reset Guide",
+        "u": "https://www.google.com/search?q=Speed+Up+My+PC%2FMac+Factory+Reset+Guide"
+      }
+    ],
+    "9.2.1": [
+      {
+        "d": "google.com",
+        "n": "Battery Drain Fixes",
+        "u": "https://www.google.com/search?q=Fix+My+Phone+Battery+Drain+Fixes"
+      }
+    ],
+    "9.2.2": [
+      {
+        "d": "google.com",
+        "n": "Storage Full Fix",
+        "u": "https://www.google.com/search?q=Fix+My+Phone+Storage+Full+Fix"
+      }
+    ],
+    "9.2.3": [
+      {
+        "d": "google.com",
+        "n": "Slow Phone Fix",
+        "u": "https://www.google.com/search?q=Fix+My+Phone+Slow+Phone+Fix"
+      }
+    ],
+    "9.2.4": [
+      {
+        "d": "google.com",
+        "n": "App Crashes",
+        "u": "https://www.google.com/search?q=Fix+My+Phone+App+Crashes"
+      }
+    ],
+    "9.2.6": [
+      {
+        "d": "google.com",
+        "n": "Screen Repair",
+        "u": "https://www.google.com/search?q=Fix+My+Phone+Screen+Repair"
+      }
+    ],
+    "9.2.7": [
+      {
+        "d": "google.com",
+        "n": "Water Damage",
+        "u": "https://www.google.com/search?q=Fix+My+Phone+Water+Damage"
+      }
+    ],
+    "9.2.8": [
+      {
+        "d": "google.com",
+        "n": "Transfer to New Phone",
+        "u": "https://www.google.com/search?q=Fix+My+Phone+Transfer+to+New+Phone"
+      }
+    ],
+    "9.2.9": [
+      {
+        "d": "google.com",
+        "n": "Factory Reset",
+        "u": "https://www.google.com/search?q=Fix+My+Phone+Factory+Reset"
+      }
+    ],
+    "9.3.1": [
+      {
+        "d": "google.com",
+        "n": "Router Placement",
+        "u": "https://www.google.com/search?q=Improve+Wi-Fi+Router+Placement"
+      }
+    ],
+    "9.3.2": [
+      {
+        "d": "google.com",
+        "n": "Mesh Systems",
+        "u": "https://www.google.com/search?q=Improve+Wi-Fi+Mesh+Systems"
+      }
+    ],
+    "9.3.3": [
+      {
+        "d": "google.com",
+        "n": "Wi-Fi 6/7 Upgrade",
+        "u": "https://www.google.com/search?q=Improve+Wi-Fi+Wi-Fi+6%2F7+Upgrade"
+      }
+    ],
+    "9.3.4": [
+      {
+        "d": "google.com",
+        "n": "Speed Test Tools",
+        "u": "https://www.google.com/search?q=Improve+Wi-Fi+Speed+Test+Tools"
+      }
+    ],
+    "9.3.6": [
+      {
+        "d": "google.com",
+        "n": "Dead Zone Fixes",
+        "u": "https://www.google.com/search?q=Improve+Wi-Fi+Dead+Zone+Fixes"
+      }
+    ],
+    "9.3.7": [
+      {
+        "d": "google.com",
+        "n": "ISP Troubleshoot",
+        "u": "https://www.google.com/search?q=Improve+Wi-Fi+ISP+Troubleshoot"
+      }
+    ],
+    "9.3.8": [
+      {
+        "d": "google.com",
+        "n": "Ethernet Wiring",
+        "u": "https://www.google.com/search?q=Improve+Wi-Fi+Ethernet+Wiring"
+      }
+    ],
+    "9.3.9": [
+      {
+        "d": "google.com",
+        "n": "Network Security",
+        "u": "https://www.google.com/search?q=Improve+Wi-Fi+Network+Security"
+      }
+    ],
+    "9.4.1": [
+      {
+        "d": "google.com",
+        "n": "PC Part Picker",
+        "u": "https://www.google.com/search?q=Build+or+Upgrade+a+PC+PC+Part+Picker"
+      }
+    ],
+    "9.4.2": [
+      {
+        "d": "google.com",
+        "n": "GPU Guides",
+        "u": "https://www.google.com/search?q=Build+or+Upgrade+a+PC+GPU+Guides"
+      }
+    ],
+    "9.4.3": [
+      {
+        "d": "google.com",
+        "n": "CPU Guides",
+        "u": "https://www.google.com/search?q=Build+or+Upgrade+a+PC+CPU+Guides"
+      }
+    ],
+    "9.4.4": [
+      {
+        "d": "google.com",
+        "n": "RAM & Storage",
+        "u": "https://www.google.com/search?q=Build+or+Upgrade+a+PC+RAM+%26+Storage"
+      }
+    ],
+    "9.4.6": [
+      {
+        "d": "google.com",
+        "n": "Case & Cooling",
+        "u": "https://www.google.com/search?q=Build+or+Upgrade+a+PC+Case+%26+Cooling"
+      }
+    ],
+    "9.4.7": [
+      {
+        "d": "google.com",
+        "n": "Power Supply",
+        "u": "https://www.google.com/search?q=Build+or+Upgrade+a+PC+Power+Supply"
+      }
+    ],
+    "9.4.8": [
+      {
+        "d": "google.com",
+        "n": "Build Tutorials",
+        "u": "https://www.google.com/search?q=Build+or+Upgrade+a+PC+Build+Tutorials"
+      }
+    ],
+    "9.4.9": [
+      {
+        "d": "google.com",
+        "n": "Benchmark Tools",
+        "u": "https://www.google.com/search?q=Build+or+Upgrade+a+PC+Benchmark+Tools"
+      }
+    ],
+    "9.6.1": [
+      {
+        "d": "google.com",
+        "n": "Cloud Backup",
+        "u": "https://www.google.com/search?q=Manage+Files+%26+Backup+Cloud+Backup"
+      }
+    ],
+    "9.6.2": [
+      {
+        "d": "google.com",
+        "n": "External Drive Backup",
+        "u": "https://www.google.com/search?q=Manage+Files+%26+Backup+External+Drive+Backup"
+      }
+    ],
+    "9.6.3": [
+      {
+        "d": "google.com",
+        "n": "Sync Across Devices",
+        "u": "https://www.google.com/search?q=Manage+Files+%26+Backup+Sync+Across+Devices"
+      }
+    ],
+    "9.6.4": [
+      {
+        "d": "google.com",
+        "n": "Photo Backup",
+        "u": "https://www.google.com/search?q=Manage+Files+%26+Backup+Photo+Backup"
+      }
+    ],
+    "9.6.6": [
+      {
+        "d": "google.com",
+        "n": "NAS Setup",
+        "u": "https://www.google.com/search?q=Manage+Files+%26+Backup+NAS+Setup"
+      }
+    ],
+    "9.6.7": [
+      {
+        "d": "google.com",
+        "n": "File Recovery",
+        "u": "https://www.google.com/search?q=Manage+Files+%26+Backup+File+Recovery"
+      }
+    ],
+    "9.6.8": [
+      {
+        "d": "google.com",
+        "n": "Duplicate Finder",
+        "u": "https://www.google.com/search?q=Manage+Files+%26+Backup+Duplicate+Finder"
+      }
+    ],
+    "9.6.9": [
+      {
+        "d": "google.com",
+        "n": "Backup Schedules",
+        "u": "https://www.google.com/search?q=Manage+Files+%26+Backup+Backup+Schedules"
+      }
+    ],
+    "9.7.1": [
+      {
+        "d": "google.com",
+        "n": "Desk & Ergonomics",
+        "u": "https://www.google.com/search?q=Home+Office+Setup+Desk+%26+Ergonomics"
+      }
+    ],
+    "9.7.2": [
+      {
+        "d": "google.com",
+        "n": "Monitor Setup",
+        "u": "https://www.google.com/search?q=Home+Office+Setup+Monitor+Setup"
+      }
+    ],
+    "9.7.3": [
+      {
+        "d": "google.com",
+        "n": "Webcam & Mic",
+        "u": "https://www.google.com/search?q=Home+Office+Setup+Webcam+%26+Mic"
+      }
+    ],
+    "9.7.4": [
+      {
+        "d": "google.com",
+        "n": "Lighting",
+        "u": "https://www.google.com/search?q=Home+Office+Setup+Lighting"
+      }
+    ],
+    "9.7.6": [
+      {
+        "d": "google.com",
+        "n": "Cable Management",
+        "u": "https://www.google.com/search?q=Home+Office+Setup+Cable+Management"
+      }
+    ],
+    "9.7.7": [
+      {
+        "d": "google.com",
+        "n": "Standing Desks",
+        "u": "https://www.google.com/search?q=Home+Office+Setup+Standing+Desks"
+      }
+    ],
+    "9.7.8": [
+      {
+        "d": "google.com",
+        "n": "Docking Stations",
+        "u": "https://www.google.com/search?q=Home+Office+Setup+Docking+Stations"
+      }
+    ],
+    "9.7.9": [
+      {
+        "d": "google.com",
+        "n": "Complete Setup Guides",
+        "u": "https://www.google.com/search?q=Home+Office+Setup+Complete+Setup+Guides"
+      }
+    ],
+    "9.8.1": [
+      {
+        "d": "google.com",
+        "n": "Meta Quest Setup",
+        "u": "https://www.google.com/search?q=VR+%26+Gaming+Setup+Meta+Quest+Setup"
+      }
+    ],
+    "9.8.2": [
+      {
+        "d": "google.com",
+        "n": "PS VR2 Setup",
+        "u": "https://www.google.com/search?q=VR+%26+Gaming+Setup+PS+VR2+Setup"
+      }
+    ],
+    "9.8.3": [
+      {
+        "d": "google.com",
+        "n": "PC VR Setup",
+        "u": "https://www.google.com/search?q=VR+%26+Gaming+Setup+PC+VR+Setup"
+      }
+    ],
+    "9.8.4": [
+      {
+        "d": "google.com",
+        "n": "Gaming Monitor",
+        "u": "https://www.google.com/search?q=VR+%26+Gaming+Setup+Gaming+Monitor"
+      }
+    ],
+    "9.8.6": [
+      {
+        "d": "google.com",
+        "n": "Controller & Input",
+        "u": "https://www.google.com/search?q=VR+%26+Gaming+Setup+Controller+%26+Input"
+      }
+    ],
+    "9.8.7": [
+      {
+        "d": "google.com",
+        "n": "Audio Setup",
+        "u": "https://www.google.com/search?q=VR+%26+Gaming+Setup+Audio+Setup"
+      }
+    ],
+    "9.8.8": [
+      {
+        "d": "google.com",
+        "n": "Streaming Setup",
+        "u": "https://www.google.com/search?q=VR+%26+Gaming+Setup+Streaming+Setup"
+      }
+    ],
+    "9.8.9": [
+      {
+        "d": "google.com",
+        "n": "Room Preparation",
+        "u": "https://www.google.com/search?q=VR+%26+Gaming+Setup+Room+Preparation"
+      }
+    ],
+    "9.9.1": [
+      {
+        "d": "google.com",
+        "n": "iFixit Guides",
+        "u": "https://www.google.com/search?q=Repair+%26+DIY+iFixit+Guides"
+      }
+    ],
+    "9.9.2": [
+      {
+        "d": "google.com",
+        "n": "Screen Replacement",
+        "u": "https://www.google.com/search?q=Repair+%26+DIY+Screen+Replacement"
+      }
+    ],
+    "9.9.3": [
+      {
+        "d": "google.com",
+        "n": "Battery Replacement",
+        "u": "https://www.google.com/search?q=Repair+%26+DIY+Battery+Replacement"
+      }
+    ],
+    "9.9.4": [
+      {
+        "d": "google.com",
+        "n": "Keyboard Repair",
+        "u": "https://www.google.com/search?q=Repair+%26+DIY+Keyboard+Repair"
+      }
+    ],
+    "9.9.6": [
+      {
+        "d": "google.com",
+        "n": "3D Print Fixes",
+        "u": "https://www.google.com/search?q=Repair+%26+DIY+3D+Print+Fixes"
+      }
+    ],
+    "9.9.7": [
+      {
+        "d": "google.com",
+        "n": "Solder & Mod",
+        "u": "https://www.google.com/search?q=Repair+%26+DIY+Solder+%26+Mod"
+      }
+    ],
+    "9.9.8": [
+      {
+        "d": "google.com",
+        "n": "Right to Repair",
+        "u": "https://www.google.com/search?q=Repair+%26+DIY+Right+to+Repair"
+      }
+    ],
+    "9.9.9": [
+      {
+        "d": "google.com",
+        "n": "Parts Sources",
+        "u": "https://www.google.com/search?q=Repair+%26+DIY+Parts+Sources"
+      }
+    ]
+  }
+}

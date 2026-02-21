@@ -1,0 +1,3982 @@
+{
+  "key": 8,
+  "label": "Money & Career",
+  "sites": {
+    "1.1.1": [
+      {
+        "d": "google.com",
+        "n": "50/30/20 Rule",
+        "u": "https://www.google.com/search?q=Make+a+Budget+50%2F30%2F20+Rule+finance"
+      }
+    ],
+    "1.1.2": [
+      {
+        "d": "google.com",
+        "n": "Zero-Based Budget",
+        "u": "https://www.google.com/search?q=Make+a+Budget+Zero-Based+Budget+finance"
+      }
+    ],
+    "1.1.3": [
+      {
+        "d": "google.com",
+        "n": "Envelope Method",
+        "u": "https://www.google.com/search?q=Make+a+Budget+Envelope+Method+finance"
+      }
+    ],
+    "1.1.4": [
+      {
+        "d": "google.com",
+        "n": "Pay Yourself First",
+        "u": "https://www.google.com/search?q=Make+a+Budget+Pay+Yourself+First+finance"
+      }
+    ],
+    "1.1.6": [
+      {
+        "d": "google.com",
+        "n": "Budget Templates",
+        "u": "https://www.google.com/search?q=Make+a+Budget+Budget+Templates+finance"
+      }
+    ],
+    "1.1.7": [
+      {
+        "d": "google.com",
+        "n": "Irregular Income",
+        "u": "https://www.google.com/search?q=Make+a+Budget+Irregular+Income+finance"
+      }
+    ],
+    "1.1.8": [
+      {
+        "d": "google.com",
+        "n": "Couples Budgeting",
+        "u": "https://www.google.com/search?q=Make+a+Budget+Couples+Budgeting+finance"
+      }
+    ],
+    "1.1.9": [
+      {
+        "d": "google.com",
+        "n": "Budget Calculator",
+        "u": "https://www.google.com/search?q=Make+a+Budget+Budget+Calculator+finance"
+      }
+    ],
+    "1.2.1": [
+      {
+        "d": "ynab.com",
+        "n": "YNAB",
+        "u": "https://www.ynab.com"
+      }
+    ],
+    "1.2.2": [
+      {
+        "d": "google.com",
+        "n": "Monarch Money",
+        "u": "https://www.google.com/search?q=Track+Spending+Monarch+Money+finance"
+      }
+    ],
+    "1.2.3": [
+      {
+        "d": "google.com",
+        "n": "Copilot Money",
+        "u": "https://www.google.com/search?q=Track+Spending+Copilot+Money+finance"
+      }
+    ],
+    "1.2.4": [
+      {
+        "d": "google.com",
+        "n": "PocketGuard",
+        "u": "https://www.google.com/search?q=Track+Spending+PocketGuard+finance"
+      }
+    ],
+    "1.2.6": [
+      {
+        "d": "google.com",
+        "n": "Goodbudget",
+        "u": "https://www.google.com/search?q=Track+Spending+Goodbudget+finance"
+      }
+    ],
+    "1.2.7": [
+      {
+        "d": "google.com",
+        "n": "Spreadsheet Tracker",
+        "u": "https://www.google.com/search?q=Track+Spending+Spreadsheet+Tracker+finance"
+      }
+    ],
+    "1.2.8": [
+      {
+        "d": "google.com",
+        "n": "Compare Budget Apps",
+        "u": "https://www.google.com/search?q=Track+Spending+Compare+Budget+Apps+finance"
+      }
+    ],
+    "1.2.9": [
+      {
+        "d": "google.com",
+        "n": "Subscription Audit",
+        "u": "https://www.google.com/search?q=Track+Spending+Subscription+Audit+finance"
+      }
+    ],
+    "1.3.1": [
+      {
+        "d": "google.com",
+        "n": "Emergency Fund",
+        "u": "https://www.google.com/search?q=Build+Savings+Emergency+Fund+finance"
+      }
+    ],
+    "1.3.2.1": [
+      {
+        "d": "google.com",
+        "n": "Best Rates Today",
+        "u": "https://www.google.com/search?q=High-Yield+Savings+Best+Rates+Today+finance"
+      }
+    ],
+    "1.3.2.2": [
+      {
+        "d": "google.com",
+        "n": "Marcus by Goldman",
+        "u": "https://www.google.com/search?q=High-Yield+Savings+Marcus+by+Goldman+finance"
+      }
+    ],
+    "1.3.2.3": [
+      {
+        "d": "google.com",
+        "n": "Ally Bank",
+        "u": "https://www.google.com/search?q=High-Yield+Savings+Ally+Bank+finance"
+      }
+    ],
+    "1.3.2.4": [
+      {
+        "d": "google.com",
+        "n": "Discover Bank",
+        "u": "https://www.google.com/search?q=High-Yield+Savings+Discover+Bank+finance"
+      }
+    ],
+    "1.3.2.6": [
+      {
+        "d": "google.com",
+        "n": "Capital One 360",
+        "u": "https://www.google.com/search?q=High-Yield+Savings+Capital+One+360+finance"
+      }
+    ],
+    "1.3.2.7": [
+      {
+        "d": "google.com",
+        "n": "Wealthfront Cash",
+        "u": "https://www.google.com/search?q=High-Yield+Savings+Wealthfront+Cash+finance"
+      }
+    ],
+    "1.3.2.8": [
+      {
+        "d": "google.com",
+        "n": "SoFi Savings",
+        "u": "https://www.google.com/search?q=High-Yield+Savings+SoFi+Savings+finance"
+      }
+    ],
+    "1.3.2.9": [
+      {
+        "d": "google.com",
+        "n": "Rate Comparison",
+        "u": "https://www.google.com/search?q=High-Yield+Savings+Rate+Comparison+finance"
+      }
+    ],
+    "1.3.3": [
+      {
+        "d": "google.com",
+        "n": "CDs & Money Market",
+        "u": "https://www.google.com/search?q=Build+Savings+CDs+%26+Money+Market+finance"
+      }
+    ],
+    "1.3.4": [
+      {
+        "d": "google.com",
+        "n": "Goal-Based Savings",
+        "u": "https://www.google.com/search?q=Build+Savings+Goal-Based+Savings+finance"
+      }
+    ],
+    "1.3.6": [
+      {
+        "d": "google.com",
+        "n": "Auto-Save Tools",
+        "u": "https://www.google.com/search?q=Build+Savings+Auto-Save+Tools+finance"
+      }
+    ],
+    "1.3.7": [
+      {
+        "d": "google.com",
+        "n": "Savings Rate Calculator",
+        "u": "https://www.google.com/search?q=Build+Savings+Savings+Rate+Calculator+finance"
+      }
+    ],
+    "1.3.8": [
+      {
+        "d": "google.com",
+        "n": "Sinking Funds",
+        "u": "https://www.google.com/search?q=Build+Savings+Sinking+Funds+finance"
+      }
+    ],
+    "1.3.9": [
+      {
+        "d": "google.com",
+        "n": "Kids Savings",
+        "u": "https://www.google.com/search?q=Build+Savings+Kids+Savings+finance"
+      }
+    ],
+    "1.4.1": [
+      {
+        "d": "google.com",
+        "n": "Best Online Banks",
+        "u": "https://www.google.com/search?q=Pick+a+Bank+Best+Online+Banks+finance"
+      }
+    ],
+    "1.4.2": [
+      {
+        "d": "google.com",
+        "n": "Best Credit Unions",
+        "u": "https://www.google.com/search?q=Pick+a+Bank+Best+Credit+Unions+finance"
+      }
+    ],
+    "1.4.3": [
+      {
+        "d": "google.com",
+        "n": "No-Fee Checking",
+        "u": "https://www.google.com/search?q=Pick+a+Bank+No-Fee+Checking+finance"
+      }
+    ],
+    "1.4.4": [
+      {
+        "d": "google.com",
+        "n": "High-Interest Checking",
+        "u": "https://www.google.com/search?q=Pick+a+Bank+High-Interest+Checking+finance"
+      }
+    ],
+    "1.4.6": [
+      {
+        "d": "google.com",
+        "n": "Student Accounts",
+        "u": "https://www.google.com/search?q=Pick+a+Bank+Student+Accounts+finance"
+      }
+    ],
+    "1.4.7": [
+      {
+        "d": "google.com",
+        "n": "Business Accounts",
+        "u": "https://www.google.com/search?q=Pick+a+Bank+Business+Accounts+finance"
+      }
+    ],
+    "1.4.8": [
+      {
+        "d": "google.com",
+        "n": "Bank Comparison",
+        "u": "https://www.google.com/search?q=Pick+a+Bank+Bank+Comparison+finance"
+      }
+    ],
+    "1.4.9": [
+      {
+        "d": "google.com",
+        "n": "Switch Banks Guide",
+        "u": "https://www.google.com/search?q=Pick+a+Bank+Switch+Banks+Guide+finance"
+      }
+    ],
+    "1.6.1": [
+      {
+        "d": "google.com",
+        "n": "Zelle",
+        "u": "https://www.google.com/search?q=Send+%26+Receive+Money+Zelle+finance"
+      }
+    ],
+    "1.6.2": [
+      {
+        "d": "venmo.com",
+        "n": "Venmo",
+        "u": "https://venmo.com"
+      }
+    ],
+    "1.6.3": [
+      {
+        "d": "google.com",
+        "n": "Cash App",
+        "u": "https://www.google.com/search?q=Send+%26+Receive+Money+Cash+App+finance"
+      }
+    ],
+    "1.6.4": [
+      {
+        "d": "google.com",
+        "n": "Apple Pay",
+        "u": "https://www.google.com/search?q=Send+%26+Receive+Money+Apple+Pay+finance"
+      }
+    ],
+    "1.6.6": [
+      {
+        "d": "google.com",
+        "n": "Google Pay",
+        "u": "https://www.google.com/search?q=Send+%26+Receive+Money+Google+Pay+finance"
+      }
+    ],
+    "1.6.7": [
+      {
+        "d": "paypal.com",
+        "n": "PayPal",
+        "u": "https://www.paypal.com"
+      }
+    ],
+    "1.6.8": [
+      {
+        "d": "google.com",
+        "n": "Wire Transfers",
+        "u": "https://www.google.com/search?q=Send+%26+Receive+Money+Wire+Transfers+finance"
+      }
+    ],
+    "1.6.9": [
+      {
+        "d": "google.com",
+        "n": "International Transfers",
+        "u": "https://www.google.com/search?q=Send+%26+Receive+Money+International+Transfers+finance"
+      }
+    ],
+    "1.7.1": [
+      {
+        "d": "google.com",
+        "n": "Cancel Subscriptions",
+        "u": "https://www.google.com/search?q=Cut+Expenses+Cancel+Subscriptions+finance"
+      }
+    ],
+    "1.7.2": [
+      {
+        "d": "google.com",
+        "n": "Lower Bills",
+        "u": "https://www.google.com/search?q=Cut+Expenses+Lower+Bills+finance"
+      }
+    ],
+    "1.7.3": [
+      {
+        "d": "google.com",
+        "n": "Meal Budget Tips",
+        "u": "https://www.google.com/search?q=Cut+Expenses+Meal+Budget+Tips+finance"
+      }
+    ],
+    "1.7.4": [
+      {
+        "d": "google.com",
+        "n": "Grocery Savings",
+        "u": "https://www.google.com/search?q=Cut+Expenses+Grocery+Savings+finance"
+      }
+    ],
+    "1.7.6": [
+      {
+        "d": "google.com",
+        "n": "Energy Savings",
+        "u": "https://www.google.com/search?q=Cut+Expenses+Energy+Savings+finance"
+      }
+    ],
+    "1.7.7": [
+      {
+        "d": "google.com",
+        "n": "Insurance Shopping",
+        "u": "https://www.google.com/search?q=Cut+Expenses+Insurance+Shopping+finance"
+      }
+    ],
+    "1.7.8": [
+      {
+        "d": "google.com",
+        "n": "Negotiate Rates",
+        "u": "https://www.google.com/search?q=Cut+Expenses+Negotiate+Rates+finance"
+      }
+    ],
+    "1.7.9": [
+      {
+        "d": "google.com",
+        "n": "Frugal Living",
+        "u": "https://www.google.com/search?q=Cut+Expenses+Frugal+Living+finance"
+      }
+    ],
+    "1.8.1": [
+      {
+        "d": "google.com",
+        "n": "Net Worth Calculator",
+        "u": "https://www.google.com/search?q=Financial+Checkup+Net+Worth+Calculator+finance"
+      }
+    ],
+    "1.8.2": [
+      {
+        "d": "google.com",
+        "n": "Annual Review",
+        "u": "https://www.google.com/search?q=Financial+Checkup+Annual+Review+finance"
+      }
+    ],
+    "1.8.3": [
+      {
+        "d": "google.com",
+        "n": "Fee Audit",
+        "u": "https://www.google.com/search?q=Financial+Checkup+Fee+Audit+finance"
+      }
+    ],
+    "1.8.4": [
+      {
+        "d": "google.com",
+        "n": "Rate Shopping",
+        "u": "https://www.google.com/search?q=Financial+Checkup+Rate+Shopping+finance"
+      }
+    ],
+    "1.8.6": [
+      {
+        "d": "google.com",
+        "n": "Insurance Review",
+        "u": "https://www.google.com/search?q=Financial+Checkup+Insurance+Review+finance"
+      }
+    ],
+    "1.8.7": [
+      {
+        "d": "google.com",
+        "n": "Beneficiary Review",
+        "u": "https://www.google.com/search?q=Financial+Checkup+Beneficiary+Review+finance"
+      }
+    ],
+    "1.8.8": [
+      {
+        "d": "google.com",
+        "n": "Document Organizer",
+        "u": "https://www.google.com/search?q=Financial+Checkup+Document+Organizer+finance"
+      }
+    ],
+    "1.8.9": [
+      {
+        "d": "google.com",
+        "n": "Financial Advisor",
+        "u": "https://www.google.com/search?q=Financial+Checkup+Financial+Advisor+finance"
+      }
+    ],
+    "1.9.1": [
+      {
+        "d": "google.com",
+        "n": "Beginner Guides",
+        "u": "https://www.google.com/search?q=Financial+Literacy+Beginner+Guides+finance"
+      }
+    ],
+    "1.9.2": [
+      {
+        "d": "google.com",
+        "n": "Personal Finance Books",
+        "u": "https://www.google.com/search?q=Financial+Literacy+Personal+Finance+Books+finance"
+      }
+    ],
+    "1.9.3": [
+      {
+        "d": "google.com",
+        "n": "Finance Podcasts",
+        "u": "https://www.google.com/search?q=Financial+Literacy+Finance+Podcasts+finance"
+      }
+    ],
+    "1.9.4": [
+      {
+        "d": "google.com",
+        "n": "Finance YouTubers",
+        "u": "https://www.google.com/search?q=Financial+Literacy+Finance+YouTubers+finance"
+      }
+    ],
+    "1.9.6": [
+      {
+        "d": "google.com",
+        "n": "r/personalfinance",
+        "u": "https://www.google.com/search?q=Financial+Literacy+r%2Fpersonalfinance+finance"
+      }
+    ],
+    "1.9.7": [
+      {
+        "d": "google.com",
+        "n": "Bogleheads",
+        "u": "https://www.google.com/search?q=Financial+Literacy+Bogleheads+finance"
+      }
+    ],
+    "1.9.8": [
+      {
+        "d": "google.com",
+        "n": "Financial Calculators",
+        "u": "https://www.google.com/search?q=Financial+Literacy+Financial+Calculators+finance"
+      }
+    ],
+    "1.9.9": [
+      {
+        "d": "google.com",
+        "n": "Money Newsletters",
+        "u": "https://www.google.com/search?q=Financial+Literacy+Money+Newsletters+finance"
+      }
+    ],
+    "2.1.1": [
+      {
+        "d": "google.com",
+        "n": "Beginner's Guide",
+        "u": "https://www.google.com/search?q=Start+Investing+Beginner%27s+Guide+finance"
+      }
+    ],
+    "2.1.2.1": [
+      {
+        "d": "fidelity.com",
+        "n": "Fidelity",
+        "u": "https://www.fidelity.com"
+      }
+    ],
+    "2.1.2.2": [
+      {
+        "d": "schwab.com",
+        "n": "Charles Schwab",
+        "u": "https://www.schwab.com"
+      }
+    ],
+    "2.1.2.3": [
+      {
+        "d": "vanguard.com",
+        "n": "Vanguard",
+        "u": "https://www.vanguard.com"
+      }
+    ],
+    "2.1.2.4": [
+      {
+        "d": "robinhood.com",
+        "n": "Robinhood",
+        "u": "https://robinhood.com"
+      }
+    ],
+    "2.1.2.6": [
+      {
+        "d": "etrade.com",
+        "n": "E*TRADE",
+        "u": "https://www.etrade.com"
+      }
+    ],
+    "2.1.2.7": [
+      {
+        "d": "google.com",
+        "n": "Interactive Brokers",
+        "u": "https://www.google.com/search?q=Brokerage+Accounts+Interactive+Brokers+finance"
+      }
+    ],
+    "2.1.2.8": [
+      {
+        "d": "google.com",
+        "n": "Compare Brokers",
+        "u": "https://www.google.com/search?q=Brokerage+Accounts+Compare+Brokers+finance"
+      }
+    ],
+    "2.1.2.9": [
+      {
+        "d": "google.com",
+        "n": "Account Types",
+        "u": "https://www.google.com/search?q=Brokerage+Accounts+Account+Types+finance"
+      }
+    ],
+    "2.1.3": [
+      {
+        "d": "google.com",
+        "n": "Robo-Advisors",
+        "u": "https://www.google.com/search?q=Start+Investing+Robo-Advisors+finance"
+      }
+    ],
+    "2.1.4": [
+      {
+        "d": "google.com",
+        "n": "Index Fund Basics",
+        "u": "https://www.google.com/search?q=Start+Investing+Index+Fund+Basics+finance"
+      }
+    ],
+    "2.1.6": [
+      {
+        "d": "google.com",
+        "n": "How Much to Invest",
+        "u": "https://www.google.com/search?q=Start+Investing+How+Much+to+Invest+finance"
+      }
+    ],
+    "2.1.7": [
+      {
+        "d": "google.com",
+        "n": "Dollar-Cost Averaging",
+        "u": "https://www.google.com/search?q=Start+Investing+Dollar-Cost+Averaging+finance"
+      }
+    ],
+    "2.1.8": [
+      {
+        "d": "google.com",
+        "n": "Risk Tolerance Quiz",
+        "u": "https://www.google.com/search?q=Start+Investing+Risk+Tolerance+Quiz+finance"
+      }
+    ],
+    "2.1.9": [
+      {
+        "d": "google.com",
+        "n": "First Portfolio",
+        "u": "https://www.google.com/search?q=Start+Investing+First+Portfolio+finance"
+      }
+    ],
+    "2.2.1": [
+      {
+        "d": "google.com",
+        "n": "Market Today",
+        "u": "https://www.google.com/search?q=Stock+Market+Market+Today+finance"
+      }
+    ],
+    "2.2.2": [
+      {
+        "d": "google.com",
+        "n": "S&P 500",
+        "u": "https://www.google.com/search?q=Stock+Market+S%26P+500+finance"
+      }
+    ],
+    "2.2.3": [
+      {
+        "d": "google.com",
+        "n": "Nasdaq",
+        "u": "https://www.google.com/search?q=Stock+Market+Nasdaq+finance"
+      }
+    ],
+    "2.2.4": [
+      {
+        "d": "google.com",
+        "n": "Dow Jones",
+        "u": "https://www.google.com/search?q=Stock+Market+Dow+Jones+finance"
+      }
+    ],
+    "2.2.6": [
+      {
+        "d": "google.com",
+        "n": "Stock Screener",
+        "u": "https://www.google.com/search?q=Stock+Market+Stock+Screener+finance"
+      }
+    ],
+    "2.2.7": [
+      {
+        "d": "google.com",
+        "n": "Earnings Calendar",
+        "u": "https://www.google.com/search?q=Stock+Market+Earnings+Calendar+finance"
+      }
+    ],
+    "2.2.8": [
+      {
+        "d": "google.com",
+        "n": "Analyst Ratings",
+        "u": "https://www.google.com/search?q=Stock+Market+Analyst+Ratings+finance"
+      }
+    ],
+    "2.2.9": [
+      {
+        "d": "google.com",
+        "n": "Pre-Market Movers",
+        "u": "https://www.google.com/search?q=Stock+Market+Pre-Market+Movers+finance"
+      }
+    ],
+    "2.3.1": [
+      {
+        "d": "google.com",
+        "n": "Best Index Funds",
+        "u": "https://www.google.com/search?q=Funds+%26+ETFs+Best+Index+Funds+finance"
+      }
+    ],
+    "2.3.2": [
+      {
+        "d": "google.com",
+        "n": "S&P 500 ETFs",
+        "u": "https://www.google.com/search?q=Funds+%26+ETFs+S%26P+500+ETFs+finance"
+      }
+    ],
+    "2.3.3": [
+      {
+        "d": "google.com",
+        "n": "Total Market ETFs",
+        "u": "https://www.google.com/search?q=Funds+%26+ETFs+Total+Market+ETFs+finance"
+      }
+    ],
+    "2.3.4": [
+      {
+        "d": "google.com",
+        "n": "Bond ETFs",
+        "u": "https://www.google.com/search?q=Funds+%26+ETFs+Bond+ETFs+finance"
+      }
+    ],
+    "2.3.6": [
+      {
+        "d": "google.com",
+        "n": "International ETFs",
+        "u": "https://www.google.com/search?q=Funds+%26+ETFs+International+ETFs+finance"
+      }
+    ],
+    "2.3.7": [
+      {
+        "d": "google.com",
+        "n": "Dividend ETFs",
+        "u": "https://www.google.com/search?q=Funds+%26+ETFs+Dividend+ETFs+finance"
+      }
+    ],
+    "2.3.8": [
+      {
+        "d": "google.com",
+        "n": "Target Date Funds",
+        "u": "https://www.google.com/search?q=Funds+%26+ETFs+Target+Date+Funds+finance"
+      }
+    ],
+    "2.3.9": [
+      {
+        "d": "google.com",
+        "n": "ETF Screener",
+        "u": "https://www.google.com/search?q=Funds+%26+ETFs+ETF+Screener+finance"
+      }
+    ],
+    "2.4.1.1": [
+      {
+        "d": "google.com",
+        "n": "Contribution Limits",
+        "u": "https://www.google.com/search?q=401k+Guide+Contribution+Limits+finance"
+      }
+    ],
+    "2.4.1.2": [
+      {
+        "d": "google.com",
+        "n": "Employer Match",
+        "u": "https://www.google.com/search?q=401k+Guide+Employer+Match+finance"
+      }
+    ],
+    "2.4.1.3": [
+      {
+        "d": "google.com",
+        "n": "Fund Selection",
+        "u": "https://www.google.com/search?q=401k+Guide+Fund+Selection+finance"
+      }
+    ],
+    "2.4.1.4": [
+      {
+        "d": "google.com",
+        "n": "Roth 401k",
+        "u": "https://www.google.com/search?q=401k+Guide+Roth+401k+finance"
+      }
+    ],
+    "2.4.1.6": [
+      {
+        "d": "google.com",
+        "n": "Vesting Schedule",
+        "u": "https://www.google.com/search?q=401k+Guide+Vesting+Schedule+finance"
+      }
+    ],
+    "2.4.1.7": [
+      {
+        "d": "google.com",
+        "n": "Changing Jobs",
+        "u": "https://www.google.com/search?q=401k+Guide+Changing+Jobs+finance"
+      }
+    ],
+    "2.4.1.8": [
+      {
+        "d": "google.com",
+        "n": "Mega Backdoor",
+        "u": "https://www.google.com/search?q=401k+Guide+Mega+Backdoor+finance"
+      }
+    ],
+    "2.4.1.9": [
+      {
+        "d": "google.com",
+        "n": "Fees & Expenses",
+        "u": "https://www.google.com/search?q=401k+Guide+Fees+%26+Expenses+finance"
+      }
+    ],
+    "2.4.2.1": [
+      {
+        "d": "google.com",
+        "n": "Traditional IRA",
+        "u": "https://www.google.com/search?q=IRA+%26+Roth+IRA+Traditional+IRA+finance"
+      }
+    ],
+    "2.4.2.2": [
+      {
+        "d": "google.com",
+        "n": "Roth IRA",
+        "u": "https://www.google.com/search?q=IRA+%26+Roth+IRA+Roth+IRA+finance"
+      }
+    ],
+    "2.4.2.3": [
+      {
+        "d": "google.com",
+        "n": "Contribution Limits",
+        "u": "https://www.google.com/search?q=IRA+%26+Roth+IRA+Contribution+Limits+finance"
+      }
+    ],
+    "2.4.2.4": [
+      {
+        "d": "google.com",
+        "n": "Income Limits",
+        "u": "https://www.google.com/search?q=IRA+%26+Roth+IRA+Income+Limits+finance"
+      }
+    ],
+    "2.4.2.6": [
+      {
+        "d": "google.com",
+        "n": "Backdoor Roth",
+        "u": "https://www.google.com/search?q=IRA+%26+Roth+IRA+Backdoor+Roth+finance"
+      }
+    ],
+    "2.4.2.7": [
+      {
+        "d": "google.com",
+        "n": "Conversion Strategy",
+        "u": "https://www.google.com/search?q=IRA+%26+Roth+IRA+Conversion+Strategy+finance"
+      }
+    ],
+    "2.4.2.8": [
+      {
+        "d": "google.com",
+        "n": "Required Distributions",
+        "u": "https://www.google.com/search?q=IRA+%26+Roth+IRA+Required+Distributions+finance"
+      }
+    ],
+    "2.4.2.9": [
+      {
+        "d": "google.com",
+        "n": "Spousal IRA",
+        "u": "https://www.google.com/search?q=IRA+%26+Roth+IRA+Spousal+IRA+finance"
+      }
+    ],
+    "2.4.3": [
+      {
+        "d": "google.com",
+        "n": "Social Security",
+        "u": "https://www.google.com/search?q=Retirement+Accounts+Social+Security+finance"
+      }
+    ],
+    "2.4.4": [
+      {
+        "d": "google.com",
+        "n": "Retirement Calculator",
+        "u": "https://www.google.com/search?q=Retirement+Accounts+Retirement+Calculator+finance"
+      }
+    ],
+    "2.4.6": [
+      {
+        "d": "google.com",
+        "n": "Catch-Up Contributions",
+        "u": "https://www.google.com/search?q=Retirement+Accounts+Catch-Up+Contributions+finance"
+      }
+    ],
+    "2.4.7": [
+      {
+        "d": "google.com",
+        "n": "Withdrawal Strategy",
+        "u": "https://www.google.com/search?q=Retirement+Accounts+Withdrawal+Strategy+finance"
+      }
+    ],
+    "2.4.8": [
+      {
+        "d": "google.com",
+        "n": "Medicare Planning",
+        "u": "https://www.google.com/search?q=Retirement+Accounts+Medicare+Planning+finance"
+      }
+    ],
+    "2.4.9": [
+      {
+        "d": "google.com",
+        "n": "FIRE Movement",
+        "u": "https://www.google.com/search?q=Retirement+Accounts+FIRE+Movement+finance"
+      }
+    ],
+    "2.6.1": [
+      {
+        "d": "google.com",
+        "n": "REITs",
+        "u": "https://www.google.com/search?q=Real+Estate+Investing+REITs+finance"
+      }
+    ],
+    "2.6.2": [
+      {
+        "d": "google.com",
+        "n": "Rental Properties",
+        "u": "https://www.google.com/search?q=Real+Estate+Investing+Rental+Properties+finance"
+      }
+    ],
+    "2.6.3": [
+      {
+        "d": "google.com",
+        "n": "House Flipping",
+        "u": "https://www.google.com/search?q=Real+Estate+Investing+House+Flipping+finance"
+      }
+    ],
+    "2.6.4": [
+      {
+        "d": "google.com",
+        "n": "Crowdfunding",
+        "u": "https://www.google.com/search?q=Real+Estate+Investing+Crowdfunding+finance"
+      }
+    ],
+    "2.6.6": [
+      {
+        "d": "google.com",
+        "n": "Commercial Real Estate",
+        "u": "https://www.google.com/search?q=Real+Estate+Investing+Commercial+Real+Estate+finance"
+      }
+    ],
+    "2.6.7": [
+      {
+        "d": "google.com",
+        "n": "Vacation Rentals",
+        "u": "https://www.google.com/search?q=Real+Estate+Investing+Vacation+Rentals+finance"
+      }
+    ],
+    "2.6.8": [
+      {
+        "d": "google.com",
+        "n": "1031 Exchange",
+        "u": "https://www.google.com/search?q=Real+Estate+Investing+1031+Exchange+finance"
+      }
+    ],
+    "2.6.9": [
+      {
+        "d": "google.com",
+        "n": "Real Estate Syndication",
+        "u": "https://www.google.com/search?q=Real+Estate+Investing+Real+Estate+Syndication+finance"
+      }
+    ],
+    "2.7.1": [
+      {
+        "d": "google.com",
+        "n": "Bitcoin",
+        "u": "https://www.google.com/search?q=Crypto+%26+Bitcoin+Bitcoin+finance"
+      }
+    ],
+    "2.7.2": [
+      {
+        "d": "google.com",
+        "n": "Ethereum",
+        "u": "https://www.google.com/search?q=Crypto+%26+Bitcoin+Ethereum+finance"
+      }
+    ],
+    "2.7.3": [
+      {
+        "d": "google.com",
+        "n": "Altcoins",
+        "u": "https://www.google.com/search?q=Crypto+%26+Bitcoin+Altcoins+finance"
+      }
+    ],
+    "2.7.4.1": [
+      {
+        "d": "coinbase.com",
+        "n": "Coinbase",
+        "u": "https://www.coinbase.com"
+      }
+    ],
+    "2.7.4.2": [
+      {
+        "d": "google.com",
+        "n": "Kraken",
+        "u": "https://www.google.com/search?q=Crypto+Exchanges+Kraken+finance"
+      }
+    ],
+    "2.7.4.3": [
+      {
+        "d": "gemini.google.com",
+        "n": "Gemini",
+        "u": "https://gemini.google.com"
+      }
+    ],
+    "2.7.4.4": [
+      {
+        "d": "google.com",
+        "n": "Binance US",
+        "u": "https://www.google.com/search?q=Crypto+Exchanges+Binance+US+finance"
+      }
+    ],
+    "2.7.4.6": [
+      {
+        "d": "google.com",
+        "n": "Robinhood Crypto",
+        "u": "https://www.google.com/search?q=Crypto+Exchanges+Robinhood+Crypto+finance"
+      }
+    ],
+    "2.7.4.7": [
+      {
+        "d": "google.com",
+        "n": "Compare Exchanges",
+        "u": "https://www.google.com/search?q=Crypto+Exchanges+Compare+Exchanges+finance"
+      }
+    ],
+    "2.7.4.8": [
+      {
+        "d": "google.com",
+        "n": "Security Tips",
+        "u": "https://www.google.com/search?q=Crypto+Exchanges+Security+Tips+finance"
+      }
+    ],
+    "2.7.4.9": [
+      {
+        "d": "google.com",
+        "n": "Fee Comparison",
+        "u": "https://www.google.com/search?q=Crypto+Exchanges+Fee+Comparison+finance"
+      }
+    ],
+    "2.7.6": [
+      {
+        "d": "google.com",
+        "n": "DeFi",
+        "u": "https://www.google.com/search?q=Crypto+%26+Bitcoin+DeFi+finance"
+      }
+    ],
+    "2.7.7": [
+      {
+        "d": "google.com",
+        "n": "Wallet Guide",
+        "u": "https://www.google.com/search?q=Crypto+%26+Bitcoin+Wallet+Guide+finance"
+      }
+    ],
+    "2.7.8": [
+      {
+        "d": "google.com",
+        "n": "Tax Implications",
+        "u": "https://www.google.com/search?q=Crypto+%26+Bitcoin+Tax+Implications+finance"
+      }
+    ],
+    "2.7.9": [
+      {
+        "d": "google.com",
+        "n": "Market Analysis",
+        "u": "https://www.google.com/search?q=Crypto+%26+Bitcoin+Market+Analysis+finance"
+      }
+    ],
+    "2.8.1": [
+      {
+        "d": "google.com",
+        "n": "Treasury Bonds",
+        "u": "https://www.google.com/search?q=Bonds+%26+Fixed+Income+Treasury+Bonds+finance"
+      }
+    ],
+    "2.8.2": [
+      {
+        "d": "google.com",
+        "n": "I-Bonds",
+        "u": "https://www.google.com/search?q=Bonds+%26+Fixed+Income+I-Bonds+finance"
+      }
+    ],
+    "2.8.3": [
+      {
+        "d": "google.com",
+        "n": "Corporate Bonds",
+        "u": "https://www.google.com/search?q=Bonds+%26+Fixed+Income+Corporate+Bonds+finance"
+      }
+    ],
+    "2.8.4": [
+      {
+        "d": "google.com",
+        "n": "Municipal Bonds",
+        "u": "https://www.google.com/search?q=Bonds+%26+Fixed+Income+Municipal+Bonds+finance"
+      }
+    ],
+    "2.8.6": [
+      {
+        "d": "google.com",
+        "n": "Bond Yields",
+        "u": "https://www.google.com/search?q=Bonds+%26+Fixed+Income+Bond+Yields+finance"
+      }
+    ],
+    "2.8.7": [
+      {
+        "d": "google.com",
+        "n": "Bond Ladder",
+        "u": "https://www.google.com/search?q=Bonds+%26+Fixed+Income+Bond+Ladder+finance"
+      }
+    ],
+    "2.8.8": [
+      {
+        "d": "google.com",
+        "n": "Bond Fund vs Direct",
+        "u": "https://www.google.com/search?q=Bonds+%26+Fixed+Income+Bond+Fund+vs+Direct+finance"
+      }
+    ],
+    "2.8.9": [
+      {
+        "d": "google.com",
+        "n": "Bond Calculator",
+        "u": "https://www.google.com/search?q=Bonds+%26+Fixed+Income+Bond+Calculator+finance"
+      }
+    ],
+    "2.9.1": [
+      {
+        "d": "google.com",
+        "n": "Dividend Aristocrats",
+        "u": "https://www.google.com/search?q=Dividend+Investing+Dividend+Aristocrats+finance"
+      }
+    ],
+    "2.9.2": [
+      {
+        "d": "google.com",
+        "n": "High Yield Stocks",
+        "u": "https://www.google.com/search?q=Dividend+Investing+High+Yield+Stocks+finance"
+      }
+    ],
+    "2.9.3": [
+      {
+        "d": "google.com",
+        "n": "DRIP Programs",
+        "u": "https://www.google.com/search?q=Dividend+Investing+DRIP+Programs+finance"
+      }
+    ],
+    "2.9.4": [
+      {
+        "d": "google.com",
+        "n": "Dividend Calendar",
+        "u": "https://www.google.com/search?q=Dividend+Investing+Dividend+Calendar+finance"
+      }
+    ],
+    "2.9.6": [
+      {
+        "d": "google.com",
+        "n": "Payout Ratios",
+        "u": "https://www.google.com/search?q=Dividend+Investing+Payout+Ratios+finance"
+      }
+    ],
+    "2.9.7": [
+      {
+        "d": "google.com",
+        "n": "Dividend Growth",
+        "u": "https://www.google.com/search?q=Dividend+Investing+Dividend+Growth+finance"
+      }
+    ],
+    "2.9.8": [
+      {
+        "d": "google.com",
+        "n": "Income Portfolio",
+        "u": "https://www.google.com/search?q=Dividend+Investing+Income+Portfolio+finance"
+      }
+    ],
+    "2.9.9": [
+      {
+        "d": "google.com",
+        "n": "Dividend Screener",
+        "u": "https://www.google.com/search?q=Dividend+Investing+Dividend+Screener+finance"
+      }
+    ],
+    "3.1.1": [
+      {
+        "d": "turbotax.intuit.com",
+        "n": "TurboTax",
+        "u": "https://turbotax.intuit.com"
+      }
+    ],
+    "3.1.2": [
+      {
+        "d": "hrblock.com",
+        "n": "H&R Block",
+        "u": "https://www.hrblock.com"
+      }
+    ],
+    "3.1.3": [
+      {
+        "d": "freetaxusa.com",
+        "n": "FreeTaxUSA",
+        "u": "https://www.freetaxusa.com"
+      }
+    ],
+    "3.1.4": [
+      {
+        "d": "google.com",
+        "n": "IRS Free File",
+        "u": "https://www.google.com/search?q=File+My+Taxes+IRS+Free+File+finance"
+      }
+    ],
+    "3.1.6": [
+      {
+        "d": "google.com",
+        "n": "Cash App Taxes",
+        "u": "https://www.google.com/search?q=File+My+Taxes+Cash+App+Taxes+finance"
+      }
+    ],
+    "3.1.7": [
+      {
+        "d": "google.com",
+        "n": "CPA vs Software",
+        "u": "https://www.google.com/search?q=File+My+Taxes+CPA+vs+Software+finance"
+      }
+    ],
+    "3.1.8": [
+      {
+        "d": "google.com",
+        "n": "Compare Tax Software",
+        "u": "https://www.google.com/search?q=File+My+Taxes+Compare+Tax+Software+finance"
+      }
+    ],
+    "3.1.9": [
+      {
+        "d": "google.com",
+        "n": "State Filing",
+        "u": "https://www.google.com/search?q=File+My+Taxes+State+Filing+finance"
+      }
+    ],
+    "3.2.1": [
+      {
+        "d": "google.com",
+        "n": "Standard vs Itemized",
+        "u": "https://www.google.com/search?q=Find+Deductions+Standard+vs+Itemized+finance"
+      }
+    ],
+    "3.2.2": [
+      {
+        "d": "google.com",
+        "n": "Mortgage Interest",
+        "u": "https://www.google.com/search?q=Find+Deductions+Mortgage+Interest+finance"
+      }
+    ],
+    "3.2.3": [
+      {
+        "d": "google.com",
+        "n": "Charitable Giving",
+        "u": "https://www.google.com/search?q=Find+Deductions+Charitable+Giving+finance"
+      }
+    ],
+    "3.2.4": [
+      {
+        "d": "google.com",
+        "n": "State & Local Tax",
+        "u": "https://www.google.com/search?q=Find+Deductions+State+%26+Local+Tax+finance"
+      }
+    ],
+    "3.2.6": [
+      {
+        "d": "google.com",
+        "n": "Medical Expenses",
+        "u": "https://www.google.com/search?q=Find+Deductions+Medical+Expenses+finance"
+      }
+    ],
+    "3.2.7": [
+      {
+        "d": "google.com",
+        "n": "Home Office",
+        "u": "https://www.google.com/search?q=Find+Deductions+Home+Office+finance"
+      }
+    ],
+    "3.2.8": [
+      {
+        "d": "google.com",
+        "n": "Business Deductions",
+        "u": "https://www.google.com/search?q=Find+Deductions+Business+Deductions+finance"
+      }
+    ],
+    "3.2.9": [
+      {
+        "d": "google.com",
+        "n": "Deduction Checklist",
+        "u": "https://www.google.com/search?q=Find+Deductions+Deduction+Checklist+finance"
+      }
+    ],
+    "3.3.1": [
+      {
+        "d": "google.com",
+        "n": "Child Tax Credit",
+        "u": "https://www.google.com/search?q=Claim+Credits+Child+Tax+Credit+finance"
+      }
+    ],
+    "3.3.2": [
+      {
+        "d": "google.com",
+        "n": "Earned Income Credit",
+        "u": "https://www.google.com/search?q=Claim+Credits+Earned+Income+Credit+finance"
+      }
+    ],
+    "3.3.3": [
+      {
+        "d": "google.com",
+        "n": "Education Credits",
+        "u": "https://www.google.com/search?q=Claim+Credits+Education+Credits+finance"
+      }
+    ],
+    "3.3.4": [
+      {
+        "d": "google.com",
+        "n": "EV Credit",
+        "u": "https://www.google.com/search?q=Claim+Credits+EV+Credit+finance"
+      }
+    ],
+    "3.3.6": [
+      {
+        "d": "google.com",
+        "n": "Energy Credits",
+        "u": "https://www.google.com/search?q=Claim+Credits+Energy+Credits+finance"
+      }
+    ],
+    "3.3.7": [
+      {
+        "d": "google.com",
+        "n": "Child Care Credit",
+        "u": "https://www.google.com/search?q=Claim+Credits+Child+Care+Credit+finance"
+      }
+    ],
+    "3.3.8": [
+      {
+        "d": "google.com",
+        "n": "Saver's Credit",
+        "u": "https://www.google.com/search?q=Claim+Credits+Saver%27s+Credit+finance"
+      }
+    ],
+    "3.3.9": [
+      {
+        "d": "google.com",
+        "n": "Credit Calculator",
+        "u": "https://www.google.com/search?q=Claim+Credits+Credit+Calculator+finance"
+      }
+    ],
+    "3.4.1": [
+      {
+        "d": "google.com",
+        "n": "Quarterly Estimates",
+        "u": "https://www.google.com/search?q=Self-Employment+Taxes+Quarterly+Estimates+finance"
+      }
+    ],
+    "3.4.2": [
+      {
+        "d": "google.com",
+        "n": "Deductible Expenses",
+        "u": "https://www.google.com/search?q=Self-Employment+Taxes+Deductible+Expenses+finance"
+      }
+    ],
+    "3.4.3": [
+      {
+        "d": "google.com",
+        "n": "Home Office",
+        "u": "https://www.google.com/search?q=Self-Employment+Taxes+Home+Office+finance"
+      }
+    ],
+    "3.4.4": [
+      {
+        "d": "google.com",
+        "n": "Vehicle Deduction",
+        "u": "https://www.google.com/search?q=Self-Employment+Taxes+Vehicle+Deduction+finance"
+      }
+    ],
+    "3.4.6": [
+      {
+        "d": "google.com",
+        "n": "Health Insurance",
+        "u": "https://www.google.com/search?q=Self-Employment+Taxes+Health+Insurance+finance"
+      }
+    ],
+    "3.4.7": [
+      {
+        "d": "google.com",
+        "n": "Retirement Deduction",
+        "u": "https://www.google.com/search?q=Self-Employment+Taxes+Retirement+Deduction+finance"
+      }
+    ],
+    "3.4.8": [
+      {
+        "d": "google.com",
+        "n": "Record Keeping",
+        "u": "https://www.google.com/search?q=Self-Employment+Taxes+Record+Keeping+finance"
+      }
+    ],
+    "3.4.9": [
+      {
+        "d": "google.com",
+        "n": "Schedule SE Guide",
+        "u": "https://www.google.com/search?q=Self-Employment+Taxes+Schedule+SE+Guide+finance"
+      }
+    ],
+    "3.6.1": [
+      {
+        "d": "google.com",
+        "n": "No Income Tax States",
+        "u": "https://www.google.com/search?q=State+Taxes+No+Income+Tax+States+finance"
+      }
+    ],
+    "3.6.2": [
+      {
+        "d": "google.com",
+        "n": "State Comparison",
+        "u": "https://www.google.com/search?q=State+Taxes+State+Comparison+finance"
+      }
+    ],
+    "3.6.3": [
+      {
+        "d": "google.com",
+        "n": "Remote Work Taxes",
+        "u": "https://www.google.com/search?q=State+Taxes+Remote+Work+Taxes+finance"
+      }
+    ],
+    "3.6.4": [
+      {
+        "d": "google.com",
+        "n": "Moving Between States",
+        "u": "https://www.google.com/search?q=State+Taxes+Moving+Between+States+finance"
+      }
+    ],
+    "3.6.6": [
+      {
+        "d": "google.com",
+        "n": "Property Tax",
+        "u": "https://www.google.com/search?q=State+Taxes+Property+Tax+finance"
+      }
+    ],
+    "3.6.7": [
+      {
+        "d": "google.com",
+        "n": "Sales Tax",
+        "u": "https://www.google.com/search?q=State+Taxes+Sales+Tax+finance"
+      }
+    ],
+    "3.6.8": [
+      {
+        "d": "google.com",
+        "n": "State Deadlines",
+        "u": "https://www.google.com/search?q=State+Taxes+State+Deadlines+finance"
+      }
+    ],
+    "3.6.9": [
+      {
+        "d": "google.com",
+        "n": "State Deductions",
+        "u": "https://www.google.com/search?q=State+Taxes+State+Deductions+finance"
+      }
+    ],
+    "3.7.1": [
+      {
+        "d": "google.com",
+        "n": "Who Must Pay",
+        "u": "https://www.google.com/search?q=Estimated+Payments+Who+Must+Pay+finance"
+      }
+    ],
+    "3.7.2": [
+      {
+        "d": "google.com",
+        "n": "Quarterly Deadlines",
+        "u": "https://www.google.com/search?q=Estimated+Payments+Quarterly+Deadlines+finance"
+      }
+    ],
+    "3.7.3": [
+      {
+        "d": "google.com",
+        "n": "Calculating Estimates",
+        "u": "https://www.google.com/search?q=Estimated+Payments+Calculating+Estimates+finance"
+      }
+    ],
+    "3.7.4": [
+      {
+        "d": "google.com",
+        "n": "Safe Harbor Rule",
+        "u": "https://www.google.com/search?q=Estimated+Payments+Safe+Harbor+Rule+finance"
+      }
+    ],
+    "3.7.6": [
+      {
+        "d": "google.com",
+        "n": "Underpayment Penalty",
+        "u": "https://www.google.com/search?q=Estimated+Payments+Underpayment+Penalty+finance"
+      }
+    ],
+    "3.7.7": [
+      {
+        "d": "google.com",
+        "n": "Payment Methods",
+        "u": "https://www.google.com/search?q=Estimated+Payments+Payment+Methods+finance"
+      }
+    ],
+    "3.7.8": [
+      {
+        "d": "google.com",
+        "n": "Form 1040-ES",
+        "u": "https://www.google.com/search?q=Estimated+Payments+Form+1040-ES+finance"
+      }
+    ],
+    "3.7.9": [
+      {
+        "d": "google.com",
+        "n": "Adjusting Estimates",
+        "u": "https://www.google.com/search?q=Estimated+Payments+Adjusting+Estimates+finance"
+      }
+    ],
+    "3.8.1": [
+      {
+        "d": "google.com",
+        "n": "Audit Triggers",
+        "u": "https://www.google.com/search?q=Handle+an+Audit+Audit+Triggers+finance"
+      }
+    ],
+    "3.8.2": [
+      {
+        "d": "google.com",
+        "n": "Audit Process",
+        "u": "https://www.google.com/search?q=Handle+an+Audit+Audit+Process+finance"
+      }
+    ],
+    "3.8.3": [
+      {
+        "d": "google.com",
+        "n": "Response Letters",
+        "u": "https://www.google.com/search?q=Handle+an+Audit+Response+Letters+finance"
+      }
+    ],
+    "3.8.4": [
+      {
+        "d": "google.com",
+        "n": "Documentation Needed",
+        "u": "https://www.google.com/search?q=Handle+an+Audit+Documentation+Needed+finance"
+      }
+    ],
+    "3.8.6": [
+      {
+        "d": "google.com",
+        "n": "Representation",
+        "u": "https://www.google.com/search?q=Handle+an+Audit+Representation+finance"
+      }
+    ],
+    "3.8.7": [
+      {
+        "d": "google.com",
+        "n": "Appeal Process",
+        "u": "https://www.google.com/search?q=Handle+an+Audit+Appeal+Process+finance"
+      }
+    ],
+    "3.8.8": [
+      {
+        "d": "google.com",
+        "n": "Statute of Limitations",
+        "u": "https://www.google.com/search?q=Handle+an+Audit+Statute+of+Limitations+finance"
+      }
+    ],
+    "3.8.9": [
+      {
+        "d": "google.com",
+        "n": "Avoiding Audits",
+        "u": "https://www.google.com/search?q=Handle+an+Audit+Avoiding+Audits+finance"
+      }
+    ],
+    "3.9.1": [
+      {
+        "d": "google.com",
+        "n": "Year-End Strategies",
+        "u": "https://www.google.com/search?q=Tax+Planning+Year-End+Strategies+finance"
+      }
+    ],
+    "3.9.2": [
+      {
+        "d": "google.com",
+        "n": "Tax-Loss Harvesting",
+        "u": "https://www.google.com/search?q=Tax+Planning+Tax-Loss+Harvesting+finance"
+      }
+    ],
+    "3.9.3": [
+      {
+        "d": "google.com",
+        "n": "Roth Conversions",
+        "u": "https://www.google.com/search?q=Tax+Planning+Roth+Conversions+finance"
+      }
+    ],
+    "3.9.4": [
+      {
+        "d": "google.com",
+        "n": "Capital Gains Planning",
+        "u": "https://www.google.com/search?q=Tax+Planning+Capital+Gains+Planning+finance"
+      }
+    ],
+    "3.9.6": [
+      {
+        "d": "google.com",
+        "n": "Charitable Strategies",
+        "u": "https://www.google.com/search?q=Tax+Planning+Charitable+Strategies+finance"
+      }
+    ],
+    "3.9.7": [
+      {
+        "d": "google.com",
+        "n": "Estate Tax Basics",
+        "u": "https://www.google.com/search?q=Tax+Planning+Estate+Tax+Basics+finance"
+      }
+    ],
+    "3.9.8": [
+      {
+        "d": "google.com",
+        "n": "Tax Bracket Management",
+        "u": "https://www.google.com/search?q=Tax+Planning+Tax+Bracket+Management+finance"
+      }
+    ],
+    "3.9.9": [
+      {
+        "d": "google.com",
+        "n": "Tax Calendar",
+        "u": "https://www.google.com/search?q=Tax+Planning+Tax+Calendar+finance"
+      }
+    ],
+    "4.1.1": [
+      {
+        "d": "google.com",
+        "n": "Free Credit Score",
+        "u": "https://www.google.com/search?q=Check+My+Credit+Free+Credit+Score+finance"
+      }
+    ],
+    "4.1.2": [
+      {
+        "d": "creditkarma.com",
+        "n": "Credit Karma",
+        "u": "https://www.creditkarma.com"
+      }
+    ],
+    "4.1.3": [
+      {
+        "d": "google.com",
+        "n": "Score Factors",
+        "u": "https://www.google.com/search?q=Check+My+Credit+Score+Factors+finance"
+      }
+    ],
+    "4.1.4": [
+      {
+        "d": "google.com",
+        "n": "FICO vs VantageScore",
+        "u": "https://www.google.com/search?q=Check+My+Credit+FICO+vs+VantageScore+finance"
+      }
+    ],
+    "4.1.6": [
+      {
+        "d": "google.com",
+        "n": "Credit Monitoring",
+        "u": "https://www.google.com/search?q=Check+My+Credit+Credit+Monitoring+finance"
+      }
+    ],
+    "4.1.7": [
+      {
+        "d": "google.com",
+        "n": "Score Simulator",
+        "u": "https://www.google.com/search?q=Check+My+Credit+Score+Simulator+finance"
+      }
+    ],
+    "4.1.8": [
+      {
+        "d": "google.com",
+        "n": "Hard vs Soft Inquiry",
+        "u": "https://www.google.com/search?q=Check+My+Credit+Hard+vs+Soft+Inquiry+finance"
+      }
+    ],
+    "4.1.9": [
+      {
+        "d": "google.com",
+        "n": "Improve My Score",
+        "u": "https://www.google.com/search?q=Check+My+Credit+Improve+My+Score+finance"
+      }
+    ],
+    "4.2.1": [
+      {
+        "d": "google.com",
+        "n": "Best Cash Back",
+        "u": "https://www.google.com/search?q=Pick+a+Credit+Card+Best+Cash+Back+finance"
+      }
+    ],
+    "4.2.2": [
+      {
+        "d": "google.com",
+        "n": "Best Travel Cards",
+        "u": "https://www.google.com/search?q=Pick+a+Credit+Card+Best+Travel+Cards+finance"
+      }
+    ],
+    "4.2.3": [
+      {
+        "d": "google.com",
+        "n": "Best No-Fee Cards",
+        "u": "https://www.google.com/search?q=Pick+a+Credit+Card+Best+No-Fee+Cards+finance"
+      }
+    ],
+    "4.2.4": [
+      {
+        "d": "google.com",
+        "n": "Balance Transfer",
+        "u": "https://www.google.com/search?q=Pick+a+Credit+Card+Balance+Transfer+finance"
+      }
+    ],
+    "4.2.6": [
+      {
+        "d": "google.com",
+        "n": "Business Cards",
+        "u": "https://www.google.com/search?q=Pick+a+Credit+Card+Business+Cards+finance"
+      }
+    ],
+    "4.2.7": [
+      {
+        "d": "google.com",
+        "n": "Student Cards",
+        "u": "https://www.google.com/search?q=Pick+a+Credit+Card+Student+Cards+finance"
+      }
+    ],
+    "4.2.8": [
+      {
+        "d": "google.com",
+        "n": "Secured Cards",
+        "u": "https://www.google.com/search?q=Pick+a+Credit+Card+Secured+Cards+finance"
+      }
+    ],
+    "4.2.9": [
+      {
+        "d": "google.com",
+        "n": "Card Comparison",
+        "u": "https://www.google.com/search?q=Pick+a+Credit+Card+Card+Comparison+finance"
+      }
+    ],
+    "4.3.1": [
+      {
+        "d": "google.com",
+        "n": "Debt Snowball",
+        "u": "https://www.google.com/search?q=Pay+Off+Debt+Debt+Snowball+finance"
+      }
+    ],
+    "4.3.2": [
+      {
+        "d": "google.com",
+        "n": "Debt Avalanche",
+        "u": "https://www.google.com/search?q=Pay+Off+Debt+Debt+Avalanche+finance"
+      }
+    ],
+    "4.3.3": [
+      {
+        "d": "google.com",
+        "n": "Consolidation Loans",
+        "u": "https://www.google.com/search?q=Pay+Off+Debt+Consolidation+Loans+finance"
+      }
+    ],
+    "4.3.4": [
+      {
+        "d": "google.com",
+        "n": "Balance Transfer",
+        "u": "https://www.google.com/search?q=Pay+Off+Debt+Balance+Transfer+finance"
+      }
+    ],
+    "4.3.6": [
+      {
+        "d": "google.com",
+        "n": "Payoff Calculator",
+        "u": "https://www.google.com/search?q=Pay+Off+Debt+Payoff+Calculator+finance"
+      }
+    ],
+    "4.3.7": [
+      {
+        "d": "google.com",
+        "n": "Debt-Free Timeline",
+        "u": "https://www.google.com/search?q=Pay+Off+Debt+Debt-Free+Timeline+finance"
+      }
+    ],
+    "4.3.8": [
+      {
+        "d": "google.com",
+        "n": "Hybrid Approach",
+        "u": "https://www.google.com/search?q=Pay+Off+Debt+Hybrid+Approach+finance"
+      }
+    ],
+    "4.3.9": [
+      {
+        "d": "google.com",
+        "n": "Motivation & Tracking",
+        "u": "https://www.google.com/search?q=Pay+Off+Debt+Motivation+%26+Tracking+finance"
+      }
+    ],
+    "4.4.1": [
+      {
+        "d": "google.com",
+        "n": "Repayment Plans",
+        "u": "https://www.google.com/search?q=Student+Loans+Repayment+Plans+finance"
+      }
+    ],
+    "4.4.2": [
+      {
+        "d": "google.com",
+        "n": "Forgiveness Programs",
+        "u": "https://www.google.com/search?q=Student+Loans+Forgiveness+Programs+finance"
+      }
+    ],
+    "4.4.3": [
+      {
+        "d": "google.com",
+        "n": "PSLF",
+        "u": "https://www.google.com/search?q=Student+Loans+PSLF+finance"
+      }
+    ],
+    "4.4.4": [
+      {
+        "d": "google.com",
+        "n": "Income-Driven",
+        "u": "https://www.google.com/search?q=Student+Loans+Income-Driven+finance"
+      }
+    ],
+    "4.4.6": [
+      {
+        "d": "google.com",
+        "n": "Refinancing",
+        "u": "https://www.google.com/search?q=Student+Loans+Refinancing+finance"
+      }
+    ],
+    "4.4.7": [
+      {
+        "d": "google.com",
+        "n": "Consolidation",
+        "u": "https://www.google.com/search?q=Student+Loans+Consolidation+finance"
+      }
+    ],
+    "4.4.8": [
+      {
+        "d": "google.com",
+        "n": "Deferment & Forbearance",
+        "u": "https://www.google.com/search?q=Student+Loans+Deferment+%26+Forbearance+finance"
+      }
+    ],
+    "4.4.9": [
+      {
+        "d": "google.com",
+        "n": "Loan Servicers",
+        "u": "https://www.google.com/search?q=Student+Loans+Loan+Servicers+finance"
+      }
+    ],
+    "4.6.1": [
+      {
+        "d": "google.com",
+        "n": "Debt Validation",
+        "u": "https://www.google.com/search?q=Handle+Collections+Debt+Validation+finance"
+      }
+    ],
+    "4.6.2": [
+      {
+        "d": "google.com",
+        "n": "Negotiation Scripts",
+        "u": "https://www.google.com/search?q=Handle+Collections+Negotiation+Scripts+finance"
+      }
+    ],
+    "4.6.3": [
+      {
+        "d": "google.com",
+        "n": "Pay for Delete",
+        "u": "https://www.google.com/search?q=Handle+Collections+Pay+for+Delete+finance"
+      }
+    ],
+    "4.6.4": [
+      {
+        "d": "google.com",
+        "n": "Statute of Limitations",
+        "u": "https://www.google.com/search?q=Handle+Collections+Statute+of+Limitations+finance"
+      }
+    ],
+    "4.6.6": [
+      {
+        "d": "google.com",
+        "n": "Credit Impact",
+        "u": "https://www.google.com/search?q=Handle+Collections+Credit+Impact+finance"
+      }
+    ],
+    "4.6.7": [
+      {
+        "d": "google.com",
+        "n": "Legal Rights",
+        "u": "https://www.google.com/search?q=Handle+Collections+Legal+Rights+finance"
+      }
+    ],
+    "4.6.8": [
+      {
+        "d": "google.com",
+        "n": "Zombie Debt",
+        "u": "https://www.google.com/search?q=Handle+Collections+Zombie+Debt+finance"
+      }
+    ],
+    "4.6.9": [
+      {
+        "d": "google.com",
+        "n": "Collection Agencies",
+        "u": "https://www.google.com/search?q=Handle+Collections+Collection+Agencies+finance"
+      }
+    ],
+    "4.7.1": [
+      {
+        "d": "google.com",
+        "n": "Chapter 7 vs 13",
+        "u": "https://www.google.com/search?q=Bankruptcy+Info+Chapter+7+vs+13+finance"
+      }
+    ],
+    "4.7.2": [
+      {
+        "d": "google.com",
+        "n": "Means Test",
+        "u": "https://www.google.com/search?q=Bankruptcy+Info+Means+Test+finance"
+      }
+    ],
+    "4.7.3": [
+      {
+        "d": "google.com",
+        "n": "Asset Protection",
+        "u": "https://www.google.com/search?q=Bankruptcy+Info+Asset+Protection+finance"
+      }
+    ],
+    "4.7.4": [
+      {
+        "d": "google.com",
+        "n": "Filing Process",
+        "u": "https://www.google.com/search?q=Bankruptcy+Info+Filing+Process+finance"
+      }
+    ],
+    "4.7.6": [
+      {
+        "d": "google.com",
+        "n": "Credit Impact",
+        "u": "https://www.google.com/search?q=Bankruptcy+Info+Credit+Impact+finance"
+      }
+    ],
+    "4.7.7": [
+      {
+        "d": "google.com",
+        "n": "Alternatives",
+        "u": "https://www.google.com/search?q=Bankruptcy+Info+Alternatives+finance"
+      }
+    ],
+    "4.7.8": [
+      {
+        "d": "google.com",
+        "n": "Attorney Finder",
+        "u": "https://www.google.com/search?q=Bankruptcy+Info+Attorney+Finder+finance"
+      }
+    ],
+    "4.7.9": [
+      {
+        "d": "google.com",
+        "n": "Post-Bankruptcy Recovery",
+        "u": "https://www.google.com/search?q=Bankruptcy+Info+Post-Bankruptcy+Recovery+finance"
+      }
+    ],
+    "4.8.1": [
+      {
+        "d": "google.com",
+        "n": "AnnualCreditReport.com",
+        "u": "https://www.google.com/search?q=Credit+Reports+AnnualCreditReport.com+finance"
+      }
+    ],
+    "4.8.2": [
+      {
+        "d": "google.com",
+        "n": "Dispute Errors",
+        "u": "https://www.google.com/search?q=Credit+Reports+Dispute+Errors+finance"
+      }
+    ],
+    "4.8.3": [
+      {
+        "d": "google.com",
+        "n": "Freeze Credit",
+        "u": "https://www.google.com/search?q=Credit+Reports+Freeze+Credit+finance"
+      }
+    ],
+    "4.8.4": [
+      {
+        "d": "google.com",
+        "n": "Unfreeze Credit",
+        "u": "https://www.google.com/search?q=Credit+Reports+Unfreeze+Credit+finance"
+      }
+    ],
+    "4.8.6": [
+      {
+        "d": "google.com",
+        "n": "Identity Theft",
+        "u": "https://www.google.com/search?q=Credit+Reports+Identity+Theft+finance"
+      }
+    ],
+    "4.8.7": [
+      {
+        "d": "google.com",
+        "n": "Authorized User Strategy",
+        "u": "https://www.google.com/search?q=Credit+Reports+Authorized+User+Strategy+finance"
+      }
+    ],
+    "4.8.8": [
+      {
+        "d": "google.com",
+        "n": "Credit Building",
+        "u": "https://www.google.com/search?q=Credit+Reports+Credit+Building+finance"
+      }
+    ],
+    "4.8.9": [
+      {
+        "d": "google.com",
+        "n": "Report Monitoring",
+        "u": "https://www.google.com/search?q=Credit+Reports+Report+Monitoring+finance"
+      }
+    ],
+    "4.9.1": [
+      {
+        "d": "google.com",
+        "n": "National Foundation CC",
+        "u": "https://www.google.com/search?q=Debt+Resources+National+Foundation+CC+finance"
+      }
+    ],
+    "4.9.2": [
+      {
+        "d": "google.com",
+        "n": "Debt Management Plans",
+        "u": "https://www.google.com/search?q=Debt+Resources+Debt+Management+Plans+finance"
+      }
+    ],
+    "4.9.3": [
+      {
+        "d": "google.com",
+        "n": "Financial Counseling",
+        "u": "https://www.google.com/search?q=Debt+Resources+Financial+Counseling+finance"
+      }
+    ],
+    "4.9.4": [
+      {
+        "d": "google.com",
+        "n": "Debt Support Communities",
+        "u": "https://www.google.com/search?q=Debt+Resources+Debt+Support+Communities+finance"
+      }
+    ],
+    "4.9.6": [
+      {
+        "d": "google.com",
+        "n": "r/debtfree",
+        "u": "https://www.google.com/search?q=Debt+Resources+r%2Fdebtfree+finance"
+      }
+    ],
+    "4.9.7": [
+      {
+        "d": "google.com",
+        "n": "Dave Ramsey",
+        "u": "https://www.google.com/search?q=Debt+Resources+Dave+Ramsey+finance"
+      }
+    ],
+    "4.9.8": [
+      {
+        "d": "google.com",
+        "n": "Debt Calculators",
+        "u": "https://www.google.com/search?q=Debt+Resources+Debt+Calculators+finance"
+      }
+    ],
+    "4.9.9": [
+      {
+        "d": "google.com",
+        "n": "Success Stories",
+        "u": "https://www.google.com/search?q=Debt+Resources+Success+Stories+finance"
+      }
+    ],
+    "6.1.1": [
+      {
+        "d": "google.com",
+        "n": "Plan Comparison",
+        "u": "https://www.google.com/search?q=Health+Insurance+Plan+Comparison+finance"
+      }
+    ],
+    "6.1.2": [
+      {
+        "d": "google.com",
+        "n": "HMO vs PPO vs EPO",
+        "u": "https://www.google.com/search?q=Health+Insurance+HMO+vs+PPO+vs+EPO+finance"
+      }
+    ],
+    "6.1.3": [
+      {
+        "d": "google.com",
+        "n": "Open Enrollment",
+        "u": "https://www.google.com/search?q=Health+Insurance+Open+Enrollment+finance"
+      }
+    ],
+    "6.1.4": [
+      {
+        "d": "google.com",
+        "n": "Marketplace Plans",
+        "u": "https://www.google.com/search?q=Health+Insurance+Marketplace+Plans+finance"
+      }
+    ],
+    "6.1.6": [
+      {
+        "d": "google.com",
+        "n": "Employer Plans",
+        "u": "https://www.google.com/search?q=Health+Insurance+Employer+Plans+finance"
+      }
+    ],
+    "6.1.7": [
+      {
+        "d": "google.com",
+        "n": "Medicare",
+        "u": "https://www.google.com/search?q=Health+Insurance+Medicare+finance"
+      }
+    ],
+    "6.1.8": [
+      {
+        "d": "google.com",
+        "n": "HSA Guide",
+        "u": "https://www.google.com/search?q=Health+Insurance+HSA+Guide+finance"
+      }
+    ],
+    "6.1.9": [
+      {
+        "d": "google.com",
+        "n": "Deductibles Explained",
+        "u": "https://www.google.com/search?q=Health+Insurance+Deductibles+Explained+finance"
+      }
+    ],
+    "6.2.1": [
+      {
+        "d": "google.com",
+        "n": "Best Rates",
+        "u": "https://www.google.com/search?q=Auto+Insurance+Best+Rates+finance"
+      }
+    ],
+    "6.2.2": [
+      {
+        "d": "google.com",
+        "n": "Coverage Types",
+        "u": "https://www.google.com/search?q=Auto+Insurance+Coverage+Types+finance"
+      }
+    ],
+    "6.2.3": [
+      {
+        "d": "google.com",
+        "n": "Discounts",
+        "u": "https://www.google.com/search?q=Auto+Insurance+Discounts+finance"
+      }
+    ],
+    "6.2.4": [
+      {
+        "d": "google.com",
+        "n": "Teen Drivers",
+        "u": "https://www.google.com/search?q=Auto+Insurance+Teen+Drivers+finance"
+      }
+    ],
+    "6.2.6": [
+      {
+        "d": "google.com",
+        "n": "Usage-Based",
+        "u": "https://www.google.com/search?q=Auto+Insurance+Usage-Based+finance"
+      }
+    ],
+    "6.2.7": [
+      {
+        "d": "google.com",
+        "n": "Claim Process",
+        "u": "https://www.google.com/search?q=Auto+Insurance+Claim+Process+finance"
+      }
+    ],
+    "6.2.8": [
+      {
+        "d": "google.com",
+        "n": "SR-22",
+        "u": "https://www.google.com/search?q=Auto+Insurance+SR-22+finance"
+      }
+    ],
+    "6.2.9": [
+      {
+        "d": "google.com",
+        "n": "Compare Quotes",
+        "u": "https://www.google.com/search?q=Auto+Insurance+Compare+Quotes+finance"
+      }
+    ],
+    "6.3.1": [
+      {
+        "d": "google.com",
+        "n": "Homeowners Insurance",
+        "u": "https://www.google.com/search?q=Home+%26+Renters+Homeowners+Insurance+finance"
+      }
+    ],
+    "6.3.2": [
+      {
+        "d": "google.com",
+        "n": "Renters Insurance",
+        "u": "https://www.google.com/search?q=Home+%26+Renters+Renters+Insurance+finance"
+      }
+    ],
+    "6.3.3": [
+      {
+        "d": "google.com",
+        "n": "Flood Insurance",
+        "u": "https://www.google.com/search?q=Home+%26+Renters+Flood+Insurance+finance"
+      }
+    ],
+    "6.3.4": [
+      {
+        "d": "google.com",
+        "n": "Earthquake Insurance",
+        "u": "https://www.google.com/search?q=Home+%26+Renters+Earthquake+Insurance+finance"
+      }
+    ],
+    "6.3.6": [
+      {
+        "d": "google.com",
+        "n": "Home Inventory",
+        "u": "https://www.google.com/search?q=Home+%26+Renters+Home+Inventory+finance"
+      }
+    ],
+    "6.3.7": [
+      {
+        "d": "google.com",
+        "n": "Claim Process",
+        "u": "https://www.google.com/search?q=Home+%26+Renters+Claim+Process+finance"
+      }
+    ],
+    "6.3.8": [
+      {
+        "d": "google.com",
+        "n": "Bundling Discounts",
+        "u": "https://www.google.com/search?q=Home+%26+Renters+Bundling+Discounts+finance"
+      }
+    ],
+    "6.3.9": [
+      {
+        "d": "google.com",
+        "n": "Compare Providers",
+        "u": "https://www.google.com/search?q=Home+%26+Renters+Compare+Providers+finance"
+      }
+    ],
+    "6.4.1": [
+      {
+        "d": "google.com",
+        "n": "Term vs Whole Life",
+        "u": "https://www.google.com/search?q=Life+Insurance+Term+vs+Whole+Life+finance"
+      }
+    ],
+    "6.4.2": [
+      {
+        "d": "google.com",
+        "n": "How Much Coverage",
+        "u": "https://www.google.com/search?q=Life+Insurance+How+Much+Coverage+finance"
+      }
+    ],
+    "6.4.3": [
+      {
+        "d": "google.com",
+        "n": "Best Providers",
+        "u": "https://www.google.com/search?q=Life+Insurance+Best+Providers+finance"
+      }
+    ],
+    "6.4.4": [
+      {
+        "d": "google.com",
+        "n": "No-Exam Policies",
+        "u": "https://www.google.com/search?q=Life+Insurance+No-Exam+Policies+finance"
+      }
+    ],
+    "6.4.6": [
+      {
+        "d": "google.com",
+        "n": "Beneficiary Guide",
+        "u": "https://www.google.com/search?q=Life+Insurance+Beneficiary+Guide+finance"
+      }
+    ],
+    "6.4.7": [
+      {
+        "d": "google.com",
+        "n": "Group Life",
+        "u": "https://www.google.com/search?q=Life+Insurance+Group+Life+finance"
+      }
+    ],
+    "6.4.8": [
+      {
+        "d": "google.com",
+        "n": "Policy Review",
+        "u": "https://www.google.com/search?q=Life+Insurance+Policy+Review+finance"
+      }
+    ],
+    "6.4.9": [
+      {
+        "d": "google.com",
+        "n": "Compare Quotes",
+        "u": "https://www.google.com/search?q=Life+Insurance+Compare+Quotes+finance"
+      }
+    ],
+    "6.6.1": [
+      {
+        "d": "google.com",
+        "n": "Short-Term",
+        "u": "https://www.google.com/search?q=Disability+Insurance+Short-Term+finance"
+      }
+    ],
+    "6.6.2": [
+      {
+        "d": "google.com",
+        "n": "Long-Term",
+        "u": "https://www.google.com/search?q=Disability+Insurance+Long-Term+finance"
+      }
+    ],
+    "6.6.3": [
+      {
+        "d": "google.com",
+        "n": "Employer Plans",
+        "u": "https://www.google.com/search?q=Disability+Insurance+Employer+Plans+finance"
+      }
+    ],
+    "6.6.4": [
+      {
+        "d": "google.com",
+        "n": "Individual Policies",
+        "u": "https://www.google.com/search?q=Disability+Insurance+Individual+Policies+finance"
+      }
+    ],
+    "6.6.6": [
+      {
+        "d": "google.com",
+        "n": "Social Security Disability",
+        "u": "https://www.google.com/search?q=Disability+Insurance+Social+Security+Disability+finance"
+      }
+    ],
+    "6.6.7": [
+      {
+        "d": "google.com",
+        "n": "Own vs Any Occupation",
+        "u": "https://www.google.com/search?q=Disability+Insurance+Own+vs+Any+Occupation+finance"
+      }
+    ],
+    "6.6.8": [
+      {
+        "d": "google.com",
+        "n": "Elimination Period",
+        "u": "https://www.google.com/search?q=Disability+Insurance+Elimination+Period+finance"
+      }
+    ],
+    "6.6.9": [
+      {
+        "d": "google.com",
+        "n": "Compare Policies",
+        "u": "https://www.google.com/search?q=Disability+Insurance+Compare+Policies+finance"
+      }
+    ],
+    "6.7.1": [
+      {
+        "d": "google.com",
+        "n": "Best Providers",
+        "u": "https://www.google.com/search?q=Pet+Insurance+Best+Providers+finance"
+      }
+    ],
+    "6.7.2": [
+      {
+        "d": "google.com",
+        "n": "Coverage Types",
+        "u": "https://www.google.com/search?q=Pet+Insurance+Coverage+Types+finance"
+      }
+    ],
+    "6.7.3": [
+      {
+        "d": "google.com",
+        "n": "Wellness Plans",
+        "u": "https://www.google.com/search?q=Pet+Insurance+Wellness+Plans+finance"
+      }
+    ],
+    "6.7.4": [
+      {
+        "d": "google.com",
+        "n": "Pre-Existing Conditions",
+        "u": "https://www.google.com/search?q=Pet+Insurance+Pre-Existing+Conditions+finance"
+      }
+    ],
+    "6.7.6": [
+      {
+        "d": "google.com",
+        "n": "Cost by Breed",
+        "u": "https://www.google.com/search?q=Pet+Insurance+Cost+by+Breed+finance"
+      }
+    ],
+    "6.7.7": [
+      {
+        "d": "google.com",
+        "n": "Is It Worth It",
+        "u": "https://www.google.com/search?q=Pet+Insurance+Is+It+Worth+It+finance"
+      }
+    ],
+    "6.7.8": [
+      {
+        "d": "google.com",
+        "n": "Claim Process",
+        "u": "https://www.google.com/search?q=Pet+Insurance+Claim+Process+finance"
+      }
+    ],
+    "6.7.9": [
+      {
+        "d": "google.com",
+        "n": "Compare Plans",
+        "u": "https://www.google.com/search?q=Pet+Insurance+Compare+Plans+finance"
+      }
+    ],
+    "6.8.1": [
+      {
+        "d": "google.com",
+        "n": "Write a Will",
+        "u": "https://www.google.com/search?q=Estate+Planning+Write+a+Will+finance"
+      }
+    ],
+    "6.8.2": [
+      {
+        "d": "google.com",
+        "n": "Living Trust",
+        "u": "https://www.google.com/search?q=Estate+Planning+Living+Trust+finance"
+      }
+    ],
+    "6.8.3": [
+      {
+        "d": "google.com",
+        "n": "Power of Attorney",
+        "u": "https://www.google.com/search?q=Estate+Planning+Power+of+Attorney+finance"
+      }
+    ],
+    "6.8.4": [
+      {
+        "d": "google.com",
+        "n": "Beneficiary Designations",
+        "u": "https://www.google.com/search?q=Estate+Planning+Beneficiary+Designations+finance"
+      }
+    ],
+    "6.8.6": [
+      {
+        "d": "google.com",
+        "n": "Healthcare Directive",
+        "u": "https://www.google.com/search?q=Estate+Planning+Healthcare+Directive+finance"
+      }
+    ],
+    "6.8.7": [
+      {
+        "d": "google.com",
+        "n": "Estate Tax Basics",
+        "u": "https://www.google.com/search?q=Estate+Planning+Estate+Tax+Basics+finance"
+      }
+    ],
+    "6.8.8": [
+      {
+        "d": "google.com",
+        "n": "Digital Estate",
+        "u": "https://www.google.com/search?q=Estate+Planning+Digital+Estate+finance"
+      }
+    ],
+    "6.8.9": [
+      {
+        "d": "google.com",
+        "n": "Find an Attorney",
+        "u": "https://www.google.com/search?q=Estate+Planning+Find+an+Attorney+finance"
+      }
+    ],
+    "6.9.1": [
+      {
+        "d": "google.com",
+        "n": "Umbrella Policy",
+        "u": "https://www.google.com/search?q=Umbrella+%26+Specialty+Umbrella+Policy+finance"
+      }
+    ],
+    "6.9.2": [
+      {
+        "d": "google.com",
+        "n": "Identity Theft Protection",
+        "u": "https://www.google.com/search?q=Umbrella+%26+Specialty+Identity+Theft+Protection+finance"
+      }
+    ],
+    "6.9.3": [
+      {
+        "d": "google.com",
+        "n": "Travel Insurance",
+        "u": "https://www.google.com/search?q=Umbrella+%26+Specialty+Travel+Insurance+finance"
+      }
+    ],
+    "6.9.4": [
+      {
+        "d": "google.com",
+        "n": "Wedding Insurance",
+        "u": "https://www.google.com/search?q=Umbrella+%26+Specialty+Wedding+Insurance+finance"
+      }
+    ],
+    "6.9.6": [
+      {
+        "d": "google.com",
+        "n": "Business Insurance",
+        "u": "https://www.google.com/search?q=Umbrella+%26+Specialty+Business+Insurance+finance"
+      }
+    ],
+    "6.9.7": [
+      {
+        "d": "google.com",
+        "n": "Cyber Insurance",
+        "u": "https://www.google.com/search?q=Umbrella+%26+Specialty+Cyber+Insurance+finance"
+      }
+    ],
+    "6.9.8": [
+      {
+        "d": "google.com",
+        "n": "Asset Protection",
+        "u": "https://www.google.com/search?q=Umbrella+%26+Specialty+Asset+Protection+finance"
+      }
+    ],
+    "6.9.9": [
+      {
+        "d": "google.com",
+        "n": "Compare Specialty",
+        "u": "https://www.google.com/search?q=Umbrella+%26+Specialty+Compare+Specialty+finance"
+      }
+    ],
+    "7.1.1": [
+      {
+        "d": "google.com",
+        "n": "Buyer's Guide",
+        "u": "https://www.google.com/search?q=First-Time+Buyer+Buyer%27s+Guide+finance"
+      }
+    ],
+    "7.1.2": [
+      {
+        "d": "google.com",
+        "n": "Down Payment Assistance",
+        "u": "https://www.google.com/search?q=First-Time+Buyer+Down+Payment+Assistance+finance"
+      }
+    ],
+    "7.1.3": [
+      {
+        "d": "google.com",
+        "n": "FHA Loans",
+        "u": "https://www.google.com/search?q=First-Time+Buyer+FHA+Loans+finance"
+      }
+    ],
+    "7.1.4": [
+      {
+        "d": "google.com",
+        "n": "VA Loans",
+        "u": "https://www.google.com/search?q=First-Time+Buyer+VA+Loans+finance"
+      }
+    ],
+    "7.1.6": [
+      {
+        "d": "google.com",
+        "n": "Affordability Calculator",
+        "u": "https://www.google.com/search?q=First-Time+Buyer+Affordability+Calculator+finance"
+      }
+    ],
+    "7.1.7": [
+      {
+        "d": "google.com",
+        "n": "Credit Score Needed",
+        "u": "https://www.google.com/search?q=First-Time+Buyer+Credit+Score+Needed+finance"
+      }
+    ],
+    "7.1.8": [
+      {
+        "d": "google.com",
+        "n": "State Programs",
+        "u": "https://www.google.com/search?q=First-Time+Buyer+State+Programs+finance"
+      }
+    ],
+    "7.1.9": [
+      {
+        "d": "google.com",
+        "n": "Conventional 97",
+        "u": "https://www.google.com/search?q=First-Time+Buyer+Conventional+97+finance"
+      }
+    ],
+    "7.2.1.1": [
+      {
+        "d": "google.com",
+        "n": "30-Year Fixed",
+        "u": "https://www.google.com/search?q=Today%27s+Rates+30-Year+Fixed+finance"
+      }
+    ],
+    "7.2.1.2": [
+      {
+        "d": "google.com",
+        "n": "15-Year Fixed",
+        "u": "https://www.google.com/search?q=Today%27s+Rates+15-Year+Fixed+finance"
+      }
+    ],
+    "7.2.1.3": [
+      {
+        "d": "google.com",
+        "n": "ARM Rates",
+        "u": "https://www.google.com/search?q=Today%27s+Rates+ARM+Rates+finance"
+      }
+    ],
+    "7.2.1.4": [
+      {
+        "d": "google.com",
+        "n": "Jumbo Loans",
+        "u": "https://www.google.com/search?q=Today%27s+Rates+Jumbo+Loans+finance"
+      }
+    ],
+    "7.2.1.6": [
+      {
+        "d": "google.com",
+        "n": "FHA Rates",
+        "u": "https://www.google.com/search?q=Today%27s+Rates+FHA+Rates+finance"
+      }
+    ],
+    "7.2.1.7": [
+      {
+        "d": "google.com",
+        "n": "VA Rates",
+        "u": "https://www.google.com/search?q=Today%27s+Rates+VA+Rates+finance"
+      }
+    ],
+    "7.2.1.8": [
+      {
+        "d": "google.com",
+        "n": "Rate Comparison",
+        "u": "https://www.google.com/search?q=Today%27s+Rates+Rate+Comparison+finance"
+      }
+    ],
+    "7.2.1.9": [
+      {
+        "d": "google.com",
+        "n": "Rate Lock Strategy",
+        "u": "https://www.google.com/search?q=Today%27s+Rates+Rate+Lock+Strategy+finance"
+      }
+    ],
+    "7.2.2": [
+      {
+        "d": "google.com",
+        "n": "Pre-Approval",
+        "u": "https://www.google.com/search?q=Get+a+Mortgage+Pre-Approval+finance"
+      }
+    ],
+    "7.2.3": [
+      {
+        "d": "google.com",
+        "n": "Mortgage Calculator",
+        "u": "https://www.google.com/search?q=Get+a+Mortgage+Mortgage+Calculator+finance"
+      }
+    ],
+    "7.2.4": [
+      {
+        "d": "google.com",
+        "n": "Down Payment",
+        "u": "https://www.google.com/search?q=Get+a+Mortgage+Down+Payment+finance"
+      }
+    ],
+    "7.2.6": [
+      {
+        "d": "google.com",
+        "n": "Closing Costs",
+        "u": "https://www.google.com/search?q=Get+a+Mortgage+Closing+Costs+finance"
+      }
+    ],
+    "7.2.7": [
+      {
+        "d": "google.com",
+        "n": "Lender Comparison",
+        "u": "https://www.google.com/search?q=Get+a+Mortgage+Lender+Comparison+finance"
+      }
+    ],
+    "7.2.8": [
+      {
+        "d": "google.com",
+        "n": "Documentation Needed",
+        "u": "https://www.google.com/search?q=Get+a+Mortgage+Documentation+Needed+finance"
+      }
+    ],
+    "7.2.9": [
+      {
+        "d": "google.com",
+        "n": "Mortgage Types",
+        "u": "https://www.google.com/search?q=Get+a+Mortgage+Mortgage+Types+finance"
+      }
+    ],
+    "7.3.1": [
+      {
+        "d": "google.com",
+        "n": "Home Search",
+        "u": "https://www.google.com/search?q=Buy+a+Home+Home+Search+finance"
+      }
+    ],
+    "7.3.2": [
+      {
+        "d": "google.com",
+        "n": "Making an Offer",
+        "u": "https://www.google.com/search?q=Buy+a+Home+Making+an+Offer+finance"
+      }
+    ],
+    "7.3.3": [
+      {
+        "d": "google.com",
+        "n": "Home Inspection",
+        "u": "https://www.google.com/search?q=Buy+a+Home+Home+Inspection+finance"
+      }
+    ],
+    "7.3.4": [
+      {
+        "d": "google.com",
+        "n": "Closing Process",
+        "u": "https://www.google.com/search?q=Buy+a+Home+Closing+Process+finance"
+      }
+    ],
+    "7.3.6": [
+      {
+        "d": "google.com",
+        "n": "Buyer's Agent",
+        "u": "https://www.google.com/search?q=Buy+a+Home+Buyer%27s+Agent+finance"
+      }
+    ],
+    "7.3.7": [
+      {
+        "d": "google.com",
+        "n": "Bidding Strategy",
+        "u": "https://www.google.com/search?q=Buy+a+Home+Bidding+Strategy+finance"
+      }
+    ],
+    "7.3.8": [
+      {
+        "d": "google.com",
+        "n": "Moving Checklist",
+        "u": "https://www.google.com/search?q=Buy+a+Home+Moving+Checklist+finance"
+      }
+    ],
+    "7.3.9": [
+      {
+        "d": "google.com",
+        "n": "New Homeowner Guide",
+        "u": "https://www.google.com/search?q=Buy+a+Home+New+Homeowner+Guide+finance"
+      }
+    ],
+    "7.4.1": [
+      {
+        "d": "google.com",
+        "n": "Staging",
+        "u": "https://www.google.com/search?q=Sell+My+Home+Staging+finance"
+      }
+    ],
+    "7.4.2": [
+      {
+        "d": "google.com",
+        "n": "Pricing Strategy",
+        "u": "https://www.google.com/search?q=Sell+My+Home+Pricing+Strategy+finance"
+      }
+    ],
+    "7.4.3": [
+      {
+        "d": "google.com",
+        "n": "Listing Agent",
+        "u": "https://www.google.com/search?q=Sell+My+Home+Listing+Agent+finance"
+      }
+    ],
+    "7.4.4": [
+      {
+        "d": "google.com",
+        "n": "FSBO Tips",
+        "u": "https://www.google.com/search?q=Sell+My+Home+FSBO+Tips+finance"
+      }
+    ],
+    "7.4.6": [
+      {
+        "d": "google.com",
+        "n": "Photography",
+        "u": "https://www.google.com/search?q=Sell+My+Home+Photography+finance"
+      }
+    ],
+    "7.4.7": [
+      {
+        "d": "google.com",
+        "n": "Open House",
+        "u": "https://www.google.com/search?q=Sell+My+Home+Open+House+finance"
+      }
+    ],
+    "7.4.8": [
+      {
+        "d": "google.com",
+        "n": "Negotiation",
+        "u": "https://www.google.com/search?q=Sell+My+Home+Negotiation+finance"
+      }
+    ],
+    "7.4.9": [
+      {
+        "d": "google.com",
+        "n": "Closing as Seller",
+        "u": "https://www.google.com/search?q=Sell+My+Home+Closing+as+Seller+finance"
+      }
+    ],
+    "7.6.1": [
+      {
+        "d": "google.com",
+        "n": "Should I Refinance",
+        "u": "https://www.google.com/search?q=Refinance+Should+I+Refinance+finance"
+      }
+    ],
+    "7.6.2": [
+      {
+        "d": "google.com",
+        "n": "Cash-Out Refi",
+        "u": "https://www.google.com/search?q=Refinance+Cash-Out+Refi+finance"
+      }
+    ],
+    "7.6.3": [
+      {
+        "d": "google.com",
+        "n": "Rate-and-Term Refi",
+        "u": "https://www.google.com/search?q=Refinance+Rate-and-Term+Refi+finance"
+      }
+    ],
+    "7.6.4": [
+      {
+        "d": "google.com",
+        "n": "Break-Even Calculator",
+        "u": "https://www.google.com/search?q=Refinance+Break-Even+Calculator+finance"
+      }
+    ],
+    "7.6.6": [
+      {
+        "d": "google.com",
+        "n": "HELOC Alternative",
+        "u": "https://www.google.com/search?q=Refinance+HELOC+Alternative+finance"
+      }
+    ],
+    "7.6.7": [
+      {
+        "d": "google.com",
+        "n": "Streamline Refi",
+        "u": "https://www.google.com/search?q=Refinance+Streamline+Refi+finance"
+      }
+    ],
+    "7.6.8": [
+      {
+        "d": "google.com",
+        "n": "Closing Costs",
+        "u": "https://www.google.com/search?q=Refinance+Closing+Costs+finance"
+      }
+    ],
+    "7.6.9": [
+      {
+        "d": "google.com",
+        "n": "Documentation Needed",
+        "u": "https://www.google.com/search?q=Refinance+Documentation+Needed+finance"
+      }
+    ],
+    "7.7.1": [
+      {
+        "d": "google.com",
+        "n": "Rent vs Buy Calculator",
+        "u": "https://www.google.com/search?q=Renting+Rent+vs+Buy+Calculator+finance"
+      }
+    ],
+    "7.7.2": [
+      {
+        "d": "google.com",
+        "n": "Apartment Search",
+        "u": "https://www.google.com/search?q=Renting+Apartment+Search+finance"
+      }
+    ],
+    "7.7.3": [
+      {
+        "d": "google.com",
+        "n": "Lease Negotiation",
+        "u": "https://www.google.com/search?q=Renting+Lease+Negotiation+finance"
+      }
+    ],
+    "7.7.4": [
+      {
+        "d": "google.com",
+        "n": "Tenant Rights",
+        "u": "https://www.google.com/search?q=Renting+Tenant+Rights+finance"
+      }
+    ],
+    "7.7.6": [
+      {
+        "d": "google.com",
+        "n": "Rent Increase",
+        "u": "https://www.google.com/search?q=Renting+Rent+Increase+finance"
+      }
+    ],
+    "7.7.7": [
+      {
+        "d": "google.com",
+        "n": "Roommate Guide",
+        "u": "https://www.google.com/search?q=Renting+Roommate+Guide+finance"
+      }
+    ],
+    "7.7.8": [
+      {
+        "d": "google.com",
+        "n": "Subletting",
+        "u": "https://www.google.com/search?q=Renting+Subletting+finance"
+      }
+    ],
+    "7.7.9": [
+      {
+        "d": "google.com",
+        "n": "Security Deposit",
+        "u": "https://www.google.com/search?q=Renting+Security+Deposit+finance"
+      }
+    ],
+    "7.8.1": [
+      {
+        "d": "google.com",
+        "n": "Zillow Zestimate",
+        "u": "https://www.google.com/search?q=Home+Value+Zillow+Zestimate+finance"
+      }
+    ],
+    "7.8.2": [
+      {
+        "d": "google.com",
+        "n": "Redfin Estimate",
+        "u": "https://www.google.com/search?q=Home+Value+Redfin+Estimate+finance"
+      }
+    ],
+    "7.8.3": [
+      {
+        "d": "google.com",
+        "n": "Appraisal Process",
+        "u": "https://www.google.com/search?q=Home+Value+Appraisal+Process+finance"
+      }
+    ],
+    "7.8.4": [
+      {
+        "d": "google.com",
+        "n": "Home Improvements ROI",
+        "u": "https://www.google.com/search?q=Home+Value+Home+Improvements+ROI+finance"
+      }
+    ],
+    "7.8.6": [
+      {
+        "d": "google.com",
+        "n": "Market Trends",
+        "u": "https://www.google.com/search?q=Home+Value+Market+Trends+finance"
+      }
+    ],
+    "7.8.7": [
+      {
+        "d": "google.com",
+        "n": "Comparable Sales",
+        "u": "https://www.google.com/search?q=Home+Value+Comparable+Sales+finance"
+      }
+    ],
+    "7.8.8": [
+      {
+        "d": "google.com",
+        "n": "Tax Assessment",
+        "u": "https://www.google.com/search?q=Home+Value+Tax+Assessment+finance"
+      }
+    ],
+    "7.8.9": [
+      {
+        "d": "google.com",
+        "n": "Neighborhood Data",
+        "u": "https://www.google.com/search?q=Home+Value+Neighborhood+Data+finance"
+      }
+    ],
+    "7.9.1": [
+      {
+        "d": "google.com",
+        "n": "Landlord Basics",
+        "u": "https://www.google.com/search?q=Landlord+Tools+Landlord+Basics+finance"
+      }
+    ],
+    "7.9.2": [
+      {
+        "d": "google.com",
+        "n": "Tenant Screening",
+        "u": "https://www.google.com/search?q=Landlord+Tools+Tenant+Screening+finance"
+      }
+    ],
+    "7.9.3": [
+      {
+        "d": "google.com",
+        "n": "Rent Collection",
+        "u": "https://www.google.com/search?q=Landlord+Tools+Rent+Collection+finance"
+      }
+    ],
+    "7.9.4": [
+      {
+        "d": "google.com",
+        "n": "Maintenance",
+        "u": "https://www.google.com/search?q=Landlord+Tools+Maintenance+finance"
+      }
+    ],
+    "7.9.6": [
+      {
+        "d": "google.com",
+        "n": "Eviction Process",
+        "u": "https://www.google.com/search?q=Landlord+Tools+Eviction+Process+finance"
+      }
+    ],
+    "7.9.7": [
+      {
+        "d": "google.com",
+        "n": "Property Manager",
+        "u": "https://www.google.com/search?q=Landlord+Tools+Property+Manager+finance"
+      }
+    ],
+    "7.9.8": [
+      {
+        "d": "google.com",
+        "n": "Legal Compliance",
+        "u": "https://www.google.com/search?q=Landlord+Tools+Legal+Compliance+finance"
+      }
+    ],
+    "7.9.9": [
+      {
+        "d": "google.com",
+        "n": "Accounting",
+        "u": "https://www.google.com/search?q=Landlord+Tools+Accounting+finance"
+      }
+    ],
+    "8.1.1": [
+      {
+        "d": "upwork.com",
+        "n": "Upwork",
+        "u": "https://www.upwork.com"
+      }
+    ],
+    "8.1.2": [
+      {
+        "d": "fiverr.com",
+        "n": "Fiverr",
+        "u": "https://www.fiverr.com"
+      }
+    ],
+    "8.1.3": [
+      {
+        "d": "toptal.com",
+        "n": "Toptal",
+        "u": "https://www.toptal.com"
+      }
+    ],
+    "8.1.4": [
+      {
+        "d": "google.com",
+        "n": "Freelance Writing",
+        "u": "https://www.google.com/search?q=Freelancing+Freelance+Writing+finance"
+      }
+    ],
+    "8.1.6": [
+      {
+        "d": "google.com",
+        "n": "Freelance Design",
+        "u": "https://www.google.com/search?q=Freelancing+Freelance+Design+finance"
+      }
+    ],
+    "8.1.7": [
+      {
+        "d": "google.com",
+        "n": "Freelance Dev",
+        "u": "https://www.google.com/search?q=Freelancing+Freelance+Dev+finance"
+      }
+    ],
+    "8.1.8": [
+      {
+        "d": "google.com",
+        "n": "Set Your Rates",
+        "u": "https://www.google.com/search?q=Freelancing+Set+Your+Rates+finance"
+      }
+    ],
+    "8.1.9": [
+      {
+        "d": "google.com",
+        "n": "Client Management",
+        "u": "https://www.google.com/search?q=Freelancing+Client+Management+finance"
+      }
+    ],
+    "8.2.1": [
+      {
+        "d": "etsy.com",
+        "n": "Etsy",
+        "u": "https://www.etsy.com"
+      }
+    ],
+    "8.2.2": [
+      {
+        "d": "ebay.com",
+        "n": "eBay",
+        "u": "https://www.ebay.com"
+      }
+    ],
+    "8.2.3": [
+      {
+        "d": "google.com",
+        "n": "Amazon FBA",
+        "u": "https://www.google.com/search?q=Sell+Online+Amazon+FBA+finance"
+      }
+    ],
+    "8.2.4": [
+      {
+        "d": "google.com",
+        "n": "Shopify",
+        "u": "https://www.google.com/search?q=Sell+Online+Shopify+finance"
+      }
+    ],
+    "8.2.6": [
+      {
+        "d": "google.com",
+        "n": "Poshmark",
+        "u": "https://www.google.com/search?q=Sell+Online+Poshmark+finance"
+      }
+    ],
+    "8.2.7": [
+      {
+        "d": "google.com",
+        "n": "Print on Demand",
+        "u": "https://www.google.com/search?q=Sell+Online+Print+on+Demand+finance"
+      }
+    ],
+    "8.2.8": [
+      {
+        "d": "google.com",
+        "n": "Digital Products",
+        "u": "https://www.google.com/search?q=Sell+Online+Digital+Products+finance"
+      }
+    ],
+    "8.2.9": [
+      {
+        "d": "google.com",
+        "n": "Marketplace Comparison",
+        "u": "https://www.google.com/search?q=Sell+Online+Marketplace+Comparison+finance"
+      }
+    ],
+    "8.3.1": [
+      {
+        "d": "google.com",
+        "n": "YouTube Monetization",
+        "u": "https://www.google.com/search?q=Content+Creation+YouTube+Monetization+finance"
+      }
+    ],
+    "8.3.2": [
+      {
+        "d": "google.com",
+        "n": "Twitch Streaming",
+        "u": "https://www.google.com/search?q=Content+Creation+Twitch+Streaming+finance"
+      }
+    ],
+    "8.3.3": [
+      {
+        "d": "google.com",
+        "n": "Podcast Revenue",
+        "u": "https://www.google.com/search?q=Content+Creation+Podcast+Revenue+finance"
+      }
+    ],
+    "8.3.4": [
+      {
+        "d": "google.com",
+        "n": "Newsletter Income",
+        "u": "https://www.google.com/search?q=Content+Creation+Newsletter+Income+finance"
+      }
+    ],
+    "8.3.6": [
+      {
+        "d": "google.com",
+        "n": "Affiliate Marketing",
+        "u": "https://www.google.com/search?q=Content+Creation+Affiliate+Marketing+finance"
+      }
+    ],
+    "8.3.7": [
+      {
+        "d": "google.com",
+        "n": "Sponsorship Deals",
+        "u": "https://www.google.com/search?q=Content+Creation+Sponsorship+Deals+finance"
+      }
+    ],
+    "8.3.8": [
+      {
+        "d": "google.com",
+        "n": "Patreon & Memberships",
+        "u": "https://www.google.com/search?q=Content+Creation+Patreon+%26+Memberships+finance"
+      }
+    ],
+    "8.3.9": [
+      {
+        "d": "google.com",
+        "n": "Creator Economy Guide",
+        "u": "https://www.google.com/search?q=Content+Creation+Creator+Economy+Guide+finance"
+      }
+    ],
+    "8.4.1": [
+      {
+        "d": "google.com",
+        "n": "DoorDash",
+        "u": "https://www.google.com/search?q=Gig+Economy+DoorDash+finance"
+      }
+    ],
+    "8.4.2": [
+      {
+        "d": "google.com",
+        "n": "Uber & Lyft",
+        "u": "https://www.google.com/search?q=Gig+Economy+Uber+%26+Lyft+finance"
+      }
+    ],
+    "8.4.3": [
+      {
+        "d": "instacart.com",
+        "n": "Instacart",
+        "u": "https://www.instacart.com"
+      }
+    ],
+    "8.4.4": [
+      {
+        "d": "google.com",
+        "n": "TaskRabbit",
+        "u": "https://www.google.com/search?q=Gig+Economy+TaskRabbit+finance"
+      }
+    ],
+    "8.4.6": [
+      {
+        "d": "google.com",
+        "n": "Rover (Pet Sitting)",
+        "u": "https://www.google.com/search?q=Gig+Economy+Rover+%28Pet+Sitting%29+finance"
+      }
+    ],
+    "8.4.7": [
+      {
+        "d": "google.com",
+        "n": "Tutoring",
+        "u": "https://www.google.com/search?q=Gig+Economy+Tutoring+finance"
+      }
+    ],
+    "8.4.8": [
+      {
+        "d": "google.com",
+        "n": "Compare Gig Apps",
+        "u": "https://www.google.com/search?q=Gig+Economy+Compare+Gig+Apps+finance"
+      }
+    ],
+    "8.4.9": [
+      {
+        "d": "google.com",
+        "n": "Gig Tax Guide",
+        "u": "https://www.google.com/search?q=Gig+Economy+Gig+Tax+Guide+finance"
+      }
+    ],
+    "8.6.1": [
+      {
+        "d": "google.com",
+        "n": "Dividend Income",
+        "u": "https://www.google.com/search?q=Passive+Income+Dividend+Income+finance"
+      }
+    ],
+    "8.6.2": [
+      {
+        "d": "google.com",
+        "n": "Rental Income",
+        "u": "https://www.google.com/search?q=Passive+Income+Rental+Income+finance"
+      }
+    ],
+    "8.6.3": [
+      {
+        "d": "google.com",
+        "n": "Digital Products",
+        "u": "https://www.google.com/search?q=Passive+Income+Digital+Products+finance"
+      }
+    ],
+    "8.6.4": [
+      {
+        "d": "google.com",
+        "n": "Royalties",
+        "u": "https://www.google.com/search?q=Passive+Income+Royalties+finance"
+      }
+    ],
+    "8.6.6": [
+      {
+        "d": "google.com",
+        "n": "Peer Lending",
+        "u": "https://www.google.com/search?q=Passive+Income+Peer+Lending+finance"
+      }
+    ],
+    "8.6.7": [
+      {
+        "d": "google.com",
+        "n": "Course Creation",
+        "u": "https://www.google.com/search?q=Passive+Income+Course+Creation+finance"
+      }
+    ],
+    "8.6.8": [
+      {
+        "d": "google.com",
+        "n": "Affiliate Sites",
+        "u": "https://www.google.com/search?q=Passive+Income+Affiliate+Sites+finance"
+      }
+    ],
+    "8.6.9": [
+      {
+        "d": "google.com",
+        "n": "Passive Income Ideas",
+        "u": "https://www.google.com/search?q=Passive+Income+Passive+Income+Ideas+finance"
+      }
+    ],
+    "8.7.1": [
+      {
+        "d": "google.com",
+        "n": "Retail Arbitrage",
+        "u": "https://www.google.com/search?q=Reselling+%26+Flipping+Retail+Arbitrage+finance"
+      }
+    ],
+    "8.7.2": [
+      {
+        "d": "google.com",
+        "n": "Thrift Flipping",
+        "u": "https://www.google.com/search?q=Reselling+%26+Flipping+Thrift+Flipping+finance"
+      }
+    ],
+    "8.7.3": [
+      {
+        "d": "google.com",
+        "n": "Sneaker Resale",
+        "u": "https://www.google.com/search?q=Reselling+%26+Flipping+Sneaker+Resale+finance"
+      }
+    ],
+    "8.7.4": [
+      {
+        "d": "google.com",
+        "n": "Book Reselling",
+        "u": "https://www.google.com/search?q=Reselling+%26+Flipping+Book+Reselling+finance"
+      }
+    ],
+    "8.7.6": [
+      {
+        "d": "google.com",
+        "n": "Electronics Flipping",
+        "u": "https://www.google.com/search?q=Reselling+%26+Flipping+Electronics+Flipping+finance"
+      }
+    ],
+    "8.7.7": [
+      {
+        "d": "google.com",
+        "n": "Furniture Flipping",
+        "u": "https://www.google.com/search?q=Reselling+%26+Flipping+Furniture+Flipping+finance"
+      }
+    ],
+    "8.7.8": [
+      {
+        "d": "google.com",
+        "n": "Garage Sale Finds",
+        "u": "https://www.google.com/search?q=Reselling+%26+Flipping+Garage+Sale+Finds+finance"
+      }
+    ],
+    "8.7.9": [
+      {
+        "d": "google.com",
+        "n": "Flipping Tools",
+        "u": "https://www.google.com/search?q=Reselling+%26+Flipping+Flipping+Tools+finance"
+      }
+    ],
+    "8.8.1": [
+      {
+        "d": "google.com",
+        "n": "LLC vs Sole Prop",
+        "u": "https://www.google.com/search?q=Small+Business+Basics+LLC+vs+Sole+Prop+finance"
+      }
+    ],
+    "8.8.2": [
+      {
+        "d": "google.com",
+        "n": "Business License",
+        "u": "https://www.google.com/search?q=Small+Business+Basics+Business+License+finance"
+      }
+    ],
+    "8.8.3": [
+      {
+        "d": "google.com",
+        "n": "Business Banking",
+        "u": "https://www.google.com/search?q=Small+Business+Basics+Business+Banking+finance"
+      }
+    ],
+    "8.8.4": [
+      {
+        "d": "google.com",
+        "n": "Accounting Basics",
+        "u": "https://www.google.com/search?q=Small+Business+Basics+Accounting+Basics+finance"
+      }
+    ],
+    "8.8.6": [
+      {
+        "d": "google.com",
+        "n": "Business Insurance",
+        "u": "https://www.google.com/search?q=Small+Business+Basics+Business+Insurance+finance"
+      }
+    ],
+    "8.8.7": [
+      {
+        "d": "google.com",
+        "n": "Contracts & Invoicing",
+        "u": "https://www.google.com/search?q=Small+Business+Basics+Contracts+%26+Invoicing+finance"
+      }
+    ],
+    "8.8.8": [
+      {
+        "d": "google.com",
+        "n": "Pricing Strategy",
+        "u": "https://www.google.com/search?q=Small+Business+Basics+Pricing+Strategy+finance"
+      }
+    ],
+    "8.8.9": [
+      {
+        "d": "google.com",
+        "n": "SBA Resources",
+        "u": "https://www.google.com/search?q=Small+Business+Basics+SBA+Resources+finance"
+      }
+    ],
+    "8.9.1": [
+      {
+        "d": "google.com",
+        "n": "Best Side Hustles 2026",
+        "u": "https://www.google.com/search?q=Side+Hustle+Ideas+Best+Side+Hustles+2026+finance"
+      }
+    ],
+    "8.9.2": [
+      {
+        "d": "google.com",
+        "n": "Low-Startup Cost",
+        "u": "https://www.google.com/search?q=Side+Hustle+Ideas+Low-Startup+Cost+finance"
+      }
+    ],
+    "8.9.3": [
+      {
+        "d": "google.com",
+        "n": "Skills-Based",
+        "u": "https://www.google.com/search?q=Side+Hustle+Ideas+Skills-Based+finance"
+      }
+    ],
+    "8.9.4": [
+      {
+        "d": "google.com",
+        "n": "Weekend Only",
+        "u": "https://www.google.com/search?q=Side+Hustle+Ideas+Weekend+Only+finance"
+      }
+    ],
+    "8.9.6": [
+      {
+        "d": "google.com",
+        "n": "Online Only",
+        "u": "https://www.google.com/search?q=Side+Hustle+Ideas+Online+Only+finance"
+      }
+    ],
+    "8.9.7": [
+      {
+        "d": "google.com",
+        "n": "High-Earning",
+        "u": "https://www.google.com/search?q=Side+Hustle+Ideas+High-Earning+finance"
+      }
+    ],
+    "8.9.8": [
+      {
+        "d": "google.com",
+        "n": "r/sidehustle",
+        "u": "https://www.google.com/search?q=Side+Hustle+Ideas+r%2Fsidehustle+finance"
+      }
+    ],
+    "8.9.9": [
+      {
+        "d": "google.com",
+        "n": "Side Hustle Podcasts",
+        "u": "https://www.google.com/search?q=Side+Hustle+Ideas+Side+Hustle+Podcasts+finance"
+      }
+    ],
+    "9.1.1": [
+      {
+        "d": "linkedin.com",
+        "n": "LinkedIn Jobs",
+        "u": "https://www.linkedin.com/jobs"
+      }
+    ],
+    "9.1.2": [
+      {
+        "d": "indeed.com",
+        "n": "Indeed",
+        "u": "https://www.indeed.com"
+      }
+    ],
+    "9.1.3": [
+      {
+        "d": "glassdoor.com",
+        "n": "Glassdoor",
+        "u": "https://www.glassdoor.com"
+      }
+    ],
+    "9.1.4": [
+      {
+        "d": "ziprecruiter.com",
+        "n": "ZipRecruiter",
+        "u": "https://www.ziprecruiter.com"
+      }
+    ],
+    "9.1.6.1": [
+      {
+        "d": "google.com",
+        "n": "We Work Remotely",
+        "u": "https://www.google.com/search?q=Remote+Jobs+We+Work+Remotely+finance"
+      }
+    ],
+    "9.1.6.2": [
+      {
+        "d": "google.com",
+        "n": "Remote.co",
+        "u": "https://www.google.com/search?q=Remote+Jobs+Remote.co+finance"
+      }
+    ],
+    "9.1.6.3": [
+      {
+        "d": "google.com",
+        "n": "FlexJobs",
+        "u": "https://www.google.com/search?q=Remote+Jobs+FlexJobs+finance"
+      }
+    ],
+    "9.1.6.4": [
+      {
+        "d": "google.com",
+        "n": "AngelList Remote",
+        "u": "https://www.google.com/search?q=Remote+Jobs+AngelList+Remote+finance"
+      }
+    ],
+    "9.1.6.6": [
+      {
+        "d": "google.com",
+        "n": "Remotive",
+        "u": "https://www.google.com/search?q=Remote+Jobs+Remotive+finance"
+      }
+    ],
+    "9.1.6.7": [
+      {
+        "d": "google.com",
+        "n": "Remote OK",
+        "u": "https://www.google.com/search?q=Remote+Jobs+Remote+OK+finance"
+      }
+    ],
+    "9.1.6.8": [
+      {
+        "d": "google.com",
+        "n": "Compare Remote Boards",
+        "u": "https://www.google.com/search?q=Remote+Jobs+Compare+Remote+Boards+finance"
+      }
+    ],
+    "9.1.6.9": [
+      {
+        "d": "google.com",
+        "n": "Remote Work Tips",
+        "u": "https://www.google.com/search?q=Remote+Jobs+Remote+Work+Tips+finance"
+      }
+    ],
+    "9.1.7": [
+      {
+        "d": "google.com",
+        "n": "Industry-Specific",
+        "u": "https://www.google.com/search?q=Find+a+Job+Industry-Specific+finance"
+      }
+    ],
+    "9.1.8": [
+      {
+        "d": "google.com",
+        "n": "Government Jobs",
+        "u": "https://www.google.com/search?q=Find+a+Job+Government+Jobs+finance"
+      }
+    ],
+    "9.1.9": [
+      {
+        "d": "google.com",
+        "n": "Job Search Strategy",
+        "u": "https://www.google.com/search?q=Find+a+Job+Job+Search+Strategy+finance"
+      }
+    ],
+    "9.2.1": [
+      {
+        "d": "google.com",
+        "n": "Resume Builder",
+        "u": "https://www.google.com/search?q=Resume+%26+Interview+Resume+Builder+finance"
+      }
+    ],
+    "9.2.2": [
+      {
+        "d": "google.com",
+        "n": "Resume Templates",
+        "u": "https://www.google.com/search?q=Resume+%26+Interview+Resume+Templates+finance"
+      }
+    ],
+    "9.2.3": [
+      {
+        "d": "google.com",
+        "n": "Cover Letter",
+        "u": "https://www.google.com/search?q=Resume+%26+Interview+Cover+Letter+finance"
+      }
+    ],
+    "9.2.4.1": [
+      {
+        "d": "google.com",
+        "n": "Behavioral Questions",
+        "u": "https://www.google.com/search?q=Interview+Prep+Behavioral+Questions+finance"
+      }
+    ],
+    "9.2.4.2": [
+      {
+        "d": "google.com",
+        "n": "Technical Questions",
+        "u": "https://www.google.com/search?q=Interview+Prep+Technical+Questions+finance"
+      }
+    ],
+    "9.2.4.3": [
+      {
+        "d": "google.com",
+        "n": "STAR Method",
+        "u": "https://www.google.com/search?q=Interview+Prep+STAR+Method+finance"
+      }
+    ],
+    "9.2.4.4": [
+      {
+        "d": "google.com",
+        "n": "Mock Interviews",
+        "u": "https://www.google.com/search?q=Interview+Prep+Mock+Interviews+finance"
+      }
+    ],
+    "9.2.4.6": [
+      {
+        "d": "google.com",
+        "n": "Company Research",
+        "u": "https://www.google.com/search?q=Interview+Prep+Company+Research+finance"
+      }
+    ],
+    "9.2.4.7": [
+      {
+        "d": "google.com",
+        "n": "Virtual Interview Tips",
+        "u": "https://www.google.com/search?q=Interview+Prep+Virtual+Interview+Tips+finance"
+      }
+    ],
+    "9.2.4.8": [
+      {
+        "d": "google.com",
+        "n": "Follow-Up Emails",
+        "u": "https://www.google.com/search?q=Interview+Prep+Follow-Up+Emails+finance"
+      }
+    ],
+    "9.2.4.9": [
+      {
+        "d": "google.com",
+        "n": "Interviewing.io",
+        "u": "https://www.google.com/search?q=Interview+Prep+Interviewing.io+finance"
+      }
+    ],
+    "9.2.6": [
+      {
+        "d": "google.com",
+        "n": "LinkedIn Profile",
+        "u": "https://www.google.com/search?q=Resume+%26+Interview+LinkedIn+Profile+finance"
+      }
+    ],
+    "9.2.7": [
+      {
+        "d": "google.com",
+        "n": "Portfolio Sites",
+        "u": "https://www.google.com/search?q=Resume+%26+Interview+Portfolio+Sites+finance"
+      }
+    ],
+    "9.2.8": [
+      {
+        "d": "google.com",
+        "n": "ATS Optimization",
+        "u": "https://www.google.com/search?q=Resume+%26+Interview+ATS+Optimization+finance"
+      }
+    ],
+    "9.2.9": [
+      {
+        "d": "google.com",
+        "n": "Reference Guide",
+        "u": "https://www.google.com/search?q=Resume+%26+Interview+Reference+Guide+finance"
+      }
+    ],
+    "9.3.1": [
+      {
+        "d": "google.com",
+        "n": "Know Your Worth",
+        "u": "https://www.google.com/search?q=Negotiate+Salary+Know+Your+Worth+finance"
+      }
+    ],
+    "9.3.2": [
+      {
+        "d": "google.com",
+        "n": "Salary Research",
+        "u": "https://www.google.com/search?q=Negotiate+Salary+Salary+Research+finance"
+      }
+    ],
+    "9.3.3": [
+      {
+        "d": "google.com",
+        "n": "Glassdoor Salaries",
+        "u": "https://www.google.com/search?q=Negotiate+Salary+Glassdoor+Salaries+finance"
+      }
+    ],
+    "9.3.4": [
+      {
+        "d": "google.com",
+        "n": "Levels.fyi",
+        "u": "https://www.google.com/search?q=Negotiate+Salary+Levels.fyi+finance"
+      }
+    ],
+    "9.3.6": [
+      {
+        "d": "google.com",
+        "n": "Negotiation Scripts",
+        "u": "https://www.google.com/search?q=Negotiate+Salary+Negotiation+Scripts+finance"
+      }
+    ],
+    "9.3.7": [
+      {
+        "d": "google.com",
+        "n": "Benefits Negotiation",
+        "u": "https://www.google.com/search?q=Negotiate+Salary+Benefits+Negotiation+finance"
+      }
+    ],
+    "9.3.8": [
+      {
+        "d": "google.com",
+        "n": "Counter Offer",
+        "u": "https://www.google.com/search?q=Negotiate+Salary+Counter+Offer+finance"
+      }
+    ],
+    "9.3.9": [
+      {
+        "d": "google.com",
+        "n": "Equity & Stock Options",
+        "u": "https://www.google.com/search?q=Negotiate+Salary+Equity+%26+Stock+Options+finance"
+      }
+    ],
+    "9.4.1": [
+      {
+        "d": "google.com",
+        "n": "Coursera",
+        "u": "https://www.google.com/search?q=Learn+New+Skills+Coursera+finance"
+      }
+    ],
+    "9.4.2": [
+      {
+        "d": "google.com",
+        "n": "Udemy",
+        "u": "https://www.google.com/search?q=Learn+New+Skills+Udemy+finance"
+      }
+    ],
+    "9.4.3": [
+      {
+        "d": "google.com",
+        "n": "LinkedIn Learning",
+        "u": "https://www.google.com/search?q=Learn+New+Skills+LinkedIn+Learning+finance"
+      }
+    ],
+    "9.4.4": [
+      {
+        "d": "google.com",
+        "n": "Google Certificates",
+        "u": "https://www.google.com/search?q=Learn+New+Skills+Google+Certificates+finance"
+      }
+    ],
+    "9.4.6": [
+      {
+        "d": "google.com",
+        "n": "AWS Certifications",
+        "u": "https://www.google.com/search?q=Learn+New+Skills+AWS+Certifications+finance"
+      }
+    ],
+    "9.4.7": [
+      {
+        "d": "google.com",
+        "n": "Project Management",
+        "u": "https://www.google.com/search?q=Learn+New+Skills+Project+Management+finance"
+      }
+    ],
+    "9.4.8": [
+      {
+        "d": "google.com",
+        "n": "Data Analytics",
+        "u": "https://www.google.com/search?q=Learn+New+Skills+Data+Analytics+finance"
+      }
+    ],
+    "9.4.9": [
+      {
+        "d": "google.com",
+        "n": "Compare Platforms",
+        "u": "https://www.google.com/search?q=Learn+New+Skills+Compare+Platforms+finance"
+      }
+    ],
+    "9.6.1": [
+      {
+        "d": "google.com",
+        "n": "Assess Your Skills",
+        "u": "https://www.google.com/search?q=Career+Change+Assess+Your+Skills+finance"
+      }
+    ],
+    "9.6.2": [
+      {
+        "d": "google.com",
+        "n": "Career Quiz",
+        "u": "https://www.google.com/search?q=Career+Change+Career+Quiz+finance"
+      }
+    ],
+    "9.6.3": [
+      {
+        "d": "google.com",
+        "n": "Transferable Skills",
+        "u": "https://www.google.com/search?q=Career+Change+Transferable+Skills+finance"
+      }
+    ],
+    "9.6.4": [
+      {
+        "d": "google.com",
+        "n": "Industry Research",
+        "u": "https://www.google.com/search?q=Career+Change+Industry+Research+finance"
+      }
+    ],
+    "9.6.6": [
+      {
+        "d": "google.com",
+        "n": "Bootcamps",
+        "u": "https://www.google.com/search?q=Career+Change+Bootcamps+finance"
+      }
+    ],
+    "9.6.7": [
+      {
+        "d": "google.com",
+        "n": "Networking Strategy",
+        "u": "https://www.google.com/search?q=Career+Change+Networking+Strategy+finance"
+      }
+    ],
+    "9.6.8": [
+      {
+        "d": "google.com",
+        "n": "Career Coaches",
+        "u": "https://www.google.com/search?q=Career+Change+Career+Coaches+finance"
+      }
+    ],
+    "9.6.9": [
+      {
+        "d": "google.com",
+        "n": "Pivot Stories",
+        "u": "https://www.google.com/search?q=Career+Change+Pivot+Stories+finance"
+      }
+    ],
+    "9.7.1": [
+      {
+        "d": "google.com",
+        "n": "Leadership Skills",
+        "u": "https://www.google.com/search?q=Professional+Growth+Leadership+Skills+finance"
+      }
+    ],
+    "9.7.2": [
+      {
+        "d": "google.com",
+        "n": "Communication Skills",
+        "u": "https://www.google.com/search?q=Professional+Growth+Communication+Skills+finance"
+      }
+    ],
+    "9.7.3": [
+      {
+        "d": "google.com",
+        "n": "Public Speaking",
+        "u": "https://www.google.com/search?q=Professional+Growth+Public+Speaking+finance"
+      }
+    ],
+    "9.7.4": [
+      {
+        "d": "google.com",
+        "n": "Executive Presence",
+        "u": "https://www.google.com/search?q=Professional+Growth+Executive+Presence+finance"
+      }
+    ],
+    "9.7.6": [
+      {
+        "d": "google.com",
+        "n": "Mentorship",
+        "u": "https://www.google.com/search?q=Professional+Growth+Mentorship+finance"
+      }
+    ],
+    "9.7.7": [
+      {
+        "d": "google.com",
+        "n": "Networking",
+        "u": "https://www.google.com/search?q=Professional+Growth+Networking+finance"
+      }
+    ],
+    "9.7.8": [
+      {
+        "d": "google.com",
+        "n": "Personal Branding",
+        "u": "https://www.google.com/search?q=Professional+Growth+Personal+Branding+finance"
+      }
+    ],
+    "9.7.9": [
+      {
+        "d": "google.com",
+        "n": "Professional Books",
+        "u": "https://www.google.com/search?q=Professional+Growth+Professional+Books+finance"
+      }
+    ],
+    "9.8.1": [
+      {
+        "d": "google.com",
+        "n": "Difficult Manager",
+        "u": "https://www.google.com/search?q=Workplace+Issues+Difficult+Manager+finance"
+      }
+    ],
+    "9.8.2": [
+      {
+        "d": "google.com",
+        "n": "Work-Life Balance",
+        "u": "https://www.google.com/search?q=Workplace+Issues+Work-Life+Balance+finance"
+      }
+    ],
+    "9.8.3": [
+      {
+        "d": "google.com",
+        "n": "Burnout Recovery",
+        "u": "https://www.google.com/search?q=Workplace+Issues+Burnout+Recovery+finance"
+      }
+    ],
+    "9.8.4": [
+      {
+        "d": "google.com",
+        "n": "Toxic Workplace",
+        "u": "https://www.google.com/search?q=Workplace+Issues+Toxic+Workplace+finance"
+      }
+    ],
+    "9.8.6": [
+      {
+        "d": "google.com",
+        "n": "Workplace Rights",
+        "u": "https://www.google.com/search?q=Workplace+Issues+Workplace+Rights+finance"
+      }
+    ],
+    "9.8.7": [
+      {
+        "d": "google.com",
+        "n": "HR Resources",
+        "u": "https://www.google.com/search?q=Workplace+Issues+HR+Resources+finance"
+      }
+    ],
+    "9.8.8": [
+      {
+        "d": "google.com",
+        "n": "When to Quit",
+        "u": "https://www.google.com/search?q=Workplace+Issues+When+to+Quit+finance"
+      }
+    ],
+    "9.8.9": [
+      {
+        "d": "google.com",
+        "n": "r/careeradvice",
+        "u": "https://www.google.com/search?q=Workplace+Issues+r%2Fcareeradvice+finance"
+      }
+    ],
+    "9.9.1": [
+      {
+        "d": "google.com",
+        "n": "Career Podcasts",
+        "u": "https://www.google.com/search?q=Career+Resources+Career+Podcasts+finance"
+      }
+    ],
+    "9.9.2": [
+      {
+        "d": "google.com",
+        "n": "Career YouTubers",
+        "u": "https://www.google.com/search?q=Career+Resources+Career+YouTubers+finance"
+      }
+    ],
+    "9.9.3": [
+      {
+        "d": "google.com",
+        "n": "Career Newsletters",
+        "u": "https://www.google.com/search?q=Career+Resources+Career+Newsletters+finance"
+      }
+    ],
+    "9.9.4": [
+      {
+        "d": "google.com",
+        "n": "Professional Associations",
+        "u": "https://www.google.com/search?q=Career+Resources+Professional+Associations+finance"
+      }
+    ],
+    "9.9.6": [
+      {
+        "d": "google.com",
+        "n": "Conferences",
+        "u": "https://www.google.com/search?q=Career+Resources+Conferences+finance"
+      }
+    ],
+    "9.9.7": [
+      {
+        "d": "google.com",
+        "n": "Salary Surveys",
+        "u": "https://www.google.com/search?q=Career+Resources+Salary+Surveys+finance"
+      }
+    ],
+    "9.9.8": [
+      {
+        "d": "google.com",
+        "n": "Industry Reports",
+        "u": "https://www.google.com/search?q=Career+Resources+Industry+Reports+finance"
+      }
+    ],
+    "9.9.9": [
+      {
+        "d": "google.com",
+        "n": "Career Communities",
+        "u": "https://www.google.com/search?q=Career+Resources+Career+Communities+finance"
+      }
+    ]
+  }
+}

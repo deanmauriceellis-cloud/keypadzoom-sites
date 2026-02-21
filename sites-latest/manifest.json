@@ -1,0 +1,56 @@
+{
+  "version": "2026.02.21.2",
+  "updated": "2026-02-21T06:00:00Z",
+  "cdnUrl": "https://deanmauriceellis-cloud.github.io/keypadzoom-sites/sites-latest/",
+  "brandsChecksum": "7bfaccc9",
+  "keys": {
+    "1": {
+      "file": "key1-social.json",
+      "label": "Social Media",
+      "endpoints": 568,
+      "checksum": "91aee7ce"
+    },
+    "2": {
+      "file": "key2-health.json",
+      "label": "Health & Wellness",
+      "endpoints": 540,
+      "checksum": "c4443b9d"
+    },
+    "3": {
+      "file": "key3-games.json",
+      "label": "Games",
+      "endpoints": 568,
+      "checksum": "d5571ad9"
+    },
+    "4": {
+      "file": "key4-technology.json",
+      "label": "Technology",
+      "endpoints": 701,
+      "checksum": "6dca4f14"
+    },
+    "6": {
+      "file": "key6-entertainment.json",
+      "label": "Entertainment",
+      "endpoints": 554,
+      "checksum": "50fa35fc"
+    },
+    "7": {
+      "file": "key7-news.json",
+      "label": "News",
+      "endpoints": 533,
+      "checksum": "f7efc067"
+    },
+    "8": {
+      "file": "key8-money.json",
+      "label": "Money & Career",
+      "endpoints": 568,
+      "checksum": "80229233"
+    },
+    "9": {
+      "file": "key9-shopping.json",
+      "label": "Shopping",
+      "endpoints": 526,
+      "checksum": "243f3886"
+    }
+  }
+}

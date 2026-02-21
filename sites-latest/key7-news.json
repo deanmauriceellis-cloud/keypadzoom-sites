@@ -1,0 +1,3737 @@
+{
+  "key": 7,
+  "label": "News",
+  "sites": {
+    "1.1.1": [
+      {
+        "d": "google.com",
+        "n": "Top 5 Stories",
+        "u": "https://www.google.com/search?q=Morning+Briefing+Top+5+Stories"
+      }
+    ],
+    "1.1.2": [
+      {
+        "d": "google.com",
+        "n": "US Headlines",
+        "u": "https://www.google.com/search?q=Morning+Briefing+US+Headlines"
+      }
+    ],
+    "1.1.3": [
+      {
+        "d": "google.com",
+        "n": "World Headlines",
+        "u": "https://www.google.com/search?q=Morning+Briefing+World+Headlines"
+      }
+    ],
+    "1.1.4": [
+      {
+        "d": "google.com",
+        "n": "Market Open",
+        "u": "https://www.google.com/search?q=Morning+Briefing+Market+Open"
+      }
+    ],
+    "1.1.6": [
+      {
+        "d": "google.com",
+        "n": "Overnight Recap",
+        "u": "https://www.google.com/search?q=Morning+Briefing+Overnight+Recap"
+      }
+    ],
+    "1.1.7": [
+      {
+        "d": "google.com",
+        "n": "Weather Today",
+        "u": "https://www.google.com/search?q=Morning+Briefing+Weather+Today"
+      }
+    ],
+    "1.1.8": [
+      {
+        "d": "google.com",
+        "n": "Sports Scores",
+        "u": "https://www.google.com/search?q=Morning+Briefing+Sports+Scores"
+      }
+    ],
+    "1.1.9": [
+      {
+        "d": "google.com",
+        "n": "Today's Calendar",
+        "u": "https://www.google.com/search?q=Morning+Briefing+Today%27s+Calendar"
+      }
+    ],
+    "1.2.1": [
+      {
+        "d": "google.com",
+        "n": "Live Updates Feed",
+        "u": "https://www.google.com/search?q=Live+%26+Breaking+Live+Updates+Feed"
+      }
+    ],
+    "1.2.2": [
+      {
+        "d": "google.com",
+        "n": "Developing Stories",
+        "u": "https://www.google.com/search?q=Live+%26+Breaking+Developing+Stories"
+      }
+    ],
+    "1.2.3": [
+      {
+        "d": "google.com",
+        "n": "Press Conferences",
+        "u": "https://www.google.com/search?q=Live+%26+Breaking+Press+Conferences"
+      }
+    ],
+    "1.2.4": [
+      {
+        "d": "google.com",
+        "n": "Emergency Alerts",
+        "u": "https://www.google.com/search?q=Live+%26+Breaking+Emergency+Alerts"
+      }
+    ],
+    "1.2.6": [
+      {
+        "d": "google.com",
+        "n": "Eyewitness Video",
+        "u": "https://www.google.com/search?q=Live+%26+Breaking+Eyewitness+Video"
+      }
+    ],
+    "1.2.7": [
+      {
+        "d": "google.com",
+        "n": "Live TV Streams",
+        "u": "https://www.google.com/search?q=Live+%26+Breaking+Live+TV+Streams"
+      }
+    ],
+    "1.2.8": [
+      {
+        "d": "google.com",
+        "n": "Push Alert Sources",
+        "u": "https://www.google.com/search?q=Live+%26+Breaking+Push+Alert+Sources"
+      }
+    ],
+    "1.2.9": [
+      {
+        "d": "google.com",
+        "n": "Breaking Archives",
+        "u": "https://www.google.com/search?q=Live+%26+Breaking+Breaking+Archives"
+      }
+    ],
+    "1.3.1": [
+      {
+        "d": "google.com",
+        "n": "Today's Top Stories",
+        "u": "https://www.google.com/search?q=Evening+Wrap-Up+Today%27s+Top+Stories"
+      }
+    ],
+    "1.3.2": [
+      {
+        "d": "google.com",
+        "n": "Most Read Today",
+        "u": "https://www.google.com/search?q=Evening+Wrap-Up+Most+Read+Today"
+      }
+    ],
+    "1.3.3": [
+      {
+        "d": "google.com",
+        "n": "Most Shared",
+        "u": "https://www.google.com/search?q=Evening+Wrap-Up+Most+Shared"
+      }
+    ],
+    "1.3.4": [
+      {
+        "d": "google.com",
+        "n": "Editor's Picks",
+        "u": "https://www.google.com/search?q=Evening+Wrap-Up+Editor%27s+Picks"
+      }
+    ],
+    "1.3.6": [
+      {
+        "d": "google.com",
+        "n": "Photo of the Day",
+        "u": "https://www.google.com/search?q=Evening+Wrap-Up+Photo+of+the+Day"
+      }
+    ],
+    "1.3.7": [
+      {
+        "d": "google.com",
+        "n": "Good News Today",
+        "u": "https://www.google.com/search?q=Evening+Wrap-Up+Good+News+Today"
+      }
+    ],
+    "1.3.8": [
+      {
+        "d": "google.com",
+        "n": "Tomorrow Preview",
+        "u": "https://www.google.com/search?q=Evening+Wrap-Up+Tomorrow+Preview"
+      }
+    ],
+    "1.3.9": [
+      {
+        "d": "google.com",
+        "n": "Weekend Lookahead",
+        "u": "https://www.google.com/search?q=Evening+Wrap-Up+Weekend+Lookahead"
+      }
+    ],
+    "1.4.1": [
+      {
+        "d": "apnews.com",
+        "n": "AP News",
+        "u": "https://apnews.com"
+      }
+    ],
+    "1.4.2": [
+      {
+        "d": "reuters.com",
+        "n": "Reuters",
+        "u": "https://www.reuters.com"
+      }
+    ],
+    "1.4.3": [
+      {
+        "d": "npr.org",
+        "n": "NPR",
+        "u": "https://www.npr.org"
+      }
+    ],
+    "1.4.4": [
+      {
+        "d": "google.com",
+        "n": "BBC News",
+        "u": "https://www.google.com/search?q=News+Sources+BBC+News"
+      }
+    ],
+    "1.4.6": [
+      {
+        "d": "cnn.com",
+        "n": "CNN",
+        "u": "https://www.cnn.com"
+      }
+    ],
+    "1.4.7": [
+      {
+        "d": "google.com",
+        "n": "NYT",
+        "u": "https://www.google.com/search?q=News+Sources+NYT"
+      }
+    ],
+    "1.4.8": [
+      {
+        "d": "washingtonpost.com",
+        "n": "Washington Post",
+        "u": "https://www.washingtonpost.com"
+      }
+    ],
+    "1.4.9": [
+      {
+        "d": "wsj.com",
+        "n": "Wall Street Journal",
+        "u": "https://www.wsj.com"
+      }
+    ],
+    "1.6.1": [
+      {
+        "d": "google.com",
+        "n": "Morning Brew",
+        "u": "https://www.google.com/search?q=Newsletters+Morning+Brew"
+      }
+    ],
+    "1.6.2": [
+      {
+        "d": "google.com",
+        "n": "The Skimm",
+        "u": "https://www.google.com/search?q=Newsletters+The+Skimm"
+      }
+    ],
+    "1.6.3": [
+      {
+        "d": "google.com",
+        "n": "Axios AM",
+        "u": "https://www.google.com/search?q=Newsletters+Axios+AM"
+      }
+    ],
+    "1.6.4": [
+      {
+        "d": "google.com",
+        "n": "1440 Daily Digest",
+        "u": "https://www.google.com/search?q=Newsletters+1440+Daily+Digest"
+      }
+    ],
+    "1.6.6": [
+      {
+        "d": "google.com",
+        "n": "TLDR Newsletter",
+        "u": "https://www.google.com/search?q=Newsletters+TLDR+Newsletter"
+      }
+    ],
+    "1.6.7": [
+      {
+        "d": "google.com",
+        "n": "Punchbowl News",
+        "u": "https://www.google.com/search?q=Newsletters+Punchbowl+News"
+      }
+    ],
+    "1.6.8": [
+      {
+        "d": "google.com",
+        "n": "Semafor",
+        "u": "https://www.google.com/search?q=Newsletters+Semafor"
+      }
+    ],
+    "1.6.9": [
+      {
+        "d": "google.com",
+        "n": "The Flip Side",
+        "u": "https://www.google.com/search?q=Newsletters+The+Flip+Side"
+      }
+    ],
+    "1.7.1": [
+      {
+        "d": "news.google.com",
+        "n": "Google News",
+        "u": "https://news.google.com"
+      }
+    ],
+    "1.7.2": [
+      {
+        "d": "google.com",
+        "n": "Apple News",
+        "u": "https://www.google.com/search?q=News+Aggregators+Apple+News"
+      }
+    ],
+    "1.7.3": [
+      {
+        "d": "google.com",
+        "n": "Flipboard",
+        "u": "https://www.google.com/search?q=News+Aggregators+Flipboard"
+      }
+    ],
+    "1.7.4": [
+      {
+        "d": "google.com",
+        "n": "SmartNews",
+        "u": "https://www.google.com/search?q=News+Aggregators+SmartNews"
+      }
+    ],
+    "1.7.6": [
+      {
+        "d": "google.com",
+        "n": "Feedly",
+        "u": "https://www.google.com/search?q=News+Aggregators+Feedly"
+      }
+    ],
+    "1.7.7": [
+      {
+        "d": "google.com",
+        "n": "Ground News",
+        "u": "https://www.google.com/search?q=News+Aggregators+Ground+News"
+      }
+    ],
+    "1.7.8": [
+      {
+        "d": "google.com",
+        "n": "AllSides",
+        "u": "https://www.google.com/search?q=News+Aggregators+AllSides"
+      }
+    ],
+    "1.7.9": [
+      {
+        "d": "google.com",
+        "n": "Techmeme",
+        "u": "https://www.google.com/search?q=News+Aggregators+Techmeme"
+      }
+    ],
+    "1.8.1": [
+      {
+        "d": "google.com",
+        "n": "Google Alerts",
+        "u": "https://www.google.com/alerts"
+      }
+    ],
+    "1.8.2": [
+      {
+        "d": "google.com",
+        "n": "RSS Feeds",
+        "u": "https://www.google.com/search?q=Alert+Setup+RSS+Feeds"
+      }
+    ],
+    "1.8.3": [
+      {
+        "d": "google.com",
+        "n": "Push Notifications",
+        "u": "https://www.google.com/search?q=Alert+Setup+Push+Notifications"
+      }
+    ],
+    "1.8.4": [
+      {
+        "d": "google.com",
+        "n": "Email Alerts",
+        "u": "https://www.google.com/search?q=Alert+Setup+Email+Alerts"
+      }
+    ],
+    "1.8.6": [
+      {
+        "d": "google.com",
+        "n": "Text Alerts",
+        "u": "https://www.google.com/search?q=Alert+Setup+Text+Alerts"
+      }
+    ],
+    "1.8.7": [
+      {
+        "d": "google.com",
+        "n": "Apple News Alerts",
+        "u": "https://www.google.com/search?q=Alert+Setup+Apple+News+Alerts"
+      }
+    ],
+    "1.8.8": [
+      {
+        "d": "google.com",
+        "n": "Topic Following",
+        "u": "https://www.google.com/search?q=Alert+Setup+Topic+Following"
+      }
+    ],
+    "1.8.9": [
+      {
+        "d": "google.com",
+        "n": "Custom Alert Rules",
+        "u": "https://www.google.com/search?q=Alert+Setup+Custom+Alert+Rules"
+      }
+    ],
+    "1.9.1": [
+      {
+        "d": "google.com",
+        "n": "60-Second Briefing",
+        "u": "https://www.google.com/search?q=Quick+Reads+60-Second+Briefing"
+      }
+    ],
+    "1.9.2": [
+      {
+        "d": "google.com",
+        "n": "Bullet Point News",
+        "u": "https://www.google.com/search?q=Quick+Reads+Bullet+Point+News"
+      }
+    ],
+    "1.9.3": [
+      {
+        "d": "google.com",
+        "n": "Infographics",
+        "u": "https://www.google.com/search?q=Quick+Reads+Infographics"
+      }
+    ],
+    "1.9.4": [
+      {
+        "d": "google.com",
+        "n": "News in Pictures",
+        "u": "https://www.google.com/search?q=Quick+Reads+News+in+Pictures"
+      }
+    ],
+    "1.9.6": [
+      {
+        "d": "google.com",
+        "n": "Maps & Charts",
+        "u": "https://www.google.com/search?q=Quick+Reads+Maps+%26+Charts"
+      }
+    ],
+    "1.9.7": [
+      {
+        "d": "google.com",
+        "n": "Timeline Explainers",
+        "u": "https://www.google.com/search?q=Quick+Reads+Timeline+Explainers"
+      }
+    ],
+    "1.9.8": [
+      {
+        "d": "google.com",
+        "n": "Quiz: This Week",
+        "u": "https://www.google.com/search?q=Quick+Reads+Quiz%3A+This+Week"
+      }
+    ],
+    "1.9.9": [
+      {
+        "d": "google.com",
+        "n": "News for Kids",
+        "u": "https://www.google.com/search?q=Quick+Reads+News+for+Kids"
+      }
+    ],
+    "2.1.1": [
+      {
+        "d": "google.com",
+        "n": "City News",
+        "u": "https://www.google.com/search?q=Local+Headlines+City+News"
+      }
+    ],
+    "2.1.2": [
+      {
+        "d": "google.com",
+        "n": "County News",
+        "u": "https://www.google.com/search?q=Local+Headlines+County+News"
+      }
+    ],
+    "2.1.3": [
+      {
+        "d": "google.com",
+        "n": "State News",
+        "u": "https://www.google.com/search?q=Local+Headlines+State+News"
+      }
+    ],
+    "2.1.4": [
+      {
+        "d": "google.com",
+        "n": "City Council",
+        "u": "https://www.google.com/search?q=Local+Headlines+City+Council"
+      }
+    ],
+    "2.1.6": [
+      {
+        "d": "google.com",
+        "n": "Development Plans",
+        "u": "https://www.google.com/search?q=Local+Headlines+Development+Plans"
+      }
+    ],
+    "2.1.7": [
+      {
+        "d": "google.com",
+        "n": "Budget & Taxes",
+        "u": "https://www.google.com/search?q=Local+Headlines+Budget+%26+Taxes"
+      }
+    ],
+    "2.1.8": [
+      {
+        "d": "google.com",
+        "n": "Infrastructure",
+        "u": "https://www.google.com/search?q=Local+Headlines+Infrastructure"
+      }
+    ],
+    "2.1.9": [
+      {
+        "d": "google.com",
+        "n": "Community Impact",
+        "u": "https://www.google.com/search?q=Local+Headlines+Community+Impact"
+      }
+    ],
+    "2.2.1": [
+      {
+        "d": "google.com",
+        "n": "Live Traffic Map",
+        "u": "https://www.google.com/search?q=Traffic+%26+Transit+Live+Traffic+Map"
+      }
+    ],
+    "2.2.2": [
+      {
+        "d": "google.com",
+        "n": "Accidents & Delays",
+        "u": "https://www.google.com/search?q=Traffic+%26+Transit+Accidents+%26+Delays"
+      }
+    ],
+    "2.2.3": [
+      {
+        "d": "google.com",
+        "n": "Road Closures",
+        "u": "https://www.google.com/search?q=Traffic+%26+Transit+Road+Closures"
+      }
+    ],
+    "2.2.4": [
+      {
+        "d": "google.com",
+        "n": "Bus & Rail Status",
+        "u": "https://www.google.com/search?q=Traffic+%26+Transit+Bus+%26+Rail+Status"
+      }
+    ],
+    "2.2.6": [
+      {
+        "d": "google.com",
+        "n": "Subway Alerts",
+        "u": "https://www.google.com/search?q=Traffic+%26+Transit+Subway+Alerts"
+      }
+    ],
+    "2.2.7": [
+      {
+        "d": "google.com",
+        "n": "Bike Routes",
+        "u": "https://www.google.com/search?q=Traffic+%26+Transit+Bike+Routes"
+      }
+    ],
+    "2.2.8": [
+      {
+        "d": "google.com",
+        "n": "Parking Updates",
+        "u": "https://www.google.com/search?q=Traffic+%26+Transit+Parking+Updates"
+      }
+    ],
+    "2.2.9": [
+      {
+        "d": "google.com",
+        "n": "Commute Planner",
+        "u": "https://www.google.com/search?q=Traffic+%26+Transit+Commute+Planner"
+      }
+    ],
+    "2.3.1": [
+      {
+        "d": "google.com",
+        "n": "Crime Map",
+        "u": "https://www.google.com/search?q=Crime+%26+Safety+Crime+Map"
+      }
+    ],
+    "2.3.2": [
+      {
+        "d": "google.com",
+        "n": "Police Reports",
+        "u": "https://www.google.com/search?q=Crime+%26+Safety+Police+Reports"
+      }
+    ],
+    "2.3.3": [
+      {
+        "d": "google.com",
+        "n": "Missing Persons",
+        "u": "https://www.google.com/search?q=Crime+%26+Safety+Missing+Persons"
+      }
+    ],
+    "2.3.4": [
+      {
+        "d": "google.com",
+        "n": "Scam Alerts",
+        "u": "https://www.google.com/search?q=Crime+%26+Safety+Scam+Alerts"
+      }
+    ],
+    "2.3.6": [
+      {
+        "d": "google.com",
+        "n": "Fire Reports",
+        "u": "https://www.google.com/search?q=Crime+%26+Safety+Fire+Reports"
+      }
+    ],
+    "2.3.7": [
+      {
+        "d": "google.com",
+        "n": "Safety Tips",
+        "u": "https://www.google.com/search?q=Crime+%26+Safety+Safety+Tips"
+      }
+    ],
+    "2.3.8": [
+      {
+        "d": "google.com",
+        "n": "Sex Offender Registry",
+        "u": "https://www.google.com/search?q=Crime+%26+Safety+Sex+Offender+Registry"
+      }
+    ],
+    "2.3.9": [
+      {
+        "d": "google.com",
+        "n": "Neighborhood Watch",
+        "u": "https://www.google.com/search?q=Crime+%26+Safety+Neighborhood+Watch"
+      }
+    ],
+    "2.4.1": [
+      {
+        "d": "google.com",
+        "n": "This Weekend",
+        "u": "https://www.google.com/search?q=Events+Near+Me+This+Weekend"
+      }
+    ],
+    "2.4.2": [
+      {
+        "d": "google.com",
+        "n": "Concerts & Music",
+        "u": "https://www.google.com/search?q=Events+Near+Me+Concerts+%26+Music"
+      }
+    ],
+    "2.4.3": [
+      {
+        "d": "google.com",
+        "n": "Festivals",
+        "u": "https://www.google.com/search?q=Events+Near+Me+Festivals"
+      }
+    ],
+    "2.4.4": [
+      {
+        "d": "google.com",
+        "n": "Farmers Markets",
+        "u": "https://www.google.com/search?q=Events+Near+Me+Farmers+Markets"
+      }
+    ],
+    "2.4.6": [
+      {
+        "d": "google.com",
+        "n": "Family Activities",
+        "u": "https://www.google.com/search?q=Events+Near+Me+Family+Activities"
+      }
+    ],
+    "2.4.7": [
+      {
+        "d": "google.com",
+        "n": "Food & Drink Events",
+        "u": "https://www.google.com/search?q=Events+Near+Me+Food+%26+Drink+Events"
+      }
+    ],
+    "2.4.8": [
+      {
+        "d": "google.com",
+        "n": "Art & Culture",
+        "u": "https://www.google.com/search?q=Events+Near+Me+Art+%26+Culture"
+      }
+    ],
+    "2.4.9": [
+      {
+        "d": "google.com",
+        "n": "Free Events",
+        "u": "https://www.google.com/search?q=Events+Near+Me+Free+Events"
+      }
+    ],
+    "2.6.1": [
+      {
+        "d": "google.com",
+        "n": "District Updates",
+        "u": "https://www.google.com/search?q=School+%26+Education+District+Updates"
+      }
+    ],
+    "2.6.2": [
+      {
+        "d": "google.com",
+        "n": "School Board",
+        "u": "https://www.google.com/search?q=School+%26+Education+School+Board"
+      }
+    ],
+    "2.6.3": [
+      {
+        "d": "google.com",
+        "n": "School Closings",
+        "u": "https://www.google.com/search?q=School+%26+Education+School+Closings"
+      }
+    ],
+    "2.6.4": [
+      {
+        "d": "google.com",
+        "n": "Sports Schedules",
+        "u": "https://www.google.com/search?q=School+%26+Education+Sports+Schedules"
+      }
+    ],
+    "2.6.6": [
+      {
+        "d": "google.com",
+        "n": "College Prep",
+        "u": "https://www.google.com/search?q=School+%26+Education+College+Prep"
+      }
+    ],
+    "2.6.7": [
+      {
+        "d": "google.com",
+        "n": "Teacher News",
+        "u": "https://www.google.com/search?q=School+%26+Education+Teacher+News"
+      }
+    ],
+    "2.6.8": [
+      {
+        "d": "google.com",
+        "n": "PTA & Parents",
+        "u": "https://www.google.com/search?q=School+%26+Education+PTA+%26+Parents"
+      }
+    ],
+    "2.6.9": [
+      {
+        "d": "google.com",
+        "n": "Test Scores",
+        "u": "https://www.google.com/search?q=School+%26+Education+Test+Scores"
+      }
+    ],
+    "2.7.1": [
+      {
+        "d": "google.com",
+        "n": "Lost & Found",
+        "u": "https://www.google.com/search?q=Community+Board+Lost+%26+Found"
+      }
+    ],
+    "2.7.2": [
+      {
+        "d": "google.com",
+        "n": "Free Items",
+        "u": "https://www.google.com/search?q=Community+Board+Free+Items"
+      }
+    ],
+    "2.7.3": [
+      {
+        "d": "google.com",
+        "n": "Yard Sales",
+        "u": "https://www.google.com/search?q=Community+Board+Yard+Sales"
+      }
+    ],
+    "2.7.4": [
+      {
+        "d": "google.com",
+        "n": "Recommendations",
+        "u": "https://www.google.com/search?q=Community+Board+Recommendations"
+      }
+    ],
+    "2.7.6": [
+      {
+        "d": "google.com",
+        "n": "Neighbor Alerts",
+        "u": "https://www.google.com/search?q=Community+Board+Neighbor+Alerts"
+      }
+    ],
+    "2.7.7": [
+      {
+        "d": "google.com",
+        "n": "Pet Sightings",
+        "u": "https://www.google.com/search?q=Community+Board+Pet+Sightings"
+      }
+    ],
+    "2.7.8": [
+      {
+        "d": "google.com",
+        "n": "Volunteers Needed",
+        "u": "https://www.google.com/search?q=Community+Board+Volunteers+Needed"
+      }
+    ],
+    "2.7.9": [
+      {
+        "d": "google.com",
+        "n": "Carpool & Rideshare",
+        "u": "https://www.google.com/search?q=Community+Board+Carpool+%26+Rideshare"
+      }
+    ],
+    "2.8.1": [
+      {
+        "d": "google.com",
+        "n": "Now Hiring",
+        "u": "https://www.google.com/search?q=Local+Jobs+Now+Hiring"
+      }
+    ],
+    "2.8.2": [
+      {
+        "d": "google.com",
+        "n": "Part-Time",
+        "u": "https://www.google.com/search?q=Local+Jobs+Part-Time"
+      }
+    ],
+    "2.8.3": [
+      {
+        "d": "google.com",
+        "n": "Remote Friendly",
+        "u": "https://www.google.com/search?q=Local+Jobs+Remote+Friendly"
+      }
+    ],
+    "2.8.4": [
+      {
+        "d": "google.com",
+        "n": "Government Jobs",
+        "u": "https://www.google.com/search?q=Local+Jobs+Government+Jobs"
+      }
+    ],
+    "2.8.6": [
+      {
+        "d": "google.com",
+        "n": "Trades & Labor",
+        "u": "https://www.google.com/search?q=Local+Jobs+Trades+%26+Labor"
+      }
+    ],
+    "2.8.7": [
+      {
+        "d": "google.com",
+        "n": "Restaurant & Retail",
+        "u": "https://www.google.com/search?q=Local+Jobs+Restaurant+%26+Retail"
+      }
+    ],
+    "2.8.8": [
+      {
+        "d": "google.com",
+        "n": "Internships",
+        "u": "https://www.google.com/search?q=Local+Jobs+Internships"
+      }
+    ],
+    "2.8.9": [
+      {
+        "d": "google.com",
+        "n": "Job Fairs",
+        "u": "https://www.google.com/search?q=Local+Jobs+Job+Fairs"
+      }
+    ],
+    "2.9.1": [
+      {
+        "d": "google.com",
+        "n": "Local Newspaper",
+        "u": "https://www.google.com/search?q=Local+News+Sources+Local+Newspaper"
+      }
+    ],
+    "2.9.2": [
+      {
+        "d": "google.com",
+        "n": "Local TV Station",
+        "u": "https://www.google.com/search?q=Local+News+Sources+Local+TV+Station"
+      }
+    ],
+    "2.9.3": [
+      {
+        "d": "google.com",
+        "n": "Patch.com",
+        "u": "https://www.google.com/search?q=Local+News+Sources+Patch.com"
+      }
+    ],
+    "2.9.4": [
+      {
+        "d": "google.com",
+        "n": "Nextdoor",
+        "u": "https://www.google.com/search?q=Local+News+Sources+Nextdoor"
+      }
+    ],
+    "2.9.6": [
+      {
+        "d": "google.com",
+        "n": "Local Radio",
+        "u": "https://www.google.com/search?q=Local+News+Sources+Local+Radio"
+      }
+    ],
+    "2.9.7": [
+      {
+        "d": "google.com",
+        "n": "City Government Site",
+        "u": "https://www.google.com/search?q=Local+News+Sources+City+Government+Site"
+      }
+    ],
+    "2.9.8": [
+      {
+        "d": "google.com",
+        "n": "Community Facebook",
+        "u": "https://www.google.com/search?q=Local+News+Sources+Community+Facebook"
+      }
+    ],
+    "2.9.9": [
+      {
+        "d": "google.com",
+        "n": "Local Subreddit",
+        "u": "https://www.google.com/search?q=Local+News+Sources+Local+Subreddit"
+      }
+    ],
+    "3.1.1": [
+      {
+        "d": "google.com",
+        "n": "UK",
+        "u": "https://www.google.com/search?q=Europe+UK"
+      }
+    ],
+    "3.1.2": [
+      {
+        "d": "google.com",
+        "n": "EU & Brussels",
+        "u": "https://www.google.com/search?q=Europe+EU+%26+Brussels"
+      }
+    ],
+    "3.1.3": [
+      {
+        "d": "google.com",
+        "n": "France",
+        "u": "https://www.google.com/search?q=Europe+France"
+      }
+    ],
+    "3.1.4": [
+      {
+        "d": "google.com",
+        "n": "Germany",
+        "u": "https://www.google.com/search?q=Europe+Germany"
+      }
+    ],
+    "3.1.6": [
+      {
+        "d": "google.com",
+        "n": "Italy & Spain",
+        "u": "https://www.google.com/search?q=Europe+Italy+%26+Spain"
+      }
+    ],
+    "3.1.7": [
+      {
+        "d": "google.com",
+        "n": "Eastern Europe",
+        "u": "https://www.google.com/search?q=Europe+Eastern+Europe"
+      }
+    ],
+    "3.1.8": [
+      {
+        "d": "google.com",
+        "n": "Scandinavia",
+        "u": "https://www.google.com/search?q=Europe+Scandinavia"
+      }
+    ],
+    "3.1.9": [
+      {
+        "d": "google.com",
+        "n": "Ukraine & Russia",
+        "u": "https://www.google.com/search?q=Europe+Ukraine+%26+Russia"
+      }
+    ],
+    "3.2.1": [
+      {
+        "d": "google.com",
+        "n": "China",
+        "u": "https://www.google.com/search?q=Asia-Pacific+China"
+      }
+    ],
+    "3.2.2": [
+      {
+        "d": "google.com",
+        "n": "Japan",
+        "u": "https://www.google.com/search?q=Asia-Pacific+Japan"
+      }
+    ],
+    "3.2.3": [
+      {
+        "d": "google.com",
+        "n": "South Korea",
+        "u": "https://www.google.com/search?q=Asia-Pacific+South+Korea"
+      }
+    ],
+    "3.2.4.1": [
+      {
+        "d": "google.com",
+        "n": "Politics",
+        "u": "https://www.google.com/search?q=India+Politics"
+      }
+    ],
+    "3.2.4.2": [
+      {
+        "d": "google.com",
+        "n": "Economy",
+        "u": "https://www.google.com/search?q=India+Economy"
+      }
+    ],
+    "3.2.4.3": [
+      {
+        "d": "google.com",
+        "n": "Tech & Startups",
+        "u": "https://www.google.com/search?q=India+Tech+%26+Startups"
+      }
+    ],
+    "3.2.4.4": [
+      {
+        "d": "google.com",
+        "n": "Cricket & Sports",
+        "u": "https://www.google.com/search?q=India+Cricket+%26+Sports"
+      }
+    ],
+    "3.2.4.6": [
+      {
+        "d": "google.com",
+        "n": "Bollywood",
+        "u": "https://www.google.com/search?q=India+Bollywood"
+      }
+    ],
+    "3.2.4.7": [
+      {
+        "d": "google.com",
+        "n": "Regional News",
+        "u": "https://www.google.com/search?q=India+Regional+News"
+      }
+    ],
+    "3.2.4.8": [
+      {
+        "d": "google.com",
+        "n": "Climate & Environment",
+        "u": "https://www.google.com/search?q=India+Climate+%26+Environment"
+      }
+    ],
+    "3.2.4.9": [
+      {
+        "d": "google.com",
+        "n": "Diaspora",
+        "u": "https://www.google.com/search?q=India+Diaspora"
+      }
+    ],
+    "3.2.6": [
+      {
+        "d": "google.com",
+        "n": "Southeast Asia",
+        "u": "https://www.google.com/search?q=Asia-Pacific+Southeast+Asia"
+      }
+    ],
+    "3.2.7": [
+      {
+        "d": "google.com",
+        "n": "Australia & NZ",
+        "u": "https://www.google.com/search?q=Asia-Pacific+Australia+%26+NZ"
+      }
+    ],
+    "3.2.8": [
+      {
+        "d": "google.com",
+        "n": "Taiwan",
+        "u": "https://www.google.com/search?q=Asia-Pacific+Taiwan"
+      }
+    ],
+    "3.2.9": [
+      {
+        "d": "google.com",
+        "n": "Pacific Islands",
+        "u": "https://www.google.com/search?q=Asia-Pacific+Pacific+Islands"
+      }
+    ],
+    "3.3.1": [
+      {
+        "d": "google.com",
+        "n": "Israel & Palestine",
+        "u": "https://www.google.com/search?q=Middle+East+Israel+%26+Palestine"
+      }
+    ],
+    "3.3.2": [
+      {
+        "d": "google.com",
+        "n": "Iran",
+        "u": "https://www.google.com/search?q=Middle+East+Iran"
+      }
+    ],
+    "3.3.3": [
+      {
+        "d": "google.com",
+        "n": "Saudi Arabia",
+        "u": "https://www.google.com/search?q=Middle+East+Saudi+Arabia"
+      }
+    ],
+    "3.3.4": [
+      {
+        "d": "google.com",
+        "n": "Syria & Iraq",
+        "u": "https://www.google.com/search?q=Middle+East+Syria+%26+Iraq"
+      }
+    ],
+    "3.3.6": [
+      {
+        "d": "google.com",
+        "n": "Turkey",
+        "u": "https://www.google.com/search?q=Middle+East+Turkey"
+      }
+    ],
+    "3.3.7": [
+      {
+        "d": "google.com",
+        "n": "Gulf States",
+        "u": "https://www.google.com/search?q=Middle+East+Gulf+States"
+      }
+    ],
+    "3.3.8": [
+      {
+        "d": "google.com",
+        "n": "Peace Efforts",
+        "u": "https://www.google.com/search?q=Middle+East+Peace+Efforts"
+      }
+    ],
+    "3.3.9": [
+      {
+        "d": "google.com",
+        "n": "Regional Analysis",
+        "u": "https://www.google.com/search?q=Middle+East+Regional+Analysis"
+      }
+    ],
+    "3.4.1": [
+      {
+        "d": "google.com",
+        "n": "Canada",
+        "u": "https://www.google.com/search?q=Americas+Canada"
+      }
+    ],
+    "3.4.2": [
+      {
+        "d": "google.com",
+        "n": "Mexico",
+        "u": "https://www.google.com/search?q=Americas+Mexico"
+      }
+    ],
+    "3.4.3": [
+      {
+        "d": "google.com",
+        "n": "Brazil",
+        "u": "https://www.google.com/search?q=Americas+Brazil"
+      }
+    ],
+    "3.4.4": [
+      {
+        "d": "google.com",
+        "n": "Argentina",
+        "u": "https://www.google.com/search?q=Americas+Argentina"
+      }
+    ],
+    "3.4.6": [
+      {
+        "d": "google.com",
+        "n": "Central America",
+        "u": "https://www.google.com/search?q=Americas+Central+America"
+      }
+    ],
+    "3.4.7": [
+      {
+        "d": "google.com",
+        "n": "Caribbean",
+        "u": "https://www.google.com/search?q=Americas+Caribbean"
+      }
+    ],
+    "3.4.8": [
+      {
+        "d": "google.com",
+        "n": "Colombia & Venezuela",
+        "u": "https://www.google.com/search?q=Americas+Colombia+%26+Venezuela"
+      }
+    ],
+    "3.4.9": [
+      {
+        "d": "google.com",
+        "n": "Regional Trade",
+        "u": "https://www.google.com/search?q=Americas+Regional+Trade"
+      }
+    ],
+    "3.6.1": [
+      {
+        "d": "google.com",
+        "n": "North Africa",
+        "u": "https://www.google.com/search?q=Africa+North+Africa"
+      }
+    ],
+    "3.6.2": [
+      {
+        "d": "google.com",
+        "n": "East Africa",
+        "u": "https://www.google.com/search?q=Africa+East+Africa"
+      }
+    ],
+    "3.6.3": [
+      {
+        "d": "google.com",
+        "n": "West Africa",
+        "u": "https://www.google.com/search?q=Africa+West+Africa"
+      }
+    ],
+    "3.6.4": [
+      {
+        "d": "google.com",
+        "n": "Southern Africa",
+        "u": "https://www.google.com/search?q=Africa+Southern+Africa"
+      }
+    ],
+    "3.6.6": [
+      {
+        "d": "google.com",
+        "n": "Sahel Region",
+        "u": "https://www.google.com/search?q=Africa+Sahel+Region"
+      }
+    ],
+    "3.6.7": [
+      {
+        "d": "google.com",
+        "n": "Economic Growth",
+        "u": "https://www.google.com/search?q=Africa+Economic+Growth"
+      }
+    ],
+    "3.6.8": [
+      {
+        "d": "google.com",
+        "n": "Health & Humanitarian",
+        "u": "https://www.google.com/search?q=Africa+Health+%26+Humanitarian"
+      }
+    ],
+    "3.6.9": [
+      {
+        "d": "google.com",
+        "n": "Peacekeeping",
+        "u": "https://www.google.com/search?q=Africa+Peacekeeping"
+      }
+    ],
+    "3.7.1": [
+      {
+        "d": "google.com",
+        "n": "Active Conflicts",
+        "u": "https://www.google.com/search?q=Conflict+%26+Crisis+Active+Conflicts"
+      }
+    ],
+    "3.7.2": [
+      {
+        "d": "google.com",
+        "n": "Ceasefire Watch",
+        "u": "https://www.google.com/search?q=Conflict+%26+Crisis+Ceasefire+Watch"
+      }
+    ],
+    "3.7.3": [
+      {
+        "d": "google.com",
+        "n": "Refugee Crises",
+        "u": "https://www.google.com/search?q=Conflict+%26+Crisis+Refugee+Crises"
+      }
+    ],
+    "3.7.4": [
+      {
+        "d": "google.com",
+        "n": "Humanitarian Aid",
+        "u": "https://www.google.com/search?q=Conflict+%26+Crisis+Humanitarian+Aid"
+      }
+    ],
+    "3.7.6": [
+      {
+        "d": "google.com",
+        "n": "War Crimes Watch",
+        "u": "https://www.google.com/search?q=Conflict+%26+Crisis+War+Crimes+Watch"
+      }
+    ],
+    "3.7.7": [
+      {
+        "d": "google.com",
+        "n": "Diplomatic Talks",
+        "u": "https://www.google.com/search?q=Conflict+%26+Crisis+Diplomatic+Talks"
+      }
+    ],
+    "3.7.8": [
+      {
+        "d": "google.com",
+        "n": "Arms & Defense",
+        "u": "https://www.google.com/search?q=Conflict+%26+Crisis+Arms+%26+Defense"
+      }
+    ],
+    "3.7.9": [
+      {
+        "d": "google.com",
+        "n": "Reconstruction",
+        "u": "https://www.google.com/search?q=Conflict+%26+Crisis+Reconstruction"
+      }
+    ],
+    "3.8.1": [
+      {
+        "d": "google.com",
+        "n": "United Nations",
+        "u": "https://www.google.com/search?q=Global+Institutions+United+Nations"
+      }
+    ],
+    "3.8.2": [
+      {
+        "d": "google.com",
+        "n": "NATO",
+        "u": "https://www.google.com/search?q=Global+Institutions+NATO"
+      }
+    ],
+    "3.8.3": [
+      {
+        "d": "google.com",
+        "n": "G7 & G20",
+        "u": "https://www.google.com/search?q=Global+Institutions+G7+%26+G20"
+      }
+    ],
+    "3.8.4": [
+      {
+        "d": "google.com",
+        "n": "World Bank & IMF",
+        "u": "https://www.google.com/search?q=Global+Institutions+World+Bank+%26+IMF"
+      }
+    ],
+    "3.8.6": [
+      {
+        "d": "google.com",
+        "n": "WHO Health",
+        "u": "https://www.google.com/search?q=Global+Institutions+WHO+Health"
+      }
+    ],
+    "3.8.7": [
+      {
+        "d": "google.com",
+        "n": "Climate Summits",
+        "u": "https://www.google.com/search?q=Global+Institutions+Climate+Summits"
+      }
+    ],
+    "3.8.8": [
+      {
+        "d": "google.com",
+        "n": "Human Rights",
+        "u": "https://www.google.com/search?q=Global+Institutions+Human+Rights"
+      }
+    ],
+    "3.8.9": [
+      {
+        "d": "google.com",
+        "n": "Trade Agreements",
+        "u": "https://www.google.com/search?q=Global+Institutions+Trade+Agreements"
+      }
+    ],
+    "3.9.1": [
+      {
+        "d": "google.com",
+        "n": "BBC World",
+        "u": "https://www.google.com/search?q=World+News+Sources+BBC+World"
+      }
+    ],
+    "3.9.2": [
+      {
+        "d": "reuters.com",
+        "n": "Reuters",
+        "u": "https://www.reuters.com"
+      }
+    ],
+    "3.9.3": [
+      {
+        "d": "aljazeera.com",
+        "n": "Al Jazeera",
+        "u": "https://www.aljazeera.com"
+      }
+    ],
+    "3.9.4": [
+      {
+        "d": "google.com",
+        "n": "France 24",
+        "u": "https://www.google.com/search?q=World+News+Sources+France+24"
+      }
+    ],
+    "3.9.6": [
+      {
+        "d": "google.com",
+        "n": "DW News",
+        "u": "https://www.google.com/search?q=World+News+Sources+DW+News"
+      }
+    ],
+    "3.9.7": [
+      {
+        "d": "google.com",
+        "n": "NHK World",
+        "u": "https://www.google.com/search?q=World+News+Sources+NHK+World"
+      }
+    ],
+    "3.9.8": [
+      {
+        "d": "theguardian.com",
+        "n": "The Guardian",
+        "u": "https://www.theguardian.com"
+      }
+    ],
+    "3.9.9": [
+      {
+        "d": "google.com",
+        "n": "Foreign Affairs",
+        "u": "https://www.google.com/search?q=World+News+Sources+Foreign+Affairs"
+      }
+    ],
+    "4.1.1": [
+      {
+        "d": "google.com",
+        "n": "Senate",
+        "u": "https://www.google.com/search?q=Congress+Senate"
+      }
+    ],
+    "4.1.2": [
+      {
+        "d": "google.com",
+        "n": "House",
+        "u": "https://www.google.com/search?q=Congress+House"
+      }
+    ],
+    "4.1.3": [
+      {
+        "d": "google.com",
+        "n": "Committee Hearings",
+        "u": "https://www.google.com/search?q=Congress+Committee+Hearings"
+      }
+    ],
+    "4.1.4": [
+      {
+        "d": "google.com",
+        "n": "Bill Tracker",
+        "u": "https://www.google.com/search?q=Congress+Bill+Tracker"
+      }
+    ],
+    "4.1.6": [
+      {
+        "d": "google.com",
+        "n": "Roll Call Votes",
+        "u": "https://www.google.com/search?q=Congress+Roll+Call+Votes"
+      }
+    ],
+    "4.1.7": [
+      {
+        "d": "google.com",
+        "n": "Bipartisan Deals",
+        "u": "https://www.google.com/search?q=Congress+Bipartisan+Deals"
+      }
+    ],
+    "4.1.8": [
+      {
+        "d": "google.com",
+        "n": "Budget & Spending",
+        "u": "https://www.google.com/search?q=Congress+Budget+%26+Spending"
+      }
+    ],
+    "4.1.9": [
+      {
+        "d": "google.com",
+        "n": "Congressional Calendar",
+        "u": "https://www.google.com/search?q=Congress+Congressional+Calendar"
+      }
+    ],
+    "4.2.1": [
+      {
+        "d": "google.com",
+        "n": "Press Briefings",
+        "u": "https://www.google.com/search?q=White+House+Press+Briefings"
+      }
+    ],
+    "4.2.2": [
+      {
+        "d": "google.com",
+        "n": "Executive Orders",
+        "u": "https://www.google.com/search?q=White+House+Executive+Orders"
+      }
+    ],
+    "4.2.3": [
+      {
+        "d": "google.com",
+        "n": "Policy Announcements",
+        "u": "https://www.google.com/search?q=White+House+Policy+Announcements"
+      }
+    ],
+    "4.2.4": [
+      {
+        "d": "google.com",
+        "n": "Cabinet News",
+        "u": "https://www.google.com/search?q=White+House+Cabinet+News"
+      }
+    ],
+    "4.2.6": [
+      {
+        "d": "google.com",
+        "n": "State Visits",
+        "u": "https://www.google.com/search?q=White+House+State+Visits"
+      }
+    ],
+    "4.2.7": [
+      {
+        "d": "google.com",
+        "n": "Travel Schedule",
+        "u": "https://www.google.com/search?q=White+House+Travel+Schedule"
+      }
+    ],
+    "4.2.8": [
+      {
+        "d": "google.com",
+        "n": "Speeches",
+        "u": "https://www.google.com/search?q=White+House+Speeches"
+      }
+    ],
+    "4.2.9": [
+      {
+        "d": "google.com",
+        "n": "First Family",
+        "u": "https://www.google.com/search?q=White+House+First+Family"
+      }
+    ],
+    "4.3.1": [
+      {
+        "d": "google.com",
+        "n": "Upcoming Races",
+        "u": "https://www.google.com/search?q=Elections+Upcoming+Races"
+      }
+    ],
+    "4.3.2.1": [
+      {
+        "d": "google.com",
+        "n": "National Polls",
+        "u": "https://www.google.com/search?q=Polling+Data+National+Polls"
+      }
+    ],
+    "4.3.2.2": [
+      {
+        "d": "google.com",
+        "n": "State Polls",
+        "u": "https://www.google.com/search?q=Polling+Data+State+Polls"
+      }
+    ],
+    "4.3.2.3": [
+      {
+        "d": "google.com",
+        "n": "Approval Ratings",
+        "u": "https://www.google.com/search?q=Polling+Data+Approval+Ratings"
+      }
+    ],
+    "4.3.2.4": [
+      {
+        "d": "google.com",
+        "n": "Poll Aggregators",
+        "u": "https://www.google.com/search?q=Polling+Data+Poll+Aggregators"
+      }
+    ],
+    "4.3.2.6": [
+      {
+        "d": "google.com",
+        "n": "Swing State Tracking",
+        "u": "https://www.google.com/search?q=Polling+Data+Swing+State+Tracking"
+      }
+    ],
+    "4.3.2.7": [
+      {
+        "d": "google.com",
+        "n": "Historical Trends",
+        "u": "https://www.google.com/search?q=Polling+Data+Historical+Trends"
+      }
+    ],
+    "4.3.2.8": [
+      {
+        "d": "google.com",
+        "n": "Methodology",
+        "u": "https://www.google.com/search?q=Polling+Data+Methodology"
+      }
+    ],
+    "4.3.2.9": [
+      {
+        "d": "google.com",
+        "n": "Pollster Ratings",
+        "u": "https://www.google.com/search?q=Polling+Data+Pollster+Ratings"
+      }
+    ],
+    "4.3.3": [
+      {
+        "d": "google.com",
+        "n": "Campaign Finance",
+        "u": "https://www.google.com/search?q=Elections+Campaign+Finance"
+      }
+    ],
+    "4.3.4": [
+      {
+        "d": "google.com",
+        "n": "Debate Schedule",
+        "u": "https://www.google.com/search?q=Elections+Debate+Schedule"
+      }
+    ],
+    "4.3.6": [
+      {
+        "d": "google.com",
+        "n": "Early Voting",
+        "u": "https://www.google.com/search?q=Elections+Early+Voting"
+      }
+    ],
+    "4.3.7": [
+      {
+        "d": "google.com",
+        "n": "Results Live",
+        "u": "https://www.google.com/search?q=Elections+Results+Live"
+      }
+    ],
+    "4.3.8": [
+      {
+        "d": "google.com",
+        "n": "Voter Registration",
+        "u": "https://www.google.com/search?q=Elections+Voter+Registration"
+      }
+    ],
+    "4.3.9": [
+      {
+        "d": "google.com",
+        "n": "Swing States",
+        "u": "https://www.google.com/search?q=Elections+Swing+States"
+      }
+    ],
+    "4.4.1": [
+      {
+        "d": "google.com",
+        "n": "Healthcare Policy",
+        "u": "https://www.google.com/search?q=Policy+Watch+Healthcare+Policy"
+      }
+    ],
+    "4.4.2": [
+      {
+        "d": "google.com",
+        "n": "Immigration",
+        "u": "https://www.google.com/search?q=Policy+Watch+Immigration"
+      }
+    ],
+    "4.4.3": [
+      {
+        "d": "google.com",
+        "n": "Gun Legislation",
+        "u": "https://www.google.com/search?q=Policy+Watch+Gun+Legislation"
+      }
+    ],
+    "4.4.4": [
+      {
+        "d": "google.com",
+        "n": "Tax Policy",
+        "u": "https://www.google.com/search?q=Policy+Watch+Tax+Policy"
+      }
+    ],
+    "4.4.6": [
+      {
+        "d": "google.com",
+        "n": "Education Reform",
+        "u": "https://www.google.com/search?q=Policy+Watch+Education+Reform"
+      }
+    ],
+    "4.4.7": [
+      {
+        "d": "google.com",
+        "n": "Climate Policy",
+        "u": "https://www.google.com/search?q=Policy+Watch+Climate+Policy"
+      }
+    ],
+    "4.4.8": [
+      {
+        "d": "google.com",
+        "n": "Tech Regulation",
+        "u": "https://www.google.com/search?q=Policy+Watch+Tech+Regulation"
+      }
+    ],
+    "4.4.9": [
+      {
+        "d": "google.com",
+        "n": "Defense Spending",
+        "u": "https://www.google.com/search?q=Policy+Watch+Defense+Spending"
+      }
+    ],
+    "4.6.1": [
+      {
+        "d": "google.com",
+        "n": "Governor News",
+        "u": "https://www.google.com/search?q=State+%26+Local+Politics+Governor+News"
+      }
+    ],
+    "4.6.2": [
+      {
+        "d": "google.com",
+        "n": "State Legislature",
+        "u": "https://www.google.com/search?q=State+%26+Local+Politics+State+Legislature"
+      }
+    ],
+    "4.6.3": [
+      {
+        "d": "google.com",
+        "n": "Ballot Measures",
+        "u": "https://www.google.com/search?q=State+%26+Local+Politics+Ballot+Measures"
+      }
+    ],
+    "4.6.4": [
+      {
+        "d": "google.com",
+        "n": "State Budget",
+        "u": "https://www.google.com/search?q=State+%26+Local+Politics+State+Budget"
+      }
+    ],
+    "4.6.6": [
+      {
+        "d": "google.com",
+        "n": "Attorney General",
+        "u": "https://www.google.com/search?q=State+%26+Local+Politics+Attorney+General"
+      }
+    ],
+    "4.6.7": [
+      {
+        "d": "google.com",
+        "n": "Criminal Justice",
+        "u": "https://www.google.com/search?q=State+%26+Local+Politics+Criminal+Justice"
+      }
+    ],
+    "4.6.8": [
+      {
+        "d": "google.com",
+        "n": "Redistricting",
+        "u": "https://www.google.com/search?q=State+%26+Local+Politics+Redistricting"
+      }
+    ],
+    "4.6.9": [
+      {
+        "d": "google.com",
+        "n": "Local Elections",
+        "u": "https://www.google.com/search?q=State+%26+Local+Politics+Local+Elections"
+      }
+    ],
+    "4.7.1": [
+      {
+        "d": "google.com",
+        "n": "PolitiFact",
+        "u": "https://www.google.com/search?q=Fact+Check+PolitiFact"
+      }
+    ],
+    "4.7.2": [
+      {
+        "d": "google.com",
+        "n": "Snopes",
+        "u": "https://www.google.com/search?q=Fact+Check+Snopes"
+      }
+    ],
+    "4.7.3": [
+      {
+        "d": "google.com",
+        "n": "FactCheck.org",
+        "u": "https://www.google.com/search?q=Fact+Check+FactCheck.org"
+      }
+    ],
+    "4.7.4": [
+      {
+        "d": "google.com",
+        "n": "AP Fact Check",
+        "u": "https://www.google.com/search?q=Fact+Check+AP+Fact+Check"
+      }
+    ],
+    "4.7.6": [
+      {
+        "d": "google.com",
+        "n": "Misinfo Alerts",
+        "u": "https://www.google.com/search?q=Fact+Check+Misinfo+Alerts"
+      }
+    ],
+    "4.7.7": [
+      {
+        "d": "google.com",
+        "n": "Source Verification",
+        "u": "https://www.google.com/search?q=Fact+Check+Source+Verification"
+      }
+    ],
+    "4.7.8": [
+      {
+        "d": "google.com",
+        "n": "Media Bias Chart",
+        "u": "https://www.google.com/search?q=Fact+Check+Media+Bias+Chart"
+      }
+    ],
+    "4.7.9": [
+      {
+        "d": "google.com",
+        "n": "Retraction Watch",
+        "u": "https://www.google.com/search?q=Fact+Check+Retraction+Watch"
+      }
+    ],
+    "4.8.1": [
+      {
+        "d": "google.com",
+        "n": "Expert Commentary",
+        "u": "https://www.google.com/search?q=Political+Analysis+Expert+Commentary"
+      }
+    ],
+    "4.8.2": [
+      {
+        "d": "google.com",
+        "n": "Polling Analysis",
+        "u": "https://www.google.com/search?q=Political+Analysis+Polling+Analysis"
+      }
+    ],
+    "4.8.3": [
+      {
+        "d": "google.com",
+        "n": "Historical Context",
+        "u": "https://www.google.com/search?q=Political+Analysis+Historical+Context"
+      }
+    ],
+    "4.8.4": [
+      {
+        "d": "google.com",
+        "n": "Impact Assessment",
+        "u": "https://www.google.com/search?q=Political+Analysis+Impact+Assessment"
+      }
+    ],
+    "4.8.6": [
+      {
+        "d": "google.com",
+        "n": "Left Perspective",
+        "u": "https://www.google.com/search?q=Political+Analysis+Left+Perspective"
+      }
+    ],
+    "4.8.7": [
+      {
+        "d": "google.com",
+        "n": "Right Perspective",
+        "u": "https://www.google.com/search?q=Political+Analysis+Right+Perspective"
+      }
+    ],
+    "4.8.8": [
+      {
+        "d": "google.com",
+        "n": "Bipartisan View",
+        "u": "https://www.google.com/search?q=Political+Analysis+Bipartisan+View"
+      }
+    ],
+    "4.8.9": [
+      {
+        "d": "google.com",
+        "n": "Future Outlook",
+        "u": "https://www.google.com/search?q=Political+Analysis+Future+Outlook"
+      }
+    ],
+    "4.9.1": [
+      {
+        "d": "politico.com",
+        "n": "Politico",
+        "u": "https://www.politico.com"
+      }
+    ],
+    "4.9.2": [
+      {
+        "d": "google.com",
+        "n": "The Hill",
+        "u": "https://www.google.com/search?q=Politics+Sources+The+Hill"
+      }
+    ],
+    "4.9.3": [
+      {
+        "d": "google.com",
+        "n": "C-SPAN",
+        "u": "https://www.google.com/search?q=Politics+Sources+C-SPAN"
+      }
+    ],
+    "4.9.4": [
+      {
+        "d": "google.com",
+        "n": "FiveThirtyEight",
+        "u": "https://www.google.com/search?q=Politics+Sources+FiveThirtyEight"
+      }
+    ],
+    "4.9.6": [
+      {
+        "d": "google.com",
+        "n": "RealClearPolitics",
+        "u": "https://www.google.com/search?q=Politics+Sources+RealClearPolitics"
+      }
+    ],
+    "4.9.7": [
+      {
+        "d": "google.com",
+        "n": "Punchbowl",
+        "u": "https://www.google.com/search?q=Politics+Sources+Punchbowl"
+      }
+    ],
+    "4.9.8": [
+      {
+        "d": "google.com",
+        "n": "Cook Political",
+        "u": "https://www.google.com/search?q=Politics+Sources+Cook+Political"
+      }
+    ],
+    "4.9.9": [
+      {
+        "d": "google.com",
+        "n": "Ballotpedia",
+        "u": "https://www.google.com/search?q=Politics+Sources+Ballotpedia"
+      }
+    ],
+    "6.1.1": [
+      {
+        "d": "google.com",
+        "n": "Scores & Schedule",
+        "u": "https://www.google.com/search?q=NFL+Football+Scores+%26+Schedule"
+      }
+    ],
+    "6.1.2": [
+      {
+        "d": "google.com",
+        "n": "Standings",
+        "u": "https://www.google.com/search?q=NFL+Football+Standings"
+      }
+    ],
+    "6.1.3": [
+      {
+        "d": "google.com",
+        "n": "Player Stats",
+        "u": "https://www.google.com/search?q=NFL+Football+Player+Stats"
+      }
+    ],
+    "6.1.4": [
+      {
+        "d": "google.com",
+        "n": "Injuries",
+        "u": "https://www.google.com/search?q=NFL+Football+Injuries"
+      }
+    ],
+    "6.1.6": [
+      {
+        "d": "google.com",
+        "n": "Trade Rumors",
+        "u": "https://www.google.com/search?q=NFL+Football+Trade+Rumors"
+      }
+    ],
+    "6.1.7": [
+      {
+        "d": "google.com",
+        "n": "Draft News",
+        "u": "https://www.google.com/search?q=NFL+Football+Draft+News"
+      }
+    ],
+    "6.1.8": [
+      {
+        "d": "google.com",
+        "n": "Fantasy Impact",
+        "u": "https://www.google.com/search?q=NFL+Football+Fantasy+Impact"
+      }
+    ],
+    "6.1.9": [
+      {
+        "d": "google.com",
+        "n": "Playoff Picture",
+        "u": "https://www.google.com/search?q=NFL+Football+Playoff+Picture"
+      }
+    ],
+    "6.2.1": [
+      {
+        "d": "google.com",
+        "n": "Scores & Schedule",
+        "u": "https://www.google.com/search?q=NBA+Basketball+Scores+%26+Schedule"
+      }
+    ],
+    "6.2.2": [
+      {
+        "d": "google.com",
+        "n": "Standings",
+        "u": "https://www.google.com/search?q=NBA+Basketball+Standings"
+      }
+    ],
+    "6.2.3": [
+      {
+        "d": "google.com",
+        "n": "Player Stats",
+        "u": "https://www.google.com/search?q=NBA+Basketball+Player+Stats"
+      }
+    ],
+    "6.2.4": [
+      {
+        "d": "google.com",
+        "n": "Trade Deadline",
+        "u": "https://www.google.com/search?q=NBA+Basketball+Trade+Deadline"
+      }
+    ],
+    "6.2.6": [
+      {
+        "d": "google.com",
+        "n": "Rookie Watch",
+        "u": "https://www.google.com/search?q=NBA+Basketball+Rookie+Watch"
+      }
+    ],
+    "6.2.7": [
+      {
+        "d": "google.com",
+        "n": "All-Star & Events",
+        "u": "https://www.google.com/search?q=NBA+Basketball+All-Star+%26+Events"
+      }
+    ],
+    "6.2.8": [
+      {
+        "d": "google.com",
+        "n": "Playoff Bracket",
+        "u": "https://www.google.com/search?q=NBA+Basketball+Playoff+Bracket"
+      }
+    ],
+    "6.2.9": [
+      {
+        "d": "google.com",
+        "n": "Free Agency",
+        "u": "https://www.google.com/search?q=NBA+Basketball+Free+Agency"
+      }
+    ],
+    "6.3.1": [
+      {
+        "d": "google.com",
+        "n": "Scores & Schedule",
+        "u": "https://www.google.com/search?q=MLB+Baseball+Scores+%26+Schedule"
+      }
+    ],
+    "6.3.2": [
+      {
+        "d": "google.com",
+        "n": "Standings",
+        "u": "https://www.google.com/search?q=MLB+Baseball+Standings"
+      }
+    ],
+    "6.3.3": [
+      {
+        "d": "google.com",
+        "n": "Pitching Stats",
+        "u": "https://www.google.com/search?q=MLB+Baseball+Pitching+Stats"
+      }
+    ],
+    "6.3.4": [
+      {
+        "d": "google.com",
+        "n": "Home Run Leaders",
+        "u": "https://www.google.com/search?q=MLB+Baseball+Home+Run+Leaders"
+      }
+    ],
+    "6.3.6": [
+      {
+        "d": "google.com",
+        "n": "Trade Rumors",
+        "u": "https://www.google.com/search?q=MLB+Baseball+Trade+Rumors"
+      }
+    ],
+    "6.3.7": [
+      {
+        "d": "google.com",
+        "n": "Prospect Rankings",
+        "u": "https://www.google.com/search?q=MLB+Baseball+Prospect+Rankings"
+      }
+    ],
+    "6.3.8": [
+      {
+        "d": "google.com",
+        "n": "Playoff Race",
+        "u": "https://www.google.com/search?q=MLB+Baseball+Playoff+Race"
+      }
+    ],
+    "6.3.9": [
+      {
+        "d": "google.com",
+        "n": "Hall of Fame",
+        "u": "https://www.google.com/search?q=MLB+Baseball+Hall+of+Fame"
+      }
+    ],
+    "6.4.1.1": [
+      {
+        "d": "google.com",
+        "n": "Scores & Table",
+        "u": "https://www.google.com/search?q=Premier+League+Scores+%26+Table"
+      }
+    ],
+    "6.4.1.2": [
+      {
+        "d": "google.com",
+        "n": "Top Scorers",
+        "u": "https://www.google.com/search?q=Premier+League+Top+Scorers"
+      }
+    ],
+    "6.4.1.3": [
+      {
+        "d": "google.com",
+        "n": "Transfer News",
+        "u": "https://www.google.com/search?q=Premier+League+Transfer+News"
+      }
+    ],
+    "6.4.1.4": [
+      {
+        "d": "google.com",
+        "n": "Match Highlights",
+        "u": "https://www.google.com/search?q=Premier+League+Match+Highlights"
+      }
+    ],
+    "6.4.1.6": [
+      {
+        "d": "google.com",
+        "n": "Team News",
+        "u": "https://www.google.com/search?q=Premier+League+Team+News"
+      }
+    ],
+    "6.4.1.7": [
+      {
+        "d": "google.com",
+        "n": "Manager Watch",
+        "u": "https://www.google.com/search?q=Premier+League+Manager+Watch"
+      }
+    ],
+    "6.4.1.8": [
+      {
+        "d": "google.com",
+        "n": "Fantasy EPL",
+        "u": "https://www.google.com/search?q=Premier+League+Fantasy+EPL"
+      }
+    ],
+    "6.4.1.9": [
+      {
+        "d": "google.com",
+        "n": "Relegation Battle",
+        "u": "https://www.google.com/search?q=Premier+League+Relegation+Battle"
+      }
+    ],
+    "6.4.2": [
+      {
+        "d": "google.com",
+        "n": "Champions League",
+        "u": "https://www.google.com/search?q=Soccer+%2F+Football+Champions+League"
+      }
+    ],
+    "6.4.3": [
+      {
+        "d": "google.com",
+        "n": "La Liga",
+        "u": "https://www.google.com/search?q=Soccer+%2F+Football+La+Liga"
+      }
+    ],
+    "6.4.4": [
+      {
+        "d": "google.com",
+        "n": "Serie A & Bundesliga",
+        "u": "https://www.google.com/search?q=Soccer+%2F+Football+Serie+A+%26+Bundesliga"
+      }
+    ],
+    "6.4.6": [
+      {
+        "d": "google.com",
+        "n": "MLS",
+        "u": "https://www.google.com/search?q=Soccer+%2F+Football+MLS"
+      }
+    ],
+    "6.4.7": [
+      {
+        "d": "google.com",
+        "n": "World Cup",
+        "u": "https://www.google.com/search?q=Soccer+%2F+Football+World+Cup"
+      }
+    ],
+    "6.4.8": [
+      {
+        "d": "google.com",
+        "n": "Transfer News",
+        "u": "https://www.google.com/search?q=Soccer+%2F+Football+Transfer+News"
+      }
+    ],
+    "6.4.9": [
+      {
+        "d": "google.com",
+        "n": "Women's Soccer",
+        "u": "https://www.google.com/search?q=Soccer+%2F+Football+Women%27s+Soccer"
+      }
+    ],
+    "6.6.1": [
+      {
+        "d": "google.com",
+        "n": "Football Rankings",
+        "u": "https://www.google.com/search?q=College+Sports+Football+Rankings"
+      }
+    ],
+    "6.6.2": [
+      {
+        "d": "google.com",
+        "n": "Basketball Rankings",
+        "u": "https://www.google.com/search?q=College+Sports+Basketball+Rankings"
+      }
+    ],
+    "6.6.3": [
+      {
+        "d": "google.com",
+        "n": "Recruiting",
+        "u": "https://www.google.com/search?q=College+Sports+Recruiting"
+      }
+    ],
+    "6.6.4": [
+      {
+        "d": "google.com",
+        "n": "Bowl Games",
+        "u": "https://www.google.com/search?q=College+Sports+Bowl+Games"
+      }
+    ],
+    "6.6.6": [
+      {
+        "d": "google.com",
+        "n": "March Madness",
+        "u": "https://www.google.com/search?q=College+Sports+March+Madness"
+      }
+    ],
+    "6.6.7": [
+      {
+        "d": "google.com",
+        "n": "Conference Realign",
+        "u": "https://www.google.com/search?q=College+Sports+Conference+Realign"
+      }
+    ],
+    "6.6.8": [
+      {
+        "d": "google.com",
+        "n": "NIL Deals",
+        "u": "https://www.google.com/search?q=College+Sports+NIL+Deals"
+      }
+    ],
+    "6.6.9": [
+      {
+        "d": "google.com",
+        "n": "Rivalry Week",
+        "u": "https://www.google.com/search?q=College+Sports+Rivalry+Week"
+      }
+    ],
+    "6.7.1": [
+      {
+        "d": "google.com",
+        "n": "UFC Results",
+        "u": "https://www.google.com/search?q=Combat+Sports+UFC+Results"
+      }
+    ],
+    "6.7.2": [
+      {
+        "d": "google.com",
+        "n": "Boxing Results",
+        "u": "https://www.google.com/search?q=Combat+Sports+Boxing+Results"
+      }
+    ],
+    "6.7.3": [
+      {
+        "d": "google.com",
+        "n": "Rankings",
+        "u": "https://www.google.com/search?q=Combat+Sports+Rankings"
+      }
+    ],
+    "6.7.4": [
+      {
+        "d": "google.com",
+        "n": "Upcoming Fights",
+        "u": "https://www.google.com/search?q=Combat+Sports+Upcoming+Fights"
+      }
+    ],
+    "6.7.6": [
+      {
+        "d": "google.com",
+        "n": "Knockouts & Highlights",
+        "u": "https://www.google.com/search?q=Combat+Sports+Knockouts+%26+Highlights"
+      }
+    ],
+    "6.7.7": [
+      {
+        "d": "google.com",
+        "n": "Fighter Profiles",
+        "u": "https://www.google.com/search?q=Combat+Sports+Fighter+Profiles"
+      }
+    ],
+    "6.7.8": [
+      {
+        "d": "google.com",
+        "n": "Weigh-Ins",
+        "u": "https://www.google.com/search?q=Combat+Sports+Weigh-Ins"
+      }
+    ],
+    "6.7.9": [
+      {
+        "d": "google.com",
+        "n": "Post-Fight Analysis",
+        "u": "https://www.google.com/search?q=Combat+Sports+Post-Fight+Analysis"
+      }
+    ],
+    "6.8.1": [
+      {
+        "d": "google.com",
+        "n": "ATP & WTA Rankings",
+        "u": "https://www.google.com/search?q=Tennis%2C+Golf+%26+More+ATP+%26+WTA+Rankings"
+      }
+    ],
+    "6.8.2": [
+      {
+        "d": "google.com",
+        "n": "Grand Slam Results",
+        "u": "https://www.google.com/search?q=Tennis%2C+Golf+%26+More+Grand+Slam+Results"
+      }
+    ],
+    "6.8.3": [
+      {
+        "d": "google.com",
+        "n": "PGA Tour",
+        "u": "https://www.google.com/search?q=Tennis%2C+Golf+%26+More+PGA+Tour"
+      }
+    ],
+    "6.8.4": [
+      {
+        "d": "google.com",
+        "n": "LIV Golf",
+        "u": "https://www.google.com/search?q=Tennis%2C+Golf+%26+More+LIV+Golf"
+      }
+    ],
+    "6.8.6": [
+      {
+        "d": "google.com",
+        "n": "NHL Hockey",
+        "u": "https://www.google.com/search?q=Tennis%2C+Golf+%26+More+NHL+Hockey"
+      }
+    ],
+    "6.8.7": [
+      {
+        "d": "google.com",
+        "n": "F1 Racing",
+        "u": "https://www.google.com/search?q=Tennis%2C+Golf+%26+More+F1+Racing"
+      }
+    ],
+    "6.8.8": [
+      {
+        "d": "google.com",
+        "n": "Olympics",
+        "u": "https://www.google.com/search?q=Tennis%2C+Golf+%26+More+Olympics"
+      }
+    ],
+    "6.8.9": [
+      {
+        "d": "google.com",
+        "n": "Emerging Sports",
+        "u": "https://www.google.com/search?q=Tennis%2C+Golf+%26+More+Emerging+Sports"
+      }
+    ],
+    "6.9.1": [
+      {
+        "d": "google.com",
+        "n": "ESPN",
+        "u": "https://www.google.com/search?q=Sports+Sources+ESPN"
+      }
+    ],
+    "6.9.2": [
+      {
+        "d": "google.com",
+        "n": "The Athletic",
+        "u": "https://www.google.com/search?q=Sports+Sources+The+Athletic"
+      }
+    ],
+    "6.9.3": [
+      {
+        "d": "google.com",
+        "n": "Bleacher Report",
+        "u": "https://www.google.com/search?q=Sports+Sources+Bleacher+Report"
+      }
+    ],
+    "6.9.4": [
+      {
+        "d": "google.com",
+        "n": "CBS Sports",
+        "u": "https://www.google.com/search?q=Sports+Sources+CBS+Sports"
+      }
+    ],
+    "6.9.6": [
+      {
+        "d": "google.com",
+        "n": "Fox Sports",
+        "u": "https://www.google.com/search?q=Sports+Sources+Fox+Sports"
+      }
+    ],
+    "6.9.7": [
+      {
+        "d": "google.com",
+        "n": "Yahoo Sports",
+        "u": "https://www.google.com/search?q=Sports+Sources+Yahoo+Sports"
+      }
+    ],
+    "6.9.8": [
+      {
+        "d": "google.com",
+        "n": "Sports Illustrated",
+        "u": "https://www.google.com/search?q=Sports+Sources+Sports+Illustrated"
+      }
+    ],
+    "6.9.9": [
+      {
+        "d": "google.com",
+        "n": "Local Sports Beat",
+        "u": "https://www.google.com/search?q=Sports+Sources+Local+Sports+Beat"
+      }
+    ],
+    "7.1.1": [
+      {
+        "d": "google.com",
+        "n": "Hourly Breakdown",
+        "u": "https://www.google.com/search?q=Today%27s+Forecast+Hourly+Breakdown"
+      }
+    ],
+    "7.1.2": [
+      {
+        "d": "google.com",
+        "n": "Morning",
+        "u": "https://www.google.com/search?q=Today%27s+Forecast+Morning"
+      }
+    ],
+    "7.1.3": [
+      {
+        "d": "google.com",
+        "n": "Afternoon",
+        "u": "https://www.google.com/search?q=Today%27s+Forecast+Afternoon"
+      }
+    ],
+    "7.1.4": [
+      {
+        "d": "google.com",
+        "n": "Evening",
+        "u": "https://www.google.com/search?q=Today%27s+Forecast+Evening"
+      }
+    ],
+    "7.1.6": [
+      {
+        "d": "google.com",
+        "n": "Feels Like",
+        "u": "https://www.google.com/search?q=Today%27s+Forecast+Feels+Like"
+      }
+    ],
+    "7.1.7": [
+      {
+        "d": "google.com",
+        "n": "Wind & Humidity",
+        "u": "https://www.google.com/search?q=Today%27s+Forecast+Wind+%26+Humidity"
+      }
+    ],
+    "7.1.8": [
+      {
+        "d": "google.com",
+        "n": "Precipitation",
+        "u": "https://www.google.com/search?q=Today%27s+Forecast+Precipitation"
+      }
+    ],
+    "7.1.9": [
+      {
+        "d": "google.com",
+        "n": "UV & Pollen",
+        "u": "https://www.google.com/search?q=Today%27s+Forecast+UV+%26+Pollen"
+      }
+    ],
+    "7.2.1": [
+      {
+        "d": "google.com",
+        "n": "Tomorrow",
+        "u": "https://www.google.com/search?q=Week+Ahead+Tomorrow"
+      }
+    ],
+    "7.2.2": [
+      {
+        "d": "google.com",
+        "n": "3-Day Outlook",
+        "u": "https://www.google.com/search?q=Week+Ahead+3-Day+Outlook"
+      }
+    ],
+    "7.2.3": [
+      {
+        "d": "google.com",
+        "n": "Weekend Forecast",
+        "u": "https://www.google.com/search?q=Week+Ahead+Weekend+Forecast"
+      }
+    ],
+    "7.2.4": [
+      {
+        "d": "google.com",
+        "n": "Extended 10-Day",
+        "u": "https://www.google.com/search?q=Week+Ahead+Extended+10-Day"
+      }
+    ],
+    "7.2.6": [
+      {
+        "d": "google.com",
+        "n": "Temperature Trend",
+        "u": "https://www.google.com/search?q=Week+Ahead+Temperature+Trend"
+      }
+    ],
+    "7.2.7": [
+      {
+        "d": "google.com",
+        "n": "Rain Probability",
+        "u": "https://www.google.com/search?q=Week+Ahead+Rain+Probability"
+      }
+    ],
+    "7.2.8": [
+      {
+        "d": "google.com",
+        "n": "Sunrise & Sunset",
+        "u": "https://www.google.com/search?q=Week+Ahead+Sunrise+%26+Sunset"
+      }
+    ],
+    "7.2.9": [
+      {
+        "d": "google.com",
+        "n": "Moon Phase",
+        "u": "https://www.google.com/search?q=Week+Ahead+Moon+Phase"
+      }
+    ],
+    "7.3.1": [
+      {
+        "d": "google.com",
+        "n": "Tornado Warnings",
+        "u": "https://www.google.com/search?q=Severe+Weather+Tornado+Warnings"
+      }
+    ],
+    "7.3.2": [
+      {
+        "d": "google.com",
+        "n": "Severe Thunderstorm",
+        "u": "https://www.google.com/search?q=Severe+Weather+Severe+Thunderstorm"
+      }
+    ],
+    "7.3.3": [
+      {
+        "d": "google.com",
+        "n": "Hurricane Watch",
+        "u": "https://www.google.com/search?q=Severe+Weather+Hurricane+Watch"
+      }
+    ],
+    "7.3.4": [
+      {
+        "d": "google.com",
+        "n": "Blizzard & Ice",
+        "u": "https://www.google.com/search?q=Severe+Weather+Blizzard+%26+Ice"
+      }
+    ],
+    "7.3.6": [
+      {
+        "d": "google.com",
+        "n": "Extreme Heat",
+        "u": "https://www.google.com/search?q=Severe+Weather+Extreme+Heat"
+      }
+    ],
+    "7.3.7": [
+      {
+        "d": "google.com",
+        "n": "Flood Watch",
+        "u": "https://www.google.com/search?q=Severe+Weather+Flood+Watch"
+      }
+    ],
+    "7.3.8": [
+      {
+        "d": "google.com",
+        "n": "Wind Advisories",
+        "u": "https://www.google.com/search?q=Severe+Weather+Wind+Advisories"
+      }
+    ],
+    "7.3.9": [
+      {
+        "d": "google.com",
+        "n": "Emergency Prep Tips",
+        "u": "https://www.google.com/search?q=Severe+Weather+Emergency+Prep+Tips"
+      }
+    ],
+    "7.4.1": [
+      {
+        "d": "google.com",
+        "n": "Live Radar",
+        "u": "https://www.google.com/search?q=Radar+%26+Maps+Live+Radar"
+      }
+    ],
+    "7.4.2": [
+      {
+        "d": "google.com",
+        "n": "Satellite View",
+        "u": "https://www.google.com/search?q=Radar+%26+Maps+Satellite+View"
+      }
+    ],
+    "7.4.3": [
+      {
+        "d": "google.com",
+        "n": "Temperature Map",
+        "u": "https://www.google.com/search?q=Radar+%26+Maps+Temperature+Map"
+      }
+    ],
+    "7.4.4": [
+      {
+        "d": "google.com",
+        "n": "Wind Map",
+        "u": "https://www.google.com/search?q=Radar+%26+Maps+Wind+Map"
+      }
+    ],
+    "7.4.6": [
+      {
+        "d": "google.com",
+        "n": "Lightning Tracker",
+        "u": "https://www.google.com/search?q=Radar+%26+Maps+Lightning+Tracker"
+      }
+    ],
+    "7.4.7": [
+      {
+        "d": "google.com",
+        "n": "Snow Depth",
+        "u": "https://www.google.com/search?q=Radar+%26+Maps+Snow+Depth"
+      }
+    ],
+    "7.4.8": [
+      {
+        "d": "google.com",
+        "n": "Future Radar",
+        "u": "https://www.google.com/search?q=Radar+%26+Maps+Future+Radar"
+      }
+    ],
+    "7.4.9": [
+      {
+        "d": "google.com",
+        "n": "Wildfire Map",
+        "u": "https://www.google.com/search?q=Radar+%26+Maps+Wildfire+Map"
+      }
+    ],
+    "7.6.1": [
+      {
+        "d": "google.com",
+        "n": "AQI Today",
+        "u": "https://www.google.com/search?q=Air+Quality+AQI+Today"
+      }
+    ],
+    "7.6.2": [
+      {
+        "d": "google.com",
+        "n": "Wildfire Smoke",
+        "u": "https://www.google.com/search?q=Air+Quality+Wildfire+Smoke"
+      }
+    ],
+    "7.6.3": [
+      {
+        "d": "google.com",
+        "n": "Ozone Levels",
+        "u": "https://www.google.com/search?q=Air+Quality+Ozone+Levels"
+      }
+    ],
+    "7.6.4": [
+      {
+        "d": "google.com",
+        "n": "Allergen Forecast",
+        "u": "https://www.google.com/search?q=Air+Quality+Allergen+Forecast"
+      }
+    ],
+    "7.6.6": [
+      {
+        "d": "google.com",
+        "n": "Pollution Map",
+        "u": "https://www.google.com/search?q=Air+Quality+Pollution+Map"
+      }
+    ],
+    "7.6.7": [
+      {
+        "d": "google.com",
+        "n": "Asthma Alerts",
+        "u": "https://www.google.com/search?q=Air+Quality+Asthma+Alerts"
+      }
+    ],
+    "7.6.8": [
+      {
+        "d": "google.com",
+        "n": "Indoor Air Tips",
+        "u": "https://www.google.com/search?q=Air+Quality+Indoor+Air+Tips"
+      }
+    ],
+    "7.6.9": [
+      {
+        "d": "google.com",
+        "n": "Historical AQI",
+        "u": "https://www.google.com/search?q=Air+Quality+Historical+AQI"
+      }
+    ],
+    "7.7.1": [
+      {
+        "d": "google.com",
+        "n": "Airport Delays",
+        "u": "https://www.google.com/search?q=Travel+Weather+Airport+Delays"
+      }
+    ],
+    "7.7.2": [
+      {
+        "d": "google.com",
+        "n": "Road Conditions",
+        "u": "https://www.google.com/search?q=Travel+Weather+Road+Conditions"
+      }
+    ],
+    "7.7.3": [
+      {
+        "d": "google.com",
+        "n": "Ski & Snow Report",
+        "u": "https://www.google.com/search?q=Travel+Weather+Ski+%26+Snow+Report"
+      }
+    ],
+    "7.7.4": [
+      {
+        "d": "google.com",
+        "n": "Beach Forecast",
+        "u": "https://www.google.com/search?q=Travel+Weather+Beach+Forecast"
+      }
+    ],
+    "7.7.6": [
+      {
+        "d": "google.com",
+        "n": "Destination Weather",
+        "u": "https://www.google.com/search?q=Travel+Weather+Destination+Weather"
+      }
+    ],
+    "7.7.7": [
+      {
+        "d": "google.com",
+        "n": "Cruise Weather",
+        "u": "https://www.google.com/search?q=Travel+Weather+Cruise+Weather"
+      }
+    ],
+    "7.7.8": [
+      {
+        "d": "google.com",
+        "n": "International Forecast",
+        "u": "https://www.google.com/search?q=Travel+Weather+International+Forecast"
+      }
+    ],
+    "7.7.9": [
+      {
+        "d": "google.com",
+        "n": "Packing Planner",
+        "u": "https://www.google.com/search?q=Travel+Weather+Packing+Planner"
+      }
+    ],
+    "7.8.1": [
+      {
+        "d": "google.com",
+        "n": "Hurricane Season",
+        "u": "https://www.google.com/search?q=Seasonal+Hurricane+Season"
+      }
+    ],
+    "7.8.2": [
+      {
+        "d": "google.com",
+        "n": "Winter Storm Tracker",
+        "u": "https://www.google.com/search?q=Seasonal+Winter+Storm+Tracker"
+      }
+    ],
+    "7.8.3": [
+      {
+        "d": "google.com",
+        "n": "Spring Severe Season",
+        "u": "https://www.google.com/search?q=Seasonal+Spring+Severe+Season"
+      }
+    ],
+    "7.8.4": [
+      {
+        "d": "google.com",
+        "n": "Summer Heat Watch",
+        "u": "https://www.google.com/search?q=Seasonal+Summer+Heat+Watch"
+      }
+    ],
+    "7.8.6": [
+      {
+        "d": "google.com",
+        "n": "Fall Foliage",
+        "u": "https://www.google.com/search?q=Seasonal+Fall+Foliage"
+      }
+    ],
+    "7.8.7": [
+      {
+        "d": "google.com",
+        "n": "Frost & Freeze Dates",
+        "u": "https://www.google.com/search?q=Seasonal+Frost+%26+Freeze+Dates"
+      }
+    ],
+    "7.8.8": [
+      {
+        "d": "google.com",
+        "n": "Planting Calendar",
+        "u": "https://www.google.com/search?q=Seasonal+Planting+Calendar"
+      }
+    ],
+    "7.8.9": [
+      {
+        "d": "google.com",
+        "n": "Seasonal Outlook",
+        "u": "https://www.google.com/search?q=Seasonal+Seasonal+Outlook"
+      }
+    ],
+    "7.9.1": [
+      {
+        "d": "google.com",
+        "n": "Weather.com",
+        "u": "https://www.google.com/search?q=Weather+Sources+Weather.com"
+      }
+    ],
+    "7.9.2": [
+      {
+        "d": "google.com",
+        "n": "AccuWeather",
+        "u": "https://www.google.com/search?q=Weather+Sources+AccuWeather"
+      }
+    ],
+    "7.9.3": [
+      {
+        "d": "google.com",
+        "n": "Weather Underground",
+        "u": "https://www.google.com/search?q=Weather+Sources+Weather+Underground"
+      }
+    ],
+    "7.9.4": [
+      {
+        "d": "google.com",
+        "n": "NWS / NOAA",
+        "u": "https://www.google.com/search?q=Weather+Sources+NWS+%2F+NOAA"
+      }
+    ],
+    "7.9.6": [
+      {
+        "d": "google.com",
+        "n": "Windy",
+        "u": "https://www.google.com/search?q=Weather+Sources+Windy"
+      }
+    ],
+    "7.9.7": [
+      {
+        "d": "google.com",
+        "n": "Weather Apps",
+        "u": "https://www.google.com/search?q=Weather+Sources+Weather+Apps"
+      }
+    ],
+    "7.9.8": [
+      {
+        "d": "google.com",
+        "n": "Local Forecast",
+        "u": "https://www.google.com/search?q=Weather+Sources+Local+Forecast"
+      }
+    ],
+    "7.9.9": [
+      {
+        "d": "google.com",
+        "n": "Radar Apps",
+        "u": "https://www.google.com/search?q=Weather+Sources+Radar+Apps"
+      }
+    ],
+    "8.1.1": [
+      {
+        "d": "google.com",
+        "n": "Space & NASA",
+        "u": "https://www.google.com/search?q=Science+%26+Discovery+Space+%26+NASA"
+      }
+    ],
+    "8.1.2": [
+      {
+        "d": "google.com",
+        "n": "Medical Advances",
+        "u": "https://www.google.com/search?q=Science+%26+Discovery+Medical+Advances"
+      }
+    ],
+    "8.1.3": [
+      {
+        "d": "google.com",
+        "n": "Climate Research",
+        "u": "https://www.google.com/search?q=Science+%26+Discovery+Climate+Research"
+      }
+    ],
+    "8.1.4": [
+      {
+        "d": "google.com",
+        "n": "Physics & Chemistry",
+        "u": "https://www.google.com/search?q=Science+%26+Discovery+Physics+%26+Chemistry"
+      }
+    ],
+    "8.1.6": [
+      {
+        "d": "google.com",
+        "n": "Biology & Nature",
+        "u": "https://www.google.com/search?q=Science+%26+Discovery+Biology+%26+Nature"
+      }
+    ],
+    "8.1.7": [
+      {
+        "d": "google.com",
+        "n": "Archaeology",
+        "u": "https://www.google.com/search?q=Science+%26+Discovery+Archaeology"
+      }
+    ],
+    "8.1.8": [
+      {
+        "d": "google.com",
+        "n": "Ocean Science",
+        "u": "https://www.google.com/search?q=Science+%26+Discovery+Ocean+Science"
+      }
+    ],
+    "8.1.9": [
+      {
+        "d": "google.com",
+        "n": "AI Research",
+        "u": "https://www.google.com/search?q=Science+%26+Discovery+AI+Research"
+      }
+    ],
+    "8.2.1": [
+      {
+        "d": "google.com",
+        "n": "ProPublica",
+        "u": "https://www.google.com/search?q=Investigative+ProPublica"
+      }
+    ],
+    "8.2.2": [
+      {
+        "d": "google.com",
+        "n": "The Intercept",
+        "u": "https://www.google.com/search?q=Investigative+The+Intercept"
+      }
+    ],
+    "8.2.3": [
+      {
+        "d": "google.com",
+        "n": "NYT Investigations",
+        "u": "https://www.google.com/search?q=Investigative+NYT+Investigations"
+      }
+    ],
+    "8.2.4": [
+      {
+        "d": "google.com",
+        "n": "Reuters Special",
+        "u": "https://www.google.com/search?q=Investigative+Reuters+Special"
+      }
+    ],
+    "8.2.6": [
+      {
+        "d": "google.com",
+        "n": "ICIJ (Panama Papers)",
+        "u": "https://www.google.com/search?q=Investigative+ICIJ+%28Panama+Papers%29"
+      }
+    ],
+    "8.2.7": [
+      {
+        "d": "google.com",
+        "n": "60 Minutes",
+        "u": "https://www.google.com/search?q=Investigative+60+Minutes"
+      }
+    ],
+    "8.2.8": [
+      {
+        "d": "google.com",
+        "n": "Frontline PBS",
+        "u": "https://www.google.com/search?q=Investigative+Frontline+PBS"
+      }
+    ],
+    "8.2.9": [
+      {
+        "d": "google.com",
+        "n": "Local Investigations",
+        "u": "https://www.google.com/search?q=Investigative+Local+Investigations"
+      }
+    ],
+    "8.3.1": [
+      {
+        "d": "google.com",
+        "n": "NYT Opinion",
+        "u": "https://www.google.com/search?q=Opinion+%26+Analysis+NYT+Opinion"
+      }
+    ],
+    "8.3.2": [
+      {
+        "d": "google.com",
+        "n": "WSJ Opinion",
+        "u": "https://www.google.com/search?q=Opinion+%26+Analysis+WSJ+Opinion"
+      }
+    ],
+    "8.3.3": [
+      {
+        "d": "google.com",
+        "n": "WaPo Opinions",
+        "u": "https://www.google.com/search?q=Opinion+%26+Analysis+WaPo+Opinions"
+      }
+    ],
+    "8.3.4": [
+      {
+        "d": "theatlantic.com",
+        "n": "The Atlantic",
+        "u": "https://www.theatlantic.com"
+      }
+    ],
+    "8.3.6": [
+      {
+        "d": "google.com",
+        "n": "The Economist",
+        "u": "https://www.google.com/search?q=Opinion+%26+Analysis+The+Economist"
+      }
+    ],
+    "8.3.7": [
+      {
+        "d": "google.com",
+        "n": "Foreign Policy",
+        "u": "https://www.google.com/search?q=Opinion+%26+Analysis+Foreign+Policy"
+      }
+    ],
+    "8.3.8": [
+      {
+        "d": "google.com",
+        "n": "Substack Voices",
+        "u": "https://www.google.com/search?q=Opinion+%26+Analysis+Substack+Voices"
+      }
+    ],
+    "8.3.9": [
+      {
+        "d": "google.com",
+        "n": "Academic Views",
+        "u": "https://www.google.com/search?q=Opinion+%26+Analysis+Academic+Views"
+      }
+    ],
+    "8.4.1": [
+      {
+        "d": "newyorker.com",
+        "n": "New Yorker",
+        "u": "https://www.newyorker.com"
+      }
+    ],
+    "8.4.2": [
+      {
+        "d": "theatlantic.com",
+        "n": "The Atlantic",
+        "u": "https://www.theatlantic.com"
+      }
+    ],
+    "8.4.3": [
+      {
+        "d": "google.com",
+        "n": "Longreads.com",
+        "u": "https://www.google.com/search?q=Long+Reads+Longreads.com"
+      }
+    ],
+    "8.4.4": [
+      {
+        "d": "google.com",
+        "n": "Narratively",
+        "u": "https://www.google.com/search?q=Long+Reads+Narratively"
+      }
+    ],
+    "8.4.6": [
+      {
+        "d": "google.com",
+        "n": "Pocket Best Of",
+        "u": "https://www.google.com/search?q=Long+Reads+Pocket+Best+Of"
+      }
+    ],
+    "8.4.7": [
+      {
+        "d": "google.com",
+        "n": "NYT Magazine",
+        "u": "https://www.google.com/search?q=Long+Reads+NYT+Magazine"
+      }
+    ],
+    "8.4.8": [
+      {
+        "d": "google.com",
+        "n": "Atavist Magazine",
+        "u": "https://www.google.com/search?q=Long+Reads+Atavist+Magazine"
+      }
+    ],
+    "8.4.9": [
+      {
+        "d": "google.com",
+        "n": "This Week's Best",
+        "u": "https://www.google.com/search?q=Long+Reads+This+Week%27s+Best"
+      }
+    ],
+    "8.6.1": [
+      {
+        "d": "google.com",
+        "n": "Netflix Docs",
+        "u": "https://www.google.com/search?q=Documentaries+Netflix+Docs"
+      }
+    ],
+    "8.6.2": [
+      {
+        "d": "google.com",
+        "n": "HBO Docs",
+        "u": "https://www.google.com/search?q=Documentaries+HBO+Docs"
+      }
+    ],
+    "8.6.3": [
+      {
+        "d": "google.com",
+        "n": "PBS Frontline",
+        "u": "https://www.google.com/search?q=Documentaries+PBS+Frontline"
+      }
+    ],
+    "8.6.4": [
+      {
+        "d": "google.com",
+        "n": "YouTube Docs",
+        "u": "https://www.google.com/search?q=Documentaries+YouTube+Docs"
+      }
+    ],
+    "8.6.6": [
+      {
+        "d": "google.com",
+        "n": "BBC Docs",
+        "u": "https://www.google.com/search?q=Documentaries+BBC+Docs"
+      }
+    ],
+    "8.6.7": [
+      {
+        "d": "google.com",
+        "n": "Vice",
+        "u": "https://www.google.com/search?q=Documentaries+Vice"
+      }
+    ],
+    "8.6.8": [
+      {
+        "d": "google.com",
+        "n": "Award Winners",
+        "u": "https://www.google.com/search?q=Documentaries+Award+Winners"
+      }
+    ],
+    "8.6.9": [
+      {
+        "d": "google.com",
+        "n": "New Releases",
+        "u": "https://www.google.com/search?q=Documentaries+New+Releases"
+      }
+    ],
+    "8.7.1": [
+      {
+        "d": "google.com",
+        "n": "The Daily (NYT)",
+        "u": "https://www.google.com/search?q=Podcasts+%26+Audio+News+The+Daily+%28NYT%29"
+      }
+    ],
+    "8.7.2": [
+      {
+        "d": "google.com",
+        "n": "Up First (NPR)",
+        "u": "https://www.google.com/search?q=Podcasts+%26+Audio+News+Up+First+%28NPR%29"
+      }
+    ],
+    "8.7.3": [
+      {
+        "d": "google.com",
+        "n": "Post Reports",
+        "u": "https://www.google.com/search?q=Podcasts+%26+Audio+News+Post+Reports"
+      }
+    ],
+    "8.7.4": [
+      {
+        "d": "google.com",
+        "n": "The Journal (WSJ)",
+        "u": "https://www.google.com/search?q=Podcasts+%26+Audio+News+The+Journal+%28WSJ%29"
+      }
+    ],
+    "8.7.6": [
+      {
+        "d": "google.com",
+        "n": "Pivot",
+        "u": "https://www.google.com/search?q=Podcasts+%26+Audio+News+Pivot"
+      }
+    ],
+    "8.7.7": [
+      {
+        "d": "google.com",
+        "n": "Pod Save America",
+        "u": "https://www.google.com/search?q=Podcasts+%26+Audio+News+Pod+Save+America"
+      }
+    ],
+    "8.7.8": [
+      {
+        "d": "google.com",
+        "n": "Radiolab",
+        "u": "https://www.google.com/search?q=Podcasts+%26+Audio+News+Radiolab"
+      }
+    ],
+    "8.7.9": [
+      {
+        "d": "google.com",
+        "n": "Discover Podcasts",
+        "u": "https://www.google.com/search?q=Podcasts+%26+Audio+News+Discover+Podcasts"
+      }
+    ],
+    "8.8.1": [
+      {
+        "d": "google.com",
+        "n": "Bias Detection",
+        "u": "https://www.google.com/search?q=Media+Literacy+Bias+Detection"
+      }
+    ],
+    "8.8.2": [
+      {
+        "d": "google.com",
+        "n": "Source Evaluation",
+        "u": "https://www.google.com/search?q=Media+Literacy+Source+Evaluation"
+      }
+    ],
+    "8.8.3": [
+      {
+        "d": "google.com",
+        "n": "Logical Fallacies",
+        "u": "https://www.google.com/search?q=Media+Literacy+Logical+Fallacies"
+      }
+    ],
+    "8.8.4": [
+      {
+        "d": "google.com",
+        "n": "Propaganda Awareness",
+        "u": "https://www.google.com/search?q=Media+Literacy+Propaganda+Awareness"
+      }
+    ],
+    "8.8.6": [
+      {
+        "d": "google.com",
+        "n": "Data Interpretation",
+        "u": "https://www.google.com/search?q=Media+Literacy+Data+Interpretation"
+      }
+    ],
+    "8.8.7": [
+      {
+        "d": "google.com",
+        "n": "News Literacy Project",
+        "u": "https://www.google.com/search?q=Media+Literacy+News+Literacy+Project"
+      }
+    ],
+    "8.8.8": [
+      {
+        "d": "google.com",
+        "n": "Ground News Blindspot",
+        "u": "https://www.google.com/search?q=Media+Literacy+Ground+News+Blindspot"
+      }
+    ],
+    "8.8.9": [
+      {
+        "d": "google.com",
+        "n": "Critical Thinking",
+        "u": "https://www.google.com/search?q=Media+Literacy+Critical+Thinking"
+      }
+    ],
+    "8.9.1": [
+      {
+        "d": "google.com",
+        "n": "The Onion",
+        "u": "https://www.google.com/search?q=Satire+%26+Humor+The+Onion"
+      }
+    ],
+    "8.9.2": [
+      {
+        "d": "google.com",
+        "n": "Babylon Bee",
+        "u": "https://www.google.com/search?q=Satire+%26+Humor+Babylon+Bee"
+      }
+    ],
+    "8.9.3": [
+      {
+        "d": "google.com",
+        "n": "SNL Political",
+        "u": "https://www.google.com/search?q=Satire+%26+Humor+SNL+Political"
+      }
+    ],
+    "8.9.4": [
+      {
+        "d": "google.com",
+        "n": "Late Night Clips",
+        "u": "https://www.google.com/search?q=Satire+%26+Humor+Late+Night+Clips"
+      }
+    ],
+    "8.9.6": [
+      {
+        "d": "google.com",
+        "n": "Political Cartoons",
+        "u": "https://www.google.com/search?q=Satire+%26+Humor+Political+Cartoons"
+      }
+    ],
+    "8.9.7": [
+      {
+        "d": "google.com",
+        "n": "Comedy News Shows",
+        "u": "https://www.google.com/search?q=Satire+%26+Humor+Comedy+News+Shows"
+      }
+    ],
+    "8.9.8": [
+      {
+        "d": "google.com",
+        "n": "Satirical Podcasts",
+        "u": "https://www.google.com/search?q=Satire+%26+Humor+Satirical+Podcasts"
+      }
+    ],
+    "8.9.9": [
+      {
+        "d": "google.com",
+        "n": "Parody Accounts",
+        "u": "https://www.google.com/search?q=Satire+%26+Humor+Parody+Accounts"
+      }
+    ],
+    "9.1.1": [
+      {
+        "d": "google.com",
+        "n": "Ukraine War",
+        "u": "https://www.google.com/search?q=Ongoing+Conflicts+Ukraine+War"
+      }
+    ],
+    "9.1.2": [
+      {
+        "d": "google.com",
+        "n": "Israel-Gaza",
+        "u": "https://www.google.com/search?q=Ongoing+Conflicts+Israel-Gaza"
+      }
+    ],
+    "9.1.3": [
+      {
+        "d": "google.com",
+        "n": "Sudan Crisis",
+        "u": "https://www.google.com/search?q=Ongoing+Conflicts+Sudan+Crisis"
+      }
+    ],
+    "9.1.4": [
+      {
+        "d": "google.com",
+        "n": "Myanmar",
+        "u": "https://www.google.com/search?q=Ongoing+Conflicts+Myanmar"
+      }
+    ],
+    "9.1.6": [
+      {
+        "d": "google.com",
+        "n": "Yemen",
+        "u": "https://www.google.com/search?q=Ongoing+Conflicts+Yemen"
+      }
+    ],
+    "9.1.7": [
+      {
+        "d": "google.com",
+        "n": "Ethiopia",
+        "u": "https://www.google.com/search?q=Ongoing+Conflicts+Ethiopia"
+      }
+    ],
+    "9.1.8": [
+      {
+        "d": "google.com",
+        "n": "Timeline & Context",
+        "u": "https://www.google.com/search?q=Ongoing+Conflicts+Timeline+%26+Context"
+      }
+    ],
+    "9.1.9": [
+      {
+        "d": "google.com",
+        "n": "Peace Negotiations",
+        "u": "https://www.google.com/search?q=Ongoing+Conflicts+Peace+Negotiations"
+      }
+    ],
+    "9.2.1": [
+      {
+        "d": "google.com",
+        "n": "Inflation & Prices",
+        "u": "https://www.google.com/search?q=Economic+Watch+Inflation+%26+Prices"
+      }
+    ],
+    "9.2.2": [
+      {
+        "d": "google.com",
+        "n": "Fed & Interest Rates",
+        "u": "https://www.google.com/search?q=Economic+Watch+Fed+%26+Interest+Rates"
+      }
+    ],
+    "9.2.3": [
+      {
+        "d": "google.com",
+        "n": "Jobs & Unemployment",
+        "u": "https://www.google.com/search?q=Economic+Watch+Jobs+%26+Unemployment"
+      }
+    ],
+    "9.2.4": [
+      {
+        "d": "google.com",
+        "n": "Housing Market",
+        "u": "https://www.google.com/search?q=Economic+Watch+Housing+Market"
+      }
+    ],
+    "9.2.6": [
+      {
+        "d": "google.com",
+        "n": "Stock Market",
+        "u": "https://www.google.com/search?q=Economic+Watch+Stock+Market"
+      }
+    ],
+    "9.2.7": [
+      {
+        "d": "google.com",
+        "n": "Recession Indicators",
+        "u": "https://www.google.com/search?q=Economic+Watch+Recession+Indicators"
+      }
+    ],
+    "9.2.8": [
+      {
+        "d": "google.com",
+        "n": "Global Trade",
+        "u": "https://www.google.com/search?q=Economic+Watch+Global+Trade"
+      }
+    ],
+    "9.2.9": [
+      {
+        "d": "google.com",
+        "n": "Crypto Markets",
+        "u": "https://www.google.com/search?q=Economic+Watch+Crypto+Markets"
+      }
+    ],
+    "9.3.1": [
+      {
+        "d": "google.com",
+        "n": "Extreme Weather Events",
+        "u": "https://www.google.com/search?q=Climate+%26+Environment+Extreme+Weather+Events"
+      }
+    ],
+    "9.3.2": [
+      {
+        "d": "google.com",
+        "n": "Wildfires",
+        "u": "https://www.google.com/search?q=Climate+%26+Environment+Wildfires"
+      }
+    ],
+    "9.3.3": [
+      {
+        "d": "google.com",
+        "n": "Climate Policy",
+        "u": "https://www.google.com/search?q=Climate+%26+Environment+Climate+Policy"
+      }
+    ],
+    "9.3.4": [
+      {
+        "d": "google.com",
+        "n": "Renewable Energy",
+        "u": "https://www.google.com/search?q=Climate+%26+Environment+Renewable+Energy"
+      }
+    ],
+    "9.3.6": [
+      {
+        "d": "google.com",
+        "n": "Biodiversity Loss",
+        "u": "https://www.google.com/search?q=Climate+%26+Environment+Biodiversity+Loss"
+      }
+    ],
+    "9.3.7": [
+      {
+        "d": "google.com",
+        "n": "Water Crisis",
+        "u": "https://www.google.com/search?q=Climate+%26+Environment+Water+Crisis"
+      }
+    ],
+    "9.3.8": [
+      {
+        "d": "google.com",
+        "n": "Carbon Emissions Data",
+        "u": "https://www.google.com/search?q=Climate+%26+Environment+Carbon+Emissions+Data"
+      }
+    ],
+    "9.3.9": [
+      {
+        "d": "google.com",
+        "n": "COP & Summits",
+        "u": "https://www.google.com/search?q=Climate+%26+Environment+COP+%26+Summits"
+      }
+    ],
+    "9.4.1": [
+      {
+        "d": "google.com",
+        "n": "COVID Updates",
+        "u": "https://www.google.com/search?q=Health+%26+Pandemic+COVID+Updates"
+      }
+    ],
+    "9.4.2": [
+      {
+        "d": "google.com",
+        "n": "Bird Flu Watch",
+        "u": "https://www.google.com/search?q=Health+%26+Pandemic+Bird+Flu+Watch"
+      }
+    ],
+    "9.4.3": [
+      {
+        "d": "google.com",
+        "n": "Vaccine Developments",
+        "u": "https://www.google.com/search?q=Health+%26+Pandemic+Vaccine+Developments"
+      }
+    ],
+    "9.4.4": [
+      {
+        "d": "google.com",
+        "n": "WHO Alerts",
+        "u": "https://www.google.com/search?q=Health+%26+Pandemic+WHO+Alerts"
+      }
+    ],
+    "9.4.6": [
+      {
+        "d": "google.com",
+        "n": "Drug Shortages",
+        "u": "https://www.google.com/search?q=Health+%26+Pandemic+Drug+Shortages"
+      }
+    ],
+    "9.4.7": [
+      {
+        "d": "google.com",
+        "n": "Mental Health Crisis",
+        "u": "https://www.google.com/search?q=Health+%26+Pandemic+Mental+Health+Crisis"
+      }
+    ],
+    "9.4.8": [
+      {
+        "d": "google.com",
+        "n": "Opioid Epidemic",
+        "u": "https://www.google.com/search?q=Health+%26+Pandemic+Opioid+Epidemic"
+      }
+    ],
+    "9.4.9": [
+      {
+        "d": "google.com",
+        "n": "Public Health Data",
+        "u": "https://www.google.com/search?q=Health+%26+Pandemic+Public+Health+Data"
+      }
+    ],
+    "9.6.1": [
+      {
+        "d": "google.com",
+        "n": "Supreme Court",
+        "u": "https://www.google.com/search?q=Justice+%26+Legal+Supreme+Court"
+      }
+    ],
+    "9.6.2": [
+      {
+        "d": "google.com",
+        "n": "High-Profile Trials",
+        "u": "https://www.google.com/search?q=Justice+%26+Legal+High-Profile+Trials"
+      }
+    ],
+    "9.6.3": [
+      {
+        "d": "google.com",
+        "n": "DOJ & FBI",
+        "u": "https://www.google.com/search?q=Justice+%26+Legal+DOJ+%26+FBI"
+      }
+    ],
+    "9.6.4": [
+      {
+        "d": "google.com",
+        "n": "Corporate Lawsuits",
+        "u": "https://www.google.com/search?q=Justice+%26+Legal+Corporate+Lawsuits"
+      }
+    ],
+    "9.6.6": [
+      {
+        "d": "google.com",
+        "n": "Police Reform",
+        "u": "https://www.google.com/search?q=Justice+%26+Legal+Police+Reform"
+      }
+    ],
+    "9.6.7": [
+      {
+        "d": "google.com",
+        "n": "Prison Reform",
+        "u": "https://www.google.com/search?q=Justice+%26+Legal+Prison+Reform"
+      }
+    ],
+    "9.6.8": [
+      {
+        "d": "google.com",
+        "n": "Civil Rights Cases",
+        "u": "https://www.google.com/search?q=Justice+%26+Legal+Civil+Rights+Cases"
+      }
+    ],
+    "9.6.9": [
+      {
+        "d": "google.com",
+        "n": "Legal Analysis",
+        "u": "https://www.google.com/search?q=Justice+%26+Legal+Legal+Analysis"
+      }
+    ],
+    "9.7.1": [
+      {
+        "d": "google.com",
+        "n": "AI Regulation",
+        "u": "https://www.google.com/search?q=Tech+%26+Society+AI+Regulation"
+      }
+    ],
+    "9.7.2": [
+      {
+        "d": "google.com",
+        "n": "Social Media Hearings",
+        "u": "https://www.google.com/search?q=Tech+%26+Society+Social+Media+Hearings"
+      }
+    ],
+    "9.7.3": [
+      {
+        "d": "google.com",
+        "n": "Antitrust Cases",
+        "u": "https://www.google.com/search?q=Tech+%26+Society+Antitrust+Cases"
+      }
+    ],
+    "9.7.4": [
+      {
+        "d": "google.com",
+        "n": "Data Privacy",
+        "u": "https://www.google.com/search?q=Tech+%26+Society+Data+Privacy"
+      }
+    ],
+    "9.7.6": [
+      {
+        "d": "google.com",
+        "n": "Election Security",
+        "u": "https://www.google.com/search?q=Tech+%26+Society+Election+Security"
+      }
+    ],
+    "9.7.7": [
+      {
+        "d": "google.com",
+        "n": "Content Moderation",
+        "u": "https://www.google.com/search?q=Tech+%26+Society+Content+Moderation"
+      }
+    ],
+    "9.7.8": [
+      {
+        "d": "google.com",
+        "n": "Digital Rights",
+        "u": "https://www.google.com/search?q=Tech+%26+Society+Digital+Rights"
+      }
+    ],
+    "9.7.9": [
+      {
+        "d": "google.com",
+        "n": "Tech Layoffs",
+        "u": "https://www.google.com/search?q=Tech+%26+Society+Tech+Layoffs"
+      }
+    ],
+    "9.8.1": [
+      {
+        "d": "google.com",
+        "n": "US Border",
+        "u": "https://www.google.com/search?q=Migration+%26+Borders+US+Border"
+      }
+    ],
+    "9.8.2": [
+      {
+        "d": "google.com",
+        "n": "European Migration",
+        "u": "https://www.google.com/search?q=Migration+%26+Borders+European+Migration"
+      }
+    ],
+    "9.8.3": [
+      {
+        "d": "google.com",
+        "n": "Asylum Policies",
+        "u": "https://www.google.com/search?q=Migration+%26+Borders+Asylum+Policies"
+      }
+    ],
+    "9.8.4": [
+      {
+        "d": "google.com",
+        "n": "Refugee Camps",
+        "u": "https://www.google.com/search?q=Migration+%26+Borders+Refugee+Camps"
+      }
+    ],
+    "9.8.6": [
+      {
+        "d": "google.com",
+        "n": "Immigration Reform",
+        "u": "https://www.google.com/search?q=Migration+%26+Borders+Immigration+Reform"
+      }
+    ],
+    "9.8.7": [
+      {
+        "d": "google.com",
+        "n": "DACA & Dreamers",
+        "u": "https://www.google.com/search?q=Migration+%26+Borders+DACA+%26+Dreamers"
+      }
+    ],
+    "9.8.8": [
+      {
+        "d": "google.com",
+        "n": "Human Trafficking",
+        "u": "https://www.google.com/search?q=Migration+%26+Borders+Human+Trafficking"
+      }
+    ],
+    "9.8.9": [
+      {
+        "d": "google.com",
+        "n": "Integration Stories",
+        "u": "https://www.google.com/search?q=Migration+%26+Borders+Integration+Stories"
+      }
+    ],
+    "9.9.1": [
+      {
+        "d": "google.com",
+        "n": "NYT Story Tracker",
+        "u": "https://www.google.com/search?q=Story+Trackers+NYT+Story+Tracker"
+      }
+    ],
+    "9.9.2": [
+      {
+        "d": "google.com",
+        "n": "BBC Story Updates",
+        "u": "https://www.google.com/search?q=Story+Trackers+BBC+Story+Updates"
+      }
+    ],
+    "9.9.3": [
+      {
+        "d": "google.com",
+        "n": "Reuters Live Blog",
+        "u": "https://www.google.com/search?q=Story+Trackers+Reuters+Live+Blog"
+      }
+    ],
+    "9.9.4": [
+      {
+        "d": "google.com",
+        "n": "Guardian Live",
+        "u": "https://www.google.com/search?q=Story+Trackers+Guardian+Live"
+      }
+    ],
+    "9.9.6": [
+      {
+        "d": "google.com",
+        "n": "Wikipedia Current Events",
+        "u": "https://www.google.com/search?q=Story+Trackers+Wikipedia+Current+Events"
+      }
+    ],
+    "9.9.7": [
+      {
+        "d": "google.com",
+        "n": "Reddit Live Threads",
+        "u": "https://www.google.com/search?q=Story+Trackers+Reddit+Live+Threads"
+      }
+    ],
+    "9.9.8": [
+      {
+        "d": "google.com",
+        "n": "Twitter/X Moments",
+        "u": "https://www.google.com/search?q=Story+Trackers+Twitter%2FX+Moments"
+      }
+    ],
+    "9.9.9": [
+      {
+        "d": "trends.google.com",
+        "n": "Google Trends",
+        "u": "https://trends.google.com"
+      }
+    ]
+  }
+}

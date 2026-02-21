@@ -1,0 +1,3688 @@
+{
+  "key": 9,
+  "label": "Shopping",
+  "sites": {
+    "1.1.1": [
+      {
+        "d": "slickdeals.net",
+        "n": "Slickdeals",
+        "u": "https://slickdeals.net"
+      }
+    ],
+    "1.1.2": [
+      {
+        "d": "dealnews.com",
+        "n": "DealNews",
+        "u": "https://www.dealnews.com"
+      }
+    ],
+    "1.1.3": [
+      {
+        "d": "nytimes.com",
+        "n": "Wirecutter Deals",
+        "u": "https://www.nytimes.com/wirecutter/deals"
+      }
+    ],
+    "1.1.4": [
+      {
+        "d": "google.com",
+        "n": "r/deals",
+        "u": "https://www.google.com/search?q=Deal+Aggregators+r%2Fdeals"
+      }
+    ],
+    "1.1.6": [
+      {
+        "d": "google.com",
+        "n": "r/frugal",
+        "u": "https://www.google.com/search?q=Deal+Aggregators+r%2Ffrugal"
+      }
+    ],
+    "1.1.7": [
+      {
+        "d": "google.com",
+        "n": "Brad's Deals",
+        "u": "https://www.google.com/search?q=Deal+Aggregators+Brad%27s+Deals"
+      }
+    ],
+    "1.1.8": [
+      {
+        "d": "google.com",
+        "n": "Ben's Bargains",
+        "u": "https://www.google.com/search?q=Deal+Aggregators+Ben%27s+Bargains"
+      }
+    ],
+    "1.1.9": [
+      {
+        "d": "google.com",
+        "n": "Deal Alert Apps",
+        "u": "https://www.google.com/search?q=Deal+Aggregators+Deal+Alert+Apps"
+      }
+    ],
+    "1.2.1": [
+      {
+        "d": "rakuten.com",
+        "n": "Rakuten",
+        "u": "https://www.rakuten.com"
+      }
+    ],
+    "1.2.2": [
+      {
+        "d": "joinhoney.com",
+        "n": "Honey",
+        "u": "https://www.joinhoney.com"
+      }
+    ],
+    "1.2.3": [
+      {
+        "d": "retailmenot.com",
+        "n": "RetailMeNot",
+        "u": "https://www.retailmenot.com"
+      }
+    ],
+    "1.2.4": [
+      {
+        "d": "google.com",
+        "n": "Capital One Shopping",
+        "u": "https://www.google.com/search?q=Coupons+%26+Cashback+Capital+One+Shopping"
+      }
+    ],
+    "1.2.6": [
+      {
+        "d": "google.com",
+        "n": "CouponCabin",
+        "u": "https://www.google.com/search?q=Coupons+%26+Cashback+CouponCabin"
+      }
+    ],
+    "1.2.7": [
+      {
+        "d": "google.com",
+        "n": "Ibotta",
+        "u": "https://www.google.com/search?q=Coupons+%26+Cashback+Ibotta"
+      }
+    ],
+    "1.2.8": [
+      {
+        "d": "google.com",
+        "n": "Fetch Rewards",
+        "u": "https://www.google.com/search?q=Coupons+%26+Cashback+Fetch+Rewards"
+      }
+    ],
+    "1.2.9": [
+      {
+        "d": "google.com",
+        "n": "Cashback Stacking",
+        "u": "https://www.google.com/search?q=Coupons+%26+Cashback+Cashback+Stacking"
+      }
+    ],
+    "1.3.1": [
+      {
+        "d": "google.com",
+        "n": "CamelCamelCamel",
+        "u": "https://www.google.com/search?q=Price+Tracking+CamelCamelCamel"
+      }
+    ],
+    "1.3.2": [
+      {
+        "d": "google.com",
+        "n": "Keepa",
+        "u": "https://www.google.com/search?q=Price+Tracking+Keepa"
+      }
+    ],
+    "1.3.3": [
+      {
+        "d": "google.com",
+        "n": "Google Price Tracker",
+        "u": "https://www.google.com/search?q=Price+Tracking+Google+Price+Tracker"
+      }
+    ],
+    "1.3.4": [
+      {
+        "d": "google.com",
+        "n": "Honey Price History",
+        "u": "https://www.google.com/search?q=Price+Tracking+Honey+Price+History"
+      }
+    ],
+    "1.3.6": [
+      {
+        "d": "google.com",
+        "n": "PriceSpy",
+        "u": "https://www.google.com/search?q=Price+Tracking+PriceSpy"
+      }
+    ],
+    "1.3.7": [
+      {
+        "d": "google.com",
+        "n": "Wishlist Monitors",
+        "u": "https://www.google.com/search?q=Price+Tracking+Wishlist+Monitors"
+      }
+    ],
+    "1.3.8": [
+      {
+        "d": "google.com",
+        "n": "Price Drop Alerts",
+        "u": "https://www.google.com/search?q=Price+Tracking+Price+Drop+Alerts"
+      }
+    ],
+    "1.3.9": [
+      {
+        "d": "google.com",
+        "n": "Browser Extensions",
+        "u": "https://www.google.com/search?q=Price+Tracking+Browser+Extensions"
+      }
+    ],
+    "1.4.1.1": [
+      {
+        "d": "google.com",
+        "n": "Lightning Deals",
+        "u": "https://www.google.com/search?q=Amazon+Deals+Lightning+Deals"
+      }
+    ],
+    "1.4.1.2": [
+      {
+        "d": "google.com",
+        "n": "Deal of the Day",
+        "u": "https://www.google.com/search?q=Amazon+Deals+Deal+of+the+Day"
+      }
+    ],
+    "1.4.1.3": [
+      {
+        "d": "google.com",
+        "n": "Warehouse Deals",
+        "u": "https://www.google.com/search?q=Amazon+Deals+Warehouse+Deals"
+      }
+    ],
+    "1.4.1.4": [
+      {
+        "d": "google.com",
+        "n": "Subscribe & Save",
+        "u": "https://www.google.com/search?q=Amazon+Deals+Subscribe+%26+Save"
+      }
+    ],
+    "1.4.1.6": [
+      {
+        "d": "google.com",
+        "n": "Prime Exclusive",
+        "u": "https://www.google.com/search?q=Amazon+Deals+Prime+Exclusive"
+      }
+    ],
+    "1.4.1.7": [
+      {
+        "d": "google.com",
+        "n": "Renewed / Refurb",
+        "u": "https://www.google.com/search?q=Amazon+Deals+Renewed+%2F+Refurb"
+      }
+    ],
+    "1.4.1.8": [
+      {
+        "d": "google.com",
+        "n": "Outlet Store",
+        "u": "https://www.google.com/search?q=Amazon+Deals+Outlet+Store"
+      }
+    ],
+    "1.4.1.9": [
+      {
+        "d": "google.com",
+        "n": "Coupon Clipper",
+        "u": "https://www.google.com/search?q=Amazon+Deals+Coupon+Clipper"
+      }
+    ],
+    "1.4.2": [
+      {
+        "d": "google.com",
+        "n": "Walmart Rollbacks",
+        "u": "https://www.google.com/search?q=Store+Sales+Walmart+Rollbacks"
+      }
+    ],
+    "1.4.3": [
+      {
+        "d": "google.com",
+        "n": "Target Circle",
+        "u": "https://www.google.com/search?q=Store+Sales+Target+Circle"
+      }
+    ],
+    "1.4.4": [
+      {
+        "d": "google.com",
+        "n": "Best Buy Deals",
+        "u": "https://www.google.com/search?q=Store+Sales+Best+Buy+Deals"
+      }
+    ],
+    "1.4.6": [
+      {
+        "d": "google.com",
+        "n": "Costco Deals",
+        "u": "https://www.google.com/search?q=Store+Sales+Costco+Deals"
+      }
+    ],
+    "1.4.7": [
+      {
+        "d": "google.com",
+        "n": "Sam's Club",
+        "u": "https://www.google.com/search?q=Store+Sales+Sam%27s+Club"
+      }
+    ],
+    "1.4.8": [
+      {
+        "d": "google.com",
+        "n": "Store Sale Calendar",
+        "u": "https://www.google.com/search?q=Store+Sales+Store+Sale+Calendar"
+      }
+    ],
+    "1.4.9": [
+      {
+        "d": "google.com",
+        "n": "Price Match Guide",
+        "u": "https://www.google.com/search?q=Store+Sales+Price+Match+Guide"
+      }
+    ],
+    "1.6.1": [
+      {
+        "d": "google.com",
+        "n": "Black Friday",
+        "u": "https://www.google.com/search?q=Seasonal+Sales+Black+Friday"
+      }
+    ],
+    "1.6.2": [
+      {
+        "d": "google.com",
+        "n": "Cyber Monday",
+        "u": "https://www.google.com/search?q=Seasonal+Sales+Cyber+Monday"
+      }
+    ],
+    "1.6.3": [
+      {
+        "d": "google.com",
+        "n": "Prime Day",
+        "u": "https://www.google.com/search?q=Seasonal+Sales+Prime+Day"
+      }
+    ],
+    "1.6.4": [
+      {
+        "d": "google.com",
+        "n": "Back to School",
+        "u": "https://www.google.com/search?q=Seasonal+Sales+Back+to+School"
+      }
+    ],
+    "1.6.6": [
+      {
+        "d": "google.com",
+        "n": "Memorial Day",
+        "u": "https://www.google.com/search?q=Seasonal+Sales+Memorial+Day"
+      }
+    ],
+    "1.6.7": [
+      {
+        "d": "google.com",
+        "n": "Labor Day",
+        "u": "https://www.google.com/search?q=Seasonal+Sales+Labor+Day"
+      }
+    ],
+    "1.6.8": [
+      {
+        "d": "google.com",
+        "n": "Holiday Gift Deals",
+        "u": "https://www.google.com/search?q=Seasonal+Sales+Holiday+Gift+Deals"
+      }
+    ],
+    "1.6.9": [
+      {
+        "d": "google.com",
+        "n": "Sale Calendar 2026",
+        "u": "https://www.google.com/search?q=Seasonal+Sales+Sale+Calendar+2026"
+      }
+    ],
+    "1.7.1": [
+      {
+        "d": "google.com",
+        "n": "Amazon Renewed",
+        "u": "https://www.google.com/search?q=Buy+Refurbished+Amazon+Renewed"
+      }
+    ],
+    "1.7.2": [
+      {
+        "d": "google.com",
+        "n": "Apple Refurbished",
+        "u": "https://www.google.com/search?q=Buy+Refurbished+Apple+Refurbished"
+      }
+    ],
+    "1.7.3": [
+      {
+        "d": "google.com",
+        "n": "Back Market",
+        "u": "https://www.google.com/search?q=Buy+Refurbished+Back+Market"
+      }
+    ],
+    "1.7.4": [
+      {
+        "d": "google.com",
+        "n": "Swappa",
+        "u": "https://www.google.com/search?q=Buy+Refurbished+Swappa"
+      }
+    ],
+    "1.7.6": [
+      {
+        "d": "google.com",
+        "n": "Best Buy Open Box",
+        "u": "https://www.google.com/search?q=Buy+Refurbished+Best+Buy+Open+Box"
+      }
+    ],
+    "1.7.7": [
+      {
+        "d": "google.com",
+        "n": "Decluttr",
+        "u": "https://www.google.com/search?q=Buy+Refurbished+Decluttr"
+      }
+    ],
+    "1.7.8": [
+      {
+        "d": "google.com",
+        "n": "eBay Refurbished",
+        "u": "https://www.google.com/search?q=Buy+Refurbished+eBay+Refurbished"
+      }
+    ],
+    "1.7.9": [
+      {
+        "d": "google.com",
+        "n": "Refurb Buying Guide",
+        "u": "https://www.google.com/search?q=Buy+Refurbished+Refurb+Buying+Guide"
+      }
+    ],
+    "1.8.1": [
+      {
+        "d": "ebay.com",
+        "n": "eBay",
+        "u": "https://www.ebay.com"
+      }
+    ],
+    "1.8.2": [
+      {
+        "d": "google.com",
+        "n": "Facebook Marketplace",
+        "u": "https://www.google.com/search?q=Sell+Something+Facebook+Marketplace"
+      }
+    ],
+    "1.8.3": [
+      {
+        "d": "google.com",
+        "n": "Craigslist",
+        "u": "https://www.google.com/search?q=Sell+Something+Craigslist"
+      }
+    ],
+    "1.8.4": [
+      {
+        "d": "google.com",
+        "n": "OfferUp",
+        "u": "https://www.google.com/search?q=Sell+Something+OfferUp"
+      }
+    ],
+    "1.8.6": [
+      {
+        "d": "google.com",
+        "n": "Poshmark (Clothes)",
+        "u": "https://www.google.com/search?q=Sell+Something+Poshmark+%28Clothes%29"
+      }
+    ],
+    "1.8.7": [
+      {
+        "d": "google.com",
+        "n": "Decluttr (Tech)",
+        "u": "https://www.google.com/search?q=Sell+Something+Decluttr+%28Tech%29"
+      }
+    ],
+    "1.8.8": [
+      {
+        "d": "google.com",
+        "n": "Selling Tips",
+        "u": "https://www.google.com/search?q=Sell+Something+Selling+Tips"
+      }
+    ],
+    "1.8.9": [
+      {
+        "d": "google.com",
+        "n": "Pricing Guide",
+        "u": "https://www.google.com/search?q=Sell+Something+Pricing+Guide"
+      }
+    ],
+    "1.9.1": [
+      {
+        "d": "google.com",
+        "n": "Google Shopping",
+        "u": "https://www.google.com/search?q=Comparison+Shopping+Google+Shopping"
+      }
+    ],
+    "1.9.2": [
+      {
+        "d": "google.com",
+        "n": "PriceGrabber",
+        "u": "https://www.google.com/search?q=Comparison+Shopping+PriceGrabber"
+      }
+    ],
+    "1.9.3": [
+      {
+        "d": "google.com",
+        "n": "Shopzilla",
+        "u": "https://www.google.com/search?q=Comparison+Shopping+Shopzilla"
+      }
+    ],
+    "1.9.4": [
+      {
+        "d": "google.com",
+        "n": "ProductReview",
+        "u": "https://www.google.com/search?q=Comparison+Shopping+ProductReview"
+      }
+    ],
+    "1.9.6": [
+      {
+        "d": "google.com",
+        "n": "Reddit Reviews",
+        "u": "https://www.google.com/search?q=Comparison+Shopping+Reddit+Reviews"
+      }
+    ],
+    "1.9.7": [
+      {
+        "d": "google.com",
+        "n": "Wirecutter",
+        "u": "https://www.google.com/search?q=Comparison+Shopping+Wirecutter"
+      }
+    ],
+    "1.9.8": [
+      {
+        "d": "google.com",
+        "n": "Consumer Reports",
+        "u": "https://www.google.com/search?q=Comparison+Shopping+Consumer+Reports"
+      }
+    ],
+    "1.9.9": [
+      {
+        "d": "google.com",
+        "n": "RTINGS",
+        "u": "https://www.google.com/search?q=Comparison+Shopping+RTINGS"
+      }
+    ],
+    "2.1.1": [
+      {
+        "d": "google.com",
+        "n": "Dresses",
+        "u": "https://www.google.com/search?q=Women%27s+Fashion+Dresses"
+      }
+    ],
+    "2.1.2": [
+      {
+        "d": "google.com",
+        "n": "Tops & Blouses",
+        "u": "https://www.google.com/search?q=Women%27s+Fashion+Tops+%26+Blouses"
+      }
+    ],
+    "2.1.3": [
+      {
+        "d": "google.com",
+        "n": "Jeans & Pants",
+        "u": "https://www.google.com/search?q=Women%27s+Fashion+Jeans+%26+Pants"
+      }
+    ],
+    "2.1.4": [
+      {
+        "d": "google.com",
+        "n": "Activewear",
+        "u": "https://www.google.com/search?q=Women%27s+Fashion+Activewear"
+      }
+    ],
+    "2.1.6": [
+      {
+        "d": "google.com",
+        "n": "Workwear",
+        "u": "https://www.google.com/search?q=Women%27s+Fashion+Workwear"
+      }
+    ],
+    "2.1.7": [
+      {
+        "d": "google.com",
+        "n": "Outerwear",
+        "u": "https://www.google.com/search?q=Women%27s+Fashion+Outerwear"
+      }
+    ],
+    "2.1.8": [
+      {
+        "d": "google.com",
+        "n": "Swimwear",
+        "u": "https://www.google.com/search?q=Women%27s+Fashion+Swimwear"
+      }
+    ],
+    "2.1.9": [
+      {
+        "d": "google.com",
+        "n": "Accessories",
+        "u": "https://www.google.com/search?q=Women%27s+Fashion+Accessories"
+      }
+    ],
+    "2.2.1": [
+      {
+        "d": "google.com",
+        "n": "Casual Wear",
+        "u": "https://www.google.com/search?q=Men%27s+Fashion+Casual+Wear"
+      }
+    ],
+    "2.2.2": [
+      {
+        "d": "google.com",
+        "n": "Business Casual",
+        "u": "https://www.google.com/search?q=Men%27s+Fashion+Business+Casual"
+      }
+    ],
+    "2.2.3": [
+      {
+        "d": "google.com",
+        "n": "Suits & Blazers",
+        "u": "https://www.google.com/search?q=Men%27s+Fashion+Suits+%26+Blazers"
+      }
+    ],
+    "2.2.4": [
+      {
+        "d": "google.com",
+        "n": "Jeans & Pants",
+        "u": "https://www.google.com/search?q=Men%27s+Fashion+Jeans+%26+Pants"
+      }
+    ],
+    "2.2.6": [
+      {
+        "d": "google.com",
+        "n": "Activewear",
+        "u": "https://www.google.com/search?q=Men%27s+Fashion+Activewear"
+      }
+    ],
+    "2.2.7": [
+      {
+        "d": "google.com",
+        "n": "Outerwear",
+        "u": "https://www.google.com/search?q=Men%27s+Fashion+Outerwear"
+      }
+    ],
+    "2.2.8": [
+      {
+        "d": "google.com",
+        "n": "Underwear & Socks",
+        "u": "https://www.google.com/search?q=Men%27s+Fashion+Underwear+%26+Socks"
+      }
+    ],
+    "2.2.9": [
+      {
+        "d": "google.com",
+        "n": "Accessories",
+        "u": "https://www.google.com/search?q=Men%27s+Fashion+Accessories"
+      }
+    ],
+    "2.3.1.1": [
+      {
+        "d": "google.com",
+        "n": "New Releases",
+        "u": "https://www.google.com/search?q=Nike+New+Releases"
+      }
+    ],
+    "2.3.1.2": [
+      {
+        "d": "google.com",
+        "n": "Air Jordan",
+        "u": "https://www.google.com/search?q=Nike+Air+Jordan"
+      }
+    ],
+    "2.3.1.3": [
+      {
+        "d": "google.com",
+        "n": "Air Max",
+        "u": "https://www.google.com/search?q=Nike+Air+Max"
+      }
+    ],
+    "2.3.1.4": [
+      {
+        "d": "google.com",
+        "n": "Dunks",
+        "u": "https://www.google.com/search?q=Nike+Dunks"
+      }
+    ],
+    "2.3.1.6": [
+      {
+        "d": "google.com",
+        "n": "Running",
+        "u": "https://www.google.com/search?q=Nike+Running"
+      }
+    ],
+    "2.3.1.7": [
+      {
+        "d": "google.com",
+        "n": "Sale",
+        "u": "https://www.google.com/search?q=Nike+Sale"
+      }
+    ],
+    "2.3.1.8": [
+      {
+        "d": "google.com",
+        "n": "Nike App",
+        "u": "https://www.google.com/search?q=Nike+Nike+App"
+      }
+    ],
+    "2.3.1.9": [
+      {
+        "d": "google.com",
+        "n": "SNKRS Drops",
+        "u": "https://www.google.com/search?q=Nike+SNKRS+Drops"
+      }
+    ],
+    "2.3.2": [
+      {
+        "d": "google.com",
+        "n": "Adidas",
+        "u": "https://www.google.com/search?q=Sneakers+%26+Shoes+Adidas"
+      }
+    ],
+    "2.3.3": [
+      {
+        "d": "google.com",
+        "n": "New Balance",
+        "u": "https://www.google.com/search?q=Sneakers+%26+Shoes+New+Balance"
+      }
+    ],
+    "2.3.4": [
+      {
+        "d": "google.com",
+        "n": "Running Shoes",
+        "u": "https://www.google.com/search?q=Sneakers+%26+Shoes+Running+Shoes"
+      }
+    ],
+    "2.3.6": [
+      {
+        "d": "google.com",
+        "n": "Sneaker Resale",
+        "u": "https://www.google.com/search?q=Sneakers+%26+Shoes+Sneaker+Resale"
+      }
+    ],
+    "2.3.7": [
+      {
+        "d": "google.com",
+        "n": "Boots",
+        "u": "https://www.google.com/search?q=Sneakers+%26+Shoes+Boots"
+      }
+    ],
+    "2.3.8": [
+      {
+        "d": "google.com",
+        "n": "Dress Shoes",
+        "u": "https://www.google.com/search?q=Sneakers+%26+Shoes+Dress+Shoes"
+      }
+    ],
+    "2.3.9": [
+      {
+        "d": "google.com",
+        "n": "Shoe Deals",
+        "u": "https://www.google.com/search?q=Sneakers+%26+Shoes+Shoe+Deals"
+      }
+    ],
+    "2.4.1": [
+      {
+        "d": "google.com",
+        "n": "ThredUp",
+        "u": "https://www.google.com/search?q=Secondhand+%26+Thrift+ThredUp"
+      }
+    ],
+    "2.4.2": [
+      {
+        "d": "google.com",
+        "n": "Poshmark",
+        "u": "https://www.google.com/search?q=Secondhand+%26+Thrift+Poshmark"
+      }
+    ],
+    "2.4.3": [
+      {
+        "d": "google.com",
+        "n": "Depop",
+        "u": "https://www.google.com/search?q=Secondhand+%26+Thrift+Depop"
+      }
+    ],
+    "2.4.4": [
+      {
+        "d": "google.com",
+        "n": "The RealReal",
+        "u": "https://www.google.com/search?q=Secondhand+%26+Thrift+The+RealReal"
+      }
+    ],
+    "2.4.6": [
+      {
+        "d": "google.com",
+        "n": "Vinted",
+        "u": "https://www.google.com/search?q=Secondhand+%26+Thrift+Vinted"
+      }
+    ],
+    "2.4.7": [
+      {
+        "d": "google.com",
+        "n": "Goodwill Online",
+        "u": "https://www.google.com/search?q=Secondhand+%26+Thrift+Goodwill+Online"
+      }
+    ],
+    "2.4.8": [
+      {
+        "d": "google.com",
+        "n": "Vintage Finds",
+        "u": "https://www.google.com/search?q=Secondhand+%26+Thrift+Vintage+Finds"
+      }
+    ],
+    "2.4.9": [
+      {
+        "d": "google.com",
+        "n": "Consignment Shops",
+        "u": "https://www.google.com/search?q=Secondhand+%26+Thrift+Consignment+Shops"
+      }
+    ],
+    "2.6.1": [
+      {
+        "d": "google.com",
+        "n": "Ethical Brands",
+        "u": "https://www.google.com/search?q=Sustainable+Fashion+Ethical+Brands"
+      }
+    ],
+    "2.6.2": [
+      {
+        "d": "google.com",
+        "n": "Organic Cotton",
+        "u": "https://www.google.com/search?q=Sustainable+Fashion+Organic+Cotton"
+      }
+    ],
+    "2.6.3": [
+      {
+        "d": "google.com",
+        "n": "Recycled Materials",
+        "u": "https://www.google.com/search?q=Sustainable+Fashion+Recycled+Materials"
+      }
+    ],
+    "2.6.4": [
+      {
+        "d": "google.com",
+        "n": "Fair Trade",
+        "u": "https://www.google.com/search?q=Sustainable+Fashion+Fair+Trade"
+      }
+    ],
+    "2.6.6": [
+      {
+        "d": "google.com",
+        "n": "Capsule Wardrobe",
+        "u": "https://www.google.com/search?q=Sustainable+Fashion+Capsule+Wardrobe"
+      }
+    ],
+    "2.6.7": [
+      {
+        "d": "google.com",
+        "n": "Slow Fashion",
+        "u": "https://www.google.com/search?q=Sustainable+Fashion+Slow+Fashion"
+      }
+    ],
+    "2.6.8": [
+      {
+        "d": "google.com",
+        "n": "B-Corp Brands",
+        "u": "https://www.google.com/search?q=Sustainable+Fashion+B-Corp+Brands"
+      }
+    ],
+    "2.6.9": [
+      {
+        "d": "google.com",
+        "n": "Transparency Rankings",
+        "u": "https://www.google.com/search?q=Sustainable+Fashion+Transparency+Rankings"
+      }
+    ],
+    "2.7.1": [
+      {
+        "d": "google.com",
+        "n": "Net-A-Porter",
+        "u": "https://www.google.com/search?q=Luxury+%26+Designer+Net-A-Porter"
+      }
+    ],
+    "2.7.2": [
+      {
+        "d": "google.com",
+        "n": "Farfetch",
+        "u": "https://www.google.com/search?q=Luxury+%26+Designer+Farfetch"
+      }
+    ],
+    "2.7.3": [
+      {
+        "d": "google.com",
+        "n": "SSENSE",
+        "u": "https://www.google.com/search?q=Luxury+%26+Designer+SSENSE"
+      }
+    ],
+    "2.7.4": [
+      {
+        "d": "google.com",
+        "n": "Saks Fifth Avenue",
+        "u": "https://www.google.com/search?q=Luxury+%26+Designer+Saks+Fifth+Avenue"
+      }
+    ],
+    "2.7.6": [
+      {
+        "d": "google.com",
+        "n": "Outlet Designer",
+        "u": "https://www.google.com/search?q=Luxury+%26+Designer+Outlet+Designer"
+      }
+    ],
+    "2.7.7": [
+      {
+        "d": "google.com",
+        "n": "Resale Luxury",
+        "u": "https://www.google.com/search?q=Luxury+%26+Designer+Resale+Luxury"
+      }
+    ],
+    "2.7.8": [
+      {
+        "d": "google.com",
+        "n": "Authentication",
+        "u": "https://www.google.com/search?q=Luxury+%26+Designer+Authentication"
+      }
+    ],
+    "2.7.9": [
+      {
+        "d": "google.com",
+        "n": "Designer Deals",
+        "u": "https://www.google.com/search?q=Luxury+%26+Designer+Designer+Deals"
+      }
+    ],
+    "2.8.1": [
+      {
+        "d": "google.com",
+        "n": "Baby Clothes",
+        "u": "https://www.google.com/search?q=Kids+Clothing+Baby+Clothes"
+      }
+    ],
+    "2.8.2": [
+      {
+        "d": "google.com",
+        "n": "Toddler Clothes",
+        "u": "https://www.google.com/search?q=Kids+Clothing+Toddler+Clothes"
+      }
+    ],
+    "2.8.3": [
+      {
+        "d": "google.com",
+        "n": "School Age",
+        "u": "https://www.google.com/search?q=Kids+Clothing+School+Age"
+      }
+    ],
+    "2.8.4": [
+      {
+        "d": "google.com",
+        "n": "Teen Fashion",
+        "u": "https://www.google.com/search?q=Kids+Clothing+Teen+Fashion"
+      }
+    ],
+    "2.8.6": [
+      {
+        "d": "google.com",
+        "n": "Uniforms",
+        "u": "https://www.google.com/search?q=Kids+Clothing+Uniforms"
+      }
+    ],
+    "2.8.7": [
+      {
+        "d": "google.com",
+        "n": "Kids Shoes",
+        "u": "https://www.google.com/search?q=Kids+Clothing+Kids+Shoes"
+      }
+    ],
+    "2.8.8": [
+      {
+        "d": "google.com",
+        "n": "Seasonal",
+        "u": "https://www.google.com/search?q=Kids+Clothing+Seasonal"
+      }
+    ],
+    "2.8.9": [
+      {
+        "d": "google.com",
+        "n": "Kids Consignment",
+        "u": "https://www.google.com/search?q=Kids+Clothing+Kids+Consignment"
+      }
+    ],
+    "2.9.1": [
+      {
+        "d": "google.com",
+        "n": "Size-Inclusive Brands",
+        "u": "https://www.google.com/search?q=Plus+Size+%26+Inclusive+Size-Inclusive+Brands"
+      }
+    ],
+    "2.9.2": [
+      {
+        "d": "google.com",
+        "n": "Torrid",
+        "u": "https://www.google.com/search?q=Plus+Size+%26+Inclusive+Torrid"
+      }
+    ],
+    "2.9.3": [
+      {
+        "d": "google.com",
+        "n": "Universal Standard",
+        "u": "https://www.google.com/search?q=Plus+Size+%26+Inclusive+Universal+Standard"
+      }
+    ],
+    "2.9.4": [
+      {
+        "d": "google.com",
+        "n": "ASOS Curve",
+        "u": "https://www.google.com/search?q=Plus+Size+%26+Inclusive+ASOS+Curve"
+      }
+    ],
+    "2.9.6": [
+      {
+        "d": "google.com",
+        "n": "Eloquii",
+        "u": "https://www.google.com/search?q=Plus+Size+%26+Inclusive+Eloquii"
+      }
+    ],
+    "2.9.7": [
+      {
+        "d": "google.com",
+        "n": "Girlfriend Collective",
+        "u": "https://www.google.com/search?q=Plus+Size+%26+Inclusive+Girlfriend+Collective"
+      }
+    ],
+    "2.9.8": [
+      {
+        "d": "google.com",
+        "n": "Men's Big & Tall",
+        "u": "https://www.google.com/search?q=Plus+Size+%26+Inclusive+Men%27s+Big+%26+Tall"
+      }
+    ],
+    "2.9.9": [
+      {
+        "d": "google.com",
+        "n": "Styling Tips",
+        "u": "https://www.google.com/search?q=Plus+Size+%26+Inclusive+Styling+Tips"
+      }
+    ],
+    "3.1.1": [
+      {
+        "d": "google.com",
+        "n": "iPhone Deals",
+        "u": "https://www.google.com/search?q=Phones+%26+Plans+iPhone+Deals"
+      }
+    ],
+    "3.1.2": [
+      {
+        "d": "google.com",
+        "n": "Samsung Deals",
+        "u": "https://www.google.com/search?q=Phones+%26+Plans+Samsung+Deals"
+      }
+    ],
+    "3.1.3": [
+      {
+        "d": "google.com",
+        "n": "Google Pixel Deals",
+        "u": "https://www.google.com/search?q=Phones+%26+Plans+Google+Pixel+Deals"
+      }
+    ],
+    "3.1.4": [
+      {
+        "d": "google.com",
+        "n": "Unlocked Phones",
+        "u": "https://www.google.com/search?q=Phones+%26+Plans+Unlocked+Phones"
+      }
+    ],
+    "3.1.6": [
+      {
+        "d": "google.com",
+        "n": "Carrier Deals",
+        "u": "https://www.google.com/search?q=Phones+%26+Plans+Carrier+Deals"
+      }
+    ],
+    "3.1.7": [
+      {
+        "d": "google.com",
+        "n": "Trade-In Offers",
+        "u": "https://www.google.com/search?q=Phones+%26+Plans+Trade-In+Offers"
+      }
+    ],
+    "3.1.8": [
+      {
+        "d": "google.com",
+        "n": "Refurbished Phones",
+        "u": "https://www.google.com/search?q=Phones+%26+Plans+Refurbished+Phones"
+      }
+    ],
+    "3.1.9": [
+      {
+        "d": "google.com",
+        "n": "Phone Accessories",
+        "u": "https://www.google.com/search?q=Phones+%26+Plans+Phone+Accessories"
+      }
+    ],
+    "3.2.1": [
+      {
+        "d": "google.com",
+        "n": "MacBook Deals",
+        "u": "https://www.google.com/search?q=Laptops+%26+Tablets+MacBook+Deals"
+      }
+    ],
+    "3.2.2": [
+      {
+        "d": "google.com",
+        "n": "Windows Laptops",
+        "u": "https://www.google.com/search?q=Laptops+%26+Tablets+Windows+Laptops"
+      }
+    ],
+    "3.2.3": [
+      {
+        "d": "google.com",
+        "n": "Chromebook Deals",
+        "u": "https://www.google.com/search?q=Laptops+%26+Tablets+Chromebook+Deals"
+      }
+    ],
+    "3.2.4": [
+      {
+        "d": "google.com",
+        "n": "iPad Deals",
+        "u": "https://www.google.com/search?q=Laptops+%26+Tablets+iPad+Deals"
+      }
+    ],
+    "3.2.6": [
+      {
+        "d": "google.com",
+        "n": "Android Tablets",
+        "u": "https://www.google.com/search?q=Laptops+%26+Tablets+Android+Tablets"
+      }
+    ],
+    "3.2.7": [
+      {
+        "d": "google.com",
+        "n": "Student Discounts",
+        "u": "https://www.google.com/search?q=Laptops+%26+Tablets+Student+Discounts"
+      }
+    ],
+    "3.2.8": [
+      {
+        "d": "google.com",
+        "n": "Refurbished",
+        "u": "https://www.google.com/search?q=Laptops+%26+Tablets+Refurbished"
+      }
+    ],
+    "3.2.9": [
+      {
+        "d": "google.com",
+        "n": "Accessories",
+        "u": "https://www.google.com/search?q=Laptops+%26+Tablets+Accessories"
+      }
+    ],
+    "3.3.1": [
+      {
+        "d": "google.com",
+        "n": "OLED TVs",
+        "u": "https://www.google.com/search?q=TV+%26+Home+Theater+OLED+TVs"
+      }
+    ],
+    "3.3.2": [
+      {
+        "d": "google.com",
+        "n": "QLED TVs",
+        "u": "https://www.google.com/search?q=TV+%26+Home+Theater+QLED+TVs"
+      }
+    ],
+    "3.3.3": [
+      {
+        "d": "google.com",
+        "n": "Budget TVs",
+        "u": "https://www.google.com/search?q=TV+%26+Home+Theater+Budget+TVs"
+      }
+    ],
+    "3.3.4": [
+      {
+        "d": "google.com",
+        "n": "Soundbars",
+        "u": "https://www.google.com/search?q=TV+%26+Home+Theater+Soundbars"
+      }
+    ],
+    "3.3.6": [
+      {
+        "d": "google.com",
+        "n": "Projectors",
+        "u": "https://www.google.com/search?q=TV+%26+Home+Theater+Projectors"
+      }
+    ],
+    "3.3.7": [
+      {
+        "d": "google.com",
+        "n": "Streaming Devices",
+        "u": "https://www.google.com/search?q=TV+%26+Home+Theater+Streaming+Devices"
+      }
+    ],
+    "3.3.8": [
+      {
+        "d": "google.com",
+        "n": "Wall Mounts",
+        "u": "https://www.google.com/search?q=TV+%26+Home+Theater+Wall+Mounts"
+      }
+    ],
+    "3.3.9": [
+      {
+        "d": "google.com",
+        "n": "TV Buying Guide",
+        "u": "https://www.google.com/search?q=TV+%26+Home+Theater+TV+Buying+Guide"
+      }
+    ],
+    "3.4.1": [
+      {
+        "d": "google.com",
+        "n": "AirPods",
+        "u": "https://www.google.com/search?q=Headphones+%26+Audio+AirPods"
+      }
+    ],
+    "3.4.2": [
+      {
+        "d": "google.com",
+        "n": "Sony Headphones",
+        "u": "https://www.google.com/search?q=Headphones+%26+Audio+Sony+Headphones"
+      }
+    ],
+    "3.4.3": [
+      {
+        "d": "google.com",
+        "n": "Bose",
+        "u": "https://www.google.com/search?q=Headphones+%26+Audio+Bose"
+      }
+    ],
+    "3.4.4": [
+      {
+        "d": "google.com",
+        "n": "Budget Earbuds",
+        "u": "https://www.google.com/search?q=Headphones+%26+Audio+Budget+Earbuds"
+      }
+    ],
+    "3.4.6": [
+      {
+        "d": "google.com",
+        "n": "Speakers",
+        "u": "https://www.google.com/search?q=Headphones+%26+Audio+Speakers"
+      }
+    ],
+    "3.4.7": [
+      {
+        "d": "google.com",
+        "n": "Home Theater Audio",
+        "u": "https://www.google.com/search?q=Headphones+%26+Audio+Home+Theater+Audio"
+      }
+    ],
+    "3.4.8": [
+      {
+        "d": "google.com",
+        "n": "Audiophile Gear",
+        "u": "https://www.google.com/search?q=Headphones+%26+Audio+Audiophile+Gear"
+      }
+    ],
+    "3.4.9": [
+      {
+        "d": "google.com",
+        "n": "Audio Buying Guide",
+        "u": "https://www.google.com/search?q=Headphones+%26+Audio+Audio+Buying+Guide"
+      }
+    ],
+    "3.6.1": [
+      {
+        "d": "google.com",
+        "n": "Smart Speakers",
+        "u": "https://www.google.com/search?q=Smart+Home+Smart+Speakers"
+      }
+    ],
+    "3.6.2": [
+      {
+        "d": "google.com",
+        "n": "Smart Displays",
+        "u": "https://www.google.com/search?q=Smart+Home+Smart+Displays"
+      }
+    ],
+    "3.6.3": [
+      {
+        "d": "google.com",
+        "n": "Smart Lights",
+        "u": "https://www.google.com/search?q=Smart+Home+Smart+Lights"
+      }
+    ],
+    "3.6.4": [
+      {
+        "d": "google.com",
+        "n": "Smart Cameras",
+        "u": "https://www.google.com/search?q=Smart+Home+Smart+Cameras"
+      }
+    ],
+    "3.6.6": [
+      {
+        "d": "google.com",
+        "n": "Smart Locks",
+        "u": "https://www.google.com/search?q=Smart+Home+Smart+Locks"
+      }
+    ],
+    "3.6.7": [
+      {
+        "d": "google.com",
+        "n": "Robot Vacuums",
+        "u": "https://www.google.com/search?q=Smart+Home+Robot+Vacuums"
+      }
+    ],
+    "3.6.8": [
+      {
+        "d": "google.com",
+        "n": "Smart Plugs",
+        "u": "https://www.google.com/search?q=Smart+Home+Smart+Plugs"
+      }
+    ],
+    "3.6.9": [
+      {
+        "d": "google.com",
+        "n": "Smart Home Starter Kit",
+        "u": "https://www.google.com/search?q=Smart+Home+Smart+Home+Starter+Kit"
+      }
+    ],
+    "3.7.1": [
+      {
+        "d": "google.com",
+        "n": "Apple Watch Deals",
+        "u": "https://www.google.com/search?q=Wearables+Apple+Watch+Deals"
+      }
+    ],
+    "3.7.2": [
+      {
+        "d": "google.com",
+        "n": "Samsung Watch",
+        "u": "https://www.google.com/search?q=Wearables+Samsung+Watch"
+      }
+    ],
+    "3.7.3": [
+      {
+        "d": "google.com",
+        "n": "Fitbit Deals",
+        "u": "https://www.google.com/search?q=Wearables+Fitbit+Deals"
+      }
+    ],
+    "3.7.4": [
+      {
+        "d": "google.com",
+        "n": "Garmin Deals",
+        "u": "https://www.google.com/search?q=Wearables+Garmin+Deals"
+      }
+    ],
+    "3.7.6": [
+      {
+        "d": "google.com",
+        "n": "Oura Ring",
+        "u": "https://www.google.com/search?q=Wearables+Oura+Ring"
+      }
+    ],
+    "3.7.7": [
+      {
+        "d": "google.com",
+        "n": "Fitness Trackers",
+        "u": "https://www.google.com/search?q=Wearables+Fitness+Trackers"
+      }
+    ],
+    "3.7.8": [
+      {
+        "d": "google.com",
+        "n": "Smart Glasses",
+        "u": "https://www.google.com/search?q=Wearables+Smart+Glasses"
+      }
+    ],
+    "3.7.9": [
+      {
+        "d": "google.com",
+        "n": "Wearable Buying Guide",
+        "u": "https://www.google.com/search?q=Wearables+Wearable+Buying+Guide"
+      }
+    ],
+    "3.8.1": [
+      {
+        "d": "google.com",
+        "n": "Gaming Monitors",
+        "u": "https://www.google.com/search?q=Gaming+Gear+Gaming+Monitors"
+      }
+    ],
+    "3.8.2": [
+      {
+        "d": "google.com",
+        "n": "Keyboards",
+        "u": "https://www.google.com/search?q=Gaming+Gear+Keyboards"
+      }
+    ],
+    "3.8.3": [
+      {
+        "d": "google.com",
+        "n": "Mice",
+        "u": "https://www.google.com/search?q=Gaming+Gear+Mice"
+      }
+    ],
+    "3.8.4": [
+      {
+        "d": "google.com",
+        "n": "Headsets",
+        "u": "https://www.google.com/search?q=Gaming+Gear+Headsets"
+      }
+    ],
+    "3.8.6": [
+      {
+        "d": "google.com",
+        "n": "Controllers",
+        "u": "https://www.google.com/search?q=Gaming+Gear+Controllers"
+      }
+    ],
+    "3.8.7": [
+      {
+        "d": "google.com",
+        "n": "Gaming Chairs",
+        "u": "https://www.google.com/search?q=Gaming+Gear+Gaming+Chairs"
+      }
+    ],
+    "3.8.8": [
+      {
+        "d": "google.com",
+        "n": "Capture Cards",
+        "u": "https://www.google.com/search?q=Gaming+Gear+Capture+Cards"
+      }
+    ],
+    "3.8.9": [
+      {
+        "d": "google.com",
+        "n": "Desk Setup Guide",
+        "u": "https://www.google.com/search?q=Gaming+Gear+Desk+Setup+Guide"
+      }
+    ],
+    "3.9.1": [
+      {
+        "d": "google.com",
+        "n": "Mirrorless Cameras",
+        "u": "https://www.google.com/search?q=Cameras+%26+Drones+Mirrorless+Cameras"
+      }
+    ],
+    "3.9.2": [
+      {
+        "d": "google.com",
+        "n": "Action Cameras",
+        "u": "https://www.google.com/search?q=Cameras+%26+Drones+Action+Cameras"
+      }
+    ],
+    "3.9.3": [
+      {
+        "d": "google.com",
+        "n": "DJI Drones",
+        "u": "https://www.google.com/search?q=Cameras+%26+Drones+DJI+Drones"
+      }
+    ],
+    "3.9.4": [
+      {
+        "d": "google.com",
+        "n": "Webcams",
+        "u": "https://www.google.com/search?q=Cameras+%26+Drones+Webcams"
+      }
+    ],
+    "3.9.6": [
+      {
+        "d": "google.com",
+        "n": "Camera Lenses",
+        "u": "https://www.google.com/search?q=Cameras+%26+Drones+Camera+Lenses"
+      }
+    ],
+    "3.9.7": [
+      {
+        "d": "google.com",
+        "n": "Memory Cards",
+        "u": "https://www.google.com/search?q=Cameras+%26+Drones+Memory+Cards"
+      }
+    ],
+    "3.9.8": [
+      {
+        "d": "google.com",
+        "n": "Camera Bags",
+        "u": "https://www.google.com/search?q=Cameras+%26+Drones+Camera+Bags"
+      }
+    ],
+    "3.9.9": [
+      {
+        "d": "google.com",
+        "n": "Camera Buying Guide",
+        "u": "https://www.google.com/search?q=Cameras+%26+Drones+Camera+Buying+Guide"
+      }
+    ],
+    "4.1.1": [
+      {
+        "d": "google.com",
+        "n": "Living Room",
+        "u": "https://www.google.com/search?q=Furniture+Living+Room"
+      }
+    ],
+    "4.1.2": [
+      {
+        "d": "google.com",
+        "n": "Bedroom",
+        "u": "https://www.google.com/search?q=Furniture+Bedroom"
+      }
+    ],
+    "4.1.3": [
+      {
+        "d": "google.com",
+        "n": "Dining Room",
+        "u": "https://www.google.com/search?q=Furniture+Dining+Room"
+      }
+    ],
+    "4.1.4": [
+      {
+        "d": "google.com",
+        "n": "Office Furniture",
+        "u": "https://www.google.com/search?q=Furniture+Office+Furniture"
+      }
+    ],
+    "4.1.6": [
+      {
+        "d": "google.com",
+        "n": "Outdoor Furniture",
+        "u": "https://www.google.com/search?q=Furniture+Outdoor+Furniture"
+      }
+    ],
+    "4.1.7": [
+      {
+        "d": "google.com",
+        "n": "Kids Furniture",
+        "u": "https://www.google.com/search?q=Furniture+Kids+Furniture"
+      }
+    ],
+    "4.1.8": [
+      {
+        "d": "google.com",
+        "n": "Storage Solutions",
+        "u": "https://www.google.com/search?q=Furniture+Storage+Solutions"
+      }
+    ],
+    "4.1.9": [
+      {
+        "d": "google.com",
+        "n": "Furniture Deals",
+        "u": "https://www.google.com/search?q=Furniture+Furniture+Deals"
+      }
+    ],
+    "4.2.1": [
+      {
+        "d": "google.com",
+        "n": "Coffee Makers",
+        "u": "https://www.google.com/search?q=Kitchen+Coffee+Makers"
+      }
+    ],
+    "4.2.2": [
+      {
+        "d": "google.com",
+        "n": "Air Fryers",
+        "u": "https://www.google.com/search?q=Kitchen+Air+Fryers"
+      }
+    ],
+    "4.2.3": [
+      {
+        "d": "google.com",
+        "n": "Instant Pot",
+        "u": "https://www.google.com/search?q=Kitchen+Instant+Pot"
+      }
+    ],
+    "4.2.4": [
+      {
+        "d": "google.com",
+        "n": "Blenders",
+        "u": "https://www.google.com/search?q=Kitchen+Blenders"
+      }
+    ],
+    "4.2.6": [
+      {
+        "d": "google.com",
+        "n": "Knife Sets",
+        "u": "https://www.google.com/search?q=Kitchen+Knife+Sets"
+      }
+    ],
+    "4.2.7": [
+      {
+        "d": "google.com",
+        "n": "Cookware Sets",
+        "u": "https://www.google.com/search?q=Kitchen+Cookware+Sets"
+      }
+    ],
+    "4.2.8": [
+      {
+        "d": "google.com",
+        "n": "Small Appliances",
+        "u": "https://www.google.com/search?q=Kitchen+Small+Appliances"
+      }
+    ],
+    "4.2.9": [
+      {
+        "d": "google.com",
+        "n": "Kitchen Organization",
+        "u": "https://www.google.com/search?q=Kitchen+Kitchen+Organization"
+      }
+    ],
+    "4.3.1": [
+      {
+        "d": "google.com",
+        "n": "Sheet Sets",
+        "u": "https://www.google.com/search?q=Bedding+%26+Bath+Sheet+Sets"
+      }
+    ],
+    "4.3.2": [
+      {
+        "d": "google.com",
+        "n": "Comforters",
+        "u": "https://www.google.com/search?q=Bedding+%26+Bath+Comforters"
+      }
+    ],
+    "4.3.3": [
+      {
+        "d": "google.com",
+        "n": "Pillows",
+        "u": "https://www.google.com/search?q=Bedding+%26+Bath+Pillows"
+      }
+    ],
+    "4.3.4": [
+      {
+        "d": "google.com",
+        "n": "Mattress Toppers",
+        "u": "https://www.google.com/search?q=Bedding+%26+Bath+Mattress+Toppers"
+      }
+    ],
+    "4.3.6": [
+      {
+        "d": "google.com",
+        "n": "Towels",
+        "u": "https://www.google.com/search?q=Bedding+%26+Bath+Towels"
+      }
+    ],
+    "4.3.7": [
+      {
+        "d": "google.com",
+        "n": "Bath Accessories",
+        "u": "https://www.google.com/search?q=Bedding+%26+Bath+Bath+Accessories"
+      }
+    ],
+    "4.3.8": [
+      {
+        "d": "google.com",
+        "n": "Mattresses",
+        "u": "https://www.google.com/search?q=Bedding+%26+Bath+Mattresses"
+      }
+    ],
+    "4.3.9": [
+      {
+        "d": "google.com",
+        "n": "Bedding Deals",
+        "u": "https://www.google.com/search?q=Bedding+%26+Bath+Bedding+Deals"
+      }
+    ],
+    "4.4.1": [
+      {
+        "d": "google.com",
+        "n": "Wall Art",
+        "u": "https://www.google.com/search?q=Home+Decor+Wall+Art"
+      }
+    ],
+    "4.4.2": [
+      {
+        "d": "google.com",
+        "n": "Rugs",
+        "u": "https://www.google.com/search?q=Home+Decor+Rugs"
+      }
+    ],
+    "4.4.3": [
+      {
+        "d": "google.com",
+        "n": "Curtains & Drapes",
+        "u": "https://www.google.com/search?q=Home+Decor+Curtains+%26+Drapes"
+      }
+    ],
+    "4.4.4": [
+      {
+        "d": "google.com",
+        "n": "Throw Pillows",
+        "u": "https://www.google.com/search?q=Home+Decor+Throw+Pillows"
+      }
+    ],
+    "4.4.6": [
+      {
+        "d": "google.com",
+        "n": "Candles",
+        "u": "https://www.google.com/search?q=Home+Decor+Candles"
+      }
+    ],
+    "4.4.7": [
+      {
+        "d": "google.com",
+        "n": "Mirrors",
+        "u": "https://www.google.com/search?q=Home+Decor+Mirrors"
+      }
+    ],
+    "4.4.8": [
+      {
+        "d": "google.com",
+        "n": "Lighting",
+        "u": "https://www.google.com/search?q=Home+Decor+Lighting"
+      }
+    ],
+    "4.4.9": [
+      {
+        "d": "google.com",
+        "n": "Seasonal Decor",
+        "u": "https://www.google.com/search?q=Home+Decor+Seasonal+Decor"
+      }
+    ],
+    "4.6.1": [
+      {
+        "d": "google.com",
+        "n": "Power Tools",
+        "u": "https://www.google.com/search?q=Garden+%26+Outdoor+Power+Tools"
+      }
+    ],
+    "4.6.2": [
+      {
+        "d": "google.com",
+        "n": "Planters & Pots",
+        "u": "https://www.google.com/search?q=Garden+%26+Outdoor+Planters+%26+Pots"
+      }
+    ],
+    "4.6.3": [
+      {
+        "d": "google.com",
+        "n": "Seeds & Bulbs",
+        "u": "https://www.google.com/search?q=Garden+%26+Outdoor+Seeds+%26+Bulbs"
+      }
+    ],
+    "4.6.4": [
+      {
+        "d": "google.com",
+        "n": "Lawn Care",
+        "u": "https://www.google.com/search?q=Garden+%26+Outdoor+Lawn+Care"
+      }
+    ],
+    "4.6.6": [
+      {
+        "d": "google.com",
+        "n": "Grills & Smokers",
+        "u": "https://www.google.com/search?q=Garden+%26+Outdoor+Grills+%26+Smokers"
+      }
+    ],
+    "4.6.7": [
+      {
+        "d": "google.com",
+        "n": "Patio Furniture",
+        "u": "https://www.google.com/search?q=Garden+%26+Outdoor+Patio+Furniture"
+      }
+    ],
+    "4.6.8": [
+      {
+        "d": "google.com",
+        "n": "Outdoor Lighting",
+        "u": "https://www.google.com/search?q=Garden+%26+Outdoor+Outdoor+Lighting"
+      }
+    ],
+    "4.6.9": [
+      {
+        "d": "google.com",
+        "n": "Garden Deals",
+        "u": "https://www.google.com/search?q=Garden+%26+Outdoor+Garden+Deals"
+      }
+    ],
+    "4.7.1": [
+      {
+        "d": "google.com",
+        "n": "Power Drills",
+        "u": "https://www.google.com/search?q=DIY+%26+Hardware+Power+Drills"
+      }
+    ],
+    "4.7.2": [
+      {
+        "d": "google.com",
+        "n": "Saws",
+        "u": "https://www.google.com/search?q=DIY+%26+Hardware+Saws"
+      }
+    ],
+    "4.7.3": [
+      {
+        "d": "google.com",
+        "n": "Paint & Stain",
+        "u": "https://www.google.com/search?q=DIY+%26+Hardware+Paint+%26+Stain"
+      }
+    ],
+    "4.7.4": [
+      {
+        "d": "google.com",
+        "n": "Plumbing Supplies",
+        "u": "https://www.google.com/search?q=DIY+%26+Hardware+Plumbing+Supplies"
+      }
+    ],
+    "4.7.6": [
+      {
+        "d": "google.com",
+        "n": "Electrical Supplies",
+        "u": "https://www.google.com/search?q=DIY+%26+Hardware+Electrical+Supplies"
+      }
+    ],
+    "4.7.7": [
+      {
+        "d": "google.com",
+        "n": "Fasteners",
+        "u": "https://www.google.com/search?q=DIY+%26+Hardware+Fasteners"
+      }
+    ],
+    "4.7.8": [
+      {
+        "d": "google.com",
+        "n": "Safety Equipment",
+        "u": "https://www.google.com/search?q=DIY+%26+Hardware+Safety+Equipment"
+      }
+    ],
+    "4.7.9": [
+      {
+        "d": "google.com",
+        "n": "Tool Deals",
+        "u": "https://www.google.com/search?q=DIY+%26+Hardware+Tool+Deals"
+      }
+    ],
+    "4.8.1": [
+      {
+        "d": "google.com",
+        "n": "Vacuums",
+        "u": "https://www.google.com/search?q=Cleaning+%26+Organization+Vacuums"
+      }
+    ],
+    "4.8.2": [
+      {
+        "d": "google.com",
+        "n": "Robot Vacuums",
+        "u": "https://www.google.com/search?q=Cleaning+%26+Organization+Robot+Vacuums"
+      }
+    ],
+    "4.8.3": [
+      {
+        "d": "google.com",
+        "n": "Storage Bins",
+        "u": "https://www.google.com/search?q=Cleaning+%26+Organization+Storage+Bins"
+      }
+    ],
+    "4.8.4": [
+      {
+        "d": "google.com",
+        "n": "Closet Systems",
+        "u": "https://www.google.com/search?q=Cleaning+%26+Organization+Closet+Systems"
+      }
+    ],
+    "4.8.6": [
+      {
+        "d": "google.com",
+        "n": "Laundry",
+        "u": "https://www.google.com/search?q=Cleaning+%26+Organization+Laundry"
+      }
+    ],
+    "4.8.7": [
+      {
+        "d": "google.com",
+        "n": "Cleaning Supplies",
+        "u": "https://www.google.com/search?q=Cleaning+%26+Organization+Cleaning+Supplies"
+      }
+    ],
+    "4.8.8": [
+      {
+        "d": "google.com",
+        "n": "Garage Organization",
+        "u": "https://www.google.com/search?q=Cleaning+%26+Organization+Garage+Organization"
+      }
+    ],
+    "4.8.9": [
+      {
+        "d": "google.com",
+        "n": "Organization Deals",
+        "u": "https://www.google.com/search?q=Cleaning+%26+Organization+Organization+Deals"
+      }
+    ],
+    "4.9.1": [
+      {
+        "d": "google.com",
+        "n": "Wayfair",
+        "u": "https://www.google.com/search?q=Where+to+Shop+Wayfair"
+      }
+    ],
+    "4.9.2": [
+      {
+        "d": "google.com",
+        "n": "IKEA",
+        "u": "https://www.google.com/search?q=Where+to+Shop+IKEA"
+      }
+    ],
+    "4.9.3": [
+      {
+        "d": "google.com",
+        "n": "Home Depot",
+        "u": "https://www.google.com/search?q=Where+to+Shop+Home+Depot"
+      }
+    ],
+    "4.9.4": [
+      {
+        "d": "google.com",
+        "n": "Lowe's",
+        "u": "https://www.google.com/search?q=Where+to+Shop+Lowe%27s"
+      }
+    ],
+    "4.9.6": [
+      {
+        "d": "google.com",
+        "n": "Crate & Barrel",
+        "u": "https://www.google.com/search?q=Where+to+Shop+Crate+%26+Barrel"
+      }
+    ],
+    "4.9.7": [
+      {
+        "d": "google.com",
+        "n": "West Elm",
+        "u": "https://www.google.com/search?q=Where+to+Shop+West+Elm"
+      }
+    ],
+    "4.9.8": [
+      {
+        "d": "google.com",
+        "n": "Overstock",
+        "u": "https://www.google.com/search?q=Where+to+Shop+Overstock"
+      }
+    ],
+    "4.9.9": [
+      {
+        "d": "google.com",
+        "n": "Compare Home Stores",
+        "u": "https://www.google.com/search?q=Where+to+Shop+Compare+Home+Stores"
+      }
+    ],
+    "6.1.1": [
+      {
+        "d": "instacart.com",
+        "n": "Instacart",
+        "u": "https://www.instacart.com"
+      }
+    ],
+    "6.1.2": [
+      {
+        "d": "amazon.com",
+        "n": "Amazon Fresh",
+        "u": "https://www.amazon.com/fresh"
+      }
+    ],
+    "6.1.3": [
+      {
+        "d": "google.com",
+        "n": "Walmart Grocery",
+        "u": "https://www.google.com/search?q=Grocery+Delivery+Walmart+Grocery"
+      }
+    ],
+    "6.1.4": [
+      {
+        "d": "google.com",
+        "n": "Whole Foods",
+        "u": "https://www.google.com/search?q=Grocery+Delivery+Whole+Foods"
+      }
+    ],
+    "6.1.6": [
+      {
+        "d": "google.com",
+        "n": "Costco Delivery",
+        "u": "https://www.google.com/search?q=Grocery+Delivery+Costco+Delivery"
+      }
+    ],
+    "6.1.7": [
+      {
+        "d": "google.com",
+        "n": "Target Same-Day",
+        "u": "https://www.google.com/search?q=Grocery+Delivery+Target+Same-Day"
+      }
+    ],
+    "6.1.8": [
+      {
+        "d": "google.com",
+        "n": "Compare Services",
+        "u": "https://www.google.com/search?q=Grocery+Delivery+Compare+Services"
+      }
+    ],
+    "6.1.9": [
+      {
+        "d": "google.com",
+        "n": "Grocery Deals",
+        "u": "https://www.google.com/search?q=Grocery+Delivery+Grocery+Deals"
+      }
+    ],
+    "6.2.1": [
+      {
+        "d": "google.com",
+        "n": "HelloFresh",
+        "u": "https://www.google.com/search?q=Meal+Kits+HelloFresh"
+      }
+    ],
+    "6.2.2": [
+      {
+        "d": "google.com",
+        "n": "Blue Apron",
+        "u": "https://www.google.com/search?q=Meal+Kits+Blue+Apron"
+      }
+    ],
+    "6.2.3": [
+      {
+        "d": "google.com",
+        "n": "Home Chef",
+        "u": "https://www.google.com/search?q=Meal+Kits+Home+Chef"
+      }
+    ],
+    "6.2.4": [
+      {
+        "d": "google.com",
+        "n": "Factor (Prepared)",
+        "u": "https://www.google.com/search?q=Meal+Kits+Factor+%28Prepared%29"
+      }
+    ],
+    "6.2.6": [
+      {
+        "d": "google.com",
+        "n": "Green Chef",
+        "u": "https://www.google.com/search?q=Meal+Kits+Green+Chef"
+      }
+    ],
+    "6.2.7": [
+      {
+        "d": "google.com",
+        "n": "EveryPlate (Budget)",
+        "u": "https://www.google.com/search?q=Meal+Kits+EveryPlate+%28Budget%29"
+      }
+    ],
+    "6.2.8": [
+      {
+        "d": "google.com",
+        "n": "Dinnerly",
+        "u": "https://www.google.com/search?q=Meal+Kits+Dinnerly"
+      }
+    ],
+    "6.2.9": [
+      {
+        "d": "google.com",
+        "n": "Compare Meal Kits",
+        "u": "https://www.google.com/search?q=Meal+Kits+Compare+Meal+Kits"
+      }
+    ],
+    "6.3.1": [
+      {
+        "d": "google.com",
+        "n": "DoorDash",
+        "u": "https://www.google.com/search?q=Food+Delivery+DoorDash"
+      }
+    ],
+    "6.3.2": [
+      {
+        "d": "google.com",
+        "n": "Uber Eats",
+        "u": "https://www.google.com/search?q=Food+Delivery+Uber+Eats"
+      }
+    ],
+    "6.3.3": [
+      {
+        "d": "google.com",
+        "n": "Grubhub",
+        "u": "https://www.google.com/search?q=Food+Delivery+Grubhub"
+      }
+    ],
+    "6.3.4": [
+      {
+        "d": "google.com",
+        "n": "Postmates",
+        "u": "https://www.google.com/search?q=Food+Delivery+Postmates"
+      }
+    ],
+    "6.3.6": [
+      {
+        "d": "google.com",
+        "n": "Seamless",
+        "u": "https://www.google.com/search?q=Food+Delivery+Seamless"
+      }
+    ],
+    "6.3.7": [
+      {
+        "d": "google.com",
+        "n": "Delivery Deals",
+        "u": "https://www.google.com/search?q=Food+Delivery+Delivery+Deals"
+      }
+    ],
+    "6.3.8": [
+      {
+        "d": "google.com",
+        "n": "Compare Apps",
+        "u": "https://www.google.com/search?q=Food+Delivery+Compare+Apps"
+      }
+    ],
+    "6.3.9": [
+      {
+        "d": "google.com",
+        "n": "Delivery Tips",
+        "u": "https://www.google.com/search?q=Food+Delivery+Delivery+Tips"
+      }
+    ],
+    "6.4.1": [
+      {
+        "d": "google.com",
+        "n": "Whole Foods",
+        "u": "https://www.google.com/search?q=Organic+%26+Natural+Whole+Foods"
+      }
+    ],
+    "6.4.2": [
+      {
+        "d": "google.com",
+        "n": "Thrive Market",
+        "u": "https://www.google.com/search?q=Organic+%26+Natural+Thrive+Market"
+      }
+    ],
+    "6.4.3": [
+      {
+        "d": "google.com",
+        "n": "Sprouts",
+        "u": "https://www.google.com/search?q=Organic+%26+Natural+Sprouts"
+      }
+    ],
+    "6.4.4": [
+      {
+        "d": "google.com",
+        "n": "Trader Joe's",
+        "u": "https://www.google.com/search?q=Organic+%26+Natural+Trader+Joe%27s"
+      }
+    ],
+    "6.4.6": [
+      {
+        "d": "google.com",
+        "n": "Local Co-Ops",
+        "u": "https://www.google.com/search?q=Organic+%26+Natural+Local+Co-Ops"
+      }
+    ],
+    "6.4.7": [
+      {
+        "d": "google.com",
+        "n": "Organic Produce",
+        "u": "https://www.google.com/search?q=Organic+%26+Natural+Organic+Produce"
+      }
+    ],
+    "6.4.8": [
+      {
+        "d": "google.com",
+        "n": "Clean Label",
+        "u": "https://www.google.com/search?q=Organic+%26+Natural+Clean+Label"
+      }
+    ],
+    "6.4.9": [
+      {
+        "d": "google.com",
+        "n": "Non-GMO Guide",
+        "u": "https://www.google.com/search?q=Organic+%26+Natural+Non-GMO+Guide"
+      }
+    ],
+    "6.6.1": [
+      {
+        "d": "google.com",
+        "n": "International Foods",
+        "u": "https://www.google.com/search?q=Specialty+Foods+International+Foods"
+      }
+    ],
+    "6.6.2": [
+      {
+        "d": "google.com",
+        "n": "Gourmet Gifts",
+        "u": "https://www.google.com/search?q=Specialty+Foods+Gourmet+Gifts"
+      }
+    ],
+    "6.6.3": [
+      {
+        "d": "google.com",
+        "n": "Allergen-Free",
+        "u": "https://www.google.com/search?q=Specialty+Foods+Allergen-Free"
+      }
+    ],
+    "6.6.4": [
+      {
+        "d": "google.com",
+        "n": "Keto Products",
+        "u": "https://www.google.com/search?q=Specialty+Foods+Keto+Products"
+      }
+    ],
+    "6.6.6": [
+      {
+        "d": "google.com",
+        "n": "Vegan Products",
+        "u": "https://www.google.com/search?q=Specialty+Foods+Vegan+Products"
+      }
+    ],
+    "6.6.7": [
+      {
+        "d": "google.com",
+        "n": "Artisan Cheese",
+        "u": "https://www.google.com/search?q=Specialty+Foods+Artisan+Cheese"
+      }
+    ],
+    "6.6.8": [
+      {
+        "d": "google.com",
+        "n": "Spice Shops",
+        "u": "https://www.google.com/search?q=Specialty+Foods+Spice+Shops"
+      }
+    ],
+    "6.6.9": [
+      {
+        "d": "google.com",
+        "n": "Subscription Boxes",
+        "u": "https://www.google.com/search?q=Specialty+Foods+Subscription+Boxes"
+      }
+    ],
+    "6.7.1": [
+      {
+        "d": "google.com",
+        "n": "Coffee Beans",
+        "u": "https://www.google.com/search?q=Coffee+%26+Drinks+Coffee+Beans"
+      }
+    ],
+    "6.7.2": [
+      {
+        "d": "google.com",
+        "n": "Coffee Subscriptions",
+        "u": "https://www.google.com/search?q=Coffee+%26+Drinks+Coffee+Subscriptions"
+      }
+    ],
+    "6.7.3": [
+      {
+        "d": "google.com",
+        "n": "Tea",
+        "u": "https://www.google.com/search?q=Coffee+%26+Drinks+Tea"
+      }
+    ],
+    "6.7.4": [
+      {
+        "d": "google.com",
+        "n": "Energy Drinks",
+        "u": "https://www.google.com/search?q=Coffee+%26+Drinks+Energy+Drinks"
+      }
+    ],
+    "6.7.6": [
+      {
+        "d": "google.com",
+        "n": "Wine Delivery",
+        "u": "https://www.google.com/search?q=Coffee+%26+Drinks+Wine+Delivery"
+      }
+    ],
+    "6.7.7": [
+      {
+        "d": "google.com",
+        "n": "Craft Beer",
+        "u": "https://www.google.com/search?q=Coffee+%26+Drinks+Craft+Beer"
+      }
+    ],
+    "6.7.8": [
+      {
+        "d": "google.com",
+        "n": "Soda Alternatives",
+        "u": "https://www.google.com/search?q=Coffee+%26+Drinks+Soda+Alternatives"
+      }
+    ],
+    "6.7.9": [
+      {
+        "d": "google.com",
+        "n": "Water Delivery",
+        "u": "https://www.google.com/search?q=Coffee+%26+Drinks+Water+Delivery"
+      }
+    ],
+    "6.8.1": [
+      {
+        "d": "google.com",
+        "n": "Chewy",
+        "u": "https://www.google.com/search?q=Pet+Food+%26+Supplies+Chewy"
+      }
+    ],
+    "6.8.2": [
+      {
+        "d": "google.com",
+        "n": "Dog Food",
+        "u": "https://www.google.com/search?q=Pet+Food+%26+Supplies+Dog+Food"
+      }
+    ],
+    "6.8.3": [
+      {
+        "d": "google.com",
+        "n": "Cat Food",
+        "u": "https://www.google.com/search?q=Pet+Food+%26+Supplies+Cat+Food"
+      }
+    ],
+    "6.8.4": [
+      {
+        "d": "google.com",
+        "n": "Raw Diet",
+        "u": "https://www.google.com/search?q=Pet+Food+%26+Supplies+Raw+Diet"
+      }
+    ],
+    "6.8.6": [
+      {
+        "d": "google.com",
+        "n": "Treats & Chews",
+        "u": "https://www.google.com/search?q=Pet+Food+%26+Supplies+Treats+%26+Chews"
+      }
+    ],
+    "6.8.7": [
+      {
+        "d": "google.com",
+        "n": "Prescription Diet",
+        "u": "https://www.google.com/search?q=Pet+Food+%26+Supplies+Prescription+Diet"
+      }
+    ],
+    "6.8.8": [
+      {
+        "d": "google.com",
+        "n": "Auto-Ship Savings",
+        "u": "https://www.google.com/search?q=Pet+Food+%26+Supplies+Auto-Ship+Savings"
+      }
+    ],
+    "6.8.9": [
+      {
+        "d": "google.com",
+        "n": "Pet Supply Deals",
+        "u": "https://www.google.com/search?q=Pet+Food+%26+Supplies+Pet+Supply+Deals"
+      }
+    ],
+    "6.9.1": [
+      {
+        "d": "google.com",
+        "n": "Healthy Snacks",
+        "u": "https://www.google.com/search?q=Snacks+%26+Protein+Healthy+Snacks"
+      }
+    ],
+    "6.9.2": [
+      {
+        "d": "google.com",
+        "n": "Protein Bars",
+        "u": "https://www.google.com/search?q=Snacks+%26+Protein+Protein+Bars"
+      }
+    ],
+    "6.9.3": [
+      {
+        "d": "google.com",
+        "n": "Protein Powder",
+        "u": "https://www.google.com/search?q=Snacks+%26+Protein+Protein+Powder"
+      }
+    ],
+    "6.9.4": [
+      {
+        "d": "google.com",
+        "n": "Nuts & Trail Mix",
+        "u": "https://www.google.com/search?q=Snacks+%26+Protein+Nuts+%26+Trail+Mix"
+      }
+    ],
+    "6.9.6": [
+      {
+        "d": "google.com",
+        "n": "Jerky & Meat Snacks",
+        "u": "https://www.google.com/search?q=Snacks+%26+Protein+Jerky+%26+Meat+Snacks"
+      }
+    ],
+    "6.9.7": [
+      {
+        "d": "google.com",
+        "n": "Snack Boxes",
+        "u": "https://www.google.com/search?q=Snacks+%26+Protein+Snack+Boxes"
+      }
+    ],
+    "6.9.8": [
+      {
+        "d": "google.com",
+        "n": "Kids Snacks",
+        "u": "https://www.google.com/search?q=Snacks+%26+Protein+Kids+Snacks"
+      }
+    ],
+    "6.9.9": [
+      {
+        "d": "google.com",
+        "n": "Bulk Snacks",
+        "u": "https://www.google.com/search?q=Snacks+%26+Protein+Bulk+Snacks"
+      }
+    ],
+    "7.1.1": [
+      {
+        "d": "google.com",
+        "n": "Moisturizers",
+        "u": "https://www.google.com/search?q=Skincare+Moisturizers"
+      }
+    ],
+    "7.1.2": [
+      {
+        "d": "google.com",
+        "n": "Serums",
+        "u": "https://www.google.com/search?q=Skincare+Serums"
+      }
+    ],
+    "7.1.3": [
+      {
+        "d": "google.com",
+        "n": "Sunscreen",
+        "u": "https://www.google.com/search?q=Skincare+Sunscreen"
+      }
+    ],
+    "7.1.4": [
+      {
+        "d": "google.com",
+        "n": "Cleansers",
+        "u": "https://www.google.com/search?q=Skincare+Cleansers"
+      }
+    ],
+    "7.1.6": [
+      {
+        "d": "google.com",
+        "n": "Retinol",
+        "u": "https://www.google.com/search?q=Skincare+Retinol"
+      }
+    ],
+    "7.1.7": [
+      {
+        "d": "google.com",
+        "n": "Acne Treatment",
+        "u": "https://www.google.com/search?q=Skincare+Acne+Treatment"
+      }
+    ],
+    "7.1.8": [
+      {
+        "d": "google.com",
+        "n": "Korean Skincare",
+        "u": "https://www.google.com/search?q=Skincare+Korean+Skincare"
+      }
+    ],
+    "7.1.9": [
+      {
+        "d": "google.com",
+        "n": "Skincare Routine Builder",
+        "u": "https://www.google.com/search?q=Skincare+Skincare+Routine+Builder"
+      }
+    ],
+    "7.2.1": [
+      {
+        "d": "google.com",
+        "n": "Foundation",
+        "u": "https://www.google.com/search?q=Makeup+Foundation"
+      }
+    ],
+    "7.2.2": [
+      {
+        "d": "google.com",
+        "n": "Lipstick",
+        "u": "https://www.google.com/search?q=Makeup+Lipstick"
+      }
+    ],
+    "7.2.3": [
+      {
+        "d": "google.com",
+        "n": "Mascara",
+        "u": "https://www.google.com/search?q=Makeup+Mascara"
+      }
+    ],
+    "7.2.4": [
+      {
+        "d": "google.com",
+        "n": "Eyeshadow",
+        "u": "https://www.google.com/search?q=Makeup+Eyeshadow"
+      }
+    ],
+    "7.2.6": [
+      {
+        "d": "google.com",
+        "n": "Setting Spray",
+        "u": "https://www.google.com/search?q=Makeup+Setting+Spray"
+      }
+    ],
+    "7.2.7": [
+      {
+        "d": "google.com",
+        "n": "Brushes & Tools",
+        "u": "https://www.google.com/search?q=Makeup+Brushes+%26+Tools"
+      }
+    ],
+    "7.2.8": [
+      {
+        "d": "google.com",
+        "n": "Clean Beauty",
+        "u": "https://www.google.com/search?q=Makeup+Clean+Beauty"
+      }
+    ],
+    "7.2.9": [
+      {
+        "d": "google.com",
+        "n": "Makeup Deals",
+        "u": "https://www.google.com/search?q=Makeup+Makeup+Deals"
+      }
+    ],
+    "7.3.1": [
+      {
+        "d": "google.com",
+        "n": "Shampoo & Conditioner",
+        "u": "https://www.google.com/search?q=Hair+Care+Shampoo+%26+Conditioner"
+      }
+    ],
+    "7.3.2": [
+      {
+        "d": "google.com",
+        "n": "Hair Treatments",
+        "u": "https://www.google.com/search?q=Hair+Care+Hair+Treatments"
+      }
+    ],
+    "7.3.3": [
+      {
+        "d": "google.com",
+        "n": "Styling Products",
+        "u": "https://www.google.com/search?q=Hair+Care+Styling+Products"
+      }
+    ],
+    "7.3.4": [
+      {
+        "d": "google.com",
+        "n": "Hair Tools",
+        "u": "https://www.google.com/search?q=Hair+Care+Hair+Tools"
+      }
+    ],
+    "7.3.6": [
+      {
+        "d": "google.com",
+        "n": "Color & Dye",
+        "u": "https://www.google.com/search?q=Hair+Care+Color+%26+Dye"
+      }
+    ],
+    "7.3.7": [
+      {
+        "d": "google.com",
+        "n": "Curly Hair",
+        "u": "https://www.google.com/search?q=Hair+Care+Curly+Hair"
+      }
+    ],
+    "7.3.8": [
+      {
+        "d": "google.com",
+        "n": "Hair Growth",
+        "u": "https://www.google.com/search?q=Hair+Care+Hair+Growth"
+      }
+    ],
+    "7.3.9": [
+      {
+        "d": "google.com",
+        "n": "Hair Care Deals",
+        "u": "https://www.google.com/search?q=Hair+Care+Hair+Care+Deals"
+      }
+    ],
+    "7.4.1": [
+      {
+        "d": "google.com",
+        "n": "Women's Perfume",
+        "u": "https://www.google.com/search?q=Fragrance+Women%27s+Perfume"
+      }
+    ],
+    "7.4.2": [
+      {
+        "d": "google.com",
+        "n": "Men's Cologne",
+        "u": "https://www.google.com/search?q=Fragrance+Men%27s+Cologne"
+      }
+    ],
+    "7.4.3": [
+      {
+        "d": "google.com",
+        "n": "Unisex Scents",
+        "u": "https://www.google.com/search?q=Fragrance+Unisex+Scents"
+      }
+    ],
+    "7.4.4": [
+      {
+        "d": "google.com",
+        "n": "Niche Fragrance",
+        "u": "https://www.google.com/search?q=Fragrance+Niche+Fragrance"
+      }
+    ],
+    "7.4.6": [
+      {
+        "d": "google.com",
+        "n": "Discovery Sets",
+        "u": "https://www.google.com/search?q=Fragrance+Discovery+Sets"
+      }
+    ],
+    "7.4.7": [
+      {
+        "d": "google.com",
+        "n": "Discounted Fragrance",
+        "u": "https://www.google.com/search?q=Fragrance+Discounted+Fragrance"
+      }
+    ],
+    "7.4.8": [
+      {
+        "d": "google.com",
+        "n": "Fragrance Reviews",
+        "u": "https://www.google.com/search?q=Fragrance+Fragrance+Reviews"
+      }
+    ],
+    "7.4.9": [
+      {
+        "d": "google.com",
+        "n": "Travel Size",
+        "u": "https://www.google.com/search?q=Fragrance+Travel+Size"
+      }
+    ],
+    "7.6.1": [
+      {
+        "d": "google.com",
+        "n": "Razors & Shaving",
+        "u": "https://www.google.com/search?q=Men%27s+Grooming+Razors+%26+Shaving"
+      }
+    ],
+    "7.6.2": [
+      {
+        "d": "google.com",
+        "n": "Beard Care",
+        "u": "https://www.google.com/search?q=Men%27s+Grooming+Beard+Care"
+      }
+    ],
+    "7.6.3": [
+      {
+        "d": "google.com",
+        "n": "Skincare for Men",
+        "u": "https://www.google.com/search?q=Men%27s+Grooming+Skincare+for+Men"
+      }
+    ],
+    "7.6.4": [
+      {
+        "d": "google.com",
+        "n": "Hair Styling",
+        "u": "https://www.google.com/search?q=Men%27s+Grooming+Hair+Styling"
+      }
+    ],
+    "7.6.6": [
+      {
+        "d": "google.com",
+        "n": "Body Wash",
+        "u": "https://www.google.com/search?q=Men%27s+Grooming+Body+Wash"
+      }
+    ],
+    "7.6.7": [
+      {
+        "d": "google.com",
+        "n": "Deodorant",
+        "u": "https://www.google.com/search?q=Men%27s+Grooming+Deodorant"
+      }
+    ],
+    "7.6.8": [
+      {
+        "d": "google.com",
+        "n": "Grooming Kits",
+        "u": "https://www.google.com/search?q=Men%27s+Grooming+Grooming+Kits"
+      }
+    ],
+    "7.6.9": [
+      {
+        "d": "google.com",
+        "n": "Grooming Deals",
+        "u": "https://www.google.com/search?q=Men%27s+Grooming+Grooming+Deals"
+      }
+    ],
+    "7.7.1": [
+      {
+        "d": "google.com",
+        "n": "Multivitamins",
+        "u": "https://www.google.com/search?q=Vitamins+%26+Supplements+Multivitamins"
+      }
+    ],
+    "7.7.2": [
+      {
+        "d": "google.com",
+        "n": "Protein Powder",
+        "u": "https://www.google.com/search?q=Vitamins+%26+Supplements+Protein+Powder"
+      }
+    ],
+    "7.7.3": [
+      {
+        "d": "google.com",
+        "n": "Omega-3",
+        "u": "https://www.google.com/search?q=Vitamins+%26+Supplements+Omega-3"
+      }
+    ],
+    "7.7.4": [
+      {
+        "d": "google.com",
+        "n": "Probiotics",
+        "u": "https://www.google.com/search?q=Vitamins+%26+Supplements+Probiotics"
+      }
+    ],
+    "7.7.6": [
+      {
+        "d": "google.com",
+        "n": "Vitamin D",
+        "u": "https://www.google.com/search?q=Vitamins+%26+Supplements+Vitamin+D"
+      }
+    ],
+    "7.7.7": [
+      {
+        "d": "google.com",
+        "n": "Magnesium",
+        "u": "https://www.google.com/search?q=Vitamins+%26+Supplements+Magnesium"
+      }
+    ],
+    "7.7.8": [
+      {
+        "d": "google.com",
+        "n": "Collagen",
+        "u": "https://www.google.com/search?q=Vitamins+%26+Supplements+Collagen"
+      }
+    ],
+    "7.7.9": [
+      {
+        "d": "google.com",
+        "n": "Supplement Deals",
+        "u": "https://www.google.com/search?q=Vitamins+%26+Supplements+Supplement+Deals"
+      }
+    ],
+    "7.8.1": [
+      {
+        "d": "google.com",
+        "n": "Nail Polish",
+        "u": "https://www.google.com/search?q=Nail+%26+Spa+Nail+Polish"
+      }
+    ],
+    "7.8.2": [
+      {
+        "d": "google.com",
+        "n": "Gel Kits",
+        "u": "https://www.google.com/search?q=Nail+%26+Spa+Gel+Kits"
+      }
+    ],
+    "7.8.3": [
+      {
+        "d": "google.com",
+        "n": "Nail Art",
+        "u": "https://www.google.com/search?q=Nail+%26+Spa+Nail+Art"
+      }
+    ],
+    "7.8.4": [
+      {
+        "d": "google.com",
+        "n": "At-Home Spa",
+        "u": "https://www.google.com/search?q=Nail+%26+Spa+At-Home+Spa"
+      }
+    ],
+    "7.8.6": [
+      {
+        "d": "google.com",
+        "n": "Bath Bombs",
+        "u": "https://www.google.com/search?q=Nail+%26+Spa+Bath+Bombs"
+      }
+    ],
+    "7.8.7": [
+      {
+        "d": "google.com",
+        "n": "Face Masks",
+        "u": "https://www.google.com/search?q=Nail+%26+Spa+Face+Masks"
+      }
+    ],
+    "7.8.8": [
+      {
+        "d": "google.com",
+        "n": "Massage Tools",
+        "u": "https://www.google.com/search?q=Nail+%26+Spa+Massage+Tools"
+      }
+    ],
+    "7.8.9": [
+      {
+        "d": "google.com",
+        "n": "Spa Gift Sets",
+        "u": "https://www.google.com/search?q=Nail+%26+Spa+Spa+Gift+Sets"
+      }
+    ],
+    "7.9.1": [
+      {
+        "d": "google.com",
+        "n": "Sephora",
+        "u": "https://www.google.com/search?q=Where+to+Shop+Sephora"
+      }
+    ],
+    "7.9.2": [
+      {
+        "d": "google.com",
+        "n": "Ulta Beauty",
+        "u": "https://www.google.com/search?q=Where+to+Shop+Ulta+Beauty"
+      }
+    ],
+    "7.9.3": [
+      {
+        "d": "google.com",
+        "n": "Dermstore",
+        "u": "https://www.google.com/search?q=Where+to+Shop+Dermstore"
+      }
+    ],
+    "7.9.4": [
+      {
+        "d": "google.com",
+        "n": "Amazon Beauty",
+        "u": "https://www.google.com/search?q=Where+to+Shop+Amazon+Beauty"
+      }
+    ],
+    "7.9.6": [
+      {
+        "d": "google.com",
+        "n": "Target Beauty",
+        "u": "https://www.google.com/search?q=Where+to+Shop+Target+Beauty"
+      }
+    ],
+    "7.9.7": [
+      {
+        "d": "google.com",
+        "n": "The Ordinary",
+        "u": "https://www.google.com/search?q=Where+to+Shop+The+Ordinary"
+      }
+    ],
+    "7.9.8": [
+      {
+        "d": "google.com",
+        "n": "iHerb",
+        "u": "https://www.google.com/search?q=Where+to+Shop+iHerb"
+      }
+    ],
+    "7.9.9": [
+      {
+        "d": "google.com",
+        "n": "Compare Beauty Stores",
+        "u": "https://www.google.com/search?q=Where+to+Shop+Compare+Beauty+Stores"
+      }
+    ],
+    "8.1.1": [
+      {
+        "d": "google.com",
+        "n": "Gifts for Her",
+        "u": "https://www.google.com/search?q=By+Recipient+Gifts+for+Her"
+      }
+    ],
+    "8.1.2": [
+      {
+        "d": "google.com",
+        "n": "Gifts for Him",
+        "u": "https://www.google.com/search?q=By+Recipient+Gifts+for+Him"
+      }
+    ],
+    "8.1.3": [
+      {
+        "d": "google.com",
+        "n": "Gifts for Kids",
+        "u": "https://www.google.com/search?q=By+Recipient+Gifts+for+Kids"
+      }
+    ],
+    "8.1.4": [
+      {
+        "d": "google.com",
+        "n": "Gifts for Teens",
+        "u": "https://www.google.com/search?q=By+Recipient+Gifts+for+Teens"
+      }
+    ],
+    "8.1.6": [
+      {
+        "d": "google.com",
+        "n": "Gifts for Parents",
+        "u": "https://www.google.com/search?q=By+Recipient+Gifts+for+Parents"
+      }
+    ],
+    "8.1.7": [
+      {
+        "d": "google.com",
+        "n": "Gifts for Couples",
+        "u": "https://www.google.com/search?q=By+Recipient+Gifts+for+Couples"
+      }
+    ],
+    "8.1.8": [
+      {
+        "d": "google.com",
+        "n": "Gifts for Coworkers",
+        "u": "https://www.google.com/search?q=By+Recipient+Gifts+for+Coworkers"
+      }
+    ],
+    "8.1.9": [
+      {
+        "d": "google.com",
+        "n": "Gifts for Pets",
+        "u": "https://www.google.com/search?q=By+Recipient+Gifts+for+Pets"
+      }
+    ],
+    "8.2.1": [
+      {
+        "d": "google.com",
+        "n": "Birthday",
+        "u": "https://www.google.com/search?q=By+Occasion+Birthday"
+      }
+    ],
+    "8.2.2": [
+      {
+        "d": "google.com",
+        "n": "Christmas & Holiday",
+        "u": "https://www.google.com/search?q=By+Occasion+Christmas+%26+Holiday"
+      }
+    ],
+    "8.2.3": [
+      {
+        "d": "google.com",
+        "n": "Valentine's Day",
+        "u": "https://www.google.com/search?q=By+Occasion+Valentine%27s+Day"
+      }
+    ],
+    "8.2.4": [
+      {
+        "d": "google.com",
+        "n": "Mother's Day",
+        "u": "https://www.google.com/search?q=By+Occasion+Mother%27s+Day"
+      }
+    ],
+    "8.2.6": [
+      {
+        "d": "google.com",
+        "n": "Father's Day",
+        "u": "https://www.google.com/search?q=By+Occasion+Father%27s+Day"
+      }
+    ],
+    "8.2.7": [
+      {
+        "d": "google.com",
+        "n": "Wedding & Bridal",
+        "u": "https://www.google.com/search?q=By+Occasion+Wedding+%26+Bridal"
+      }
+    ],
+    "8.2.8": [
+      {
+        "d": "google.com",
+        "n": "Baby Shower",
+        "u": "https://www.google.com/search?q=By+Occasion+Baby+Shower"
+      }
+    ],
+    "8.2.9": [
+      {
+        "d": "google.com",
+        "n": "Graduation",
+        "u": "https://www.google.com/search?q=By+Occasion+Graduation"
+      }
+    ],
+    "8.3.1": [
+      {
+        "d": "google.com",
+        "n": "Under $25",
+        "u": "https://www.google.com/search?q=By+Budget+Under+%2425"
+      }
+    ],
+    "8.3.2": [
+      {
+        "d": "google.com",
+        "n": "Under $50",
+        "u": "https://www.google.com/search?q=By+Budget+Under+%2450"
+      }
+    ],
+    "8.3.3": [
+      {
+        "d": "google.com",
+        "n": "Under $100",
+        "u": "https://www.google.com/search?q=By+Budget+Under+%24100"
+      }
+    ],
+    "8.3.4": [
+      {
+        "d": "google.com",
+        "n": "Luxury Gifts",
+        "u": "https://www.google.com/search?q=By+Budget+Luxury+Gifts"
+      }
+    ],
+    "8.3.6": [
+      {
+        "d": "google.com",
+        "n": "Stocking Stuffers",
+        "u": "https://www.google.com/search?q=By+Budget+Stocking+Stuffers"
+      }
+    ],
+    "8.3.7": [
+      {
+        "d": "google.com",
+        "n": "Secret Santa",
+        "u": "https://www.google.com/search?q=By+Budget+Secret+Santa"
+      }
+    ],
+    "8.3.8": [
+      {
+        "d": "google.com",
+        "n": "Free & Homemade",
+        "u": "https://www.google.com/search?q=By+Budget+Free+%26+Homemade"
+      }
+    ],
+    "8.3.9": [
+      {
+        "d": "google.com",
+        "n": "Group Gift Ideas",
+        "u": "https://www.google.com/search?q=By+Budget+Group+Gift+Ideas"
+      }
+    ],
+    "8.4.1": [
+      {
+        "d": "google.com",
+        "n": "Amazon Gift Cards",
+        "u": "https://www.google.com/search?q=Gift+Cards+Amazon+Gift+Cards"
+      }
+    ],
+    "8.4.2": [
+      {
+        "d": "google.com",
+        "n": "Visa & Mastercard",
+        "u": "https://www.google.com/search?q=Gift+Cards+Visa+%26+Mastercard"
+      }
+    ],
+    "8.4.3": [
+      {
+        "d": "google.com",
+        "n": "Restaurant Gift Cards",
+        "u": "https://www.google.com/search?q=Gift+Cards+Restaurant+Gift+Cards"
+      }
+    ],
+    "8.4.4": [
+      {
+        "d": "google.com",
+        "n": "Experience Gift Cards",
+        "u": "https://www.google.com/search?q=Gift+Cards+Experience+Gift+Cards"
+      }
+    ],
+    "8.4.6": [
+      {
+        "d": "google.com",
+        "n": "Streaming Gift Cards",
+        "u": "https://www.google.com/search?q=Gift+Cards+Streaming+Gift+Cards"
+      }
+    ],
+    "8.4.7": [
+      {
+        "d": "google.com",
+        "n": "Gaming Gift Cards",
+        "u": "https://www.google.com/search?q=Gift+Cards+Gaming+Gift+Cards"
+      }
+    ],
+    "8.4.8": [
+      {
+        "d": "google.com",
+        "n": "Gift Card Deals",
+        "u": "https://www.google.com/search?q=Gift+Cards+Gift+Card+Deals"
+      }
+    ],
+    "8.4.9": [
+      {
+        "d": "google.com",
+        "n": "eGift Cards",
+        "u": "https://www.google.com/search?q=Gift+Cards+eGift+Cards"
+      }
+    ],
+    "8.6.1": [
+      {
+        "d": "google.com",
+        "n": "Book Subscriptions",
+        "u": "https://www.google.com/search?q=Subscription+Gifts+Book+Subscriptions"
+      }
+    ],
+    "8.6.2": [
+      {
+        "d": "google.com",
+        "n": "Food & Snack Boxes",
+        "u": "https://www.google.com/search?q=Subscription+Gifts+Food+%26+Snack+Boxes"
+      }
+    ],
+    "8.6.3": [
+      {
+        "d": "google.com",
+        "n": "Wine & Beer Clubs",
+        "u": "https://www.google.com/search?q=Subscription+Gifts+Wine+%26+Beer+Clubs"
+      }
+    ],
+    "8.6.4": [
+      {
+        "d": "google.com",
+        "n": "Coffee Subscriptions",
+        "u": "https://www.google.com/search?q=Subscription+Gifts+Coffee+Subscriptions"
+      }
+    ],
+    "8.6.6": [
+      {
+        "d": "google.com",
+        "n": "Beauty Boxes",
+        "u": "https://www.google.com/search?q=Subscription+Gifts+Beauty+Boxes"
+      }
+    ],
+    "8.6.7": [
+      {
+        "d": "google.com",
+        "n": "Streaming Gifts",
+        "u": "https://www.google.com/search?q=Subscription+Gifts+Streaming+Gifts"
+      }
+    ],
+    "8.6.8": [
+      {
+        "d": "google.com",
+        "n": "Hobby Boxes",
+        "u": "https://www.google.com/search?q=Subscription+Gifts+Hobby+Boxes"
+      }
+    ],
+    "8.6.9": [
+      {
+        "d": "google.com",
+        "n": "Compare Subscriptions",
+        "u": "https://www.google.com/search?q=Subscription+Gifts+Compare+Subscriptions"
+      }
+    ],
+    "8.7.1": [
+      {
+        "d": "google.com",
+        "n": "Concert Tickets",
+        "u": "https://www.google.com/search?q=Experience+Gifts+Concert+Tickets"
+      }
+    ],
+    "8.7.2": [
+      {
+        "d": "google.com",
+        "n": "Cooking Classes",
+        "u": "https://www.google.com/search?q=Experience+Gifts+Cooking+Classes"
+      }
+    ],
+    "8.7.3": [
+      {
+        "d": "google.com",
+        "n": "Spa Treatments",
+        "u": "https://www.google.com/search?q=Experience+Gifts+Spa+Treatments"
+      }
+    ],
+    "8.7.4": [
+      {
+        "d": "google.com",
+        "n": "Adventure Activities",
+        "u": "https://www.google.com/search?q=Experience+Gifts+Adventure+Activities"
+      }
+    ],
+    "8.7.6": [
+      {
+        "d": "google.com",
+        "n": "Wine Tasting",
+        "u": "https://www.google.com/search?q=Experience+Gifts+Wine+Tasting"
+      }
+    ],
+    "8.7.7": [
+      {
+        "d": "google.com",
+        "n": "Travel Experiences",
+        "u": "https://www.google.com/search?q=Experience+Gifts+Travel+Experiences"
+      }
+    ],
+    "8.7.8": [
+      {
+        "d": "google.com",
+        "n": "Online Experiences",
+        "u": "https://www.google.com/search?q=Experience+Gifts+Online+Experiences"
+      }
+    ],
+    "8.7.9": [
+      {
+        "d": "google.com",
+        "n": "Airbnb Experiences",
+        "u": "https://www.google.com/search?q=Experience+Gifts+Airbnb+Experiences"
+      }
+    ],
+    "8.8.1": [
+      {
+        "d": "google.com",
+        "n": "Etsy Custom",
+        "u": "https://www.google.com/search?q=Personalized+Gifts+Etsy+Custom"
+      }
+    ],
+    "8.8.2": [
+      {
+        "d": "google.com",
+        "n": "Photo Gifts",
+        "u": "https://www.google.com/search?q=Personalized+Gifts+Photo+Gifts"
+      }
+    ],
+    "8.8.3": [
+      {
+        "d": "google.com",
+        "n": "Engraved Items",
+        "u": "https://www.google.com/search?q=Personalized+Gifts+Engraved+Items"
+      }
+    ],
+    "8.8.4": [
+      {
+        "d": "google.com",
+        "n": "Custom Jewelry",
+        "u": "https://www.google.com/search?q=Personalized+Gifts+Custom+Jewelry"
+      }
+    ],
+    "8.8.6": [
+      {
+        "d": "google.com",
+        "n": "Monogrammed",
+        "u": "https://www.google.com/search?q=Personalized+Gifts+Monogrammed"
+      }
+    ],
+    "8.8.7": [
+      {
+        "d": "google.com",
+        "n": "Custom Art",
+        "u": "https://www.google.com/search?q=Personalized+Gifts+Custom+Art"
+      }
+    ],
+    "8.8.8": [
+      {
+        "d": "google.com",
+        "n": "Memory Books",
+        "u": "https://www.google.com/search?q=Personalized+Gifts+Memory+Books"
+      }
+    ],
+    "8.8.9": [
+      {
+        "d": "google.com",
+        "n": "Personalization Tips",
+        "u": "https://www.google.com/search?q=Personalized+Gifts+Personalization+Tips"
+      }
+    ],
+    "8.9.1": [
+      {
+        "d": "google.com",
+        "n": "Wirecutter Gifts",
+        "u": "https://www.google.com/search?q=Gift+Guides+Wirecutter+Gifts"
+      }
+    ],
+    "8.9.2": [
+      {
+        "d": "google.com",
+        "n": "Oprah's Favorites",
+        "u": "https://www.google.com/search?q=Gift+Guides+Oprah%27s+Favorites"
+      }
+    ],
+    "8.9.3": [
+      {
+        "d": "google.com",
+        "n": "BuzzFeed Gift Guide",
+        "u": "https://www.google.com/search?q=Gift+Guides+BuzzFeed+Gift+Guide"
+      }
+    ],
+    "8.9.4": [
+      {
+        "d": "google.com",
+        "n": "GQ Gift Guide",
+        "u": "https://www.google.com/search?q=Gift+Guides+GQ+Gift+Guide"
+      }
+    ],
+    "8.9.6": [
+      {
+        "d": "google.com",
+        "n": "Good Housekeeping",
+        "u": "https://www.google.com/search?q=Gift+Guides+Good+Housekeeping"
+      }
+    ],
+    "8.9.7": [
+      {
+        "d": "google.com",
+        "n": "Reddit Gift Ideas",
+        "u": "https://www.google.com/search?q=Gift+Guides+Reddit+Gift+Ideas"
+      }
+    ],
+    "8.9.8": [
+      {
+        "d": "google.com",
+        "n": "Last-Minute Gifts",
+        "u": "https://www.google.com/search?q=Gift+Guides+Last-Minute+Gifts"
+      }
+    ],
+    "8.9.9": [
+      {
+        "d": "google.com",
+        "n": "Trending Gifts",
+        "u": "https://www.google.com/search?q=Gift+Guides+Trending+Gifts"
+      }
+    ],
+    "9.1.1": [
+      {
+        "d": "google.com",
+        "n": "Handyman",
+        "u": "https://www.google.com/search?q=Home+Services+Handyman"
+      }
+    ],
+    "9.1.2": [
+      {
+        "d": "google.com",
+        "n": "Plumbing",
+        "u": "https://www.google.com/search?q=Home+Services+Plumbing"
+      }
+    ],
+    "9.1.3": [
+      {
+        "d": "google.com",
+        "n": "Electrical",
+        "u": "https://www.google.com/search?q=Home+Services+Electrical"
+      }
+    ],
+    "9.1.4": [
+      {
+        "d": "google.com",
+        "n": "HVAC",
+        "u": "https://www.google.com/search?q=Home+Services+HVAC"
+      }
+    ],
+    "9.1.6": [
+      {
+        "d": "google.com",
+        "n": "Painting",
+        "u": "https://www.google.com/search?q=Home+Services+Painting"
+      }
+    ],
+    "9.1.7": [
+      {
+        "d": "google.com",
+        "n": "Roofing",
+        "u": "https://www.google.com/search?q=Home+Services+Roofing"
+      }
+    ],
+    "9.1.8": [
+      {
+        "d": "google.com",
+        "n": "Landscaping",
+        "u": "https://www.google.com/search?q=Home+Services+Landscaping"
+      }
+    ],
+    "9.1.9": [
+      {
+        "d": "google.com",
+        "n": "Cost Estimator",
+        "u": "https://www.google.com/search?q=Home+Services+Cost+Estimator"
+      }
+    ],
+    "9.2.1": [
+      {
+        "d": "google.com",
+        "n": "House Cleaning",
+        "u": "https://www.google.com/search?q=Cleaning+House+Cleaning"
+      }
+    ],
+    "9.2.2": [
+      {
+        "d": "google.com",
+        "n": "Deep Cleaning",
+        "u": "https://www.google.com/search?q=Cleaning+Deep+Cleaning"
+      }
+    ],
+    "9.2.3": [
+      {
+        "d": "google.com",
+        "n": "Move-In/Out",
+        "u": "https://www.google.com/search?q=Cleaning+Move-In%2FOut"
+      }
+    ],
+    "9.2.4": [
+      {
+        "d": "google.com",
+        "n": "Office Cleaning",
+        "u": "https://www.google.com/search?q=Cleaning+Office+Cleaning"
+      }
+    ],
+    "9.2.6": [
+      {
+        "d": "google.com",
+        "n": "Carpet Cleaning",
+        "u": "https://www.google.com/search?q=Cleaning+Carpet+Cleaning"
+      }
+    ],
+    "9.2.7": [
+      {
+        "d": "google.com",
+        "n": "Window Cleaning",
+        "u": "https://www.google.com/search?q=Cleaning+Window+Cleaning"
+      }
+    ],
+    "9.2.8": [
+      {
+        "d": "google.com",
+        "n": "Laundry Service",
+        "u": "https://www.google.com/search?q=Cleaning+Laundry+Service"
+      }
+    ],
+    "9.2.9": [
+      {
+        "d": "google.com",
+        "n": "Compare Cleaning",
+        "u": "https://www.google.com/search?q=Cleaning+Compare+Cleaning"
+      }
+    ],
+    "9.3.1": [
+      {
+        "d": "google.com",
+        "n": "Moving Help",
+        "u": "https://www.google.com/search?q=Moving+%26+Assembly+Moving+Help"
+      }
+    ],
+    "9.3.2": [
+      {
+        "d": "google.com",
+        "n": "Furniture Assembly",
+        "u": "https://www.google.com/search?q=Moving+%26+Assembly+Furniture+Assembly"
+      }
+    ],
+    "9.3.3": [
+      {
+        "d": "google.com",
+        "n": "Mounting & Install",
+        "u": "https://www.google.com/search?q=Moving+%26+Assembly+Mounting+%26+Install"
+      }
+    ],
+    "9.3.4": [
+      {
+        "d": "google.com",
+        "n": "Packing Services",
+        "u": "https://www.google.com/search?q=Moving+%26+Assembly+Packing+Services"
+      }
+    ],
+    "9.3.6": [
+      {
+        "d": "google.com",
+        "n": "Storage Units",
+        "u": "https://www.google.com/search?q=Moving+%26+Assembly+Storage+Units"
+      }
+    ],
+    "9.3.7": [
+      {
+        "d": "google.com",
+        "n": "Junk Removal",
+        "u": "https://www.google.com/search?q=Moving+%26+Assembly+Junk+Removal"
+      }
+    ],
+    "9.3.8": [
+      {
+        "d": "google.com",
+        "n": "Piano Moving",
+        "u": "https://www.google.com/search?q=Moving+%26+Assembly+Piano+Moving"
+      }
+    ],
+    "9.3.9": [
+      {
+        "d": "google.com",
+        "n": "Moving Checklist",
+        "u": "https://www.google.com/search?q=Moving+%26+Assembly+Moving+Checklist"
+      }
+    ],
+    "9.4.1": [
+      {
+        "d": "google.com",
+        "n": "Rover",
+        "u": "https://www.google.com/search?q=Pet+Care+Rover"
+      }
+    ],
+    "9.4.2": [
+      {
+        "d": "google.com",
+        "n": "Wag",
+        "u": "https://www.google.com/search?q=Pet+Care+Wag"
+      }
+    ],
+    "9.4.3": [
+      {
+        "d": "google.com",
+        "n": "Pet Sitting",
+        "u": "https://www.google.com/search?q=Pet+Care+Pet+Sitting"
+      }
+    ],
+    "9.4.4": [
+      {
+        "d": "google.com",
+        "n": "Dog Walking",
+        "u": "https://www.google.com/search?q=Pet+Care+Dog+Walking"
+      }
+    ],
+    "9.4.6": [
+      {
+        "d": "google.com",
+        "n": "Boarding",
+        "u": "https://www.google.com/search?q=Pet+Care+Boarding"
+      }
+    ],
+    "9.4.7": [
+      {
+        "d": "google.com",
+        "n": "Grooming",
+        "u": "https://www.google.com/search?q=Pet+Care+Grooming"
+      }
+    ],
+    "9.4.8": [
+      {
+        "d": "google.com",
+        "n": "Dog Training",
+        "u": "https://www.google.com/search?q=Pet+Care+Dog+Training"
+      }
+    ],
+    "9.4.9": [
+      {
+        "d": "google.com",
+        "n": "Vet Finder",
+        "u": "https://www.google.com/search?q=Pet+Care+Vet+Finder"
+      }
+    ],
+    "9.6.1": [
+      {
+        "d": "google.com",
+        "n": "Babysitters",
+        "u": "https://www.google.com/search?q=Childcare+Babysitters"
+      }
+    ],
+    "9.6.2": [
+      {
+        "d": "google.com",
+        "n": "Nannies",
+        "u": "https://www.google.com/search?q=Childcare+Nannies"
+      }
+    ],
+    "9.6.3": [
+      {
+        "d": "google.com",
+        "n": "Daycare",
+        "u": "https://www.google.com/search?q=Childcare+Daycare"
+      }
+    ],
+    "9.6.4": [
+      {
+        "d": "google.com",
+        "n": "Au Pairs",
+        "u": "https://www.google.com/search?q=Childcare+Au+Pairs"
+      }
+    ],
+    "9.6.6": [
+      {
+        "d": "google.com",
+        "n": "After School",
+        "u": "https://www.google.com/search?q=Childcare+After+School"
+      }
+    ],
+    "9.6.7": [
+      {
+        "d": "google.com",
+        "n": "Summer Camps",
+        "u": "https://www.google.com/search?q=Childcare+Summer+Camps"
+      }
+    ],
+    "9.6.8": [
+      {
+        "d": "google.com",
+        "n": "Tutoring",
+        "u": "https://www.google.com/search?q=Childcare+Tutoring"
+      }
+    ],
+    "9.6.9": [
+      {
+        "d": "google.com",
+        "n": "Background Checks",
+        "u": "https://www.google.com/search?q=Childcare+Background+Checks"
+      }
+    ],
+    "9.7.1": [
+      {
+        "d": "google.com",
+        "n": "Mechanic Finder",
+        "u": "https://www.google.com/search?q=Auto+Services+Mechanic+Finder"
+      }
+    ],
+    "9.7.2": [
+      {
+        "d": "google.com",
+        "n": "Oil Change",
+        "u": "https://www.google.com/search?q=Auto+Services+Oil+Change"
+      }
+    ],
+    "9.7.3": [
+      {
+        "d": "google.com",
+        "n": "Tire Service",
+        "u": "https://www.google.com/search?q=Auto+Services+Tire+Service"
+      }
+    ],
+    "9.7.4": [
+      {
+        "d": "google.com",
+        "n": "Brake Service",
+        "u": "https://www.google.com/search?q=Auto+Services+Brake+Service"
+      }
+    ],
+    "9.7.6": [
+      {
+        "d": "google.com",
+        "n": "Body Shop",
+        "u": "https://www.google.com/search?q=Auto+Services+Body+Shop"
+      }
+    ],
+    "9.7.7": [
+      {
+        "d": "google.com",
+        "n": "Mobile Mechanic",
+        "u": "https://www.google.com/search?q=Auto+Services+Mobile+Mechanic"
+      }
+    ],
+    "9.7.8": [
+      {
+        "d": "google.com",
+        "n": "Recall Check",
+        "u": "https://www.google.com/search?q=Auto+Services+Recall+Check"
+      }
+    ],
+    "9.7.9": [
+      {
+        "d": "google.com",
+        "n": "Cost Estimator",
+        "u": "https://www.google.com/search?q=Auto+Services+Cost+Estimator"
+      }
+    ],
+    "9.8.1": [
+      {
+        "d": "google.com",
+        "n": "TaskRabbit",
+        "u": "https://www.google.com/search?q=Service+Platforms+TaskRabbit"
+      }
+    ],
+    "9.8.2": [
+      {
+        "d": "google.com",
+        "n": "Thumbtack",
+        "u": "https://www.google.com/search?q=Service+Platforms+Thumbtack"
+      }
+    ],
+    "9.8.3": [
+      {
+        "d": "google.com",
+        "n": "Angi (Angie's List)",
+        "u": "https://www.google.com/search?q=Service+Platforms+Angi+%28Angie%27s+List%29"
+      }
+    ],
+    "9.8.4": [
+      {
+        "d": "google.com",
+        "n": "HomeAdvisor",
+        "u": "https://www.google.com/search?q=Service+Platforms+HomeAdvisor"
+      }
+    ],
+    "9.8.6": [
+      {
+        "d": "google.com",
+        "n": "Yelp Services",
+        "u": "https://www.google.com/search?q=Service+Platforms+Yelp+Services"
+      }
+    ],
+    "9.8.7": [
+      {
+        "d": "google.com",
+        "n": "Nextdoor Recs",
+        "u": "https://www.google.com/search?q=Service+Platforms+Nextdoor+Recs"
+      }
+    ],
+    "9.8.8": [
+      {
+        "d": "google.com",
+        "n": "Compare Platforms",
+        "u": "https://www.google.com/search?q=Service+Platforms+Compare+Platforms"
+      }
+    ],
+    "9.8.9": [
+      {
+        "d": "google.com",
+        "n": "Hiring Tips",
+        "u": "https://www.google.com/search?q=Service+Platforms+Hiring+Tips"
+      }
+    ],
+    "9.9.1": [
+      {
+        "d": "fiverr.com",
+        "n": "Fiverr",
+        "u": "https://www.fiverr.com"
+      }
+    ],
+    "9.9.2": [
+      {
+        "d": "upwork.com",
+        "n": "Upwork",
+        "u": "https://www.upwork.com"
+      }
+    ],
+    "9.9.3": [
+      {
+        "d": "google.com",
+        "n": "Graphic Design",
+        "u": "https://www.google.com/search?q=Digital+Services+Graphic+Design"
+      }
+    ],
+    "9.9.4": [
+      {
+        "d": "google.com",
+        "n": "Web Development",
+        "u": "https://www.google.com/search?q=Digital+Services+Web+Development"
+      }
+    ],
+    "9.9.6": [
+      {
+        "d": "google.com",
+        "n": "Writing & Editing",
+        "u": "https://www.google.com/search?q=Digital+Services+Writing+%26+Editing"
+      }
+    ],
+    "9.9.7": [
+      {
+        "d": "google.com",
+        "n": "Video Production",
+        "u": "https://www.google.com/search?q=Digital+Services+Video+Production"
+      }
+    ],
+    "9.9.8": [
+      {
+        "d": "google.com",
+        "n": "Virtual Assistant",
+        "u": "https://www.google.com/search?q=Digital+Services+Virtual+Assistant"
+      }
+    ],
+    "9.9.9": [
+      {
+        "d": "google.com",
+        "n": "Compare Freelance",
+        "u": "https://www.google.com/search?q=Digital+Services+Compare+Freelance"
+      }
+    ]
+  }
+}

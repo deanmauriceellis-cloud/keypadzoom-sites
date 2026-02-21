@@ -1,0 +1,3982 @@
+{
+  "key": 3,
+  "label": "Games",
+  "sites": {
+    "1.1.1": [
+      {
+        "d": "google.com",
+        "n": "PS5 Exclusives",
+        "u": "https://www.google.com/search?q=PlayStation+PS5+Exclusives+gaming"
+      }
+    ],
+    "1.1.2": [
+      {
+        "d": "google.com",
+        "n": "PS Plus Games",
+        "u": "https://www.google.com/search?q=PlayStation+PS+Plus+Games+gaming"
+      }
+    ],
+    "1.1.3": [
+      {
+        "d": "google.com",
+        "n": "PS Store Sales",
+        "u": "https://www.google.com/search?q=PlayStation+PS+Store+Sales+gaming"
+      }
+    ],
+    "1.1.4": [
+      {
+        "d": "google.com",
+        "n": "Trophy Guides",
+        "u": "https://www.google.com/search?q=PlayStation+Trophy+Guides+gaming"
+      }
+    ],
+    "1.1.6": [
+      {
+        "d": "google.com",
+        "n": "PS VR2",
+        "u": "https://www.google.com/search?q=PlayStation+PS+VR2+gaming"
+      }
+    ],
+    "1.1.7": [
+      {
+        "d": "google.com",
+        "n": "Upcoming Releases",
+        "u": "https://www.google.com/search?q=PlayStation+Upcoming+Releases+gaming"
+      }
+    ],
+    "1.1.8": [
+      {
+        "d": "google.com",
+        "n": "PS Blog",
+        "u": "https://www.google.com/search?q=PlayStation+PS+Blog+gaming"
+      }
+    ],
+    "1.1.9": [
+      {
+        "d": "google.com",
+        "n": "PS5 Pro",
+        "u": "https://www.google.com/search?q=PlayStation+PS5+Pro+gaming"
+      }
+    ],
+    "1.2.1": [
+      {
+        "d": "google.com",
+        "n": "Xbox Exclusives",
+        "u": "https://www.google.com/search?q=Xbox+Xbox+Exclusives+gaming"
+      }
+    ],
+    "1.2.2": [
+      {
+        "d": "google.com",
+        "n": "Game Pass New",
+        "u": "https://www.google.com/search?q=Xbox+Game+Pass+New+gaming"
+      }
+    ],
+    "1.2.3": [
+      {
+        "d": "google.com",
+        "n": "Xbox Store Sales",
+        "u": "https://www.google.com/search?q=Xbox+Xbox+Store+Sales+gaming"
+      }
+    ],
+    "1.2.4": [
+      {
+        "d": "google.com",
+        "n": "Achievement Guides",
+        "u": "https://www.google.com/search?q=Xbox+Achievement+Guides+gaming"
+      }
+    ],
+    "1.2.6": [
+      {
+        "d": "google.com",
+        "n": "Cloud Gaming",
+        "u": "https://www.google.com/search?q=Xbox+Cloud+Gaming+gaming"
+      }
+    ],
+    "1.2.7": [
+      {
+        "d": "google.com",
+        "n": "Upcoming Releases",
+        "u": "https://www.google.com/search?q=Xbox+Upcoming+Releases+gaming"
+      }
+    ],
+    "1.2.8": [
+      {
+        "d": "google.com",
+        "n": "Xbox Wire",
+        "u": "https://www.google.com/search?q=Xbox+Xbox+Wire+gaming"
+      }
+    ],
+    "1.2.9": [
+      {
+        "d": "google.com",
+        "n": "Xbox Hardware",
+        "u": "https://www.google.com/search?q=Xbox+Xbox+Hardware+gaming"
+      }
+    ],
+    "1.3.1": [
+      {
+        "d": "google.com",
+        "n": "Switch Exclusives",
+        "u": "https://www.google.com/search?q=Nintendo+Switch+Exclusives+gaming"
+      }
+    ],
+    "1.3.2": [
+      {
+        "d": "google.com",
+        "n": "Nintendo Direct",
+        "u": "https://www.google.com/search?q=Nintendo+Nintendo+Direct+gaming"
+      }
+    ],
+    "1.3.3": [
+      {
+        "d": "google.com",
+        "n": "eShop Sales",
+        "u": "https://www.google.com/search?q=Nintendo+eShop+Sales+gaming"
+      }
+    ],
+    "1.3.4": [
+      {
+        "d": "google.com",
+        "n": "Upcoming Releases",
+        "u": "https://www.google.com/search?q=Nintendo+Upcoming+Releases+gaming"
+      }
+    ],
+    "1.3.6": [
+      {
+        "d": "google.com",
+        "n": "Switch 2 News",
+        "u": "https://www.google.com/search?q=Nintendo+Switch+2+News+gaming"
+      }
+    ],
+    "1.3.7": [
+      {
+        "d": "google.com",
+        "n": "Online Membership",
+        "u": "https://www.google.com/search?q=Nintendo+Online+Membership+gaming"
+      }
+    ],
+    "1.3.8": [
+      {
+        "d": "google.com",
+        "n": "Amiibo",
+        "u": "https://www.google.com/search?q=Nintendo+Amiibo+gaming"
+      }
+    ],
+    "1.3.9": [
+      {
+        "d": "google.com",
+        "n": "Mario & Zelda",
+        "u": "https://www.google.com/search?q=Nintendo+Mario+%26+Zelda+gaming"
+      }
+    ],
+    "1.4.1.1": [
+      {
+        "d": "steampowered.com",
+        "n": "Store & Wishlist",
+        "u": "https://store.steampowered.com"
+      }
+    ],
+    "1.4.1.2": [
+      {
+        "d": "google.com",
+        "n": "Current Sales",
+        "u": "https://www.google.com/search?q=Steam+Sales+Current+Sales+gaming"
+      }
+    ],
+    "1.4.1.3": [
+      {
+        "d": "google.com",
+        "n": "Community Hub",
+        "u": "https://www.google.com/search?q=Steam+Sales+Community+Hub+gaming"
+      }
+    ],
+    "1.4.1.4": [
+      {
+        "d": "google.com",
+        "n": "Workshop & Mods",
+        "u": "https://www.google.com/search?q=Steam+Sales+Workshop+%26+Mods+gaming"
+      }
+    ],
+    "1.4.1.6": [
+      {
+        "d": "google.com",
+        "n": "Remote Play",
+        "u": "https://www.google.com/search?q=Steam+Sales+Remote+Play+gaming"
+      }
+    ],
+    "1.4.1.7": [
+      {
+        "d": "google.com",
+        "n": "Early Access",
+        "u": "https://www.google.com/search?q=Steam+Sales+Early+Access+gaming"
+      }
+    ],
+    "1.4.1.8": [
+      {
+        "d": "google.com",
+        "n": "Discussions",
+        "u": "https://www.google.com/search?q=Steam+Sales+Discussions+gaming"
+      }
+    ],
+    "1.4.1.9": [
+      {
+        "d": "google.com",
+        "n": "Steam Deck",
+        "u": "https://www.google.com/search?q=Steam+Sales+Steam+Deck+gaming"
+      }
+    ],
+    "1.4.2": [
+      {
+        "d": "google.com",
+        "n": "Epic Free Games",
+        "u": "https://www.google.com/search?q=PC+Gaming+Epic+Free+Games+gaming"
+      }
+    ],
+    "1.4.3": [
+      {
+        "d": "google.com",
+        "n": "GOG Deals",
+        "u": "https://www.google.com/search?q=PC+Gaming+GOG+Deals+gaming"
+      }
+    ],
+    "1.4.4": [
+      {
+        "d": "google.com",
+        "n": "PC Builds",
+        "u": "https://www.google.com/search?q=PC+Gaming+PC+Builds+gaming"
+      }
+    ],
+    "1.4.6": [
+      {
+        "d": "google.com",
+        "n": "Benchmark Tests",
+        "u": "https://www.google.com/search?q=PC+Gaming+Benchmark+Tests+gaming"
+      }
+    ],
+    "1.4.7.1": [
+      {
+        "d": "nexusmods.com",
+        "n": "Nexus Mods",
+        "u": "https://www.nexusmods.com"
+      }
+    ],
+    "1.4.7.2": [
+      {
+        "d": "steampowered.com",
+        "n": "Steam Workshop",
+        "u": "https://steamcommunity.com/workshop"
+      }
+    ],
+    "1.4.7.3": [
+      {
+        "d": "google.com",
+        "n": "CurseForge",
+        "u": "https://www.google.com/search?q=Mods+%26+Workshop+CurseForge+gaming"
+      }
+    ],
+    "1.4.7.4": [
+      {
+        "d": "google.com",
+        "n": "Vortex Manager",
+        "u": "https://www.google.com/search?q=Mods+%26+Workshop+Vortex+Manager+gaming"
+      }
+    ],
+    "1.4.7.6": [
+      {
+        "d": "google.com",
+        "n": "Mod Creation",
+        "u": "https://www.google.com/search?q=Mods+%26+Workshop+Mod+Creation+gaming"
+      }
+    ],
+    "1.4.7.7": [
+      {
+        "d": "google.com",
+        "n": "Skyrim Mods",
+        "u": "https://www.google.com/search?q=Mods+%26+Workshop+Skyrim+Mods+gaming"
+      }
+    ],
+    "1.4.7.8": [
+      {
+        "d": "google.com",
+        "n": "Minecraft Mods",
+        "u": "https://www.google.com/search?q=Mods+%26+Workshop+Minecraft+Mods+gaming"
+      }
+    ],
+    "1.4.7.9": [
+      {
+        "d": "google.com",
+        "n": "Tutorials",
+        "u": "https://www.google.com/search?q=Mods+%26+Workshop+Tutorials+gaming"
+      }
+    ],
+    "1.4.8": [
+      {
+        "d": "google.com",
+        "n": "Early Access",
+        "u": "https://www.google.com/search?q=PC+Gaming+Early+Access+gaming"
+      }
+    ],
+    "1.4.9": [
+      {
+        "d": "google.com",
+        "n": "Hardware Reviews",
+        "u": "https://www.google.com/search?q=PC+Gaming+Hardware+Reviews+gaming"
+      }
+    ],
+    "1.6.1": [
+      {
+        "d": "google.com",
+        "n": "New on Game Pass",
+        "u": "https://www.google.com/search?q=Game+Pass+%26+Deals+New+on+Game+Pass+gaming"
+      }
+    ],
+    "1.6.2": [
+      {
+        "d": "google.com",
+        "n": "PS Plus Monthly",
+        "u": "https://www.google.com/search?q=Game+Pass+%26+Deals+PS+Plus+Monthly+gaming"
+      }
+    ],
+    "1.6.3": [
+      {
+        "d": "google.com",
+        "n": "Free-to-Play",
+        "u": "https://www.google.com/search?q=Game+Pass+%26+Deals+Free-to-Play+gaming"
+      }
+    ],
+    "1.6.4": [
+      {
+        "d": "google.com",
+        "n": "Humble Bundle",
+        "u": "https://www.google.com/search?q=Game+Pass+%26+Deals+Humble+Bundle+gaming"
+      }
+    ],
+    "1.6.6": [
+      {
+        "d": "google.com",
+        "n": "Fanatical Deals",
+        "u": "https://www.google.com/search?q=Game+Pass+%26+Deals+Fanatical+Deals+gaming"
+      }
+    ],
+    "1.6.7": [
+      {
+        "d": "google.com",
+        "n": "Price Trackers",
+        "u": "https://www.google.com/search?q=Game+Pass+%26+Deals+Price+Trackers+gaming"
+      }
+    ],
+    "1.6.8": [
+      {
+        "d": "google.com",
+        "n": "Subscription Comparison",
+        "u": "https://www.google.com/search?q=Game+Pass+%26+Deals+Subscription+Comparison+gaming"
+      }
+    ],
+    "1.6.9": [
+      {
+        "d": "google.com",
+        "n": "Leaving Soon",
+        "u": "https://www.google.com/search?q=Game+Pass+%26+Deals+Leaving+Soon+gaming"
+      }
+    ],
+    "1.7.1": [
+      {
+        "d": "google.com",
+        "n": "This Week",
+        "u": "https://www.google.com/search?q=New+Releases+This+Week+gaming"
+      }
+    ],
+    "1.7.2": [
+      {
+        "d": "google.com",
+        "n": "This Month",
+        "u": "https://www.google.com/search?q=New+Releases+This+Month+gaming"
+      }
+    ],
+    "1.7.3": [
+      {
+        "d": "google.com",
+        "n": "Most Anticipated",
+        "u": "https://www.google.com/search?q=New+Releases+Most+Anticipated+gaming"
+      }
+    ],
+    "1.7.4": [
+      {
+        "d": "google.com",
+        "n": "Review Roundup",
+        "u": "https://www.google.com/search?q=New+Releases+Review+Roundup+gaming"
+      }
+    ],
+    "1.7.6": [
+      {
+        "d": "google.com",
+        "n": "Metacritic Scores",
+        "u": "https://www.google.com/search?q=New+Releases+Metacritic+Scores+gaming"
+      }
+    ],
+    "1.7.7": [
+      {
+        "d": "google.com",
+        "n": "Launch Trailers",
+        "u": "https://www.google.com/search?q=New+Releases+Launch+Trailers+gaming"
+      }
+    ],
+    "1.7.8": [
+      {
+        "d": "google.com",
+        "n": "Player Reviews",
+        "u": "https://www.google.com/search?q=New+Releases+Player+Reviews+gaming"
+      }
+    ],
+    "1.7.9": [
+      {
+        "d": "google.com",
+        "n": "Day One Patches",
+        "u": "https://www.google.com/search?q=New+Releases+Day+One+Patches+gaming"
+      }
+    ],
+    "1.8.1": [
+      {
+        "d": "google.com",
+        "n": "Release Calendar",
+        "u": "https://www.google.com/search?q=Upcoming+%26+Previews+Release+Calendar+gaming"
+      }
+    ],
+    "1.8.2": [
+      {
+        "d": "google.com",
+        "n": "Most Wishlisted",
+        "u": "https://www.google.com/search?q=Upcoming+%26+Previews+Most+Wishlisted+gaming"
+      }
+    ],
+    "1.8.3": [
+      {
+        "d": "google.com",
+        "n": "Beta Signups",
+        "u": "https://www.google.com/search?q=Upcoming+%26+Previews+Beta+Signups+gaming"
+      }
+    ],
+    "1.8.4": [
+      {
+        "d": "google.com",
+        "n": "Gameplay Previews",
+        "u": "https://www.google.com/search?q=Upcoming+%26+Previews+Gameplay+Previews+gaming"
+      }
+    ],
+    "1.8.6": [
+      {
+        "d": "google.com",
+        "n": "Showcase Events",
+        "u": "https://www.google.com/search?q=Upcoming+%26+Previews+Showcase+Events+gaming"
+      }
+    ],
+    "1.8.7": [
+      {
+        "d": "google.com",
+        "n": "Developer Interviews",
+        "u": "https://www.google.com/search?q=Upcoming+%26+Previews+Developer+Interviews+gaming"
+      }
+    ],
+    "1.8.8": [
+      {
+        "d": "google.com",
+        "n": "Pre-Order Deals",
+        "u": "https://www.google.com/search?q=Upcoming+%26+Previews+Pre-Order+Deals+gaming"
+      }
+    ],
+    "1.8.9": [
+      {
+        "d": "google.com",
+        "n": "Delayed Games",
+        "u": "https://www.google.com/search?q=Upcoming+%26+Previews+Delayed+Games+gaming"
+      }
+    ],
+    "1.9.1": [
+      {
+        "d": "google.com",
+        "n": "Top Indie",
+        "u": "https://www.google.com/search?q=Indie+Games+Top+Indie+gaming"
+      }
+    ],
+    "1.9.2": [
+      {
+        "d": "google.com",
+        "n": "Hidden Gems",
+        "u": "https://www.google.com/search?q=Indie+Games+Hidden+Gems+gaming"
+      }
+    ],
+    "1.9.3": [
+      {
+        "d": "google.com",
+        "n": "Roguelikes",
+        "u": "https://www.google.com/search?q=Indie+Games+Roguelikes+gaming"
+      }
+    ],
+    "1.9.4": [
+      {
+        "d": "google.com",
+        "n": "Metroidvanias",
+        "u": "https://www.google.com/search?q=Indie+Games+Metroidvanias+gaming"
+      }
+    ],
+    "1.9.6": [
+      {
+        "d": "google.com",
+        "n": "Cozy Games",
+        "u": "https://www.google.com/search?q=Indie+Games+Cozy+Games+gaming"
+      }
+    ],
+    "1.9.7": [
+      {
+        "d": "google.com",
+        "n": "Pixel Art",
+        "u": "https://www.google.com/search?q=Indie+Games+Pixel+Art+gaming"
+      }
+    ],
+    "1.9.8": [
+      {
+        "d": "google.com",
+        "n": "Game Jams",
+        "u": "https://www.google.com/search?q=Indie+Games+Game+Jams+gaming"
+      }
+    ],
+    "1.9.9": [
+      {
+        "d": "google.com",
+        "n": "Indie Dev Interviews",
+        "u": "https://www.google.com/search?q=Indie+Games+Indie+Dev+Interviews+gaming"
+      }
+    ],
+    "2.1.1": [
+      {
+        "d": "google.com",
+        "n": "Free iOS Games",
+        "u": "https://www.google.com/search?q=Top+Games+Now+Free+iOS+Games+gaming"
+      }
+    ],
+    "2.1.2": [
+      {
+        "d": "google.com",
+        "n": "Free Android Games",
+        "u": "https://www.google.com/search?q=Top+Games+Now+Free+Android+Games+gaming"
+      }
+    ],
+    "2.1.3": [
+      {
+        "d": "google.com",
+        "n": "Paid Worth Buying",
+        "u": "https://www.google.com/search?q=Top+Games+Now+Paid+Worth+Buying+gaming"
+      }
+    ],
+    "2.1.4": [
+      {
+        "d": "google.com",
+        "n": "Editor's Choice",
+        "u": "https://www.google.com/search?q=Top+Games+Now+Editor%27s+Choice+gaming"
+      }
+    ],
+    "2.1.6": [
+      {
+        "d": "google.com",
+        "n": "Top Grossing",
+        "u": "https://www.google.com/search?q=Top+Games+Now+Top+Grossing+gaming"
+      }
+    ],
+    "2.1.7": [
+      {
+        "d": "google.com",
+        "n": "Hidden Gems",
+        "u": "https://www.google.com/search?q=Top+Games+Now+Hidden+Gems+gaming"
+      }
+    ],
+    "2.1.8": [
+      {
+        "d": "google.com",
+        "n": "New This Week",
+        "u": "https://www.google.com/search?q=Top+Games+Now+New+This+Week+gaming"
+      }
+    ],
+    "2.1.9": [
+      {
+        "d": "google.com",
+        "n": "Cross-Platform",
+        "u": "https://www.google.com/search?q=Top+Games+Now+Cross-Platform+gaming"
+      }
+    ],
+    "2.2.1": [
+      {
+        "d": "google.com",
+        "n": "New Additions",
+        "u": "https://www.google.com/search?q=Apple+Arcade+New+Additions+gaming"
+      }
+    ],
+    "2.2.2": [
+      {
+        "d": "google.com",
+        "n": "Best of Arcade",
+        "u": "https://www.google.com/search?q=Apple+Arcade+Best+of+Arcade+gaming"
+      }
+    ],
+    "2.2.3": [
+      {
+        "d": "google.com",
+        "n": "Arcade Exclusives",
+        "u": "https://www.google.com/search?q=Apple+Arcade+Arcade+Exclusives+gaming"
+      }
+    ],
+    "2.2.4": [
+      {
+        "d": "google.com",
+        "n": "Family Games",
+        "u": "https://www.google.com/search?q=Apple+Arcade+Family+Games+gaming"
+      }
+    ],
+    "2.2.6": [
+      {
+        "d": "google.com",
+        "n": "Puzzle & Strategy",
+        "u": "https://www.google.com/search?q=Apple+Arcade+Puzzle+%26+Strategy+gaming"
+      }
+    ],
+    "2.2.7": [
+      {
+        "d": "google.com",
+        "n": "Action & Racing",
+        "u": "https://www.google.com/search?q=Apple+Arcade+Action+%26+Racing+gaming"
+      }
+    ],
+    "2.2.8": [
+      {
+        "d": "google.com",
+        "n": "RPGs",
+        "u": "https://www.google.com/search?q=Apple+Arcade+RPGs+gaming"
+      }
+    ],
+    "2.2.9": [
+      {
+        "d": "google.com",
+        "n": "Leaving Soon",
+        "u": "https://www.google.com/search?q=Apple+Arcade+Leaving+Soon+gaming"
+      }
+    ],
+    "2.3.1": [
+      {
+        "d": "google.com",
+        "n": "New Additions",
+        "u": "https://www.google.com/search?q=Google+Play+Pass+New+Additions+gaming"
+      }
+    ],
+    "2.3.2": [
+      {
+        "d": "google.com",
+        "n": "Best of Pass",
+        "u": "https://www.google.com/search?q=Google+Play+Pass+Best+of+Pass+gaming"
+      }
+    ],
+    "2.3.3": [
+      {
+        "d": "google.com",
+        "n": "Premium Unlocks",
+        "u": "https://www.google.com/search?q=Google+Play+Pass+Premium+Unlocks+gaming"
+      }
+    ],
+    "2.3.4": [
+      {
+        "d": "google.com",
+        "n": "Family Games",
+        "u": "https://www.google.com/search?q=Google+Play+Pass+Family+Games+gaming"
+      }
+    ],
+    "2.3.6": [
+      {
+        "d": "google.com",
+        "n": "No-Ads Games",
+        "u": "https://www.google.com/search?q=Google+Play+Pass+No-Ads+Games+gaming"
+      }
+    ],
+    "2.3.7": [
+      {
+        "d": "google.com",
+        "n": "Offline Games",
+        "u": "https://www.google.com/search?q=Google+Play+Pass+Offline+Games+gaming"
+      }
+    ],
+    "2.3.8": [
+      {
+        "d": "google.com",
+        "n": "Tablet Optimized",
+        "u": "https://www.google.com/search?q=Google+Play+Pass+Tablet+Optimized+gaming"
+      }
+    ],
+    "2.3.9": [
+      {
+        "d": "google.com",
+        "n": "Chromebook",
+        "u": "https://www.google.com/search?q=Google+Play+Pass+Chromebook+gaming"
+      }
+    ],
+    "2.4.1": [
+      {
+        "d": "google.com",
+        "n": "Puzzle & Casual",
+        "u": "https://www.google.com/search?q=Genres+Puzzle+%26+Casual+gaming"
+      }
+    ],
+    "2.4.2": [
+      {
+        "d": "google.com",
+        "n": "Strategy & Tower Defense",
+        "u": "https://www.google.com/search?q=Genres+Strategy+%26+Tower+Defense+gaming"
+      }
+    ],
+    "2.4.3": [
+      {
+        "d": "google.com",
+        "n": "RPGs & Gacha",
+        "u": "https://www.google.com/search?q=Genres+RPGs+%26+Gacha+gaming"
+      }
+    ],
+    "2.4.4": [
+      {
+        "d": "google.com",
+        "n": "Battle Royale",
+        "u": "https://www.google.com/search?q=Genres+Battle+Royale+gaming"
+      }
+    ],
+    "2.4.6": [
+      {
+        "d": "google.com",
+        "n": "Racing",
+        "u": "https://www.google.com/search?q=Genres+Racing+gaming"
+      }
+    ],
+    "2.4.7": [
+      {
+        "d": "google.com",
+        "n": "Sports",
+        "u": "https://www.google.com/search?q=Genres+Sports+gaming"
+      }
+    ],
+    "2.4.8": [
+      {
+        "d": "google.com",
+        "n": "Simulation",
+        "u": "https://www.google.com/search?q=Genres+Simulation+gaming"
+      }
+    ],
+    "2.4.9": [
+      {
+        "d": "google.com",
+        "n": "Idle & Clicker",
+        "u": "https://www.google.com/search?q=Genres+Idle+%26+Clicker+gaming"
+      }
+    ],
+    "2.6.1": [
+      {
+        "d": "google.com",
+        "n": "Co-Op Games",
+        "u": "https://www.google.com/search?q=Multiplayer+Mobile+Co-Op+Games+gaming"
+      }
+    ],
+    "2.6.2": [
+      {
+        "d": "google.com",
+        "n": "PvP Competitive",
+        "u": "https://www.google.com/search?q=Multiplayer+Mobile+PvP+Competitive+gaming"
+      }
+    ],
+    "2.6.3": [
+      {
+        "d": "google.com",
+        "n": "Party Games",
+        "u": "https://www.google.com/search?q=Multiplayer+Mobile+Party+Games+gaming"
+      }
+    ],
+    "2.6.4": [
+      {
+        "d": "google.com",
+        "n": "MMOs",
+        "u": "https://www.google.com/search?q=Multiplayer+Mobile+MMOs+gaming"
+      }
+    ],
+    "2.6.6": [
+      {
+        "d": "google.com",
+        "n": "Async Multiplayer",
+        "u": "https://www.google.com/search?q=Multiplayer+Mobile+Async+Multiplayer+gaming"
+      }
+    ],
+    "2.6.7": [
+      {
+        "d": "google.com",
+        "n": "Local Multiplayer",
+        "u": "https://www.google.com/search?q=Multiplayer+Mobile+Local+Multiplayer+gaming"
+      }
+    ],
+    "2.6.8": [
+      {
+        "d": "google.com",
+        "n": "Cross-Play",
+        "u": "https://www.google.com/search?q=Multiplayer+Mobile+Cross-Play+gaming"
+      }
+    ],
+    "2.6.9": [
+      {
+        "d": "google.com",
+        "n": "Clan & Guild",
+        "u": "https://www.google.com/search?q=Multiplayer+Mobile+Clan+%26+Guild+gaming"
+      }
+    ],
+    "2.7.1": [
+      {
+        "d": "google.com",
+        "n": "TouchArcade",
+        "u": "https://www.google.com/search?q=Game+Reviews+TouchArcade+gaming"
+      }
+    ],
+    "2.7.2": [
+      {
+        "d": "google.com",
+        "n": "Pocket Gamer",
+        "u": "https://www.google.com/search?q=Game+Reviews+Pocket+Gamer+gaming"
+      }
+    ],
+    "2.7.3": [
+      {
+        "d": "google.com",
+        "n": "YouTube Reviews",
+        "u": "https://www.google.com/search?q=Game+Reviews+YouTube+Reviews+gaming"
+      }
+    ],
+    "2.7.4": [
+      {
+        "d": "google.com",
+        "n": "Reddit Reviews",
+        "u": "https://www.google.com/search?q=Game+Reviews+Reddit+Reviews+gaming"
+      }
+    ],
+    "2.7.6": [
+      {
+        "d": "google.com",
+        "n": "Comparison Reviews",
+        "u": "https://www.google.com/search?q=Game+Reviews+Comparison+Reviews+gaming"
+      }
+    ],
+    "2.7.7": [
+      {
+        "d": "google.com",
+        "n": "Hands-On Previews",
+        "u": "https://www.google.com/search?q=Game+Reviews+Hands-On+Previews+gaming"
+      }
+    ],
+    "2.7.8": [
+      {
+        "d": "google.com",
+        "n": "Rating Guide",
+        "u": "https://www.google.com/search?q=Game+Reviews+Rating+Guide+gaming"
+      }
+    ],
+    "2.7.9": [
+      {
+        "d": "google.com",
+        "n": "Best-of Lists",
+        "u": "https://www.google.com/search?q=Game+Reviews+Best-of+Lists+gaming"
+      }
+    ],
+    "2.8.1": [
+      {
+        "d": "google.com",
+        "n": "Beginner Guides",
+        "u": "https://www.google.com/search?q=Tips+%26+Guides+Beginner+Guides+gaming"
+      }
+    ],
+    "2.8.2": [
+      {
+        "d": "google.com",
+        "n": "Advanced Strategy",
+        "u": "https://www.google.com/search?q=Tips+%26+Guides+Advanced+Strategy+gaming"
+      }
+    ],
+    "2.8.3": [
+      {
+        "d": "google.com",
+        "n": "F2P Optimization",
+        "u": "https://www.google.com/search?q=Tips+%26+Guides+F2P+Optimization+gaming"
+      }
+    ],
+    "2.8.4": [
+      {
+        "d": "google.com",
+        "n": "Reroll Guides",
+        "u": "https://www.google.com/search?q=Tips+%26+Guides+Reroll+Guides+gaming"
+      }
+    ],
+    "2.8.6": [
+      {
+        "d": "google.com",
+        "n": "Tier Lists",
+        "u": "https://www.google.com/search?q=Tips+%26+Guides+Tier+Lists+gaming"
+      }
+    ],
+    "2.8.7": [
+      {
+        "d": "google.com",
+        "n": "Meta Reports",
+        "u": "https://www.google.com/search?q=Tips+%26+Guides+Meta+Reports+gaming"
+      }
+    ],
+    "2.8.8": [
+      {
+        "d": "google.com",
+        "n": "Build Guides",
+        "u": "https://www.google.com/search?q=Tips+%26+Guides+Build+Guides+gaming"
+      }
+    ],
+    "2.8.9": [
+      {
+        "d": "google.com",
+        "n": "Event Guides",
+        "u": "https://www.google.com/search?q=Tips+%26+Guides+Event+Guides+gaming"
+      }
+    ],
+    "2.9.1": [
+      {
+        "d": "google.com",
+        "n": "Pre-Registration",
+        "u": "https://www.google.com/search?q=New+%26+Upcoming+Pre-Registration+gaming"
+      }
+    ],
+    "2.9.2": [
+      {
+        "d": "google.com",
+        "n": "Soft Launch",
+        "u": "https://www.google.com/search?q=New+%26+Upcoming+Soft+Launch+gaming"
+      }
+    ],
+    "2.9.3": [
+      {
+        "d": "google.com",
+        "n": "Global Launch",
+        "u": "https://www.google.com/search?q=New+%26+Upcoming+Global+Launch+gaming"
+      }
+    ],
+    "2.9.4": [
+      {
+        "d": "google.com",
+        "n": "Beta Access",
+        "u": "https://www.google.com/search?q=New+%26+Upcoming+Beta+Access+gaming"
+      }
+    ],
+    "2.9.6": [
+      {
+        "d": "google.com",
+        "n": "Ports & Remakes",
+        "u": "https://www.google.com/search?q=New+%26+Upcoming+Ports+%26+Remakes+gaming"
+      }
+    ],
+    "2.9.7": [
+      {
+        "d": "google.com",
+        "n": "Sequels",
+        "u": "https://www.google.com/search?q=New+%26+Upcoming+Sequels+gaming"
+      }
+    ],
+    "2.9.8": [
+      {
+        "d": "google.com",
+        "n": "Cross-Platform Coming",
+        "u": "https://www.google.com/search?q=New+%26+Upcoming+Cross-Platform+Coming+gaming"
+      }
+    ],
+    "2.9.9": [
+      {
+        "d": "google.com",
+        "n": "Most Anticipated",
+        "u": "https://www.google.com/search?q=New+%26+Upcoming+Most+Anticipated+gaming"
+      }
+    ],
+    "3.1.1": [
+      {
+        "d": "google.com",
+        "n": "Live Tournaments",
+        "u": "https://www.google.com/search?q=Watch+Esports+Live+Tournaments+gaming"
+      }
+    ],
+    "3.1.2": [
+      {
+        "d": "google.com",
+        "n": "VODs & Replays",
+        "u": "https://www.google.com/search?q=Watch+Esports+VODs+%26+Replays+gaming"
+      }
+    ],
+    "3.1.3": [
+      {
+        "d": "google.com",
+        "n": "Tournament Schedule",
+        "u": "https://www.google.com/search?q=Watch+Esports+Tournament+Schedule+gaming"
+      }
+    ],
+    "3.1.4": [
+      {
+        "d": "google.com",
+        "n": "Major Events",
+        "u": "https://www.google.com/search?q=Watch+Esports+Major+Events+gaming"
+      }
+    ],
+    "3.1.6": [
+      {
+        "d": "google.com",
+        "n": "Qualifier Brackets",
+        "u": "https://www.google.com/search?q=Watch+Esports+Qualifier+Brackets+gaming"
+      }
+    ],
+    "3.1.7": [
+      {
+        "d": "google.com",
+        "n": "Watch Parties",
+        "u": "https://www.google.com/search?q=Watch+Esports+Watch+Parties+gaming"
+      }
+    ],
+    "3.1.8": [
+      {
+        "d": "google.com",
+        "n": "Prediction Picks",
+        "u": "https://www.google.com/search?q=Watch+Esports+Prediction+Picks+gaming"
+      }
+    ],
+    "3.1.9": [
+      {
+        "d": "google.com",
+        "n": "Co-Streams",
+        "u": "https://www.google.com/search?q=Watch+Esports+Co-Streams+gaming"
+      }
+    ],
+    "3.2.1": [
+      {
+        "d": "google.com",
+        "n": "Valorant VCT",
+        "u": "https://www.google.com/search?q=FPS+Esports+Valorant+VCT+gaming"
+      }
+    ],
+    "3.2.2": [
+      {
+        "d": "google.com",
+        "n": "Counter-Strike Major",
+        "u": "https://www.google.com/search?q=FPS+Esports+Counter-Strike+Major+gaming"
+      }
+    ],
+    "3.2.3": [
+      {
+        "d": "google.com",
+        "n": "Overwatch",
+        "u": "https://www.google.com/search?q=FPS+Esports+Overwatch+gaming"
+      }
+    ],
+    "3.2.4": [
+      {
+        "d": "google.com",
+        "n": "Call of Duty League",
+        "u": "https://www.google.com/search?q=FPS+Esports+Call+of+Duty+League+gaming"
+      }
+    ],
+    "3.2.6": [
+      {
+        "d": "google.com",
+        "n": "Rainbow Six",
+        "u": "https://www.google.com/search?q=FPS+Esports+Rainbow+Six+gaming"
+      }
+    ],
+    "3.2.7": [
+      {
+        "d": "google.com",
+        "n": "Apex Legends",
+        "u": "https://www.google.com/search?q=FPS+Esports+Apex+Legends+gaming"
+      }
+    ],
+    "3.2.8": [
+      {
+        "d": "google.com",
+        "n": "PUBG",
+        "u": "https://www.google.com/search?q=FPS+Esports+PUBG+gaming"
+      }
+    ],
+    "3.2.9": [
+      {
+        "d": "google.com",
+        "n": "Halo",
+        "u": "https://www.google.com/search?q=FPS+Esports+Halo+gaming"
+      }
+    ],
+    "3.3.1.1": [
+      {
+        "d": "google.com",
+        "n": "Schedule & Brackets",
+        "u": "https://www.google.com/search?q=League+of+Legends+Worlds+Schedule+%26+Brackets+gaming"
+      }
+    ],
+    "3.3.1.2": [
+      {
+        "d": "google.com",
+        "n": "Teams & Rosters",
+        "u": "https://www.google.com/search?q=League+of+Legends+Worlds+Teams+%26+Rosters+gaming"
+      }
+    ],
+    "3.3.1.3": [
+      {
+        "d": "google.com",
+        "n": "Watch Live",
+        "u": "https://www.google.com/search?q=League+of+Legends+Worlds+Watch+Live+gaming"
+      }
+    ],
+    "3.3.1.4": [
+      {
+        "d": "google.com",
+        "n": "Fantasy & Pick'em",
+        "u": "https://www.google.com/search?q=League+of+Legends+Worlds+Fantasy+%26+Pick%27em+gaming"
+      }
+    ],
+    "3.3.1.6": [
+      {
+        "d": "google.com",
+        "n": "Analysis & Predictions",
+        "u": "https://www.google.com/search?q=League+of+Legends+Worlds+Analysis+%26+Predictions+gaming"
+      }
+    ],
+    "3.3.1.7": [
+      {
+        "d": "google.com",
+        "n": "Highlights",
+        "u": "https://www.google.com/search?q=League+of+Legends+Worlds+Highlights+gaming"
+      }
+    ],
+    "3.3.1.8": [
+      {
+        "d": "google.com",
+        "n": "VODs",
+        "u": "https://www.google.com/search?q=League+of+Legends+Worlds+VODs+gaming"
+      }
+    ],
+    "3.3.1.9": [
+      {
+        "d": "google.com",
+        "n": "Community",
+        "u": "https://www.google.com/search?q=League+of+Legends+Worlds+Community+gaming"
+      }
+    ],
+    "3.3.2": [
+      {
+        "d": "google.com",
+        "n": "LCS & LEC",
+        "u": "https://www.google.com/search?q=MOBA+Esports+LCS+%26+LEC+gaming"
+      }
+    ],
+    "3.3.3": [
+      {
+        "d": "google.com",
+        "n": "Dota 2 International",
+        "u": "https://www.google.com/search?q=MOBA+Esports+Dota+2+International+gaming"
+      }
+    ],
+    "3.3.4": [
+      {
+        "d": "google.com",
+        "n": "DPC Circuit",
+        "u": "https://www.google.com/search?q=MOBA+Esports+DPC+Circuit+gaming"
+      }
+    ],
+    "3.3.6": [
+      {
+        "d": "google.com",
+        "n": "Wild Rift",
+        "u": "https://www.google.com/search?q=MOBA+Esports+Wild+Rift+gaming"
+      }
+    ],
+    "3.3.7": [
+      {
+        "d": "google.com",
+        "n": "Heroes",
+        "u": "https://www.google.com/search?q=MOBA+Esports+Heroes+gaming"
+      }
+    ],
+    "3.3.8": [
+      {
+        "d": "google.com",
+        "n": "Smite",
+        "u": "https://www.google.com/search?q=MOBA+Esports+Smite+gaming"
+      }
+    ],
+    "3.3.9": [
+      {
+        "d": "google.com",
+        "n": "Mobile Legends",
+        "u": "https://www.google.com/search?q=MOBA+Esports+Mobile+Legends+gaming"
+      }
+    ],
+    "3.4.1": [
+      {
+        "d": "google.com",
+        "n": "EVO",
+        "u": "https://www.google.com/search?q=Fighting+Games+EVO+gaming"
+      }
+    ],
+    "3.4.2": [
+      {
+        "d": "google.com",
+        "n": "Street Fighter 6",
+        "u": "https://www.google.com/search?q=Fighting+Games+Street+Fighter+6+gaming"
+      }
+    ],
+    "3.4.3": [
+      {
+        "d": "google.com",
+        "n": "Tekken 8",
+        "u": "https://www.google.com/search?q=Fighting+Games+Tekken+8+gaming"
+      }
+    ],
+    "3.4.4": [
+      {
+        "d": "google.com",
+        "n": "Mortal Kombat",
+        "u": "https://www.google.com/search?q=Fighting+Games+Mortal+Kombat+gaming"
+      }
+    ],
+    "3.4.6": [
+      {
+        "d": "google.com",
+        "n": "Guilty Gear",
+        "u": "https://www.google.com/search?q=Fighting+Games+Guilty+Gear+gaming"
+      }
+    ],
+    "3.4.7": [
+      {
+        "d": "google.com",
+        "n": "Smash Bros",
+        "u": "https://www.google.com/search?q=Fighting+Games+Smash+Bros+gaming"
+      }
+    ],
+    "3.4.8": [
+      {
+        "d": "google.com",
+        "n": "FGC News",
+        "u": "https://www.google.com/search?q=Fighting+Games+FGC+News+gaming"
+      }
+    ],
+    "3.4.9": [
+      {
+        "d": "google.com",
+        "n": "Frame Data & Combos",
+        "u": "https://www.google.com/search?q=Fighting+Games+Frame+Data+%26+Combos+gaming"
+      }
+    ],
+    "3.6.1": [
+      {
+        "d": "google.com",
+        "n": "Aim Training",
+        "u": "https://www.google.com/search?q=Get+Better+Aim+Training+gaming"
+      }
+    ],
+    "3.6.2": [
+      {
+        "d": "google.com",
+        "n": "VOD Review",
+        "u": "https://www.google.com/search?q=Get+Better+VOD+Review+gaming"
+      }
+    ],
+    "3.6.3": [
+      {
+        "d": "google.com",
+        "n": "Coaching",
+        "u": "https://www.google.com/search?q=Get+Better+Coaching+gaming"
+      }
+    ],
+    "3.6.4": [
+      {
+        "d": "google.com",
+        "n": "Rank Improvement",
+        "u": "https://www.google.com/search?q=Get+Better+Rank+Improvement+gaming"
+      }
+    ],
+    "3.6.6": [
+      {
+        "d": "google.com",
+        "n": "Warmup Routines",
+        "u": "https://www.google.com/search?q=Get+Better+Warmup+Routines+gaming"
+      }
+    ],
+    "3.6.7": [
+      {
+        "d": "google.com",
+        "n": "Mental Game",
+        "u": "https://www.google.com/search?q=Get+Better+Mental+Game+gaming"
+      }
+    ],
+    "3.6.8": [
+      {
+        "d": "google.com",
+        "n": "Communication",
+        "u": "https://www.google.com/search?q=Get+Better+Communication+gaming"
+      }
+    ],
+    "3.6.9": [
+      {
+        "d": "google.com",
+        "n": "Team Play",
+        "u": "https://www.google.com/search?q=Get+Better+Team+Play+gaming"
+      }
+    ],
+    "3.7.1": [
+      {
+        "d": "google.com",
+        "n": "HLTV Rankings",
+        "u": "https://www.google.com/search?q=Rankings+%26+Stats+HLTV+Rankings+gaming"
+      }
+    ],
+    "3.7.2": [
+      {
+        "d": "google.com",
+        "n": "VLR Rankings",
+        "u": "https://www.google.com/search?q=Rankings+%26+Stats+VLR+Rankings+gaming"
+      }
+    ],
+    "3.7.3": [
+      {
+        "d": "google.com",
+        "n": "Liquipedia",
+        "u": "https://www.google.com/search?q=Rankings+%26+Stats+Liquipedia+gaming"
+      }
+    ],
+    "3.7.4": [
+      {
+        "d": "google.com",
+        "n": "Power Rankings",
+        "u": "https://www.google.com/search?q=Rankings+%26+Stats+Power+Rankings+gaming"
+      }
+    ],
+    "3.7.6": [
+      {
+        "d": "google.com",
+        "n": "Player Stats",
+        "u": "https://www.google.com/search?q=Rankings+%26+Stats+Player+Stats+gaming"
+      }
+    ],
+    "3.7.7": [
+      {
+        "d": "google.com",
+        "n": "Roster Changes",
+        "u": "https://www.google.com/search?q=Rankings+%26+Stats+Roster+Changes+gaming"
+      }
+    ],
+    "3.7.8": [
+      {
+        "d": "google.com",
+        "n": "Transfer Rumors",
+        "u": "https://www.google.com/search?q=Rankings+%26+Stats+Transfer+Rumors+gaming"
+      }
+    ],
+    "3.7.9": [
+      {
+        "d": "google.com",
+        "n": "Org News",
+        "u": "https://www.google.com/search?q=Rankings+%26+Stats+Org+News+gaming"
+      }
+    ],
+    "3.8.1": [
+      {
+        "d": "google.com",
+        "n": "Esports Fantasy",
+        "u": "https://www.google.com/search?q=Fantasy+%26+Betting+Esports+Fantasy+gaming"
+      }
+    ],
+    "3.8.2": [
+      {
+        "d": "google.com",
+        "n": "Match Predictions",
+        "u": "https://www.google.com/search?q=Fantasy+%26+Betting+Match+Predictions+gaming"
+      }
+    ],
+    "3.8.3": [
+      {
+        "d": "google.com",
+        "n": "Esports Betting",
+        "u": "https://www.google.com/search?q=Fantasy+%26+Betting+Esports+Betting+gaming"
+      }
+    ],
+    "3.8.4": [
+      {
+        "d": "google.com",
+        "n": "Skin Betting",
+        "u": "https://www.google.com/search?q=Fantasy+%26+Betting+Skin+Betting+gaming"
+      }
+    ],
+    "3.8.6": [
+      {
+        "d": "google.com",
+        "n": "Pick'em Challenges",
+        "u": "https://www.google.com/search?q=Fantasy+%26+Betting+Pick%27em+Challenges+gaming"
+      }
+    ],
+    "3.8.7": [
+      {
+        "d": "google.com",
+        "n": "Bracket Predictions",
+        "u": "https://www.google.com/search?q=Fantasy+%26+Betting+Bracket+Predictions+gaming"
+      }
+    ],
+    "3.8.8": [
+      {
+        "d": "google.com",
+        "n": "Community Picks",
+        "u": "https://www.google.com/search?q=Fantasy+%26+Betting+Community+Picks+gaming"
+      }
+    ],
+    "3.8.9": [
+      {
+        "d": "google.com",
+        "n": "Prize Pools",
+        "u": "https://www.google.com/search?q=Fantasy+%26+Betting+Prize+Pools+gaming"
+      }
+    ],
+    "3.9.1": [
+      {
+        "d": "google.com",
+        "n": "Top Streamers",
+        "u": "https://www.google.com/search?q=Content+Creators+Top+Streamers+gaming"
+      }
+    ],
+    "3.9.2": [
+      {
+        "d": "google.com",
+        "n": "Pro Player Streams",
+        "u": "https://www.google.com/search?q=Content+Creators+Pro+Player+Streams+gaming"
+      }
+    ],
+    "3.9.3": [
+      {
+        "d": "google.com",
+        "n": "Educational Content",
+        "u": "https://www.google.com/search?q=Content+Creators+Educational+Content+gaming"
+      }
+    ],
+    "3.9.4": [
+      {
+        "d": "google.com",
+        "n": "Highlight Channels",
+        "u": "https://www.google.com/search?q=Content+Creators+Highlight+Channels+gaming"
+      }
+    ],
+    "3.9.6": [
+      {
+        "d": "google.com",
+        "n": "Podcast & Analysis",
+        "u": "https://www.google.com/search?q=Content+Creators+Podcast+%26+Analysis+gaming"
+      }
+    ],
+    "3.9.7": [
+      {
+        "d": "google.com",
+        "n": "Community Clips",
+        "u": "https://www.google.com/search?q=Content+Creators+Community+Clips+gaming"
+      }
+    ],
+    "3.9.8": [
+      {
+        "d": "google.com",
+        "n": "Montages",
+        "u": "https://www.google.com/search?q=Content+Creators+Montages+gaming"
+      }
+    ],
+    "3.9.9": [
+      {
+        "d": "google.com",
+        "n": "Behind the Scenes",
+        "u": "https://www.google.com/search?q=Content+Creators+Behind+the+Scenes+gaming"
+      }
+    ],
+    "4.1.1": [
+      {
+        "d": "google.com",
+        "n": "BoardGameGeek Top",
+        "u": "https://www.google.com/search?q=Find+a+Game+BoardGameGeek+Top+gaming"
+      }
+    ],
+    "4.1.2": [
+      {
+        "d": "google.com",
+        "n": "Best for 2 Players",
+        "u": "https://www.google.com/search?q=Find+a+Game+Best+for+2+Players+gaming"
+      }
+    ],
+    "4.1.3": [
+      {
+        "d": "google.com",
+        "n": "Best Party Games",
+        "u": "https://www.google.com/search?q=Find+a+Game+Best+Party+Games+gaming"
+      }
+    ],
+    "4.1.4": [
+      {
+        "d": "google.com",
+        "n": "Best Co-Op",
+        "u": "https://www.google.com/search?q=Find+a+Game+Best+Co-Op+gaming"
+      }
+    ],
+    "4.1.6": [
+      {
+        "d": "google.com",
+        "n": "Best Strategy",
+        "u": "https://www.google.com/search?q=Find+a+Game+Best+Strategy+gaming"
+      }
+    ],
+    "4.1.7": [
+      {
+        "d": "google.com",
+        "n": "Best Family",
+        "u": "https://www.google.com/search?q=Find+a+Game+Best+Family+gaming"
+      }
+    ],
+    "4.1.8": [
+      {
+        "d": "google.com",
+        "n": "Best Solo",
+        "u": "https://www.google.com/search?q=Find+a+Game+Best+Solo+gaming"
+      }
+    ],
+    "4.1.9": [
+      {
+        "d": "google.com",
+        "n": "New & Hot",
+        "u": "https://www.google.com/search?q=Find+a+Game+New+%26+Hot+gaming"
+      }
+    ],
+    "4.2.1": [
+      {
+        "d": "google.com",
+        "n": "Player's Handbook",
+        "u": "https://www.google.com/search?q=Dungeons+%26+Dragons+Player%27s+Handbook+gaming"
+      }
+    ],
+    "4.2.2": [
+      {
+        "d": "google.com",
+        "n": "DM Guide",
+        "u": "https://www.google.com/search?q=Dungeons+%26+Dragons+DM+Guide+gaming"
+      }
+    ],
+    "4.2.3": [
+      {
+        "d": "google.com",
+        "n": "Campaign Modules",
+        "u": "https://www.google.com/search?q=Dungeons+%26+Dragons+Campaign+Modules+gaming"
+      }
+    ],
+    "4.2.4": [
+      {
+        "d": "google.com",
+        "n": "Character Builder",
+        "u": "https://www.google.com/search?q=Dungeons+%26+Dragons+Character+Builder+gaming"
+      }
+    ],
+    "4.2.6.1": [
+      {
+        "d": "google.com",
+        "n": "Character Builder",
+        "u": "https://www.google.com/search?q=D%26D+Beyond+Character+Builder+gaming"
+      }
+    ],
+    "4.2.6.2": [
+      {
+        "d": "google.com",
+        "n": "Campaign Tools",
+        "u": "https://www.google.com/search?q=D%26D+Beyond+Campaign+Tools+gaming"
+      }
+    ],
+    "4.2.6.3": [
+      {
+        "d": "google.com",
+        "n": "Homebrew Content",
+        "u": "https://www.google.com/search?q=D%26D+Beyond+Homebrew+Content+gaming"
+      }
+    ],
+    "4.2.6.4": [
+      {
+        "d": "google.com",
+        "n": "Marketplace",
+        "u": "https://www.google.com/search?q=D%26D+Beyond+Marketplace+gaming"
+      }
+    ],
+    "4.2.6.6": [
+      {
+        "d": "google.com",
+        "n": "Encounter Builder",
+        "u": "https://www.google.com/search?q=D%26D+Beyond+Encounter+Builder+gaming"
+      }
+    ],
+    "4.2.6.7": [
+      {
+        "d": "google.com",
+        "n": "Digital Dice",
+        "u": "https://www.google.com/search?q=D%26D+Beyond+Digital+Dice+gaming"
+      }
+    ],
+    "4.2.6.8": [
+      {
+        "d": "google.com",
+        "n": "Compendium",
+        "u": "https://www.google.com/search?q=D%26D+Beyond+Compendium+gaming"
+      }
+    ],
+    "4.2.6.9": [
+      {
+        "d": "google.com",
+        "n": "Forums",
+        "u": "https://www.google.com/search?q=D%26D+Beyond+Forums+gaming"
+      }
+    ],
+    "4.2.7": [
+      {
+        "d": "google.com",
+        "n": "Roll20 Online",
+        "u": "https://www.google.com/search?q=Dungeons+%26+Dragons+Roll20+Online+gaming"
+      }
+    ],
+    "4.2.8": [
+      {
+        "d": "google.com",
+        "n": "Homebrew Content",
+        "u": "https://www.google.com/search?q=Dungeons+%26+Dragons+Homebrew+Content+gaming"
+      }
+    ],
+    "4.2.9": [
+      {
+        "d": "google.com",
+        "n": "Miniatures",
+        "u": "https://www.google.com/search?q=Dungeons+%26+Dragons+Miniatures+gaming"
+      }
+    ],
+    "4.3.1": [
+      {
+        "d": "google.com",
+        "n": "Standard",
+        "u": "https://www.google.com/search?q=Magic%3A+The+Gathering+Standard+gaming"
+      }
+    ],
+    "4.3.2": [
+      {
+        "d": "google.com",
+        "n": "Commander / EDH",
+        "u": "https://www.google.com/search?q=Magic%3A+The+Gathering+Commander+%2F+EDH+gaming"
+      }
+    ],
+    "4.3.3": [
+      {
+        "d": "google.com",
+        "n": "Draft & Sealed",
+        "u": "https://www.google.com/search?q=Magic%3A+The+Gathering+Draft+%26+Sealed+gaming"
+      }
+    ],
+    "4.3.4.1": [
+      {
+        "d": "google.com",
+        "n": "Ranked Play",
+        "u": "https://www.google.com/search?q=MTG+Arena+Ranked+Play+gaming"
+      }
+    ],
+    "4.3.4.2": [
+      {
+        "d": "google.com",
+        "n": "Draft & Sealed",
+        "u": "https://www.google.com/search?q=MTG+Arena+Draft+%26+Sealed+gaming"
+      }
+    ],
+    "4.3.4.3": [
+      {
+        "d": "google.com",
+        "n": "Events & Festivals",
+        "u": "https://www.google.com/search?q=MTG+Arena+Events+%26+Festivals+gaming"
+      }
+    ],
+    "4.3.4.4": [
+      {
+        "d": "google.com",
+        "n": "Deck Builder",
+        "u": "https://www.google.com/search?q=MTG+Arena+Deck+Builder+gaming"
+      }
+    ],
+    "4.3.4.6": [
+      {
+        "d": "google.com",
+        "n": "Collection Manager",
+        "u": "https://www.google.com/search?q=MTG+Arena+Collection+Manager+gaming"
+      }
+    ],
+    "4.3.4.7": [
+      {
+        "d": "google.com",
+        "n": "Store & Packs",
+        "u": "https://www.google.com/search?q=MTG+Arena+Store+%26+Packs+gaming"
+      }
+    ],
+    "4.3.4.8": [
+      {
+        "d": "google.com",
+        "n": "Meta & Tier Lists",
+        "u": "https://www.google.com/search?q=MTG+Arena+Meta+%26+Tier+Lists+gaming"
+      }
+    ],
+    "4.3.4.9": [
+      {
+        "d": "google.com",
+        "n": "Beginner Guide",
+        "u": "https://www.google.com/search?q=MTG+Arena+Beginner+Guide+gaming"
+      }
+    ],
+    "4.3.6.1": [
+      {
+        "d": "google.com",
+        "n": "TCGPlayer",
+        "u": "https://www.google.com/search?q=Card+Prices+TCGPlayer+gaming"
+      }
+    ],
+    "4.3.6.2": [
+      {
+        "d": "google.com",
+        "n": "Card Kingdom",
+        "u": "https://www.google.com/search?q=Card+Prices+Card+Kingdom+gaming"
+      }
+    ],
+    "4.3.6.3": [
+      {
+        "d": "google.com",
+        "n": "MTGGoldfish Prices",
+        "u": "https://www.google.com/search?q=Card+Prices+MTGGoldfish+Prices+gaming"
+      }
+    ],
+    "4.3.6.4": [
+      {
+        "d": "google.com",
+        "n": "Scryfall Search",
+        "u": "https://www.google.com/search?q=Card+Prices+Scryfall+Search+gaming"
+      }
+    ],
+    "4.3.6.6": [
+      {
+        "d": "google.com",
+        "n": "Price Trends",
+        "u": "https://www.google.com/search?q=Card+Prices+Price+Trends+gaming"
+      }
+    ],
+    "4.3.6.7": [
+      {
+        "d": "google.com",
+        "n": "Buylist & Selling",
+        "u": "https://www.google.com/search?q=Card+Prices+Buylist+%26+Selling+gaming"
+      }
+    ],
+    "4.3.6.8": [
+      {
+        "d": "google.com",
+        "n": "Bulk Pricing",
+        "u": "https://www.google.com/search?q=Card+Prices+Bulk+Pricing+gaming"
+      }
+    ],
+    "4.3.6.9": [
+      {
+        "d": "google.com",
+        "n": "Speculation",
+        "u": "https://www.google.com/search?q=Card+Prices+Speculation+gaming"
+      }
+    ],
+    "4.3.7": [
+      {
+        "d": "google.com",
+        "n": "Deck Builder",
+        "u": "https://www.google.com/search?q=Magic%3A+The+Gathering+Deck+Builder+gaming"
+      }
+    ],
+    "4.3.8": [
+      {
+        "d": "google.com",
+        "n": "Set Reviews",
+        "u": "https://www.google.com/search?q=Magic%3A+The+Gathering+Set+Reviews+gaming"
+      }
+    ],
+    "4.3.9": [
+      {
+        "d": "google.com",
+        "n": "Tournament Finder",
+        "u": "https://www.google.com/search?q=Magic%3A+The+Gathering+Tournament+Finder+gaming"
+      }
+    ],
+    "4.4.1": [
+      {
+        "d": "google.com",
+        "n": "40K Army Lists",
+        "u": "https://www.google.com/search?q=Warhammer+40K+Army+Lists+gaming"
+      }
+    ],
+    "4.4.2": [
+      {
+        "d": "google.com",
+        "n": "Age of Sigmar",
+        "u": "https://www.google.com/search?q=Warhammer+Age+of+Sigmar+gaming"
+      }
+    ],
+    "4.4.3": [
+      {
+        "d": "google.com",
+        "n": "Kill Team",
+        "u": "https://www.google.com/search?q=Warhammer+Kill+Team+gaming"
+      }
+    ],
+    "4.4.4": [
+      {
+        "d": "google.com",
+        "n": "Painting Guides",
+        "u": "https://www.google.com/search?q=Warhammer+Painting+Guides+gaming"
+      }
+    ],
+    "4.4.6": [
+      {
+        "d": "google.com",
+        "n": "Lore & Story",
+        "u": "https://www.google.com/search?q=Warhammer+Lore+%26+Story+gaming"
+      }
+    ],
+    "4.4.7": [
+      {
+        "d": "google.com",
+        "n": "New Releases",
+        "u": "https://www.google.com/search?q=Warhammer+New+Releases+gaming"
+      }
+    ],
+    "4.4.8": [
+      {
+        "d": "google.com",
+        "n": "Tournament Scene",
+        "u": "https://www.google.com/search?q=Warhammer+Tournament+Scene+gaming"
+      }
+    ],
+    "4.4.9": [
+      {
+        "d": "google.com",
+        "n": "Community",
+        "u": "https://www.google.com/search?q=Warhammer+Community+gaming"
+      }
+    ],
+    "4.6.1": [
+      {
+        "d": "chess.com",
+        "n": "Chess.com",
+        "u": "https://www.chess.com"
+      }
+    ],
+    "4.6.2": [
+      {
+        "d": "lichess.org",
+        "n": "Lichess",
+        "u": "https://lichess.org"
+      }
+    ],
+    "4.6.3": [
+      {
+        "d": "google.com",
+        "n": "Openings Database",
+        "u": "https://www.google.com/search?q=Chess+Openings+Database+gaming"
+      }
+    ],
+    "4.6.4": [
+      {
+        "d": "google.com",
+        "n": "Puzzles",
+        "u": "https://www.google.com/search?q=Chess+Puzzles+gaming"
+      }
+    ],
+    "4.6.6": [
+      {
+        "d": "google.com",
+        "n": "Grandmaster Games",
+        "u": "https://www.google.com/search?q=Chess+Grandmaster+Games+gaming"
+      }
+    ],
+    "4.6.7": [
+      {
+        "d": "google.com",
+        "n": "Tournaments",
+        "u": "https://www.google.com/search?q=Chess+Tournaments+gaming"
+      }
+    ],
+    "4.6.8": [
+      {
+        "d": "google.com",
+        "n": "Coaching",
+        "u": "https://www.google.com/search?q=Chess+Coaching+gaming"
+      }
+    ],
+    "4.6.9": [
+      {
+        "d": "google.com",
+        "n": "Engine Analysis",
+        "u": "https://www.google.com/search?q=Chess+Engine+Analysis+gaming"
+      }
+    ],
+    "4.7.1": [
+      {
+        "d": "google.com",
+        "n": "Codenames",
+        "u": "https://www.google.com/search?q=Party+%26+Social+Codenames+gaming"
+      }
+    ],
+    "4.7.2": [
+      {
+        "d": "google.com",
+        "n": "Wavelength",
+        "u": "https://www.google.com/search?q=Party+%26+Social+Wavelength+gaming"
+      }
+    ],
+    "4.7.3": [
+      {
+        "d": "google.com",
+        "n": "Jackbox Games",
+        "u": "https://www.google.com/search?q=Party+%26+Social+Jackbox+Games+gaming"
+      }
+    ],
+    "4.7.4": [
+      {
+        "d": "google.com",
+        "n": "Exploding Kittens",
+        "u": "https://www.google.com/search?q=Party+%26+Social+Exploding+Kittens+gaming"
+      }
+    ],
+    "4.7.6": [
+      {
+        "d": "google.com",
+        "n": "Cards Against Humanity",
+        "u": "https://www.google.com/search?q=Party+%26+Social+Cards+Against+Humanity+gaming"
+      }
+    ],
+    "4.7.7": [
+      {
+        "d": "google.com",
+        "n": "Telestrations",
+        "u": "https://www.google.com/search?q=Party+%26+Social+Telestrations+gaming"
+      }
+    ],
+    "4.7.8": [
+      {
+        "d": "google.com",
+        "n": "Dixit",
+        "u": "https://www.google.com/search?q=Party+%26+Social+Dixit+gaming"
+      }
+    ],
+    "4.7.9": [
+      {
+        "d": "google.com",
+        "n": "Just One",
+        "u": "https://www.google.com/search?q=Party+%26+Social+Just+One+gaming"
+      }
+    ],
+    "4.8.1": [
+      {
+        "d": "google.com",
+        "n": "Local Game Stores",
+        "u": "https://www.google.com/search?q=Where+to+Play+Local+Game+Stores+gaming"
+      }
+    ],
+    "4.8.2": [
+      {
+        "d": "google.com",
+        "n": "Board Game Cafes",
+        "u": "https://www.google.com/search?q=Where+to+Play+Board+Game+Cafes+gaming"
+      }
+    ],
+    "4.8.3": [
+      {
+        "d": "google.com",
+        "n": "Online Platforms",
+        "u": "https://www.google.com/search?q=Where+to+Play+Online+Platforms+gaming"
+      }
+    ],
+    "4.8.4": [
+      {
+        "d": "google.com",
+        "n": "Tabletop Simulator",
+        "u": "https://www.google.com/search?q=Where+to+Play+Tabletop+Simulator+gaming"
+      }
+    ],
+    "4.8.6": [
+      {
+        "d": "google.com",
+        "n": "Board Game Arena",
+        "u": "https://www.google.com/search?q=Where+to+Play+Board+Game+Arena+gaming"
+      }
+    ],
+    "4.8.7": [
+      {
+        "d": "google.com",
+        "n": "Meetup Groups",
+        "u": "https://www.google.com/search?q=Where+to+Play+Meetup+Groups+gaming"
+      }
+    ],
+    "4.8.8": [
+      {
+        "d": "google.com",
+        "n": "Conventions",
+        "u": "https://www.google.com/search?q=Where+to+Play+Conventions+gaming"
+      }
+    ],
+    "4.8.9": [
+      {
+        "d": "google.com",
+        "n": "Discord Servers",
+        "u": "https://www.google.com/search?q=Where+to+Play+Discord+Servers+gaming"
+      }
+    ],
+    "4.9.1": [
+      {
+        "d": "google.com",
+        "n": "Kickstarter Live",
+        "u": "https://www.google.com/search?q=New+%26+Kickstarter+Kickstarter+Live+gaming"
+      }
+    ],
+    "4.9.2": [
+      {
+        "d": "google.com",
+        "n": "GenCon Previews",
+        "u": "https://www.google.com/search?q=New+%26+Kickstarter+GenCon+Previews+gaming"
+      }
+    ],
+    "4.9.3": [
+      {
+        "d": "google.com",
+        "n": "Essen Releases",
+        "u": "https://www.google.com/search?q=New+%26+Kickstarter+Essen+Releases+gaming"
+      }
+    ],
+    "4.9.4": [
+      {
+        "d": "google.com",
+        "n": "Reprint Watch",
+        "u": "https://www.google.com/search?q=New+%26+Kickstarter+Reprint+Watch+gaming"
+      }
+    ],
+    "4.9.6": [
+      {
+        "d": "google.com",
+        "n": "Expansion Packs",
+        "u": "https://www.google.com/search?q=New+%26+Kickstarter+Expansion+Packs+gaming"
+      }
+    ],
+    "4.9.7": [
+      {
+        "d": "google.com",
+        "n": "Review Roundup",
+        "u": "https://www.google.com/search?q=New+%26+Kickstarter+Review+Roundup+gaming"
+      }
+    ],
+    "4.9.8": [
+      {
+        "d": "google.com",
+        "n": "FLGS Finder",
+        "u": "https://www.google.com/search?q=New+%26+Kickstarter+FLGS+Finder+gaming"
+      }
+    ],
+    "4.9.9": [
+      {
+        "d": "google.com",
+        "n": "Pre-Order Deals",
+        "u": "https://www.google.com/search?q=New+%26+Kickstarter+Pre-Order+Deals+gaming"
+      }
+    ],
+    "6.1.1": [
+      {
+        "d": "google.com",
+        "n": "Draft Rankings",
+        "u": "https://www.google.com/search?q=Fantasy+Football+Draft+Rankings+gaming"
+      }
+    ],
+    "6.1.2": [
+      {
+        "d": "google.com",
+        "n": "Weekly Start/Sit",
+        "u": "https://www.google.com/search?q=Fantasy+Football+Weekly+Start%2FSit+gaming"
+      }
+    ],
+    "6.1.3": [
+      {
+        "d": "google.com",
+        "n": "Waiver Wire",
+        "u": "https://www.google.com/search?q=Fantasy+Football+Waiver+Wire+gaming"
+      }
+    ],
+    "6.1.4": [
+      {
+        "d": "google.com",
+        "n": "Trade Analyzer",
+        "u": "https://www.google.com/search?q=Fantasy+Football+Trade+Analyzer+gaming"
+      }
+    ],
+    "6.1.6": [
+      {
+        "d": "google.com",
+        "n": "Injury Report",
+        "u": "https://www.google.com/search?q=Fantasy+Football+Injury+Report+gaming"
+      }
+    ],
+    "6.1.7": [
+      {
+        "d": "google.com",
+        "n": "Matchup Analysis",
+        "u": "https://www.google.com/search?q=Fantasy+Football+Matchup+Analysis+gaming"
+      }
+    ],
+    "6.1.8": [
+      {
+        "d": "google.com",
+        "n": "Playoff Strategy",
+        "u": "https://www.google.com/search?q=Fantasy+Football+Playoff+Strategy+gaming"
+      }
+    ],
+    "6.1.9": [
+      {
+        "d": "google.com",
+        "n": "Dynasty",
+        "u": "https://www.google.com/search?q=Fantasy+Football+Dynasty+gaming"
+      }
+    ],
+    "6.2.1": [
+      {
+        "d": "google.com",
+        "n": "Draft Rankings",
+        "u": "https://www.google.com/search?q=Fantasy+Basketball+Draft+Rankings+gaming"
+      }
+    ],
+    "6.2.2": [
+      {
+        "d": "google.com",
+        "n": "Daily Lineups",
+        "u": "https://www.google.com/search?q=Fantasy+Basketball+Daily+Lineups+gaming"
+      }
+    ],
+    "6.2.3": [
+      {
+        "d": "google.com",
+        "n": "Streaming Picks",
+        "u": "https://www.google.com/search?q=Fantasy+Basketball+Streaming+Picks+gaming"
+      }
+    ],
+    "6.2.4": [
+      {
+        "d": "google.com",
+        "n": "Trade Values",
+        "u": "https://www.google.com/search?q=Fantasy+Basketball+Trade+Values+gaming"
+      }
+    ],
+    "6.2.6": [
+      {
+        "d": "google.com",
+        "n": "Category Punts",
+        "u": "https://www.google.com/search?q=Fantasy+Basketball+Category+Punts+gaming"
+      }
+    ],
+    "6.2.7": [
+      {
+        "d": "google.com",
+        "n": "Injury Report",
+        "u": "https://www.google.com/search?q=Fantasy+Basketball+Injury+Report+gaming"
+      }
+    ],
+    "6.2.8": [
+      {
+        "d": "google.com",
+        "n": "Playoff Strategy",
+        "u": "https://www.google.com/search?q=Fantasy+Basketball+Playoff+Strategy+gaming"
+      }
+    ],
+    "6.2.9": [
+      {
+        "d": "google.com",
+        "n": "Dynasty",
+        "u": "https://www.google.com/search?q=Fantasy+Basketball+Dynasty+gaming"
+      }
+    ],
+    "6.3.1": [
+      {
+        "d": "google.com",
+        "n": "Draft Rankings",
+        "u": "https://www.google.com/search?q=Fantasy+Baseball+Draft+Rankings+gaming"
+      }
+    ],
+    "6.3.2": [
+      {
+        "d": "google.com",
+        "n": "Pitching Streamers",
+        "u": "https://www.google.com/search?q=Fantasy+Baseball+Pitching+Streamers+gaming"
+      }
+    ],
+    "6.3.3": [
+      {
+        "d": "google.com",
+        "n": "Waiver Wire",
+        "u": "https://www.google.com/search?q=Fantasy+Baseball+Waiver+Wire+gaming"
+      }
+    ],
+    "6.3.4": [
+      {
+        "d": "google.com",
+        "n": "Prospect Call-Ups",
+        "u": "https://www.google.com/search?q=Fantasy+Baseball+Prospect+Call-Ups+gaming"
+      }
+    ],
+    "6.3.6": [
+      {
+        "d": "google.com",
+        "n": "Trade Values",
+        "u": "https://www.google.com/search?q=Fantasy+Baseball+Trade+Values+gaming"
+      }
+    ],
+    "6.3.7": [
+      {
+        "d": "google.com",
+        "n": "Two-Start Pitchers",
+        "u": "https://www.google.com/search?q=Fantasy+Baseball+Two-Start+Pitchers+gaming"
+      }
+    ],
+    "6.3.8": [
+      {
+        "d": "google.com",
+        "n": "Closers",
+        "u": "https://www.google.com/search?q=Fantasy+Baseball+Closers+gaming"
+      }
+    ],
+    "6.3.9": [
+      {
+        "d": "google.com",
+        "n": "Playoff Strategy",
+        "u": "https://www.google.com/search?q=Fantasy+Baseball+Playoff+Strategy+gaming"
+      }
+    ],
+    "6.4.1": [
+      {
+        "d": "google.com",
+        "n": "Mock Drafts",
+        "u": "https://www.google.com/search?q=Fantasy+Tools+Mock+Drafts+gaming"
+      }
+    ],
+    "6.4.2": [
+      {
+        "d": "google.com",
+        "n": "ADP Tracker",
+        "u": "https://www.google.com/search?q=Fantasy+Tools+ADP+Tracker+gaming"
+      }
+    ],
+    "6.4.3": [
+      {
+        "d": "google.com",
+        "n": "Sleepers & Busts",
+        "u": "https://www.google.com/search?q=Fantasy+Tools+Sleepers+%26+Busts+gaming"
+      }
+    ],
+    "6.4.4": [
+      {
+        "d": "google.com",
+        "n": "Trade Calculators",
+        "u": "https://www.google.com/search?q=Fantasy+Tools+Trade+Calculators+gaming"
+      }
+    ],
+    "6.4.6": [
+      {
+        "d": "google.com",
+        "n": "FAAB Strategy",
+        "u": "https://www.google.com/search?q=Fantasy+Tools+FAAB+Strategy+gaming"
+      }
+    ],
+    "6.4.7": [
+      {
+        "d": "google.com",
+        "n": "Auction Values",
+        "u": "https://www.google.com/search?q=Fantasy+Tools+Auction+Values+gaming"
+      }
+    ],
+    "6.4.8": [
+      {
+        "d": "google.com",
+        "n": "Projections",
+        "u": "https://www.google.com/search?q=Fantasy+Tools+Projections+gaming"
+      }
+    ],
+    "6.4.9": [
+      {
+        "d": "google.com",
+        "n": "Expert Consensus",
+        "u": "https://www.google.com/search?q=Fantasy+Tools+Expert+Consensus+gaming"
+      }
+    ],
+    "6.6.1": [
+      {
+        "d": "google.com",
+        "n": "Madden NFL",
+        "u": "https://www.google.com/search?q=Sports+Video+Games+Madden+NFL+gaming"
+      }
+    ],
+    "6.6.2": [
+      {
+        "d": "google.com",
+        "n": "NBA 2K",
+        "u": "https://www.google.com/search?q=Sports+Video+Games+NBA+2K+gaming"
+      }
+    ],
+    "6.6.3": [
+      {
+        "d": "google.com",
+        "n": "FIFA / EA FC",
+        "u": "https://www.google.com/search?q=Sports+Video+Games+FIFA+%2F+EA+FC+gaming"
+      }
+    ],
+    "6.6.4": [
+      {
+        "d": "google.com",
+        "n": "MLB The Show",
+        "u": "https://www.google.com/search?q=Sports+Video+Games+MLB+The+Show+gaming"
+      }
+    ],
+    "6.6.6": [
+      {
+        "d": "google.com",
+        "n": "NHL",
+        "u": "https://www.google.com/search?q=Sports+Video+Games+NHL+gaming"
+      }
+    ],
+    "6.6.7": [
+      {
+        "d": "google.com",
+        "n": "College Football",
+        "u": "https://www.google.com/search?q=Sports+Video+Games+College+Football+gaming"
+      }
+    ],
+    "6.6.8": [
+      {
+        "d": "google.com",
+        "n": "Career Mode",
+        "u": "https://www.google.com/search?q=Sports+Video+Games+Career+Mode+gaming"
+      }
+    ],
+    "6.6.9": [
+      {
+        "d": "google.com",
+        "n": "Ultimate Team",
+        "u": "https://www.google.com/search?q=Sports+Video+Games+Ultimate+Team+gaming"
+      }
+    ],
+    "6.7.1": [
+      {
+        "d": "google.com",
+        "n": "DraftKings DFS",
+        "u": "https://www.google.com/search?q=DFS+%26+Contests+DraftKings+DFS+gaming"
+      }
+    ],
+    "6.7.2": [
+      {
+        "d": "google.com",
+        "n": "FanDuel DFS",
+        "u": "https://www.google.com/search?q=DFS+%26+Contests+FanDuel+DFS+gaming"
+      }
+    ],
+    "6.7.3": [
+      {
+        "d": "google.com",
+        "n": "Optimal Lineups",
+        "u": "https://www.google.com/search?q=DFS+%26+Contests+Optimal+Lineups+gaming"
+      }
+    ],
+    "6.7.4": [
+      {
+        "d": "google.com",
+        "n": "GPP Strategy",
+        "u": "https://www.google.com/search?q=DFS+%26+Contests+GPP+Strategy+gaming"
+      }
+    ],
+    "6.7.6": [
+      {
+        "d": "google.com",
+        "n": "Cash Game Strategy",
+        "u": "https://www.google.com/search?q=DFS+%26+Contests+Cash+Game+Strategy+gaming"
+      }
+    ],
+    "6.7.7": [
+      {
+        "d": "google.com",
+        "n": "Player Ownership",
+        "u": "https://www.google.com/search?q=DFS+%26+Contests+Player+Ownership+gaming"
+      }
+    ],
+    "6.7.8": [
+      {
+        "d": "google.com",
+        "n": "Stacking",
+        "u": "https://www.google.com/search?q=DFS+%26+Contests+Stacking+gaming"
+      }
+    ],
+    "6.7.9": [
+      {
+        "d": "google.com",
+        "n": "Showdown",
+        "u": "https://www.google.com/search?q=DFS+%26+Contests+Showdown+gaming"
+      }
+    ],
+    "6.8.1": [
+      {
+        "d": "google.com",
+        "n": "FPL Picks",
+        "u": "https://www.google.com/search?q=Fantasy+Soccer+FPL+Picks+gaming"
+      }
+    ],
+    "6.8.2": [
+      {
+        "d": "google.com",
+        "n": "Captaincy Tips",
+        "u": "https://www.google.com/search?q=Fantasy+Soccer+Captaincy+Tips+gaming"
+      }
+    ],
+    "6.8.3": [
+      {
+        "d": "google.com",
+        "n": "Transfer Advice",
+        "u": "https://www.google.com/search?q=Fantasy+Soccer+Transfer+Advice+gaming"
+      }
+    ],
+    "6.8.4": [
+      {
+        "d": "google.com",
+        "n": "Chip Strategy",
+        "u": "https://www.google.com/search?q=Fantasy+Soccer+Chip+Strategy+gaming"
+      }
+    ],
+    "6.8.6": [
+      {
+        "d": "google.com",
+        "n": "Differential Picks",
+        "u": "https://www.google.com/search?q=Fantasy+Soccer+Differential+Picks+gaming"
+      }
+    ],
+    "6.8.7": [
+      {
+        "d": "google.com",
+        "n": "Fixture Analysis",
+        "u": "https://www.google.com/search?q=Fantasy+Soccer+Fixture+Analysis+gaming"
+      }
+    ],
+    "6.8.8": [
+      {
+        "d": "google.com",
+        "n": "Set Pieces",
+        "u": "https://www.google.com/search?q=Fantasy+Soccer+Set+Pieces+gaming"
+      }
+    ],
+    "6.8.9": [
+      {
+        "d": "google.com",
+        "n": "Mini-League",
+        "u": "https://www.google.com/search?q=Fantasy+Soccer+Mini-League+gaming"
+      }
+    ],
+    "6.9.1": [
+      {
+        "d": "google.com",
+        "n": "League Settings",
+        "u": "https://www.google.com/search?q=Leagues+%26+Community+League+Settings+gaming"
+      }
+    ],
+    "6.9.2": [
+      {
+        "d": "google.com",
+        "n": "Scoring Formats",
+        "u": "https://www.google.com/search?q=Leagues+%26+Community+Scoring+Formats+gaming"
+      }
+    ],
+    "6.9.3": [
+      {
+        "d": "google.com",
+        "n": "Commissioner Tools",
+        "u": "https://www.google.com/search?q=Leagues+%26+Community+Commissioner+Tools+gaming"
+      }
+    ],
+    "6.9.4": [
+      {
+        "d": "google.com",
+        "n": "League Chat",
+        "u": "https://www.google.com/search?q=Leagues+%26+Community+League+Chat+gaming"
+      }
+    ],
+    "6.9.6": [
+      {
+        "d": "google.com",
+        "n": "Rivalries",
+        "u": "https://www.google.com/search?q=Leagues+%26+Community+Rivalries+gaming"
+      }
+    ],
+    "6.9.7": [
+      {
+        "d": "google.com",
+        "n": "Punishment Ideas",
+        "u": "https://www.google.com/search?q=Leagues+%26+Community+Punishment+Ideas+gaming"
+      }
+    ],
+    "6.9.8": [
+      {
+        "d": "google.com",
+        "n": "Trophies",
+        "u": "https://www.google.com/search?q=Leagues+%26+Community+Trophies+gaming"
+      }
+    ],
+    "6.9.9": [
+      {
+        "d": "google.com",
+        "n": "Reddit & Podcasts",
+        "u": "https://www.google.com/search?q=Leagues+%26+Community+Reddit+%26+Podcasts+gaming"
+      }
+    ],
+    "7.1.1": [
+      {
+        "d": "google.com",
+        "n": "NFL Lines",
+        "u": "https://www.google.com/search?q=Today%27s+Odds+NFL+Lines+gaming"
+      }
+    ],
+    "7.1.2": [
+      {
+        "d": "google.com",
+        "n": "NBA Lines",
+        "u": "https://www.google.com/search?q=Today%27s+Odds+NBA+Lines+gaming"
+      }
+    ],
+    "7.1.3": [
+      {
+        "d": "google.com",
+        "n": "MLB Lines",
+        "u": "https://www.google.com/search?q=Today%27s+Odds+MLB+Lines+gaming"
+      }
+    ],
+    "7.1.4": [
+      {
+        "d": "google.com",
+        "n": "NHL Lines",
+        "u": "https://www.google.com/search?q=Today%27s+Odds+NHL+Lines+gaming"
+      }
+    ],
+    "7.1.6": [
+      {
+        "d": "google.com",
+        "n": "Soccer Odds",
+        "u": "https://www.google.com/search?q=Today%27s+Odds+Soccer+Odds+gaming"
+      }
+    ],
+    "7.1.7": [
+      {
+        "d": "google.com",
+        "n": "College Football",
+        "u": "https://www.google.com/search?q=Today%27s+Odds+College+Football+gaming"
+      }
+    ],
+    "7.1.8": [
+      {
+        "d": "google.com",
+        "n": "College Basketball",
+        "u": "https://www.google.com/search?q=Today%27s+Odds+College+Basketball+gaming"
+      }
+    ],
+    "7.1.9": [
+      {
+        "d": "google.com",
+        "n": "Tennis & Golf",
+        "u": "https://www.google.com/search?q=Today%27s+Odds+Tennis+%26+Golf+gaming"
+      }
+    ],
+    "7.2.1": [
+      {
+        "d": "google.com",
+        "n": "Spreads",
+        "u": "https://www.google.com/search?q=Bet+Types+Spreads+gaming"
+      }
+    ],
+    "7.2.2": [
+      {
+        "d": "google.com",
+        "n": "Moneylines",
+        "u": "https://www.google.com/search?q=Bet+Types+Moneylines+gaming"
+      }
+    ],
+    "7.2.3": [
+      {
+        "d": "google.com",
+        "n": "Over/Under",
+        "u": "https://www.google.com/search?q=Bet+Types+Over%2FUnder+gaming"
+      }
+    ],
+    "7.2.4": [
+      {
+        "d": "google.com",
+        "n": "Parlays",
+        "u": "https://www.google.com/search?q=Bet+Types+Parlays+gaming"
+      }
+    ],
+    "7.2.6": [
+      {
+        "d": "google.com",
+        "n": "Player Props",
+        "u": "https://www.google.com/search?q=Bet+Types+Player+Props+gaming"
+      }
+    ],
+    "7.2.7": [
+      {
+        "d": "google.com",
+        "n": "Same Game Parlay",
+        "u": "https://www.google.com/search?q=Bet+Types+Same+Game+Parlay+gaming"
+      }
+    ],
+    "7.2.8": [
+      {
+        "d": "google.com",
+        "n": "Teasers",
+        "u": "https://www.google.com/search?q=Bet+Types+Teasers+gaming"
+      }
+    ],
+    "7.2.9": [
+      {
+        "d": "google.com",
+        "n": "Futures",
+        "u": "https://www.google.com/search?q=Bet+Types+Futures+gaming"
+      }
+    ],
+    "7.3.1": [
+      {
+        "d": "google.com",
+        "n": "Expert Picks",
+        "u": "https://www.google.com/search?q=Picks+%26+Analysis+Expert+Picks+gaming"
+      }
+    ],
+    "7.3.2": [
+      {
+        "d": "google.com",
+        "n": "Model Projections",
+        "u": "https://www.google.com/search?q=Picks+%26+Analysis+Model+Projections+gaming"
+      }
+    ],
+    "7.3.3": [
+      {
+        "d": "google.com",
+        "n": "Sharp Money",
+        "u": "https://www.google.com/search?q=Picks+%26+Analysis+Sharp+Money+gaming"
+      }
+    ],
+    "7.3.4": [
+      {
+        "d": "google.com",
+        "n": "Public Betting %",
+        "u": "https://www.google.com/search?q=Picks+%26+Analysis+Public+Betting+%25+gaming"
+      }
+    ],
+    "7.3.6": [
+      {
+        "d": "google.com",
+        "n": "Injury Impact",
+        "u": "https://www.google.com/search?q=Picks+%26+Analysis+Injury+Impact+gaming"
+      }
+    ],
+    "7.3.7": [
+      {
+        "d": "google.com",
+        "n": "Weather Impact",
+        "u": "https://www.google.com/search?q=Picks+%26+Analysis+Weather+Impact+gaming"
+      }
+    ],
+    "7.3.8": [
+      {
+        "d": "google.com",
+        "n": "Trends & Angles",
+        "u": "https://www.google.com/search?q=Picks+%26+Analysis+Trends+%26+Angles+gaming"
+      }
+    ],
+    "7.3.9": [
+      {
+        "d": "google.com",
+        "n": "Contrarian Plays",
+        "u": "https://www.google.com/search?q=Picks+%26+Analysis+Contrarian+Plays+gaming"
+      }
+    ],
+    "7.4.1": [
+      {
+        "d": "google.com",
+        "n": "In-Game Lines",
+        "u": "https://www.google.com/search?q=Live+Betting+In-Game+Lines+gaming"
+      }
+    ],
+    "7.4.2": [
+      {
+        "d": "google.com",
+        "n": "Live Props",
+        "u": "https://www.google.com/search?q=Live+Betting+Live+Props+gaming"
+      }
+    ],
+    "7.4.3": [
+      {
+        "d": "google.com",
+        "n": "Cash Out",
+        "u": "https://www.google.com/search?q=Live+Betting+Cash+Out+gaming"
+      }
+    ],
+    "7.4.4": [
+      {
+        "d": "google.com",
+        "n": "Momentum Plays",
+        "u": "https://www.google.com/search?q=Live+Betting+Momentum+Plays+gaming"
+      }
+    ],
+    "7.4.6": [
+      {
+        "d": "google.com",
+        "n": "Halftime Bets",
+        "u": "https://www.google.com/search?q=Live+Betting+Halftime+Bets+gaming"
+      }
+    ],
+    "7.4.7": [
+      {
+        "d": "google.com",
+        "n": "Live Streaming",
+        "u": "https://www.google.com/search?q=Live+Betting+Live+Streaming+gaming"
+      }
+    ],
+    "7.4.8": [
+      {
+        "d": "google.com",
+        "n": "Real-Time Odds",
+        "u": "https://www.google.com/search?q=Live+Betting+Real-Time+Odds+gaming"
+      }
+    ],
+    "7.4.9": [
+      {
+        "d": "google.com",
+        "n": "Alert Tools",
+        "u": "https://www.google.com/search?q=Live+Betting+Alert+Tools+gaming"
+      }
+    ],
+    "7.6.1.1": [
+      {
+        "d": "google.com",
+        "n": "Sportsbook",
+        "u": "https://www.google.com/search?q=FanDuel+Sportsbook+gaming"
+      }
+    ],
+    "7.6.1.2": [
+      {
+        "d": "google.com",
+        "n": "DFS Contests",
+        "u": "https://www.google.com/search?q=FanDuel+DFS+Contests+gaming"
+      }
+    ],
+    "7.6.1.3": [
+      {
+        "d": "google.com",
+        "n": "Casino",
+        "u": "https://www.google.com/search?q=FanDuel+Casino+gaming"
+      }
+    ],
+    "7.6.1.4": [
+      {
+        "d": "google.com",
+        "n": "Racing",
+        "u": "https://www.google.com/search?q=FanDuel+Racing+gaming"
+      }
+    ],
+    "7.6.1.6": [
+      {
+        "d": "google.com",
+        "n": "Promos & Bonuses",
+        "u": "https://www.google.com/search?q=FanDuel+Promos+%26+Bonuses+gaming"
+      }
+    ],
+    "7.6.1.7": [
+      {
+        "d": "google.com",
+        "n": "Mobile App",
+        "u": "https://www.google.com/search?q=FanDuel+Mobile+App+gaming"
+      }
+    ],
+    "7.6.1.8": [
+      {
+        "d": "google.com",
+        "n": "Support",
+        "u": "https://www.google.com/search?q=FanDuel+Support+gaming"
+      }
+    ],
+    "7.6.1.9": [
+      {
+        "d": "google.com",
+        "n": "State Availability",
+        "u": "https://www.google.com/search?q=FanDuel+State+Availability+gaming"
+      }
+    ],
+    "7.6.2.1": [
+      {
+        "d": "google.com",
+        "n": "Sportsbook",
+        "u": "https://www.google.com/search?q=DraftKings+Sportsbook+gaming"
+      }
+    ],
+    "7.6.2.2": [
+      {
+        "d": "google.com",
+        "n": "DFS Contests",
+        "u": "https://www.google.com/search?q=DraftKings+DFS+Contests+gaming"
+      }
+    ],
+    "7.6.2.3": [
+      {
+        "d": "google.com",
+        "n": "Casino",
+        "u": "https://www.google.com/search?q=DraftKings+Casino+gaming"
+      }
+    ],
+    "7.6.2.4": [
+      {
+        "d": "google.com",
+        "n": "Marketplace",
+        "u": "https://www.google.com/search?q=DraftKings+Marketplace+gaming"
+      }
+    ],
+    "7.6.2.6": [
+      {
+        "d": "google.com",
+        "n": "Promos & Bonuses",
+        "u": "https://www.google.com/search?q=DraftKings+Promos+%26+Bonuses+gaming"
+      }
+    ],
+    "7.6.2.7": [
+      {
+        "d": "google.com",
+        "n": "Mobile App",
+        "u": "https://www.google.com/search?q=DraftKings+Mobile+App+gaming"
+      }
+    ],
+    "7.6.2.8": [
+      {
+        "d": "google.com",
+        "n": "Support",
+        "u": "https://www.google.com/search?q=DraftKings+Support+gaming"
+      }
+    ],
+    "7.6.2.9": [
+      {
+        "d": "google.com",
+        "n": "State Availability",
+        "u": "https://www.google.com/search?q=DraftKings+State+Availability+gaming"
+      }
+    ],
+    "7.6.3": [
+      {
+        "d": "google.com",
+        "n": "BetMGM",
+        "u": "https://www.google.com/search?q=Sportsbooks+BetMGM+gaming"
+      }
+    ],
+    "7.6.4": [
+      {
+        "d": "google.com",
+        "n": "Caesars",
+        "u": "https://www.google.com/search?q=Sportsbooks+Caesars+gaming"
+      }
+    ],
+    "7.6.6": [
+      {
+        "d": "google.com",
+        "n": "ESPN BET",
+        "u": "https://www.google.com/search?q=Sportsbooks+ESPN+BET+gaming"
+      }
+    ],
+    "7.6.7": [
+      {
+        "d": "google.com",
+        "n": "Bet365",
+        "u": "https://www.google.com/search?q=Sportsbooks+Bet365+gaming"
+      }
+    ],
+    "7.6.8": [
+      {
+        "d": "google.com",
+        "n": "Hard Rock",
+        "u": "https://www.google.com/search?q=Sportsbooks+Hard+Rock+gaming"
+      }
+    ],
+    "7.6.9": [
+      {
+        "d": "google.com",
+        "n": "State Availability",
+        "u": "https://www.google.com/search?q=Sportsbooks+State+Availability+gaming"
+      }
+    ],
+    "7.7.1": [
+      {
+        "d": "google.com",
+        "n": "Sign-Up Offers",
+        "u": "https://www.google.com/search?q=Promos+%26+Bonuses+Sign-Up+Offers+gaming"
+      }
+    ],
+    "7.7.2": [
+      {
+        "d": "google.com",
+        "n": "Deposit Match",
+        "u": "https://www.google.com/search?q=Promos+%26+Bonuses+Deposit+Match+gaming"
+      }
+    ],
+    "7.7.3": [
+      {
+        "d": "google.com",
+        "n": "Free Bets",
+        "u": "https://www.google.com/search?q=Promos+%26+Bonuses+Free+Bets+gaming"
+      }
+    ],
+    "7.7.4": [
+      {
+        "d": "google.com",
+        "n": "Odds Boosts",
+        "u": "https://www.google.com/search?q=Promos+%26+Bonuses+Odds+Boosts+gaming"
+      }
+    ],
+    "7.7.6": [
+      {
+        "d": "google.com",
+        "n": "Parlay Insurance",
+        "u": "https://www.google.com/search?q=Promos+%26+Bonuses+Parlay+Insurance+gaming"
+      }
+    ],
+    "7.7.7": [
+      {
+        "d": "google.com",
+        "n": "Loyalty Rewards",
+        "u": "https://www.google.com/search?q=Promos+%26+Bonuses+Loyalty+Rewards+gaming"
+      }
+    ],
+    "7.7.8": [
+      {
+        "d": "google.com",
+        "n": "Referral Bonuses",
+        "u": "https://www.google.com/search?q=Promos+%26+Bonuses+Referral+Bonuses+gaming"
+      }
+    ],
+    "7.7.9": [
+      {
+        "d": "google.com",
+        "n": "Daily Specials",
+        "u": "https://www.google.com/search?q=Promos+%26+Bonuses+Daily+Specials+gaming"
+      }
+    ],
+    "7.8.1": [
+      {
+        "d": "google.com",
+        "n": "Unit Sizing",
+        "u": "https://www.google.com/search?q=Bankroll+%26+Strategy+Unit+Sizing+gaming"
+      }
+    ],
+    "7.8.2": [
+      {
+        "d": "google.com",
+        "n": "Kelly Criterion",
+        "u": "https://www.google.com/search?q=Bankroll+%26+Strategy+Kelly+Criterion+gaming"
+      }
+    ],
+    "7.8.3": [
+      {
+        "d": "google.com",
+        "n": "Record Keeping",
+        "u": "https://www.google.com/search?q=Bankroll+%26+Strategy+Record+Keeping+gaming"
+      }
+    ],
+    "7.8.4": [
+      {
+        "d": "google.com",
+        "n": "Staking Plans",
+        "u": "https://www.google.com/search?q=Bankroll+%26+Strategy+Staking+Plans+gaming"
+      }
+    ],
+    "7.8.6": [
+      {
+        "d": "google.com",
+        "n": "Risk Management",
+        "u": "https://www.google.com/search?q=Bankroll+%26+Strategy+Risk+Management+gaming"
+      }
+    ],
+    "7.8.7": [
+      {
+        "d": "google.com",
+        "n": "Long-Term Approach",
+        "u": "https://www.google.com/search?q=Bankroll+%26+Strategy+Long-Term+Approach+gaming"
+      }
+    ],
+    "7.8.8": [
+      {
+        "d": "google.com",
+        "n": "Common Mistakes",
+        "u": "https://www.google.com/search?q=Bankroll+%26+Strategy+Common+Mistakes+gaming"
+      }
+    ],
+    "7.8.9": [
+      {
+        "d": "google.com",
+        "n": "ROI Tracking",
+        "u": "https://www.google.com/search?q=Bankroll+%26+Strategy+ROI+Tracking+gaming"
+      }
+    ],
+    "7.9.1": [
+      {
+        "d": "google.com",
+        "n": "Self-Limits",
+        "u": "https://www.google.com/search?q=Responsible+Gaming+Self-Limits+gaming"
+      }
+    ],
+    "7.9.2": [
+      {
+        "d": "google.com",
+        "n": "Cool-Off Period",
+        "u": "https://www.google.com/search?q=Responsible+Gaming+Cool-Off+Period+gaming"
+      }
+    ],
+    "7.9.3": [
+      {
+        "d": "google.com",
+        "n": "Self-Exclusion",
+        "u": "https://www.google.com/search?q=Responsible+Gaming+Self-Exclusion+gaming"
+      }
+    ],
+    "7.9.4": [
+      {
+        "d": "google.com",
+        "n": "Problem Gambling Help",
+        "u": "https://www.google.com/search?q=Responsible+Gaming+Problem+Gambling+Help+gaming"
+      }
+    ],
+    "7.9.6": [
+      {
+        "d": "google.com",
+        "n": "Budget Rules",
+        "u": "https://www.google.com/search?q=Responsible+Gaming+Budget+Rules+gaming"
+      }
+    ],
+    "7.9.7": [
+      {
+        "d": "google.com",
+        "n": "Warning Signs",
+        "u": "https://www.google.com/search?q=Responsible+Gaming+Warning+Signs+gaming"
+      }
+    ],
+    "7.9.8": [
+      {
+        "d": "google.com",
+        "n": "Family Resources",
+        "u": "https://www.google.com/search?q=Responsible+Gaming+Family+Resources+gaming"
+      }
+    ],
+    "7.9.9": [
+      {
+        "d": "google.com",
+        "n": "State Hotlines",
+        "u": "https://www.google.com/search?q=Responsible+Gaming+State+Hotlines+gaming"
+      }
+    ],
+    "8.1.1": [
+      {
+        "d": "nytimes.com",
+        "n": "Wordle",
+        "u": "https://www.nytimes.com/games/wordle"
+      }
+    ],
+    "8.1.2": [
+      {
+        "d": "nytimes.com",
+        "n": "NYT Connections",
+        "u": "https://www.nytimes.com/games/connections"
+      }
+    ],
+    "8.1.3": [
+      {
+        "d": "nytimes.com",
+        "n": "NYT Strands",
+        "u": "https://www.nytimes.com/games/strands"
+      }
+    ],
+    "8.1.4": [
+      {
+        "d": "google.com",
+        "n": "Spelling Bee",
+        "u": "https://www.google.com/search?q=Daily+Word+Games+Spelling+Bee+gaming"
+      }
+    ],
+    "8.1.6": [
+      {
+        "d": "google.com",
+        "n": "Quordle",
+        "u": "https://www.google.com/search?q=Daily+Word+Games+Quordle+gaming"
+      }
+    ],
+    "8.1.7": [
+      {
+        "d": "google.com",
+        "n": "Contexto",
+        "u": "https://www.google.com/search?q=Daily+Word+Games+Contexto+gaming"
+      }
+    ],
+    "8.1.8": [
+      {
+        "d": "google.com",
+        "n": "Worldle",
+        "u": "https://www.google.com/search?q=Daily+Word+Games+Worldle+gaming"
+      }
+    ],
+    "8.1.9": [
+      {
+        "d": "google.com",
+        "n": "Nerdle",
+        "u": "https://www.google.com/search?q=Daily+Word+Games+Nerdle+gaming"
+      }
+    ],
+    "8.2.1": [
+      {
+        "d": "google.com",
+        "n": "NYT Daily",
+        "u": "https://www.google.com/search?q=Crosswords+NYT+Daily+gaming"
+      }
+    ],
+    "8.2.2": [
+      {
+        "d": "google.com",
+        "n": "NYT Mini",
+        "u": "https://www.google.com/search?q=Crosswords+NYT+Mini+gaming"
+      }
+    ],
+    "8.2.3": [
+      {
+        "d": "google.com",
+        "n": "LA Times",
+        "u": "https://www.google.com/search?q=Crosswords+LA+Times+gaming"
+      }
+    ],
+    "8.2.4": [
+      {
+        "d": "google.com",
+        "n": "USA Today",
+        "u": "https://www.google.com/search?q=Crosswords+USA+Today+gaming"
+      }
+    ],
+    "8.2.6": [
+      {
+        "d": "google.com",
+        "n": "Crossword Solver",
+        "u": "https://www.google.com/search?q=Crosswords+Crossword+Solver+gaming"
+      }
+    ],
+    "8.2.7": [
+      {
+        "d": "google.com",
+        "n": "Cryptic Crosswords",
+        "u": "https://www.google.com/search?q=Crosswords+Cryptic+Crosswords+gaming"
+      }
+    ],
+    "8.2.8": [
+      {
+        "d": "google.com",
+        "n": "Themed Crosswords",
+        "u": "https://www.google.com/search?q=Crosswords+Themed+Crosswords+gaming"
+      }
+    ],
+    "8.2.9": [
+      {
+        "d": "google.com",
+        "n": "Crossword Apps",
+        "u": "https://www.google.com/search?q=Crosswords+Crossword+Apps+gaming"
+      }
+    ],
+    "8.3.1": [
+      {
+        "d": "google.com",
+        "n": "Easy Sudoku",
+        "u": "https://www.google.com/search?q=Sudoku+%26+Number+Easy+Sudoku+gaming"
+      }
+    ],
+    "8.3.2": [
+      {
+        "d": "google.com",
+        "n": "Medium Sudoku",
+        "u": "https://www.google.com/search?q=Sudoku+%26+Number+Medium+Sudoku+gaming"
+      }
+    ],
+    "8.3.3": [
+      {
+        "d": "google.com",
+        "n": "Hard Sudoku",
+        "u": "https://www.google.com/search?q=Sudoku+%26+Number+Hard+Sudoku+gaming"
+      }
+    ],
+    "8.3.4": [
+      {
+        "d": "google.com",
+        "n": "Killer Sudoku",
+        "u": "https://www.google.com/search?q=Sudoku+%26+Number+Killer+Sudoku+gaming"
+      }
+    ],
+    "8.3.6": [
+      {
+        "d": "google.com",
+        "n": "KenKen",
+        "u": "https://www.google.com/search?q=Sudoku+%26+Number+KenKen+gaming"
+      }
+    ],
+    "8.3.7": [
+      {
+        "d": "google.com",
+        "n": "Kakuro",
+        "u": "https://www.google.com/search?q=Sudoku+%26+Number+Kakuro+gaming"
+      }
+    ],
+    "8.3.8": [
+      {
+        "d": "google.com",
+        "n": "Nonograms",
+        "u": "https://www.google.com/search?q=Sudoku+%26+Number+Nonograms+gaming"
+      }
+    ],
+    "8.3.9": [
+      {
+        "d": "google.com",
+        "n": "Sudoku Variants",
+        "u": "https://www.google.com/search?q=Sudoku+%26+Number+Sudoku+Variants+gaming"
+      }
+    ],
+    "8.4.1": [
+      {
+        "d": "google.com",
+        "n": "General Knowledge",
+        "u": "https://www.google.com/search?q=Trivia+General+Knowledge+gaming"
+      }
+    ],
+    "8.4.2": [
+      {
+        "d": "google.com",
+        "n": "Pop Culture",
+        "u": "https://www.google.com/search?q=Trivia+Pop+Culture+gaming"
+      }
+    ],
+    "8.4.3": [
+      {
+        "d": "google.com",
+        "n": "History",
+        "u": "https://www.google.com/search?q=Trivia+History+gaming"
+      }
+    ],
+    "8.4.4": [
+      {
+        "d": "google.com",
+        "n": "Science",
+        "u": "https://www.google.com/search?q=Trivia+Science+gaming"
+      }
+    ],
+    "8.4.6": [
+      {
+        "d": "google.com",
+        "n": "Geography",
+        "u": "https://www.google.com/search?q=Trivia+Geography+gaming"
+      }
+    ],
+    "8.4.7": [
+      {
+        "d": "google.com",
+        "n": "Sports",
+        "u": "https://www.google.com/search?q=Trivia+Sports+gaming"
+      }
+    ],
+    "8.4.8": [
+      {
+        "d": "google.com",
+        "n": "Music & Movies",
+        "u": "https://www.google.com/search?q=Trivia+Music+%26+Movies+gaming"
+      }
+    ],
+    "8.4.9": [
+      {
+        "d": "google.com",
+        "n": "Pub Quiz",
+        "u": "https://www.google.com/search?q=Trivia+Pub+Quiz+gaming"
+      }
+    ],
+    "8.6.1": [
+      {
+        "d": "google.com",
+        "n": "Chess Puzzles",
+        "u": "https://www.google.com/search?q=Logic+%26+Strategy+Chess+Puzzles+gaming"
+      }
+    ],
+    "8.6.2": [
+      {
+        "d": "google.com",
+        "n": "Logic Grids",
+        "u": "https://www.google.com/search?q=Logic+%26+Strategy+Logic+Grids+gaming"
+      }
+    ],
+    "8.6.3": [
+      {
+        "d": "google.com",
+        "n": "Lateral Thinking",
+        "u": "https://www.google.com/search?q=Logic+%26+Strategy+Lateral+Thinking+gaming"
+      }
+    ],
+    "8.6.4": [
+      {
+        "d": "google.com",
+        "n": "Pattern Recognition",
+        "u": "https://www.google.com/search?q=Logic+%26+Strategy+Pattern+Recognition+gaming"
+      }
+    ],
+    "8.6.6": [
+      {
+        "d": "google.com",
+        "n": "Sequence Puzzles",
+        "u": "https://www.google.com/search?q=Logic+%26+Strategy+Sequence+Puzzles+gaming"
+      }
+    ],
+    "8.6.7": [
+      {
+        "d": "google.com",
+        "n": "Spatial Reasoning",
+        "u": "https://www.google.com/search?q=Logic+%26+Strategy+Spatial+Reasoning+gaming"
+      }
+    ],
+    "8.6.8": [
+      {
+        "d": "google.com",
+        "n": "Math Puzzles",
+        "u": "https://www.google.com/search?q=Logic+%26+Strategy+Math+Puzzles+gaming"
+      }
+    ],
+    "8.6.9": [
+      {
+        "d": "google.com",
+        "n": "Code Breaking",
+        "u": "https://www.google.com/search?q=Logic+%26+Strategy+Code+Breaking+gaming"
+      }
+    ],
+    "8.7.1": [
+      {
+        "d": "google.com",
+        "n": "Daily Jigsaw",
+        "u": "https://www.google.com/search?q=Jigsaw+%26+Visual+Daily+Jigsaw+gaming"
+      }
+    ],
+    "8.7.2": [
+      {
+        "d": "google.com",
+        "n": "Custom Photo",
+        "u": "https://www.google.com/search?q=Jigsaw+%26+Visual+Custom+Photo+gaming"
+      }
+    ],
+    "8.7.3": [
+      {
+        "d": "google.com",
+        "n": "Multiplayer Jigsaw",
+        "u": "https://www.google.com/search?q=Jigsaw+%26+Visual+Multiplayer+Jigsaw+gaming"
+      }
+    ],
+    "8.7.4": [
+      {
+        "d": "google.com",
+        "n": "Landscape",
+        "u": "https://www.google.com/search?q=Jigsaw+%26+Visual+Landscape+gaming"
+      }
+    ],
+    "8.7.6": [
+      {
+        "d": "google.com",
+        "n": "Art Puzzles",
+        "u": "https://www.google.com/search?q=Jigsaw+%26+Visual+Art+Puzzles+gaming"
+      }
+    ],
+    "8.7.7": [
+      {
+        "d": "google.com",
+        "n": "3D Puzzles",
+        "u": "https://www.google.com/search?q=Jigsaw+%26+Visual+3D+Puzzles+gaming"
+      }
+    ],
+    "8.7.8": [
+      {
+        "d": "google.com",
+        "n": "Spot the Difference",
+        "u": "https://www.google.com/search?q=Jigsaw+%26+Visual+Spot+the+Difference+gaming"
+      }
+    ],
+    "8.7.9": [
+      {
+        "d": "google.com",
+        "n": "Hidden Object",
+        "u": "https://www.google.com/search?q=Jigsaw+%26+Visual+Hidden+Object+gaming"
+      }
+    ],
+    "8.8.1": [
+      {
+        "d": "google.com",
+        "n": "Lumosity",
+        "u": "https://www.google.com/search?q=Brain+Training+Lumosity+gaming"
+      }
+    ],
+    "8.8.2": [
+      {
+        "d": "google.com",
+        "n": "Elevate",
+        "u": "https://www.google.com/search?q=Brain+Training+Elevate+gaming"
+      }
+    ],
+    "8.8.3": [
+      {
+        "d": "google.com",
+        "n": "Peak",
+        "u": "https://www.google.com/search?q=Brain+Training+Peak+gaming"
+      }
+    ],
+    "8.8.4": [
+      {
+        "d": "google.com",
+        "n": "BrainHQ",
+        "u": "https://www.google.com/search?q=Brain+Training+BrainHQ+gaming"
+      }
+    ],
+    "8.8.6": [
+      {
+        "d": "google.com",
+        "n": "Memory Games",
+        "u": "https://www.google.com/search?q=Brain+Training+Memory+Games+gaming"
+      }
+    ],
+    "8.8.7": [
+      {
+        "d": "google.com",
+        "n": "Speed Processing",
+        "u": "https://www.google.com/search?q=Brain+Training+Speed+Processing+gaming"
+      }
+    ],
+    "8.8.8": [
+      {
+        "d": "google.com",
+        "n": "Focus Training",
+        "u": "https://www.google.com/search?q=Brain+Training+Focus+Training+gaming"
+      }
+    ],
+    "8.8.9": [
+      {
+        "d": "google.com",
+        "n": "Daily Challenge",
+        "u": "https://www.google.com/search?q=Brain+Training+Daily+Challenge+gaming"
+      }
+    ],
+    "8.9.1": [
+      {
+        "d": "google.com",
+        "n": "Trivia Apps",
+        "u": "https://www.google.com/search?q=Play+with+Friends+Trivia+Apps+gaming"
+      }
+    ],
+    "8.9.2": [
+      {
+        "d": "google.com",
+        "n": "Words With Friends",
+        "u": "https://www.google.com/search?q=Play+with+Friends+Words+With+Friends+gaming"
+      }
+    ],
+    "8.9.3": [
+      {
+        "d": "google.com",
+        "n": "Scrabble GO",
+        "u": "https://www.google.com/search?q=Play+with+Friends+Scrabble+GO+gaming"
+      }
+    ],
+    "8.9.4": [
+      {
+        "d": "google.com",
+        "n": "Jackbox Games",
+        "u": "https://www.google.com/search?q=Play+with+Friends+Jackbox+Games+gaming"
+      }
+    ],
+    "8.9.6": [
+      {
+        "d": "google.com",
+        "n": "Online Board Games",
+        "u": "https://www.google.com/search?q=Play+with+Friends+Online+Board+Games+gaming"
+      }
+    ],
+    "8.9.7": [
+      {
+        "d": "google.com",
+        "n": "Quiz Night",
+        "u": "https://www.google.com/search?q=Play+with+Friends+Quiz+Night+gaming"
+      }
+    ],
+    "8.9.8": [
+      {
+        "d": "google.com",
+        "n": "Party Trivia",
+        "u": "https://www.google.com/search?q=Play+with+Friends+Party+Trivia+gaming"
+      }
+    ],
+    "8.9.9": [
+      {
+        "d": "google.com",
+        "n": "Discord Games",
+        "u": "https://www.google.com/search?q=Play+with+Friends+Discord+Games+gaming"
+      }
+    ],
+    "9.1.1": [
+      {
+        "d": "google.com",
+        "n": "NES & SNES",
+        "u": "https://www.google.com/search?q=Classic+Consoles+NES+%26+SNES+gaming"
+      }
+    ],
+    "9.1.2": [
+      {
+        "d": "google.com",
+        "n": "Sega Genesis",
+        "u": "https://www.google.com/search?q=Classic+Consoles+Sega+Genesis+gaming"
+      }
+    ],
+    "9.1.3": [
+      {
+        "d": "google.com",
+        "n": "Nintendo 64",
+        "u": "https://www.google.com/search?q=Classic+Consoles+Nintendo+64+gaming"
+      }
+    ],
+    "9.1.4": [
+      {
+        "d": "google.com",
+        "n": "PlayStation 1",
+        "u": "https://www.google.com/search?q=Classic+Consoles+PlayStation+1+gaming"
+      }
+    ],
+    "9.1.6": [
+      {
+        "d": "google.com",
+        "n": "Game Boy",
+        "u": "https://www.google.com/search?q=Classic+Consoles+Game+Boy+gaming"
+      }
+    ],
+    "9.1.7": [
+      {
+        "d": "google.com",
+        "n": "Dreamcast",
+        "u": "https://www.google.com/search?q=Classic+Consoles+Dreamcast+gaming"
+      }
+    ],
+    "9.1.8": [
+      {
+        "d": "google.com",
+        "n": "Atari",
+        "u": "https://www.google.com/search?q=Classic+Consoles+Atari+gaming"
+      }
+    ],
+    "9.1.9": [
+      {
+        "d": "google.com",
+        "n": "Arcade Cabinets",
+        "u": "https://www.google.com/search?q=Classic+Consoles+Arcade+Cabinets+gaming"
+      }
+    ],
+    "9.2.1": [
+      {
+        "d": "google.com",
+        "n": "RetroArch",
+        "u": "https://www.google.com/search?q=Play+Retro+RetroArch+gaming"
+      }
+    ],
+    "9.2.2": [
+      {
+        "d": "google.com",
+        "n": "Emulator Guides",
+        "u": "https://www.google.com/search?q=Play+Retro+Emulator+Guides+gaming"
+      }
+    ],
+    "9.2.3": [
+      {
+        "d": "google.com",
+        "n": "Mini Consoles",
+        "u": "https://www.google.com/search?q=Play+Retro+Mini+Consoles+gaming"
+      }
+    ],
+    "9.2.4": [
+      {
+        "d": "google.com",
+        "n": "Retro Handhelds",
+        "u": "https://www.google.com/search?q=Play+Retro+Retro+Handhelds+gaming"
+      }
+    ],
+    "9.2.6": [
+      {
+        "d": "google.com",
+        "n": "Analogue Hardware",
+        "u": "https://www.google.com/search?q=Play+Retro+Analogue+Hardware+gaming"
+      }
+    ],
+    "9.2.7": [
+      {
+        "d": "google.com",
+        "n": "MiSTer FPGA",
+        "u": "https://www.google.com/search?q=Play+Retro+MiSTer+FPGA+gaming"
+      }
+    ],
+    "9.2.8": [
+      {
+        "d": "google.com",
+        "n": "Retro Compilations",
+        "u": "https://www.google.com/search?q=Play+Retro+Retro+Compilations+gaming"
+      }
+    ],
+    "9.2.9": [
+      {
+        "d": "google.com",
+        "n": "Legal Options",
+        "u": "https://www.google.com/search?q=Play+Retro+Legal+Options+gaming"
+      }
+    ],
+    "9.3.1": [
+      {
+        "d": "google.com",
+        "n": "Pokemon Hacks",
+        "u": "https://www.google.com/search?q=ROM+Hacks+%26+Mods+Pokemon+Hacks+gaming"
+      }
+    ],
+    "9.3.2": [
+      {
+        "d": "google.com",
+        "n": "Mario Hacks",
+        "u": "https://www.google.com/search?q=ROM+Hacks+%26+Mods+Mario+Hacks+gaming"
+      }
+    ],
+    "9.3.3": [
+      {
+        "d": "google.com",
+        "n": "Zelda Hacks",
+        "u": "https://www.google.com/search?q=ROM+Hacks+%26+Mods+Zelda+Hacks+gaming"
+      }
+    ],
+    "9.3.4": [
+      {
+        "d": "google.com",
+        "n": "Sonic Hacks",
+        "u": "https://www.google.com/search?q=ROM+Hacks+%26+Mods+Sonic+Hacks+gaming"
+      }
+    ],
+    "9.3.6": [
+      {
+        "d": "google.com",
+        "n": "Randomizers",
+        "u": "https://www.google.com/search?q=ROM+Hacks+%26+Mods+Randomizers+gaming"
+      }
+    ],
+    "9.3.7": [
+      {
+        "d": "google.com",
+        "n": "Translation Patches",
+        "u": "https://www.google.com/search?q=ROM+Hacks+%26+Mods+Translation+Patches+gaming"
+      }
+    ],
+    "9.3.8": [
+      {
+        "d": "google.com",
+        "n": "Quality of Life",
+        "u": "https://www.google.com/search?q=ROM+Hacks+%26+Mods+Quality+of+Life+gaming"
+      }
+    ],
+    "9.3.9": [
+      {
+        "d": "google.com",
+        "n": "Difficulty Hacks",
+        "u": "https://www.google.com/search?q=ROM+Hacks+%26+Mods+Difficulty+Hacks+gaming"
+      }
+    ],
+    "9.4.1": [
+      {
+        "d": "google.com",
+        "n": "Speedrun.com",
+        "u": "https://www.google.com/search?q=Speedrunning+Speedrun.com+gaming"
+      }
+    ],
+    "9.4.2": [
+      {
+        "d": "google.com",
+        "n": "GDQ Events",
+        "u": "https://www.google.com/search?q=Speedrunning+GDQ+Events+gaming"
+      }
+    ],
+    "9.4.3": [
+      {
+        "d": "google.com",
+        "n": "World Records",
+        "u": "https://www.google.com/search?q=Speedrunning+World+Records+gaming"
+      }
+    ],
+    "9.4.4": [
+      {
+        "d": "google.com",
+        "n": "Glitch Hunting",
+        "u": "https://www.google.com/search?q=Speedrunning+Glitch+Hunting+gaming"
+      }
+    ],
+    "9.4.6": [
+      {
+        "d": "google.com",
+        "n": "Tool-Assisted",
+        "u": "https://www.google.com/search?q=Speedrunning+Tool-Assisted+gaming"
+      }
+    ],
+    "9.4.7": [
+      {
+        "d": "google.com",
+        "n": "Community Races",
+        "u": "https://www.google.com/search?q=Speedrunning+Community+Races+gaming"
+      }
+    ],
+    "9.4.8": [
+      {
+        "d": "google.com",
+        "n": "Beginner Guides",
+        "u": "https://www.google.com/search?q=Speedrunning+Beginner+Guides+gaming"
+      }
+    ],
+    "9.4.9": [
+      {
+        "d": "google.com",
+        "n": "Category Explanations",
+        "u": "https://www.google.com/search?q=Speedrunning+Category+Explanations+gaming"
+      }
+    ],
+    "9.6.1": [
+      {
+        "d": "google.com",
+        "n": "Price Charting",
+        "u": "https://www.google.com/search?q=Game+Collecting+Price+Charting+gaming"
+      }
+    ],
+    "9.6.2": [
+      {
+        "d": "google.com",
+        "n": "Grading Services",
+        "u": "https://www.google.com/search?q=Game+Collecting+Grading+Services+gaming"
+      }
+    ],
+    "9.6.3": [
+      {
+        "d": "google.com",
+        "n": "Rare Games",
+        "u": "https://www.google.com/search?q=Game+Collecting+Rare+Games+gaming"
+      }
+    ],
+    "9.6.4": [
+      {
+        "d": "google.com",
+        "n": "Collection Display",
+        "u": "https://www.google.com/search?q=Game+Collecting+Collection+Display+gaming"
+      }
+    ],
+    "9.6.6": [
+      {
+        "d": "google.com",
+        "n": "Buying Guide",
+        "u": "https://www.google.com/search?q=Game+Collecting+Buying+Guide+gaming"
+      }
+    ],
+    "9.6.7": [
+      {
+        "d": "google.com",
+        "n": "Fakes & Repros",
+        "u": "https://www.google.com/search?q=Game+Collecting+Fakes+%26+Repros+gaming"
+      }
+    ],
+    "9.6.8": [
+      {
+        "d": "google.com",
+        "n": "Convention Calendar",
+        "u": "https://www.google.com/search?q=Game+Collecting+Convention+Calendar+gaming"
+      }
+    ],
+    "9.6.9": [
+      {
+        "d": "google.com",
+        "n": "Storage & Care",
+        "u": "https://www.google.com/search?q=Game+Collecting+Storage+%26+Care+gaming"
+      }
+    ],
+    "9.7.1": [
+      {
+        "d": "google.com",
+        "n": "Pokemon Cards",
+        "u": "https://www.google.com/search?q=Trading+Cards+Pokemon+Cards+gaming"
+      }
+    ],
+    "9.7.2": [
+      {
+        "d": "google.com",
+        "n": "Sports Cards",
+        "u": "https://www.google.com/search?q=Trading+Cards+Sports+Cards+gaming"
+      }
+    ],
+    "9.7.3": [
+      {
+        "d": "google.com",
+        "n": "Magic Cards",
+        "u": "https://www.google.com/search?q=Trading+Cards+Magic+Cards+gaming"
+      }
+    ],
+    "9.7.4": [
+      {
+        "d": "google.com",
+        "n": "Grading PSA/BGS",
+        "u": "https://www.google.com/search?q=Trading+Cards+Grading+PSA%2FBGS+gaming"
+      }
+    ],
+    "9.7.6": [
+      {
+        "d": "google.com",
+        "n": "Market Prices",
+        "u": "https://www.google.com/search?q=Trading+Cards+Market+Prices+gaming"
+      }
+    ],
+    "9.7.7": [
+      {
+        "d": "google.com",
+        "n": "Box Breaks",
+        "u": "https://www.google.com/search?q=Trading+Cards+Box+Breaks+gaming"
+      }
+    ],
+    "9.7.8": [
+      {
+        "d": "google.com",
+        "n": "Rookie Cards",
+        "u": "https://www.google.com/search?q=Trading+Cards+Rookie+Cards+gaming"
+      }
+    ],
+    "9.7.9": [
+      {
+        "d": "google.com",
+        "n": "Investing in Cards",
+        "u": "https://www.google.com/search?q=Trading+Cards+Investing+in+Cards+gaming"
+      }
+    ],
+    "9.8.1": [
+      {
+        "d": "google.com",
+        "n": "Arcade Archives",
+        "u": "https://www.google.com/search?q=Arcade+%26+Pinball+Arcade+Archives+gaming"
+      }
+    ],
+    "9.8.2": [
+      {
+        "d": "google.com",
+        "n": "MAME Builds",
+        "u": "https://www.google.com/search?q=Arcade+%26+Pinball+MAME+Builds+gaming"
+      }
+    ],
+    "9.8.3": [
+      {
+        "d": "google.com",
+        "n": "High Score Boards",
+        "u": "https://www.google.com/search?q=Arcade+%26+Pinball+High+Score+Boards+gaming"
+      }
+    ],
+    "9.8.4": [
+      {
+        "d": "google.com",
+        "n": "Classic Arcade Games",
+        "u": "https://www.google.com/search?q=Arcade+%26+Pinball+Classic+Arcade+Games+gaming"
+      }
+    ],
+    "9.8.6": [
+      {
+        "d": "google.com",
+        "n": "Neo Geo",
+        "u": "https://www.google.com/search?q=Arcade+%26+Pinball+Neo+Geo+gaming"
+      }
+    ],
+    "9.8.7": [
+      {
+        "d": "google.com",
+        "n": "Pinball Machines",
+        "u": "https://www.google.com/search?q=Arcade+%26+Pinball+Pinball+Machines+gaming"
+      }
+    ],
+    "9.8.8": [
+      {
+        "d": "google.com",
+        "n": "Arcade Bars",
+        "u": "https://www.google.com/search?q=Arcade+%26+Pinball+Arcade+Bars+gaming"
+      }
+    ],
+    "9.8.9": [
+      {
+        "d": "google.com",
+        "n": "DIY Cabinets",
+        "u": "https://www.google.com/search?q=Arcade+%26+Pinball+DIY+Cabinets+gaming"
+      }
+    ],
+    "9.9.1": [
+      {
+        "d": "google.com",
+        "n": "Retrospectives",
+        "u": "https://www.google.com/search?q=Retro+Community+Retrospectives+gaming"
+      }
+    ],
+    "9.9.2": [
+      {
+        "d": "google.com",
+        "n": "Top Lists",
+        "u": "https://www.google.com/search?q=Retro+Community+Top+Lists+gaming"
+      }
+    ],
+    "9.9.3": [
+      {
+        "d": "google.com",
+        "n": "Hidden Gems",
+        "u": "https://www.google.com/search?q=Retro+Community+Hidden+Gems+gaming"
+      }
+    ],
+    "9.9.4": [
+      {
+        "d": "google.com",
+        "n": "Developer Profiles",
+        "u": "https://www.google.com/search?q=Retro+Community+Developer+Profiles+gaming"
+      }
+    ],
+    "9.9.6": [
+      {
+        "d": "google.com",
+        "n": "YouTube Channels",
+        "u": "https://www.google.com/search?q=Retro+Community+YouTube+Channels+gaming"
+      }
+    ],
+    "9.9.7": [
+      {
+        "d": "google.com",
+        "n": "Podcasts",
+        "u": "https://www.google.com/search?q=Retro+Community+Podcasts+gaming"
+      }
+    ],
+    "9.9.8": [
+      {
+        "d": "google.com",
+        "n": "Reddit & Forums",
+        "u": "https://www.google.com/search?q=Retro+Community+Reddit+%26+Forums+gaming"
+      }
+    ],
+    "9.9.9": [
+      {
+        "d": "google.com",
+        "n": "Anniversary Features",
+        "u": "https://www.google.com/search?q=Retro+Community+Anniversary+Features+gaming"
+      }
+    ]
+  }
+}

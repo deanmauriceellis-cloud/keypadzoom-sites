@@ -1,0 +1,26 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "KeypadZoom Brands Registry",
+  "description": "Schema for brands.json — maps domains to brand codes and colors",
+  "type": "object",
+  "patternProperties": {
+    "^[a-z0-9][a-z0-9.-]+\\.[a-z]{2,}$": {
+      "type": "object",
+      "required": ["b", "c"],
+      "additionalProperties": false,
+      "properties": {
+        "b": {
+          "type": "string",
+          "pattern": "^[A-Z0-9]{2}$",
+          "description": "Unique 2-letter brand code"
+        },
+        "c": {
+          "type": "string",
+          "pattern": "^#[0-9A-Fa-f]{6}$",
+          "description": "Brand color in 6-digit hex"
+        }
+      }
+    }
+  },
+  "additionalProperties": false
+}
